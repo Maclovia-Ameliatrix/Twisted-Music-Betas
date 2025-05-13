@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CesarExposed.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CesarAlternateExposed Idle0000" x="29" y="29" width="403" height="499"/>
+	<SubTexture name="CesarAlternateExposed Idle0001" x="29" y="29" width="403" height="499"/>
+	<SubTexture name="CesarAlternateExposed Idle0002" x="29" y="29" width="403" height="499"/>
+</TextureAtlas>

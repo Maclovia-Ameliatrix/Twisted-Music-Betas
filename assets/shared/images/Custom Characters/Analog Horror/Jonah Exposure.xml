@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jonah Exposure.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jonah Exposure 10000" x="29" y="29" width="543" height="620"/>
+	<SubTexture name="Jonah Exposure 10001" x="29" y="29" width="543" height="620"/>
+	<SubTexture name="Jonah Exposure 1 Flipped0000" x="29" y="29" width="543" height="620"/>
+	<SubTexture name="Jonah Exposure 1 Flipped0001" x="29" y="29" width="543" height="620"/>
+	<SubTexture name="Jonah Exposure 20000" x="589" y="29" width="543" height="620"/>
+	<SubTexture name="Jonah Exposure 20001" x="589" y="29" width="543" height="620"/>
+	<SubTexture name="Jonah Exposure 2 Flipped0000" x="589" y="29" width="543" height="620"/>
+	<SubTexture name="Jonah Exposure 2 Flipped0001" x="589" y="29" width="543" height="620"/>
+</TextureAtlas>

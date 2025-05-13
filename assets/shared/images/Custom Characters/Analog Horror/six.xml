@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="six.png">
+<SubTexture name="six IDLE0000" x="0" y="0" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0001" x="572" y="0" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0002" x="0" y="468" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0003" x="572" y="468" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0004" x="1144" y="0" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0005" x="1144" y="468" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0006" x="0" y="936" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0007" x="572" y="936" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0008" x="1144" y="936" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0009" x="1716" y="0" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0010" x="1716" y="468" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0011" x="1716" y="936" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0012" x="0" y="1404" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six IDLE0013" x="572" y="1404" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six LEFT0000" x="1144" y="1404" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six LEFT0001" x="1716" y="1404" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six LEFT0002" x="2288" y="0" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six LEFT0003" x="2288" y="468" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six LEFT0004" x="2288" y="936" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six LEFT0005" x="2288" y="1404" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six RIGHT0000" x="0" y="1872" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six RIGHT0001" x="572" y="1872" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six RIGHT0002" x="1144" y="1872" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six RIGHT0003" x="1716" y="1872" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six RIGHT0004" x="2288" y="1872" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six RIGHT0005" x="0" y="2340" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six UP0000" x="572" y="2340" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six UP0001" x="1144" y="2340" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six UP0002" x="1716" y="2340" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six UP0003" x="2288" y="2340" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six UP0004" x="2860" y="0" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six UP0005" x="2860" y="468" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six DOWN0000" x="2860" y="936" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six DOWN0001" x="2860" y="1404" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six DOWN0002" x="2860" y="1872" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six DOWN0003" x="2860" y="2340" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six DOWN0004" x="0" y="2808" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+<SubTexture name="six DOWN0005" x="572" y="2808" width="572" height="468" frameX="0" frameY="0" frameWidth="572" frameHeight="468" />
+</TextureAtlas>

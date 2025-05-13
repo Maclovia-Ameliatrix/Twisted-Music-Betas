@@ -1,0 +1,20 @@
+{
+	"directory": "week6",
+	"defaultZoom": 1.05,
+	"isPixelStage": true,
+
+	"boyfriend": [650, 100],
+	"girlfriend": [580, 430],
+	"opponent": [150, 100],
+	"secondopp": [-200, 100],
+	"secondPlayer": [925, 100],
+	"thirdOpponent": [100, 100],
+	"thirdPlayer": [100, 100],
+	"hide_monster": true,
+	"hide_senpai": true,
+
+	"camera_boyfriend": [0, -100],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

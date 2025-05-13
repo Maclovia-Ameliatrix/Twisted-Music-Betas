@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Matarrrr Matarrr GRRRRRRR.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Merlin Idle 0000" x="0" y="0" width="507" height="488" frameX="0" frameY="-11" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0001" x="0" y="0" width="507" height="488" frameX="0" frameY="-11" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0002" x="522" y="0" width="506" height="494" frameX="-2" frameY="-6" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0003" x="522" y="0" width="506" height="494" frameX="-2" frameY="-6" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0004" x="1043" y="0" width="503" height="499" frameX="-6" frameY="-1" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0005" x="1043" y="0" width="503" height="499" frameX="-6" frameY="-1" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0006" x="0" y="514" width="499" height="500" frameX="-10" frameY="0" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0007" x="0" y="514" width="499" height="500" frameX="-10" frameY="0" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0008" x="514" y="514" width="497" height="500" frameX="-12" frameY="0" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0009" x="514" y="514" width="497" height="500" frameX="-12" frameY="0" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0010" x="514" y="514" width="497" height="500" frameX="-12" frameY="0" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0011" x="514" y="514" width="497" height="500" frameX="-12" frameY="0" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0012" x="514" y="514" width="497" height="500" frameX="-12" frameY="0" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin Idle 0013" x="514" y="514" width="497" height="500" frameX="-12" frameY="0" frameWidth="509" frameHeight="500"/>
+	<SubTexture name="Merlin down0000" x="1026" y="514" width="472" height="445" frameX="-3" frameY="-4" frameWidth="479" frameHeight="450"/>
+	<SubTexture name="Merlin down0001" x="1026" y="514" width="472" height="445" frameX="-3" frameY="-4" frameWidth="479" frameHeight="450"/>
+	<SubTexture name="Merlin down0002" x="1026" y="514" width="472" height="445" frameX="-3" frameY="-4" frameWidth="479" frameHeight="450"/>
+	<SubTexture name="Merlin down0003" x="1513" y="514" width="478" height="450" frameX="0" frameY="0" frameWidth="479" frameHeight="450"/>
+	<SubTexture name="Merlin down0004" x="1513" y="514" width="478" height="450" frameX="0" frameY="0" frameWidth="479" frameHeight="450"/>
+	<SubTexture name="Merlin down0005" x="0" y="1029" width="479" height="450"/>
+	<SubTexture name="Merlin down0006" x="0" y="1029" width="479" height="450"/>
+	<SubTexture name="Merlin down0007" x="0" y="1029" width="479" height="450"/>
+	<SubTexture name="Merlin down0008" x="0" y="1029" width="479" height="450"/>
+	<SubTexture name="Merlin down0009" x="0" y="1029" width="479" height="450"/>
+	<SubTexture name="Merlin down0010" x="0" y="1029" width="479" height="450"/>
+	<SubTexture name="Merlin down0011" x="0" y="1029" width="479" height="450"/>
+	<SubTexture name="Merlin down0012" x="0" y="1029" width="479" height="450"/>
+	<SubTexture name="Merlin down0013" x="0" y="1029" width="479" height="450"/>
+	<SubTexture name="Merlin left0000" x="494" y="1029" width="443" height="472" frameX="0" frameY="0" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0001" x="494" y="1029" width="443" height="472" frameX="0" frameY="0" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0002" x="494" y="1029" width="443" height="472" frameX="0" frameY="0" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0003" x="952" y="1029" width="438" height="472" frameX="-8" frameY="0" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0004" x="952" y="1029" width="438" height="472" frameX="-8" frameY="0" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0005" x="1405" y="1029" width="439" height="471" frameX="-8" frameY="-1" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0006" x="1405" y="1029" width="439" height="471" frameX="-8" frameY="-1" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0007" x="1405" y="1029" width="439" height="471" frameX="-8" frameY="-1" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0008" x="1405" y="1029" width="439" height="471" frameX="-8" frameY="-1" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0009" x="1405" y="1029" width="439" height="471" frameX="-8" frameY="-1" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0010" x="1405" y="1029" width="439" height="471" frameX="-8" frameY="-1" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0011" x="1405" y="1029" width="439" height="471" frameX="-8" frameY="-1" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0012" x="1405" y="1029" width="439" height="471" frameX="-8" frameY="-1" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin left0013" x="1405" y="1029" width="439" height="471" frameX="-8" frameY="-1" frameWidth="447" frameHeight="472"/>
+	<SubTexture name="Merlin right0000" x="0" y="1516" width="498" height="464" frameX="-5" frameY="-1" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0001" x="0" y="1516" width="498" height="464" frameX="-5" frameY="-1" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0002" x="0" y="1516" width="498" height="464" frameX="-5" frameY="-1" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0003" x="513" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0004" x="513" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0005" x="1026" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0006" x="1026" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0007" x="1026" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0008" x="1026" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0009" x="1026" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0010" x="1026" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0011" x="1026" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0012" x="1026" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="Merlin right0013" x="1026" y="1516" width="498" height="465" frameX="0" frameY="0" frameWidth="503" frameHeight="465"/>
+	<SubTexture name="merlin up0000" x="1539" y="1516" width="504" height="488" frameX="0" frameY="0" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0001" x="1539" y="1516" width="504" height="488" frameX="0" frameY="0" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0002" x="1539" y="1516" width="504" height="488" frameX="0" frameY="0" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0003" x="0" y="2019" width="502" height="483" frameX="-3" frameY="-5" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0004" x="0" y="2019" width="502" height="483" frameX="-3" frameY="-5" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0005" x="517" y="2019" width="502" height="482" frameX="-3" frameY="-6" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0006" x="517" y="2019" width="502" height="482" frameX="-3" frameY="-6" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0007" x="517" y="2019" width="502" height="482" frameX="-3" frameY="-6" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0008" x="517" y="2019" width="502" height="482" frameX="-3" frameY="-6" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0009" x="517" y="2019" width="502" height="482" frameX="-3" frameY="-6" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0010" x="517" y="2019" width="502" height="482" frameX="-3" frameY="-6" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0011" x="517" y="2019" width="502" height="482" frameX="-3" frameY="-6" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0012" x="517" y="2019" width="502" height="482" frameX="-3" frameY="-6" frameWidth="505" frameHeight="488"/>
+	<SubTexture name="merlin up0013" x="517" y="2019" width="502" height="482" frameX="-3" frameY="-6" frameWidth="505" frameHeight="488"/>
+</TextureAtlas>

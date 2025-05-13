@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TrickyGunPixel.png"><SubTexture name="TrickyGunPixel Idle0000" x="0" y="48" width="37" height="46" frameX="-25" frameY="-8" frameWidth="70" frameHeight="62" />
+<SubTexture name="TrickyGunPixel Idle0001" x="37" y="48" width="39" height="45" frameX="-23" frameY="-9" frameWidth="70" frameHeight="62" />
+<SubTexture name="TrickyGunPixel Idle0002" x="37" y="48" width="39" height="45" frameX="-23" frameY="-9" frameWidth="70" frameHeight="62" />
+<SubTexture name="TrickyGunPixel Idle0003" x="38" y="0" width="38" height="47" frameX="-23" frameY="-7" frameWidth="70" frameHeight="62" />
+<SubTexture name="TrickyGunPixel Idle0004" x="38" y="0" width="38" height="47" frameX="-23" frameY="-7" frameWidth="70" frameHeight="62" />
+<SubTexture name="TrickyGunPixel Idle0005" x="76" y="0" width="37" height="47" frameX="-24" frameY="-7" frameWidth="70" frameHeight="62" />
+<SubTexture name="TrickyGunPixel Idle0006" x="76" y="0" width="37" height="47" frameX="-24" frameY="-7" frameWidth="70" frameHeight="62" />
+<SubTexture name="TrickyGunPixel Idle0007" x="0" y="0" width="38" height="48" frameX="-24" frameY="-6" frameWidth="70" frameHeight="62" />
+<SubTexture name="TrickyGunPixel Idle0008" x="0" y="0" width="38" height="48" frameX="-24" frameY="-6" frameWidth="70" frameHeight="62" />
+</TextureAtlas>

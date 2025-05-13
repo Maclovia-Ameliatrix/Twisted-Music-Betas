@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pac-Man .png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="0" y="105" width="44" height="45" frameX="-3" frameY="-10" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Idle0001" x="160" y="88" width="45" height="42" frameX="-2" frameY="-13" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Idle0002" x="89" y="105" width="46" height="43" frameX="-2" frameY="-12" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Idle0003" x="44" y="105" width="45" height="44" frameX="-3" frameY="-11" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Idle0004" x="160" y="42" width="42" height="46" frameX="-4" frameY="-9" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Idle0005" x="0" y="105" width="44" height="45" frameX="-3" frameY="-10" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Down0000" x="0" y="150" width="48" height="40" frameX="-1" frameY="-15" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Down0001" x="160" y="0" width="46" height="42" frameX="-2" frameY="-13" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Left0000" x="113" y="0" width="47" height="45" frameX="3" frameY="-10" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Left0001" x="113" y="45" width="47" height="45" frameX="2" frameY="-10" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Right0000" x="0" y="56" width="46" height="49" frameX="-6" frameY="-6" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Right0001" x="46" y="56" width="46" height="49" frameX="-5" frameY="-6" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Up0000" x="0" y="0" width="56" height="56" frameX="5" frameY="1" frameWidth="45" frameHeight="50"/>
+	<SubTexture name="Up0001" x="56" y="0" width="57" height="53" frameX="6" frameY="-2" frameWidth="45" frameHeight="50"/>
+</TextureAtlas>

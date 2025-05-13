@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Slendy_GOLD.png"><SubTexture name="Slendy_GOLD idle0000" x="430" y="165" width="89" height="129" frameX="-32" frameY="-62" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD idle0001" x="398" y="340" width="87" height="125" frameX="-35" frameY="-62" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD idle0002" x="430" y="165" width="89" height="129" frameX="-32" frameY="-62" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD idle0003" x="114" y="340" width="187" height="150" frameX="-13" frameY="-50" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD idle0004" x="0" y="340" width="114" height="153" frameX="-41" frameY="-46" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD idle0005" x="301" y="340" width="97" height="129" frameX="-32" frameY="-62" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD idle0006" x="398" y="340" width="87" height="125" frameX="-35" frameY="-62" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD left0000" x="422" y="493" width="110" height="117" frameX="-9" frameY="-70" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD left0001" x="532" y="493" width="110" height="117" frameX="-8" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD left0002" x="645" y="0" width="107" height="117" frameX="-10" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD left0003" x="645" y="117" width="107" height="117" frameX="-11" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD left0004" x="645" y="234" width="103" height="117" frameX="-14" frameY="-71" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD left0005" x="645" y="351" width="103" height="117" frameX="-18" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD left0006" x="645" y="468" width="103" height="117" frameX="-17" frameY="-69" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD down0000" x="405" y="618" width="89" height="108" frameX="-42" frameY="-86" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD down0001" x="494" y="618" width="96" height="108" frameX="-42" frameY="-86" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD down0002" x="200" y="618" width="104" height="109" frameX="-42" frameY="-85" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD down0003" x="304" y="618" width="101" height="109" frameX="-42" frameY="-85" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD down0004" x="0" y="618" width="101" height="116" frameX="-42" frameY="-78" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD down0005" x="101" y="618" width="99" height="116" frameX="-42" frameY="-78" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD down0006" x="541" y="375" width="75" height="118" frameX="-42" frameY="-76" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD right0000" x="541" y="0" width="104" height="125" frameX="-43" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD right0001" x="541" y="125" width="104" height="125" frameX="-43" frameY="-69" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD right0002" x="541" y="250" width="104" height="125" frameX="-41" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD right0003" x="0" y="493" width="104" height="125" frameX="-38" frameY="-69" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD right0004" x="541" y="250" width="104" height="125" frameX="-40" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD right0005" x="104" y="493" width="104" height="125" frameX="-40" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD right0006" x="208" y="493" width="110" height="125" frameX="-44" frameY="-68" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD right0007" x="318" y="493" width="104" height="125" frameX="-41" frameY="-71" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD up0000" x="0" y="0" width="108" height="174" frameX="-33" frameY="-25" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD up0001" x="108" y="0" width="106" height="174" frameX="-34" frameY="-24" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD up0002" x="214" y="0" width="106" height="169" frameX="-38" frameY="-30" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD up0003" x="320" y="0" width="110" height="169" frameX="-34" frameY="-29" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD up0004" x="231" y="174" width="115" height="165" frameX="-34" frameY="-29" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD up0005" x="430" y="0" width="111" height="165" frameX="-34" frameY="-33" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD up0006" x="0" y="174" width="106" height="166" frameX="-30" frameY="-31" frameWidth="200" frameHeight="200" />
+<SubTexture name="Slendy_GOLD up0007" x="106" y="174" width="125" height="166" frameX="-15" frameY="-32" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

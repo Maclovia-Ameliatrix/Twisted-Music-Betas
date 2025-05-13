@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Socker.png">
+<SubTexture name="Socker IDLE0000" x="0" y="0" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0001" x="358" y="0" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0002" x="0" y="355" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0003" x="358" y="355" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0004" x="716" y="0" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0005" x="716" y="355" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0006" x="0" y="710" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0007" x="358" y="710" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0008" x="716" y="710" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0009" x="1074" y="0" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0010" x="1074" y="355" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0011" x="1074" y="710" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0012" x="0" y="1065" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0013" x="358" y="1065" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0014" x="716" y="1065" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker IDLE0015" x="1074" y="1065" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker LEFT0000" x="1432" y="0" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker LEFT0001" x="1432" y="355" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker LEFT0002" x="1432" y="710" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker LEFT0003" x="1432" y="1065" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker LEFT0004" x="0" y="1420" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker LEFT0005" x="358" y="1420" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker LEFT0006" x="716" y="1420" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker LEFT0007" x="1074" y="1420" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker RIGHT0000" x="1432" y="1420" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker RIGHT0001" x="1790" y="0" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker RIGHT0002" x="1790" y="355" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker RIGHT0003" x="1790" y="710" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker RIGHT0004" x="1790" y="1065" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker RIGHT0005" x="1790" y="1420" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker RIGHT0006" x="0" y="1775" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker UP0000" x="358" y="1775" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker UP0001" x="716" y="1775" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker UP0002" x="1074" y="1775" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker UP0003" x="1432" y="1775" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker UP0004" x="1790" y="1775" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker UP0005" x="2148" y="0" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker UP0006" x="2148" y="355" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker UP0007" x="2148" y="710" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker DOWN0000" x="2148" y="1065" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker DOWN0001" x="2148" y="1420" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker DOWN0002" x="2148" y="1775" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker DOWN0003" x="0" y="2130" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker DOWN0004" x="358" y="2130" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker DOWN0005" x="716" y="2130" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker DOWN0006" x="1074" y="2130" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss RIGHT0000" x="1432" y="2130" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss RIGHT0001" x="1790" y="2130" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss RIGHT0002" x="2148" y="2130" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss RIGHT0003" x="2506" y="0" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss RIGHT0004" x="2506" y="355" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss RIGHT0005" x="2506" y="710" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss LEFT0000" x="2506" y="1065" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss LEFT0001" x="2506" y="1420" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss LEFT0002" x="2506" y="1775" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss LEFT0003" x="2506" y="2130" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss LEFT0004" x="0" y="2485" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss LEFT0005" x="358" y="2485" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss UP0000" x="716" y="2485" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss UP0001" x="1074" y="2485" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss UP0002" x="1432" y="2485" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss UP0003" x="1790" y="2485" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss UP0004" x="2148" y="2485" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss UP0005" x="2506" y="2485" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss DOWN0000" x="2864" y="0" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss DOWN0001" x="2864" y="355" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss DOWN0002" x="2864" y="710" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss DOWN0003" x="2864" y="1065" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss DOWN0004" x="2864" y="1420" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+<SubTexture name="Socker Miss DOWN0005" x="2864" y="1775" width="358" height="355" frameX="0" frameY="0" frameWidth="358" frameHeight="355" />
+</TextureAtlas>

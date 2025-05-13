@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mark Exposure.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MarkCall Exposure 1 0000" x="29" y="29" width="528" height="634"/>
+	<SubTexture name="MarkCall Exposure 1 0001" x="29" y="29" width="528" height="634"/>
+	<SubTexture name="MarkCall Exposure 2 0000" x="574" y="29" width="528" height="634"/>
+	<SubTexture name="MarkCall Exposure 2 0001" x="574" y="29" width="528" height="634"/>
+</TextureAtlas>

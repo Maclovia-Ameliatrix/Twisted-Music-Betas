@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cesar Calm.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cesar Calm Down0000" x="29" y="29" width="552" height="606"/>
+	<SubTexture name="Cesar Calm Down0001" x="29" y="29" width="552" height="606"/>
+	<SubTexture name="Cesar Calm Down0002" x="29" y="29" width="552" height="606"/>
+	<SubTexture name="Cesar Calm Down0003" x="598" y="29" width="552" height="606"/>
+	<SubTexture name="Cesar Calm Down0004" x="598" y="29" width="552" height="606"/>
+	<SubTexture name="Cesar Calm Down0005" x="598" y="29" width="552" height="606"/>
+	<SubTexture name="Cesar Calm Down0006" x="1167" y="29" width="552" height="606"/>
+	<SubTexture name="Cesar Calm Down0007" x="1167" y="29" width="552" height="606"/>
+	<SubTexture name="Cesar Calm Down0008" x="1167" y="29" width="552" height="606"/>
+	<SubTexture name="Cesar Calm Down0009" x="1167" y="29" width="552" height="606"/>
+	<SubTexture name="Cesar Calm Idle0000" x="1736" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0001" x="1736" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0002" x="1736" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0003" x="2299" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0004" x="2299" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0005" x="2299" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0006" x="2862" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0007" x="2862" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0008" x="2862" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0009" x="2862" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0010" x="3425" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0011" x="3425" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0012" x="3425" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Idle0013" x="3425" y="29" width="546" height="621"/>
+	<SubTexture name="Cesar Calm Left0000" x="29" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Left0001" x="29" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Left0002" x="29" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Left0003" x="592" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Left0004" x="592" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Left0005" x="592" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Left0006" x="1155" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Left0007" x="1155" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Left0008" x="1155" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Left0009" x="1155" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Left0010" x="1155" y="667" width="546" height="623"/>
+	<SubTexture name="Cesar Calm Right0000" x="1718" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Right0001" x="1718" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Right0002" x="1718" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Right0003" x="2284" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Right0004" x="2284" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Right0005" x="2284" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Right0006" x="2850" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Right0007" x="2850" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Right0008" x="2850" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Right0009" x="2850" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Right0010" x="2850" y="667" width="549" height="621"/>
+	<SubTexture name="Cesar Calm Up0000" x="3416" y="667" width="535" height="638"/>
+	<SubTexture name="Cesar Calm Up0001" x="3416" y="667" width="535" height="638"/>
+	<SubTexture name="Cesar Calm Up0002" x="3416" y="667" width="535" height="638"/>
+	<SubTexture name="Cesar Calm Up0003" x="29" y="1322" width="535" height="638"/>
+	<SubTexture name="Cesar Calm Up0004" x="29" y="1322" width="535" height="638"/>
+	<SubTexture name="Cesar Calm Up0005" x="29" y="1322" width="535" height="638"/>
+	<SubTexture name="Cesar Calm Up0006" x="581" y="1322" width="535" height="638"/>
+	<SubTexture name="Cesar Calm Up0007" x="581" y="1322" width="535" height="638"/>
+	<SubTexture name="Cesar Calm Up0008" x="581" y="1322" width="535" height="638"/>
+	<SubTexture name="Cesar Calm Up0009" x="581" y="1322" width="535" height="638"/>
+	<SubTexture name="Cesar Calm Up0010" x="581" y="1322" width="535" height="638"/>
+	<SubTexture name="Cesar Miss0000" x="1133" y="1322" width="545" height="621"/>
+	<SubTexture name="Cesar Miss0001" x="1695" y="1322" width="545" height="621"/>
+	<SubTexture name="Cesar Miss0002" x="1695" y="1322" width="545" height="621"/>
+	<SubTexture name="Cesar Miss0003" x="1695" y="1322" width="545" height="621"/>
+</TextureAtlas>

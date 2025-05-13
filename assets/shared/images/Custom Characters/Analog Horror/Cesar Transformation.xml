@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cesar Transformation.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cesar Transformation 10000" x="29" y="29" width="545" height="621"/>
+	<SubTexture name="Cesar Transformation 10001" x="29" y="29" width="545" height="621"/>
+	<SubTexture name="Cesar Transformation 10002" x="29" y="29" width="545" height="621"/>
+	<SubTexture name="Cesar Transformation 10003" x="29" y="29" width="545" height="621"/>
+	<SubTexture name="Cesar Transformation 20000" x="591" y="29" width="537" height="686"/>
+	<SubTexture name="Cesar Transformation 20001" x="591" y="29" width="537" height="686"/>
+	<SubTexture name="Cesar Transformation 30000" x="1145" y="29" width="393" height="734"/>
+	<SubTexture name="Cesar Transformation 30001" x="1145" y="29" width="393" height="734"/>
+	<SubTexture name="Cesar Transformation 40000" x="1555" y="29" width="606" height="879"/>
+	<SubTexture name="Cesar Transformation 40001" x="1555" y="29" width="606" height="879"/>
+	<SubTexture name="Cesar Transformation 50000" x="2178" y="29" width="794" height="1143"/>
+	<SubTexture name="Cesar Transformation 50001" x="2178" y="29" width="794" height="1143"/>
+	<SubTexture name="Cesar Transformation 60000" x="2989" y="29" width="809" height="1634"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BGTIKY1.png">
+<SubTexture name="BGTIKY1 faca0000" x="0" y="0" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540" />
+<SubTexture name="BGTIKY1 faca0001" x="0" y="0" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540" />
+<SubTexture name="BGTIKY1 faca0002" x="540" y="0" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540"/>
+<SubTexture name="BGTIKY1 faca0003" x="540" y="0" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540"/>
+<SubTexture name="BGTIKY1 faca0004" x="1081" y="0" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540"/>
+<SubTexture name="BGTIKY1 faca0005" x="1081" y="0" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540"/>
+<SubTexture name="BGTIKY1 faca0006" x="0" y="540" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540"/>
+<SubTexture name="BGTIKY1 faca0007" x="0" y="540" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540"/>
+<SubTexture name="BGTIKY1 faca0008" x="540" y="540" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540" />
+<SubTexture name="BGTIKY1 faca0009" x="540" y="540" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540" />
+<SubTexture name="BGTIKY1 faca0010" x="1081" y="540" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540" />
+<SubTexture name="BGTIKY1 faca0011" x="1081" y="540" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540" />
+<SubTexture name="BGTIKY1 faca0012" x="0" y="1081" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540"/>
+<SubTexture name="BGTIKY1 faca0013" x="0" y="1081" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540"/>
+<SubTexture name="BGTIKY1 faca0014" x="540" y="1081" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540" />
+<SubTexture name="BGTIKY1 faca0015" x="540" y="1081" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540" />
+<SubTexture name="BGTIKY1 faca0016" x="1081" y="1081" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540" />
+<SubTexture name="BGTIKY1 faca0017" x="1081" y="1081" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540" />
+<SubTexture name="BGTIKY1 faca0018" x="0" y="1621" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540"/>
+<SubTexture name="BGTIKY1 faca0019" x="0" y="1621" width="540" height="540" frameX="0" frameY="0" frameWidth="540" frameHeight="540"/>
+</TextureAtlas>

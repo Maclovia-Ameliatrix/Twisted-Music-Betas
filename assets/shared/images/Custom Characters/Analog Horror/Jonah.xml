@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jonah.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jonah Down0000" x="29" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Down0001" x="29" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Down0002" x="616" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Down0003" x="616" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Down0004" x="1203" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Down0005" x="1203" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Down0006" x="1790" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Down0007" x="1790" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Down0008" x="1790" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Down0009" x="1790" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Down0010" x="1790" y="29" width="570" height="593"/>
+	<SubTexture name="Jonah Idle0000" x="2377" y="29" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0001" x="2377" y="29" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0002" x="2954" y="29" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0003" x="2954" y="29" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0004" x="29" y="667" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0005" x="29" y="667" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0006" x="606" y="667" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0007" x="606" y="667" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0008" x="1183" y="667" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0009" x="1183" y="667" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0010" x="1183" y="667" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0011" x="1183" y="667" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0012" x="1183" y="667" width="560" height="621"/>
+	<SubTexture name="Jonah Idle0013" x="1183" y="667" width="560" height="621"/>
+	<SubTexture name="Jonah Left0000" x="1760" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Left0001" x="1760" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Left0002" x="2337" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Left0003" x="2337" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Left0004" x="2914" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Left0005" x="2914" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Left0006" x="3491" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Left0007" x="3491" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Left0008" x="3491" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Left0009" x="3491" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Left0010" x="3491" y="667" width="560" height="623"/>
+	<SubTexture name="Jonah Right0000" x="29" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Right0001" x="29" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Right0002" x="605" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Right0003" x="605" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Right0004" x="1181" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Right0005" x="1181" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Right0006" x="1757" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Right0007" x="1757" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Right0008" x="1757" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Right0009" x="1757" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Right0010" x="1757" y="1307" width="559" height="627"/>
+	<SubTexture name="Jonah Up0000" x="2333" y="1307" width="531" height="650"/>
+	<SubTexture name="Jonah Up0001" x="2333" y="1307" width="531" height="650"/>
+	<SubTexture name="Jonah Up0002" x="2881" y="1307" width="531" height="650"/>
+	<SubTexture name="Jonah Up0003" x="2881" y="1307" width="531" height="650"/>
+	<SubTexture name="Jonah Up0004" x="3429" y="1307" width="531" height="650"/>
+	<SubTexture name="Jonah Up0005" x="3429" y="1307" width="531" height="650"/>
+	<SubTexture name="Jonah Up0006" x="29" y="1974" width="531" height="650"/>
+	<SubTexture name="Jonah Up0007" x="29" y="1974" width="531" height="650"/>
+	<SubTexture name="Jonah Up0008" x="29" y="1974" width="531" height="650"/>
+	<SubTexture name="Jonah Up0009" x="29" y="1974" width="531" height="650"/>
+	<SubTexture name="Jonah Up0010" x="29" y="1974" width="531" height="650"/>
+</TextureAtlas>

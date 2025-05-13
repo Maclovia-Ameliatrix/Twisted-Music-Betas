@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="elcum.png">
+<SubTexture name="elcum idle0000" x="0" y="0" width="76" height="111" frameX="-46" frameY="-27" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum idle0001" x="76" y="0" width="77" height="110" frameX="-46" frameY="-28" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum up0000" x="153" y="0" width="77" height="109" frameX="-45" frameY="-27" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum up0001" x="153" y="0" width="77" height="109" frameX="-45" frameY="-27" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum up0002" x="0" y="111" width="77" height="107" frameX="-45" frameY="-29" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum up0003" x="0" y="111" width="77" height="107" frameX="-45" frameY="-29" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum up0004" x="0" y="111" width="77" height="107" frameX="-45" frameY="-29" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum down0000" x="77" y="111" width="89" height="109" frameX="-41" frameY="-35" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum down0001" x="77" y="111" width="89" height="109" frameX="-41" frameY="-35" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum down0002" x="166" y="111" width="85" height="112" frameX="-43" frameY="-32" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum down0003" x="166" y="111" width="85" height="112" frameX="-43" frameY="-32" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum down0004" x="166" y="111" width="85" height="112" frameX="-43" frameY="-32" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum left0000" x="0" y="223" width="86" height="105" frameX="-52" frameY="-36" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum left0001" x="0" y="223" width="86" height="105" frameX="-52" frameY="-36" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum left0002" x="86" y="223" width="85" height="107" frameX="-50" frameY="-34" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum left0003" x="86" y="223" width="85" height="107" frameX="-50" frameY="-34" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum left0004" x="86" y="223" width="85" height="107" frameX="-50" frameY="-34" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum right0000" x="171" y="223" width="78" height="102" frameX="-39" frameY="-39" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum right0001" x="171" y="223" width="78" height="102" frameX="-39" frameY="-39" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum right0002" x="0" y="330" width="77" height="103" frameX="-42" frameY="-38" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum right0003" x="0" y="330" width="77" height="103" frameX="-42" frameY="-38" frameWidth="158" frameHeight="143" />
+<SubTexture name="elcum right0004" x="0" y="330" width="77" height="103" frameX="-42" frameY="-38" frameWidth="158" frameHeight="143" />
+</TextureAtlas>

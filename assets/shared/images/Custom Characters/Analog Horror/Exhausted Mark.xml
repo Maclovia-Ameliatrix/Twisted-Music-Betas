@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Angry Mark.png">
+<SubTexture name="Angry Mark Down0000" x="0" y="5034" width="1107" height="1119" frameX="-446" frameY="-720" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Down0001" x="5884" y="0" width="1103" height="1129" frameX="-446" frameY="-710" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Down0002" x="4468" y="3857" width="1093" height="1139" frameX="-446" frameY="-700" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Down0003" x="3389" y="3857" width="1079" height="1143" frameX="-446" frameY="-695" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Idle0000" x="0" y="2660" width="1079" height="1197" frameX="-450" frameY="-641" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Idle0001" x="3196" y="2660" width="1113" height="1182" frameX="-459" frameY="-656" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Idle0002" x="4675" y="2359" width="1132" height="1177" frameX="-465" frameY="-661" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Idle0003" x="4675" y="1181" width="1124" height="1178" frameX="-463" frameY="-660" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Idle0004" x="3196" y="2660" width="1113" height="1182" frameX="-459" frameY="-656" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Idle0005" x="1079" y="2660" width="1091" height="1187" frameX="-453" frameY="-651" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Idle0006" x="0" y="2660" width="1079" height="1197" frameX="-450" frameY="-641" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Left0000" x="0" y="1341" width="1218" height="1319" frameX="-311" frameY="-499" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Left0001" x="2433" y="0" width="1219" height="1323" frameX="-322" frameY="-495" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Left0002" x="1214" y="0" width="1219" height="1325" frameX="-338" frameY="-493" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Left0003" x="0" y="0" width="1214" height="1341" frameX="-370" frameY="-477" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Right0000" x="4675" y="0" width="1209" height="1181" frameX="-52" frameY="-658" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Right0001" x="0" y="3857" width="1173" height="1177" frameX="-58" frameY="-662" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Right0002" x="1173" y="3857" width="1121" height="1171" frameX="-67" frameY="-668" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Right0003" x="2294" y="3857" width="1095" height="1166" frameX="-77" frameY="-673" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Up0000" x="1218" y="1341" width="1019" height="1229" frameX="-449" frameY="-610" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Up0001" x="2237" y="1341" width="1024" height="1219" frameX="-449" frameY="-620" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Up0002" x="3652" y="0" width="1023" height="1205" frameX="-449" frameY="-634" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Angry Mark Up0003" x="2170" y="2660" width="1026" height="1186" frameX="-449" frameY="-653" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>

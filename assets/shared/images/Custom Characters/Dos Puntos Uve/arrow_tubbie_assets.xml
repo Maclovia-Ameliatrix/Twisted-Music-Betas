@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrow_tubbie_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN POSE0000" x="0" y="0" width="870" height="722" frameX="0" frameY="-61" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0001" x="0" y="0" width="870" height="722" frameX="0" frameY="-61" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0002" x="870" y="0" width="835" height="779" frameX="0" frameY="-9" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0003" x="870" y="0" width="835" height="779" frameX="0" frameY="-9" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0004" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0005" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0006" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0007" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0008" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0009" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0010" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0011" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0012" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0013" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="DOWN POSE0014" x="1705" y="0" width="831" height="789" frameX="0" frameY="0" frameWidth="870" frameHeight="789"/>
+	<SubTexture name="IDLE DANCE0000" x="2536" y="0" width="674" height="897" frameX="-18" frameY="-17" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0001" x="2536" y="0" width="674" height="897" frameX="-18" frameY="-17" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0002" x="3210" y="0" width="696" height="894" frameX="0" frameY="-22" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0003" x="3210" y="0" width="696" height="894" frameX="0" frameY="-22" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0004" x="0" y="897" width="684" height="912" frameX="-9" frameY="-5" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0005" x="0" y="897" width="684" height="912" frameX="-9" frameY="-5" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0006" x="684" y="897" width="678" height="916" frameX="-13" frameY="-1" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0007" x="684" y="897" width="678" height="916" frameX="-13" frameY="-1" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0008" x="1362" y="897" width="673" height="917" frameX="-17" frameY="0" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0009" x="1362" y="897" width="673" height="917" frameX="-17" frameY="0" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0010" x="1362" y="897" width="673" height="917" frameX="-17" frameY="0" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0011" x="1362" y="897" width="673" height="917" frameX="-17" frameY="0" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0012" x="1362" y="897" width="673" height="917" frameX="-17" frameY="0" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0013" x="1362" y="897" width="673" height="917" frameX="-17" frameY="0" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="IDLE DANCE0014" x="1362" y="897" width="673" height="917" frameX="-17" frameY="0" frameWidth="696" frameHeight="917"/>
+	<SubTexture name="LEFT POSE0000" x="2035" y="897" width="710" height="872" frameX="0" frameY="0" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0001" x="2035" y="897" width="710" height="872" frameX="0" frameY="0" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0002" x="2745" y="897" width="670" height="863" frameX="-50" frameY="-9" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0003" x="2745" y="897" width="670" height="863" frameX="-50" frameY="-9" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0004" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0005" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0006" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0007" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0008" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0009" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0010" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0011" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0012" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0013" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="LEFT POSE0014" x="3415" y="897" width="676" height="866" frameX="-46" frameY="-6" frameWidth="722" frameHeight="872"/>
+	<SubTexture name="RIGHT POSE0000" x="0" y="1814" width="839" height="796" frameX="-92" frameY="0" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0001" x="0" y="1814" width="839" height="796" frameX="-92" frameY="0" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0002" x="839" y="1814" width="820" height="794" frameX="-25" frameY="-2" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0003" x="839" y="1814" width="820" height="794" frameX="-25" frameY="-2" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0004" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0005" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0006" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0007" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0008" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0009" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0010" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0011" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0012" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0013" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="RIGHT POSE0014" x="1659" y="1814" width="817" height="792" frameX="0" frameY="-4" frameWidth="931" frameHeight="796"/>
+	<SubTexture name="UP POSE0000" x="2476" y="1814" width="757" height="922"/>
+	<SubTexture name="UP POSE0001" x="2476" y="1814" width="757" height="922"/>
+	<SubTexture name="UP POSE0002" x="3233" y="1814" width="742" height="865" frameX="-15" frameY="-52" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0003" x="3233" y="1814" width="742" height="865" frameX="-15" frameY="-52" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0004" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0005" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0006" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0007" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0008" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0009" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0010" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0011" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0012" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0013" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+	<SubTexture name="UP POSE0014" x="0" y="2736" width="742" height="852" frameX="-15" frameY="-64" frameWidth="757" frameHeight="922"/>
+</TextureAtlas>

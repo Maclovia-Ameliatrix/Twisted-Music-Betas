@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coner.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coner down0000" x="0" y="0" width="1686" height="1182"/>
+	<SubTexture name="coner down0001" x="0" y="0" width="1686" height="1182"/>
+	<SubTexture name="coner down0002" x="1686" y="0" width="1665" height="1179" frameX="-8" frameY="-2" frameWidth="1686" frameHeight="1182"/>
+	<SubTexture name="coner idle0000" x="3351" y="0" width="1025" height="1533"/>
+	<SubTexture name="coner laugh0000" x="4376" y="0" width="2920" height="2140" frameX="-19" frameY="0" frameWidth="2977" frameHeight="2140"/>
+	<SubTexture name="coner laugh0001" x="4376" y="0" width="2920" height="2140" frameX="-19" frameY="0" frameWidth="2977" frameHeight="2140"/>
+	<SubTexture name="coner laugh0002" x="0" y="2140" width="2977" height="1951" frameX="0" frameY="-110" frameWidth="2977" frameHeight="2140"/>
+	<SubTexture name="coner left0000" x="2977" y="2140" width="3018" height="2014"/>
+	<SubTexture name="coner left0001" x="2977" y="2140" width="3018" height="2014"/>
+	<SubTexture name="coner left0002" x="0" y="4154" width="2977" height="1965" frameX="-4" frameY="-15" frameWidth="3018" frameHeight="2014"/>
+	<SubTexture name="coner right0000" x="2977" y="4154" width="2904" height="1864" frameX="0" frameY="-28" frameWidth="2909" frameHeight="1892"/>
+	<SubTexture name="coner right0001" x="2977" y="4154" width="2904" height="1864" frameX="0" frameY="-28" frameWidth="2909" frameHeight="1892"/>
+	<SubTexture name="coner right0002" x="0" y="6119" width="2883" height="1873" frameX="-26" frameY="0" frameWidth="2909" frameHeight="1892"/>
+	<SubTexture name="coner up0000" x="2883" y="6119" width="1477" height="2016"/>
+	<SubTexture name="coner up0001" x="2883" y="6119" width="1477" height="2016"/>
+	<SubTexture name="coner up0002" x="4360" y="6119" width="1417" height="1999" frameX="-41" frameY="-17" frameWidth="1477" frameHeight="2016"/>
+</TextureAtlas>

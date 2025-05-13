@@ -1,0 +1,21 @@
+{
+	"directory": "",
+	"defaultZoom": 0.5,
+	"isPixelStage": false,
+
+	"boyfriend": [1200, 300],
+	"girlfriend": [531.6, 300],
+	"opponent": [-400, 300],
+	"secondopp": [100, 100],
+	"secondPlayer": [500, 500],
+	"thirdOpponent": [100, 100],
+	"thirdPlayer": [100, 100],
+	"hide_mom": true,
+	"hide_girlfriend": true,
+	"hide_pico": true,
+	"hide_monster": true,
+	"hide_senpai": true
+}
+
+
+

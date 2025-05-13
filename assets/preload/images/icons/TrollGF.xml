@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ICON.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IconA0000" x="0" y="0" width="143" height="124"/>
+	<SubTexture name="IconA0001" x="243" y="0" width="143" height="124"/>
+	<SubTexture name="IconA0002" x="486" y="0" width="143" height="124"/>
+	<SubTexture name="IconA0003" x="729" y="0" width="143" height="124"/>
+	<SubTexture name="IconA0004" x="0" y="224" width="143" height="124"/>
+	<SubTexture name="IconB0000" x="243" y="224" width="142" height="126"/>
+	<SubTexture name="IconB0001" x="485" y="224" width="142" height="126"/>
+	<SubTexture name="IconB0002" x="727" y="224" width="142" height="126"/>
+	<SubTexture name="IconB0003" x="0" y="450" width="142" height="126"/>
+	<SubTexture name="IconB0004" x="242" y="450" width="142" height="126"/>
+</TextureAtlas>

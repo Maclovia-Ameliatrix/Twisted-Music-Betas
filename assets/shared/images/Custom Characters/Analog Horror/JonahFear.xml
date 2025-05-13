@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JonahFear.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JonahFear Down0000" x="29" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Down0001" x="29" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Down0002" x="616" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Down0003" x="616" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Down0004" x="1203" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Down0005" x="1203" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Down0006" x="1790" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Down0007" x="1790" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Down0008" x="1790" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Down0009" x="1790" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Down0010" x="1790" y="29" width="570" height="593"/>
+	<SubTexture name="JonahFear Idle0000" x="2377" y="29" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0001" x="2377" y="29" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0002" x="2954" y="29" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0003" x="2954" y="29" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0004" x="29" y="669" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0005" x="29" y="669" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0006" x="606" y="669" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0007" x="606" y="669" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0008" x="1183" y="669" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0009" x="1183" y="669" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0010" x="1183" y="669" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0011" x="1183" y="669" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0012" x="1760" y="669" width="560" height="623"/>
+	<SubTexture name="JonahFear Idle0013" x="1760" y="669" width="560" height="623"/>
+	<SubTexture name="JonahFear Left0000" x="2337" y="669" width="563" height="627"/>
+	<SubTexture name="JonahFear Left0001" x="2337" y="669" width="563" height="627"/>
+	<SubTexture name="JonahFear Left0002" x="2917" y="669" width="563" height="627"/>
+	<SubTexture name="JonahFear Left0003" x="2917" y="669" width="563" height="627"/>
+	<SubTexture name="JonahFear Left0004" x="3497" y="669" width="563" height="627"/>
+	<SubTexture name="JonahFear Left0005" x="3497" y="669" width="563" height="627"/>
+	<SubTexture name="JonahFear Left0006" x="29" y="1313" width="563" height="627"/>
+	<SubTexture name="JonahFear Left0007" x="29" y="1313" width="563" height="627"/>
+	<SubTexture name="JonahFear Left0008" x="29" y="1313" width="563" height="627"/>
+	<SubTexture name="JonahFear Left0009" x="29" y="1313" width="563" height="627"/>
+	<SubTexture name="JonahFear Left0010" x="29" y="1313" width="563" height="627"/>
+	<SubTexture name="JonahFear Right0000" x="609" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Right0001" x="609" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Right0002" x="1197" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Right0003" x="1197" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Right0004" x="1785" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Right0005" x="1785" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Right0006" x="2373" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Right0007" x="2373" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Right0008" x="2373" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Right0009" x="2373" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Right0010" x="2373" y="1313" width="571" height="623"/>
+	<SubTexture name="JonahFear Up0000" x="2961" y="1313" width="531" height="650"/>
+	<SubTexture name="JonahFear Up0001" x="2961" y="1313" width="531" height="650"/>
+	<SubTexture name="JonahFear Up0002" x="3509" y="1313" width="531" height="650"/>
+	<SubTexture name="JonahFear Up0003" x="3509" y="1313" width="531" height="650"/>
+	<SubTexture name="JonahFear Up0004" x="29" y="1980" width="531" height="650"/>
+	<SubTexture name="JonahFear Up0005" x="29" y="1980" width="531" height="650"/>
+	<SubTexture name="JonahFear Up0006" x="577" y="1980" width="531" height="650"/>
+	<SubTexture name="JonahFear Up0007" x="577" y="1980" width="531" height="650"/>
+	<SubTexture name="JonahFear Up0008" x="577" y="1980" width="531" height="650"/>
+	<SubTexture name="JonahFear Up0009" x="577" y="1980" width="531" height="650"/>
+	<SubTexture name="JonahFear Up0010" x="577" y="1980" width="531" height="650"/>
+</TextureAtlas>

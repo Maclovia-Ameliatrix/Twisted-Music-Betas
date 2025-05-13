@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="codrom.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ron Idle0000" x="2023" y="1794" width="674" height="577"/>
+	<SubTexture name="Ron Idle0001" x="2023" y="1794" width="674" height="577"/>
+	<SubTexture name="Ron Idle0002" x="2023" y="2371" width="674" height="577"/>
+	<SubTexture name="Ron Idle0003" x="2023" y="2371" width="674" height="577"/>
+	<SubTexture name="Ron Idle0004" x="674" y="2379" width="674" height="577"/>
+	<SubTexture name="Ron Idle0005" x="674" y="2379" width="674" height="577"/>
+	<SubTexture name="Ron Idle0006" x="2023" y="1794" width="674" height="577"/>
+	<SubTexture name="Ron Idle0007" x="2023" y="1794" width="674" height="577"/>
+	<SubTexture name="Ron Idle0008" x="2023" y="1794" width="674" height="577"/>
+	<SubTexture name="Ron Idle0009" x="2023" y="1794" width="674" height="577"/>
+	<SubTexture name="Ron Idle0010" x="2023" y="1794" width="674" height="577"/>
+	<SubTexture name="Ron Idle0011" x="2023" y="1794" width="674" height="577"/>
+	<SubTexture name="Ron Idle0012" x="2023" y="1794" width="674" height="577"/>
+	<SubTexture name="Ron Idle0013" x="2023" y="1794" width="674" height="577"/>
+	<SubTexture name="Ron down0000" x="3376" y="0" width="674" height="599"/>
+	<SubTexture name="Ron down0001" x="3376" y="0" width="674" height="599"/>
+	<SubTexture name="Ron down0002" x="3376" y="0" width="674" height="599"/>
+	<SubTexture name="Ron down0003" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron down0004" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron down0005" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron down0006" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron down0007" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron down0008" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron down0009" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron down0010" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron down0011" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron down0012" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron down0013" x="3376" y="599" width="674" height="599"/>
+	<SubTexture name="Ron left0000" x="675" y="1203" width="675" height="589"/>
+	<SubTexture name="Ron left0001" x="675" y="1203" width="675" height="589"/>
+	<SubTexture name="Ron left0002" x="675" y="1203" width="675" height="589"/>
+	<SubTexture name="Ron left0003" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0004" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0005" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0006" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0007" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0008" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0009" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0010" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0011" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0012" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0013" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron left0014" x="0" y="1210" width="675" height="589"/>
+	<SubTexture name="Ron right0000" x="1348" y="606" width="675" height="597"/>
+	<SubTexture name="Ron right0001" x="1348" y="606" width="675" height="597"/>
+	<SubTexture name="Ron right0002" x="1348" y="606" width="675" height="597"/>
+	<SubTexture name="Ron right0003" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron right0004" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron right0005" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron right0006" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron right0007" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron right0008" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron right0009" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron right0010" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron right0011" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron right0012" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron right0013" x="0" y="613" width="675" height="597"/>
+	<SubTexture name="Ron up0000" x="0" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0001" x="0" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0002" x="0" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0003" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0004" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0005" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0006" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0007" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0008" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0009" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0010" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0011" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0012" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="Ron up0013" x="674" y="0" width="674" height="613"/>
+	<SubTexture name="ron downmiss0000" x="3376" y="0" width="674" height="599"/>
+	<SubTexture name="ron downmiss0001" x="675" y="1792" width="674" height="587"/>
+	<SubTexture name="ron downmiss0002" x="675" y="1792" width="674" height="587"/>
+	<SubTexture name="ron downmiss0003" x="0" y="1799" width="674" height="587"/>
+	<SubTexture name="ron downmiss0004" x="0" y="1799" width="674" height="587"/>
+	<SubTexture name="ron downmiss0005" x="1349" y="1792" width="674" height="587"/>
+	<SubTexture name="ron downmiss0006" x="1349" y="1792" width="674" height="587"/>
+	<SubTexture name="ron downmiss0007" x="0" y="1799" width="674" height="587"/>
+	<SubTexture name="ron downmiss0008" x="0" y="1799" width="674" height="587"/>
+	<SubTexture name="ron downmiss0009" x="1349" y="1792" width="674" height="587"/>
+	<SubTexture name="ron downmiss0010" x="1349" y="1792" width="674" height="587"/>
+	<SubTexture name="ron downmiss0011" x="0" y="1799" width="674" height="587"/>
+	<SubTexture name="ron downmiss0012" x="0" y="1799" width="674" height="587"/>
+	<SubTexture name="ron downmiss0013" x="1349" y="1792" width="674" height="587"/>
+	<SubTexture name="ron leftmiss0000" x="2023" y="606" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0001" x="2697" y="606" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0002" x="2697" y="606" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0003" x="3371" y="1198" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0004" x="3371" y="1198" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0005" x="2023" y="1200" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0006" x="2023" y="1200" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0007" x="3371" y="1198" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0008" x="3371" y="1198" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0009" x="2023" y="1200" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0010" x="2023" y="1200" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0011" x="3371" y="1198" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0012" x="3371" y="1198" width="674" height="594"/>
+	<SubTexture name="ron leftmiss0013" x="2023" y="1200" width="674" height="594"/>
+	<SubTexture name="ron rightmiss0000" x="1348" y="606" width="675" height="597"/>
+	<SubTexture name="ron rightmiss0001" x="2697" y="1200" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0002" x="2697" y="1200" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0003" x="2697" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0004" x="2697" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0005" x="3371" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0006" x="3371" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0007" x="2697" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0008" x="2697" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0009" x="3371" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0010" x="3371" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0011" x="2697" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0012" x="2697" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron rightmiss0013" x="3371" y="1792" width="674" height="592" frameX="-20" frameY="0" frameWidth="694" frameHeight="592"/>
+	<SubTexture name="ron upmiss0000" x="0" y="0" width="674" height="613"/>
+	<SubTexture name="ron upmiss0001" x="1348" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0002" x="1348" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0003" x="2024" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0004" x="2024" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0005" x="2700" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0006" x="2700" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0007" x="2024" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0008" x="2024" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0009" x="2700" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0010" x="2700" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0011" x="2024" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0012" x="2024" y="0" width="676" height="606"/>
+	<SubTexture name="ron upmiss0013" x="2700" y="0" width="676" height="606"/>
+</TextureAtlas>

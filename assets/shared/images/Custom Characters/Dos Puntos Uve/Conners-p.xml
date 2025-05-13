@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Conners_.png">
+	<!-- what -->
+	<SubTexture name="Conners_Idle000" x="0" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle001" x="0" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle002" x="84" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle003" x="84" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle004" x="168" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle005" x="168" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle006" x="252" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle007" x="252" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle008" x="336" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle009" x="336" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle010" x="420" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle011" x="420" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle012" x="504" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle013" x="504" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle014" x="504" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle015" x="504" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle016" x="504" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle017" x="504" y="0" width="83" height="92"/>
+	<SubTexture name="Conners_Idle018" x="504" y="0" width="83" height="92"/>
+	
+
+	<SubTexture name="Conners_singDOWN000" x="0" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN001" x="0" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN002" x="83" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN003" x="83" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN004" x="83" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN005" x="83" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN006" x="168" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN007" x="168" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN008" x="168" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN009" x="168" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN010" x="168" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singDOWN011" x="168" y="93" width="83" height="92"/>
+
+	<SubTexture name="Conners_singLEFT000" x="252" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT001" x="252" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT002" x="336" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT003" x="336" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT004" x="336" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT005" x="336" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT006" x="420" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT007" x="420" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT008" x="420" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT009" x="420" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT010" x="504" y="93" width="83" height="92"/>
+	<SubTexture name="Conners_singLEFT011" x="504" y="93" width="83" height="92"/>
+
+	<SubTexture name="Conners_singRIGHT000" x="0" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT001" x="0" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT002" x="0" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT003" x="84" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT004" x="84" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT005" x="84" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT006" x="84" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT007" x="84" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT008" x="84" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT009" x="84" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT010" x="168" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT011" x="168" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singRIGHT012" x="168" y="186" width="83" height="92"/>
+
+	<SubTexture name="Conners_singUP000" x="252" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP001" x="252" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP002" x="336" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP003" x="336" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP004" x="336" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP005" x="336" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP006" x="336" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP007" x="420" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP008" x="420" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP009" x="420" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP010" x="420" y="186" width="83" height="92"/>
+	<SubTexture name="Conners_singUP011" x="420" y="186" width="83" height="92"/>
+<!-- who -->
+</TextureAtlas>
+

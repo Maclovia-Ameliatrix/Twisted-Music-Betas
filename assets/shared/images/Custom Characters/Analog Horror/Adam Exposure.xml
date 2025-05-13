@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Adam Exposure.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Adam Exposure 1 0000" x="29" y="29" width="553" height="645"/>
+	<SubTexture name="Adam Exposure 1 0001" x="29" y="29" width="553" height="645"/>
+	<SubTexture name="Adam Exposure 2 0000" x="599" y="29" width="553" height="645"/>
+	<SubTexture name="Adam Exposure 2 0001" x="599" y="29" width="553" height="645"/>
+</TextureAtlas>

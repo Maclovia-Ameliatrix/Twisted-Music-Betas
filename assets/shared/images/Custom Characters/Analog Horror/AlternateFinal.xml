@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AlternateFinal.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AlternateStand Down0000" x="29" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Down0001" x="29" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Down0002" x="29" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Down0003" x="779" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Down0004" x="779" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Down0005" x="779" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Down0006" x="1529" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Down0007" x="1529" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Down0008" x="1529" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Down0009" x="1529" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Down0010" x="1529" y="29" width="733" height="966"/>
+	<SubTexture name="AlternateStand Idle0000" x="2279" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0001" x="2279" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0002" x="2279" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0003" x="2848" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0004" x="2848" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0005" x="2848" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0006" x="3417" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0007" x="3417" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0008" x="3417" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0009" x="3986" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0010" x="3986" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0011" x="3986" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0012" x="3986" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Idle0013" x="3986" y="29" width="552" height="1253"/>
+	<SubTexture name="AlternateStand Left0000" x="4555" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Left0001" x="4555" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Left0002" x="4555" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Left0003" x="5337" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Left0004" x="5337" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Left0005" x="5337" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Left0006" x="6119" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Left0007" x="6119" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Left0008" x="6119" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Left0009" x="6119" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Left0010" x="6119" y="29" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Right0000" x="6901" y="29" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Right0001" x="6901" y="29" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Right0002" x="6901" y="29" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Right0003" x="29" y="1299" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Right0004" x="29" y="1299" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Right0005" x="29" y="1299" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Right0006" x="705" y="1299" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Right0007" x="705" y="1299" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Right0008" x="705" y="1299" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Right0009" x="705" y="1299" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Right0010" x="705" y="1299" width="659" height="1204"/>
+	<SubTexture name="AlternateStand Shot 10000" x="1381" y="1299" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Shot 10001" x="1381" y="1299" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Shot 10002" x="1381" y="1299" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Shot 10003" x="2163" y="1299" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Shot 10004" x="2163" y="1299" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Shot 10005" x="2163" y="1299" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Shot 10006" x="2945" y="1299" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Shot 10007" x="2945" y="1299" width="765" height="1184"/>
+	<SubTexture name="AlternateStand Shot20000" x="3727" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Shot20001" x="3727" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Shot20002" x="3727" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Shot20003" x="4477" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Shot20004" x="4477" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Shot20005" x="4477" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Shot20006" x="5227" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Shot20007" x="5227" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Shot20008" x="5227" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Shot20009" x="5227" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Shot20010" x="5227" y="1299" width="733" height="991"/>
+	<SubTexture name="AlternateStand Up0000" x="5977" y="1299" width="534" height="1332"/>
+	<SubTexture name="AlternateStand Up0001" x="5977" y="1299" width="534" height="1332"/>
+	<SubTexture name="AlternateStand Up0002" x="5977" y="1299" width="534" height="1332"/>
+	<SubTexture name="AlternateStand Up0003" x="6528" y="1299" width="534" height="1332"/>
+	<SubTexture name="AlternateStand Up0004" x="6528" y="1299" width="534" height="1332"/>
+	<SubTexture name="AlternateStand Up0005" x="6528" y="1299" width="534" height="1332"/>
+	<SubTexture name="AlternateStand Up0006" x="7079" y="1299" width="534" height="1332"/>
+	<SubTexture name="AlternateStand Up0007" x="7079" y="1299" width="534" height="1332"/>
+	<SubTexture name="AlternateStand Up0008" x="7079" y="1299" width="534" height="1332"/>
+	<SubTexture name="AlternateStand Up0009" x="7079" y="1299" width="534" height="1332"/>
+	<SubTexture name="AlternateStand Up0010" x="7079" y="1299" width="534" height="1332"/>
+</TextureAtlas>

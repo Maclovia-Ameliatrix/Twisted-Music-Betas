@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="conners2d.png">
+<SubTexture name="conners2d left0000" x="110" y="0" width="25" height="55" frameX="-21" frameY="-2" frameWidth="57" frameHeight="57" />
+<SubTexture name="conners2d left0001" x="0" y="57" width="26" height="55" frameX="-19" frameY="-2" frameWidth="57" frameHeight="57" />
+<SubTexture name="conners2d idle0000" x="26" y="57" width="25" height="55" frameX="-15" frameY="-2" frameWidth="57" frameHeight="57" />
+<SubTexture name="conners2d idle0001" x="51" y="57" width="25" height="55" frameX="-15" frameY="-2" frameWidth="57" frameHeight="57" />
+<SubTexture name="conners2d right0000" x="28" y="0" width="26" height="56" frameX="-19" frameY="-1" frameWidth="57" frameHeight="57" />
+<SubTexture name="conners2d right0001" x="54" y="0" width="28" height="56" frameX="-20" frameY="-1" frameWidth="57" frameHeight="57" />
+<SubTexture name="conners2d up0000" x="82" y="0" width="28" height="56" frameX="-18" frameY="-1" frameWidth="57" frameHeight="57" />
+<SubTexture name="conners2d up0001" x="0" y="0" width="28" height="57" frameX="-18" frameY="0" frameWidth="57" frameHeight="57" />
+<SubTexture name="conners2d down0000" x="76" y="57" width="25" height="55" frameX="-17" frameY="-2" frameWidth="57" frameHeight="57" />
+<SubTexture name="conners2d down0001" x="101" y="57" width="25" height="54" frameX="-17" frameY="-3" frameWidth="57" frameHeight="57" />
+</TextureAtlas>

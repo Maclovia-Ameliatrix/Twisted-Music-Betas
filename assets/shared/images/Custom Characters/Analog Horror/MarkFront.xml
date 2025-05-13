@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MarkFront.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MarkFront Down0000" x="29" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Down0001" x="29" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Down0002" x="864" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Down0003" x="864" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Down0004" x="1699" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Down0005" x="1699" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Down0006" x="1699" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Down0007" x="1699" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Down0008" x="1699" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Down0009" x="1699" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Down0010" x="1699" y="29" width="818" height="904"/>
+	<SubTexture name="MarkFront Idle0000" x="2534" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0001" x="2534" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0002" x="3381" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0003" x="3381" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0004" x="4228" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0005" x="4228" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0006" x="5075" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0007" x="5075" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0008" x="5922" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0009" x="5922" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0010" x="5922" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0011" x="5922" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0012" x="6769" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Idle0013" x="6769" y="29" width="830" height="941"/>
+	<SubTexture name="MarkFront Left0000" x="29" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Left0001" x="29" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Left0002" x="863" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Left0003" x="863" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Left0004" x="1697" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Left0005" x="1697" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Left0006" x="1697" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Left0007" x="1697" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Left0008" x="1697" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Left0009" x="1697" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Left0010" x="1697" y="987" width="817" height="928"/>
+	<SubTexture name="MarkFront Right0000" x="2531" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Right0001" x="2531" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Right0002" x="3347" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Right0003" x="3347" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Right0004" x="4163" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Right0005" x="4163" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Right0006" x="4163" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Right0007" x="4163" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Right0008" x="4163" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Right0009" x="4163" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Right0010" x="4163" y="987" width="799" height="936"/>
+	<SubTexture name="MarkFront Up0000" x="4979" y="987" width="796" height="974"/>
+	<SubTexture name="MarkFront Up0001" x="4979" y="987" width="796" height="974"/>
+	<SubTexture name="MarkFront Up0002" x="5792" y="987" width="796" height="974"/>
+	<SubTexture name="MarkFront Up0003" x="5792" y="987" width="796" height="974"/>
+	<SubTexture name="MarkFront Up0004" x="6605" y="987" width="796" height="974"/>
+	<SubTexture name="MarkFront Up0005" x="6605" y="987" width="796" height="974"/>
+	<SubTexture name="MarkFront Up0006" x="6605" y="987" width="796" height="974"/>
+	<SubTexture name="MarkFront Up0007" x="6605" y="987" width="796" height="974"/>
+	<SubTexture name="MarkFront Up0008" x="6605" y="987" width="796" height="974"/>
+	<SubTexture name="MarkFront Up0009" x="6605" y="987" width="796" height="974"/>
+	<SubTexture name="MarkFront Up0010" x="6605" y="987" width="796" height="974"/>
+</TextureAtlas>

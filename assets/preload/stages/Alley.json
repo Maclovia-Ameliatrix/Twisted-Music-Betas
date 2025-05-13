@@ -1,0 +1,17 @@
+{
+	"directory": "Minor Mods/Alley",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [200, 700],
+	"girlfriend": [ -200, 700 ],
+	"opponent": [-600, 700],
+	"secondopp": [100, 100],
+	"secondPlayer": [100, 100],
+	"thirdOpponent": [100, 100],
+	"thirdPlayer": [100, 100],
+	"hide_mom": true,
+	"hide_pico": true,
+	"hide_monster": true,
+	"hide_senpai": true
+}

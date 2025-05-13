@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tiky_GUN.png">
+<SubTexture name="GUN0000" x="0" y="0" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0001" x="0" y="0" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0002" x="347" y="0" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0003" x="347" y="0" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0004" x="694" y="0" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0005" x="694" y="0" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0006" x="0" y="352" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0007" x="0" y="352" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0008" x="347" y="352" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0009" x="347" y="352" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0010" x="694" y="352" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0011" x="694" y="352" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0012" x="0" y="704" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0013" x="0" y="704" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0014" x="347" y="704" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0015" x="347" y="704" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0016" x="694" y="704" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+<SubTexture name="GUN0017" x="694" y="704" width="347" height="352" frameX="0" frameY="0" frameWidth="347" frameHeight="352" />
+</TextureAtlas>

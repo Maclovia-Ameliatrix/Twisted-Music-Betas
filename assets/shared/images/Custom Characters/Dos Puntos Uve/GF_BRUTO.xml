@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brutogf.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf0000" x="0" y="0" width="525" height="751" frameX="0" frameY="-8" frameWidth="528" frameHeight="759"/>
+	<SubTexture name="gf0001" x="0" y="0" width="525" height="751" frameX="0" frameY="-8" frameWidth="528" frameHeight="759"/>
+	<SubTexture name="gf0002" x="525" y="0" width="527" height="752" frameX="-1" frameY="-7" frameWidth="528" frameHeight="759"/>
+	<SubTexture name="gf0003" x="525" y="0" width="527" height="752" frameX="-1" frameY="-7" frameWidth="528" frameHeight="759"/>
+	<SubTexture name="gf0004" x="1052" y="0" width="522" height="757" frameX="-4" frameY="-1" frameWidth="528" frameHeight="759"/>
+	<SubTexture name="gf0005" x="1052" y="0" width="522" height="757" frameX="-4" frameY="-1" frameWidth="528" frameHeight="759"/>
+	<SubTexture name="gf0006" x="0" y="757" width="522" height="757" frameX="-4" frameY="-1" frameWidth="528" frameHeight="759"/>
+	<SubTexture name="gf0007" x="522" y="757" width="521" height="758" frameX="-4" frameY="0" frameWidth="528" frameHeight="759"/>
+</TextureAtlas>

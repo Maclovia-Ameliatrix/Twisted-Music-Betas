@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="meador.png">
+<SubTexture name="I want to get out of here0000" x="0" y="0" width="340" height="941" frameX="-896" frameY="-134" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0001" x="0" y="0" width="340" height="941" frameX="-896" frameY="-134" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0002" x="340" y="0" width="342" height="936" frameX="-898" frameY="-140" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0003" x="340" y="0" width="342" height="936" frameX="-898" frameY="-140" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0004" x="682" y="0" width="328" height="934" frameX="-894" frameY="-142" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0005" x="682" y="0" width="328" height="934" frameX="-894" frameY="-142" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0006" x="1010" y="0" width="344" height="937" frameX="-885" frameY="-139" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0007" x="1010" y="0" width="344" height="937" frameX="-885" frameY="-139" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0008" x="1354" y="0" width="324" height="940" frameX="-892" frameY="-135" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0009" x="1354" y="0" width="324" height="940" frameX="-892" frameY="-135" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0010" x="1678" y="0" width="338" height="942" frameX="-887" frameY="-133" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0011" x="1678" y="0" width="338" height="942" frameX="-887" frameY="-133" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0012" x="0" y="942" width="365" height="944" frameX="-873" frameY="-131" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0013" x="0" y="942" width="365" height="944" frameX="-873" frameY="-131" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I want to get out of here0014" x="365" y="942" width="334" height="931" frameX="-892" frameY="-144" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="i'm trapped0000" x="699" y="942" width="806" height="791" frameX="-554" frameY="-275" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="i'm trapped0001" x="699" y="942" width="806" height="791" frameX="-554" frameY="-275" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="i'm trapped0002" x="1505" y="942" width="748" height="819" frameX="-616" frameY="-247" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="i'm trapped0003" x="1505" y="942" width="748" height="819" frameX="-616" frameY="-247" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="i'm trapped0004" x="2253" y="942" width="614" height="872" frameX="-765" frameY="-193" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="i'm trapped0005" x="2253" y="942" width="614" height="872" frameX="-765" frameY="-193" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="i'm trapped0006" x="2867" y="942" width="539" height="923" frameX="-851" frameY="-142" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="i'm trapped0007" x="2867" y="942" width="539" height="923" frameX="-851" frameY="-142" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we always repeat the same steps0000" x="0" y="1886" width="547" height="708" frameX="-803" frameY="-415" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we always repeat the same steps0001" x="0" y="1886" width="547" height="708" frameX="-803" frameY="-415" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we always repeat the same steps0002" x="547" y="1886" width="579" height="718" frameX="-764" frameY="-405" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we always repeat the same steps0003" x="547" y="1886" width="579" height="718" frameX="-764" frameY="-405" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we always repeat the same steps0004" x="1126" y="1886" width="532" height="739" frameX="-807" frameY="-384" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we always repeat the same steps0005" x="1126" y="1886" width="532" height="739" frameX="-807" frameY="-384" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we always repeat the same steps0006" x="1658" y="1886" width="436" height="775" frameX="-903" frameY="-347" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we always repeat the same steps0007" x="1658" y="1886" width="436" height="775" frameX="-903" frameY="-347" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I'm tired, let me be free0000" x="2094" y="1886" width="476" height="926" frameX="-962" frameY="-133" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I'm tired, let me be free0001" x="2094" y="1886" width="476" height="926" frameX="-962" frameY="-133" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I'm tired, let me be free0002" x="2570" y="1886" width="496" height="924" frameX="-939" frameY="-135" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I'm tired, let me be free0003" x="2570" y="1886" width="496" height="924" frameX="-939" frameY="-135" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I'm tired, let me be free0004" x="0" y="2812" width="541" height="913" frameX="-834" frameY="-146" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I'm tired, let me be free0005" x="0" y="2812" width="541" height="913" frameX="-834" frameY="-146" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I'm tired, let me be free0006" x="541" y="2812" width="491" height="916" frameX="-866" frameY="-143" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="I'm tired, let me be free0007" x="541" y="2812" width="491" height="916" frameX="-866" frameY="-143" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we all want to be0000" x="1032" y="2812" width="489" height="1036" frameX="-866" frameY="-25" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we all want to be0001" x="1032" y="2812" width="489" height="1036" frameX="-866" frameY="-25" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we all want to be0002" x="1521" y="2812" width="525" height="1009" frameX="-831" frameY="-52" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we all want to be0003" x="1521" y="2812" width="525" height="1009" frameX="-831" frameY="-52" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we all want to be0004" x="2046" y="2812" width="489" height="955" frameX="-882" frameY="-105" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we all want to be0005" x="2046" y="2812" width="489" height="955" frameX="-882" frameY="-105" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we all want to be0006" x="2535" y="2812" width="437" height="985" frameX="-930" frameY="-75" frameWidth="1920" frameHeight="1186" />
+<SubTexture name="we all want to be0007" x="2535" y="2812" width="437" height="985" frameX="-930" frameY="-75" frameWidth="1920" frameHeight="1186" />
+</TextureAtlas>

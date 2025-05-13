@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MarkCallMad.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MarkCallMad Down0000" x="29" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Down0001" x="29" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Down0002" x="610" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Down0003" x="610" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Down0004" x="1191" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Down0005" x="1191" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Down0006" x="1772" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Down0007" x="1772" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Down0008" x="1772" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Down0009" x="1772" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Down0010" x="1772" y="29" width="564" height="618"/>
+	<SubTexture name="MarkCallMad Idle0000" x="2353" y="29" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0001" x="2353" y="29" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0002" x="2922" y="29" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0003" x="2922" y="29" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0004" x="3491" y="29" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0005" x="3491" y="29" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0006" x="29" y="683" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0007" x="29" y="683" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0008" x="598" y="683" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0009" x="598" y="683" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0010" x="598" y="683" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0011" x="598" y="683" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0012" x="598" y="683" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Idle0013" x="598" y="683" width="552" height="637"/>
+	<SubTexture name="MarkCallMad Left0000" x="1167" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Left0001" x="1167" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Left0002" x="1730" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Left0003" x="1730" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Left0004" x="2293" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Left0005" x="2293" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Left0006" x="2856" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Left0007" x="2856" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Left0008" x="2856" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Left0009" x="2856" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Left0010" x="2856" y="683" width="546" height="639"/>
+	<SubTexture name="MarkCallMad Right0000" x="3419" y="683" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Right0001" x="3419" y="683" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Right0002" x="29" y="1339" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Right0003" x="29" y="1339" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Right0004" x="602" y="1339" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Right0005" x="602" y="1339" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Right0006" x="1175" y="1339" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Right0007" x="1175" y="1339" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Right0008" x="1175" y="1339" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Right0009" x="1175" y="1339" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Right0010" x="1175" y="1339" width="556" height="637"/>
+	<SubTexture name="MarkCallMad Up0000" x="1748" y="1339" width="515" height="663"/>
+	<SubTexture name="MarkCallMad Up0001" x="1748" y="1339" width="515" height="663"/>
+	<SubTexture name="MarkCallMad Up0002" x="2280" y="1339" width="515" height="663"/>
+	<SubTexture name="MarkCallMad Up0003" x="2280" y="1339" width="515" height="663"/>
+	<SubTexture name="MarkCallMad Up0004" x="2812" y="1339" width="515" height="663"/>
+	<SubTexture name="MarkCallMad Up0005" x="2812" y="1339" width="515" height="663"/>
+	<SubTexture name="MarkCallMad Up0006" x="3344" y="1339" width="515" height="663"/>
+	<SubTexture name="MarkCallMad Up0007" x="3344" y="1339" width="515" height="663"/>
+	<SubTexture name="MarkCallMad Up0008" x="3344" y="1339" width="515" height="663"/>
+	<SubTexture name="MarkCallMad Up0009" x="3344" y="1339" width="515" height="663"/>
+	<SubTexture name="MarkCallMad Up0010" x="3344" y="1339" width="515" height="663"/>
+</TextureAtlas>

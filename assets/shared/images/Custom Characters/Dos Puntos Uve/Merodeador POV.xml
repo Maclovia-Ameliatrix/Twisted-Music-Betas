@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mosspov.png">
+<SubTexture name="mosspov idle0000" x="0" y="0" width="1460" height="2467" frameX="-344" frameY="-172" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0001" x="0" y="0" width="1460" height="2467" frameX="-344" frameY="-172" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0002" x="0" y="0" width="1460" height="2467" frameX="-344" frameY="-172" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0003" x="1460" y="0" width="1473" height="2461" frameX="-336" frameY="-178" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0004" x="1460" y="0" width="1473" height="2461" frameX="-336" frameY="-178" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0005" x="1460" y="0" width="1473" height="2461" frameX="-336" frameY="-178" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0006" x="2933" y="0" width="1470" height="2472" frameX="-338" frameY="-167" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0007" x="2933" y="0" width="1470" height="2472" frameX="-338" frameY="-167" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0008" x="2933" y="0" width="1470" height="2472" frameX="-338" frameY="-167" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0009" x="4403" y="0" width="1471" height="2478" frameX="-335" frameY="-160" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0010" x="4403" y="0" width="1471" height="2478" frameX="-335" frameY="-160" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0011" x="4403" y="0" width="1471" height="2478" frameX="-335" frameY="-160" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0012" x="0" y="2478" width="1460" height="2474" frameX="-341" frameY="-165" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0013" x="0" y="2478" width="1460" height="2474" frameX="-341" frameY="-165" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0014" x="0" y="2478" width="1460" height="2474" frameX="-341" frameY="-165" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0015" x="0" y="2478" width="1460" height="2474" frameX="-341" frameY="-165" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0016" x="0" y="2478" width="1460" height="2474" frameX="-341" frameY="-165" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov idle0017" x="1460" y="2478" width="1458" height="2471" frameX="-342" frameY="-168" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov left0000" x="2918" y="2478" width="1494" height="2356" frameX="-342" frameY="-238" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov left0001" x="2918" y="2478" width="1494" height="2356" frameX="-342" frameY="-238" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov left0002" x="4412" y="2478" width="1491" height="2347" frameX="-347" frameY="-245" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov right0000" x="0" y="4952" width="1691" height="2400" frameX="-391" frameY="-213" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov right0001" x="0" y="4952" width="1691" height="2400" frameX="-391" frameY="-213" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov right0002" x="1691" y="4952" width="1611" height="2403" frameX="-388" frameY="-210" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov down0000" x="3302" y="4952" width="1939" height="2229" frameX="-95" frameY="-433" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov down0001" x="3302" y="4952" width="1939" height="2229" frameX="-95" frameY="-433" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov down0002" x="5241" y="4952" width="1869" height="2209" frameX="-132" frameY="-453" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov up0000" x="0" y="7355" width="1621" height="2376" frameX="-236" frameY="-286" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov up0001" x="0" y="7355" width="1621" height="2376" frameX="-236" frameY="-286" frameWidth="2242" frameHeight="2652" />
+<SubTexture name="mosspov up0002" x="1621" y="7355" width="1592" height="2251" frameX="-283" frameY="-411" frameWidth="2242" frameHeight="2652" />
+</TextureAtlas>

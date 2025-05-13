@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animated soul bf icon.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HP Evil Boyfriend0000" x="0" y="0" width="204" height="154" frameX="0" frameY="-8" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0001" x="204" y="0" width="204" height="154" frameX="0" frameY="-8" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0002" x="408" y="0" width="204" height="138" frameX="0" frameY="-24" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0003" x="612" y="0" width="204" height="142" frameX="0" frameY="-20" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0004" x="816" y="0" width="204" height="140" frameX="0" frameY="-22" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0005" x="0" y="154" width="204" height="147" frameX="0" frameY="-15" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0006" x="204" y="154" width="204" height="149" frameX="0" frameY="-13" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0007" x="408" y="154" width="204" height="160" frameX="0" frameY="-2" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0008" x="612" y="154" width="204" height="162"/>
+	<SubTexture name="HP Evil Boyfriend0009" x="816" y="154" width="204" height="135" frameX="0" frameY="-27" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0010" x="0" y="316" width="204" height="146" frameX="0" frameY="-16" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0011" x="204" y="316" width="204" height="140" frameX="0" frameY="-22" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Evil Boyfriend0012" x="408" y="316" width="204" height="140" frameX="0" frameY="-22" frameWidth="204" frameHeight="162"/>
+	<SubTexture name="HP Icon Losing0000" x="612" y="316" width="162" height="138" frameX="0" frameY="-7" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0001" x="774" y="316" width="152" height="138" frameX="-10" frameY="-7" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0002" x="0" y="462" width="153" height="125" frameX="-9" frameY="-20" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0003" x="153" y="462" width="150" height="129" frameX="-12" frameY="-16" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0004" x="303" y="462" width="148" height="127" frameX="-14" frameY="-18" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0005" x="451" y="462" width="148" height="133" frameX="-14" frameY="-12" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0006" x="599" y="462" width="153" height="134" frameX="-9" frameY="-11" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0007" x="752" y="462" width="156" height="144" frameX="-6" frameY="-1" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0008" x="0" y="606" width="146" height="145" frameX="-16" frameY="0" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0009" x="146" y="606" width="152" height="123" frameX="-10" frameY="-22" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0010" x="298" y="606" width="157" height="132" frameX="-5" frameY="-13" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0011" x="455" y="606" width="153" height="127" frameX="-9" frameY="-18" frameWidth="162" frameHeight="145"/>
+	<SubTexture name="HP Icon Losing0012" x="608" y="606" width="157" height="127" frameX="-5" frameY="-18" frameWidth="162" frameHeight="145"/>
+</TextureAtlas>

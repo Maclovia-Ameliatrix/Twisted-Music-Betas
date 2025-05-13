@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="conner.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="con down0000" x="0" y="0" width="1131" height="989"/>
+	<SubTexture name="con down0001" x="0" y="0" width="1131" height="989"/>
+	<SubTexture name="con down0002" x="1131" y="0" width="1111" height="979" frameX="-3" frameY="-10" frameWidth="1131" frameHeight="989"/>
+	<SubTexture name="con idle0000" x="2242" y="0" width="987" height="1436" frameX="-3" frameY="-11" frameWidth="998" frameHeight="1447"/>
+	<SubTexture name="con idle0001" x="2242" y="0" width="987" height="1436" frameX="-3" frameY="-11" frameWidth="998" frameHeight="1447"/>
+	<SubTexture name="con idle0002" x="3229" y="0" width="995" height="1439" frameX="0" frameY="-8" frameWidth="998" frameHeight="1447"/>
+	<SubTexture name="con idle0003" x="3229" y="0" width="995" height="1439" frameX="0" frameY="-8" frameWidth="998" frameHeight="1447"/>
+	<SubTexture name="con idle0004" x="4224" y="0" width="994" height="1447" frameX="-4" frameY="0" frameWidth="998" frameHeight="1447"/>
+	<SubTexture name="con idle0005" x="4224" y="0" width="994" height="1447" frameX="-4" frameY="0" frameWidth="998" frameHeight="1447"/>
+	<SubTexture name="con idle0006" x="5218" y="0" width="981" height="1445" frameX="-6" frameY="-2" frameWidth="998" frameHeight="1447"/>
+	<SubTexture name="con idle0007" x="5218" y="0" width="981" height="1445" frameX="-6" frameY="-2" frameWidth="998" frameHeight="1447"/>
+	<SubTexture name="con idle0008" x="6199" y="0" width="976" height="1445" frameX="-6" frameY="-2" frameWidth="998" frameHeight="1447"/>
+	<SubTexture name="con left0000" x="7175" y="0" width="976" height="1451"/>
+	<SubTexture name="con left0001" x="7175" y="0" width="976" height="1451"/>
+	<SubTexture name="con left0002" x="0" y="1451" width="942" height="1440" frameX="-33" frameY="-11" frameWidth="976" frameHeight="1451"/>
+	<SubTexture name="con right0000" x="942" y="1451" width="1325" height="1470"/>
+	<SubTexture name="con right0001" x="942" y="1451" width="1325" height="1470"/>
+	<SubTexture name="con right0002" x="2267" y="1451" width="1301" height="1455" frameX="0" frameY="-15" frameWidth="1325" frameHeight="1470"/>
+	<SubTexture name="con up0000" x="3568" y="1451" width="1063" height="1450"/>
+	<SubTexture name="con up0001" x="3568" y="1451" width="1063" height="1450"/>
+	<SubTexture name="con up0002" x="4631" y="1451" width="1054" height="1412" frameX="-8" frameY="-38" frameWidth="1063" frameHeight="1450"/>
+</TextureAtlas>

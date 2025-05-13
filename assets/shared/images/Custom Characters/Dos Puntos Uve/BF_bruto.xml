@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="brutofriend.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bruto down0000" x="0" y="0" width="428" height="515" frameX="0" frameY="-2" frameWidth="428" frameHeight="517"/>
+	<SubTexture name="bruto down0001" x="0" y="0" width="428" height="515" frameX="0" frameY="-2" frameWidth="428" frameHeight="517"/>
+	<SubTexture name="bruto down0002" x="428" y="0" width="419" height="517" frameX="-7" frameY="0" frameWidth="428" frameHeight="517"/>
+	<SubTexture name="bruto idle0000" x="847" y="0" width="415" height="533" frameX="-1" frameY="-6" frameWidth="420" frameHeight="539"/>
+	<SubTexture name="bruto idle0001" x="847" y="0" width="415" height="533" frameX="-1" frameY="-6" frameWidth="420" frameHeight="539"/>
+	<SubTexture name="bruto idle0002" x="1262" y="0" width="420" height="535" frameX="0" frameY="-4" frameWidth="420" frameHeight="539"/>
+	<SubTexture name="bruto idle0003" x="1262" y="0" width="420" height="535" frameX="0" frameY="-4" frameWidth="420" frameHeight="539"/>
+	<SubTexture name="bruto idle0004" x="1682" y="0" width="414" height="538" frameX="-2" frameY="-1" frameWidth="420" frameHeight="539"/>
+	<SubTexture name="bruto idle0005" x="1682" y="0" width="414" height="538" frameX="-2" frameY="-1" frameWidth="420" frameHeight="539"/>
+	<SubTexture name="bruto idle0006" x="2096" y="0" width="411" height="538" frameX="-3" frameY="-1" frameWidth="420" frameHeight="539"/>
+	<SubTexture name="bruto idle0007" x="2507" y="0" width="412" height="539" frameX="-3" frameY="0" frameWidth="420" frameHeight="539"/>
+	<SubTexture name="bruto left0000" x="2919" y="0" width="455" height="593" frameX="0" frameY="0" frameWidth="461" frameHeight="593"/>
+	<SubTexture name="bruto left0001" x="2919" y="0" width="455" height="593" frameX="0" frameY="0" frameWidth="461" frameHeight="593"/>
+	<SubTexture name="bruto left0002" x="3374" y="0" width="454" height="590" frameX="-7" frameY="-3" frameWidth="461" frameHeight="593"/>
+	<SubTexture name="bruto miss0000" x="0" y="593" width="448" height="582" frameX="-5" frameY="0" frameWidth="453" frameHeight="582"/>
+	<SubTexture name="bruto miss0001" x="448" y="593" width="452" height="570" frameX="0" frameY="-10" frameWidth="453" frameHeight="582"/>
+	<SubTexture name="bruto right0000" x="900" y="593" width="449" height="525" frameX="-5" frameY="0" frameWidth="454" frameHeight="525"/>
+	<SubTexture name="bruto right0001" x="900" y="593" width="449" height="525" frameX="-5" frameY="0" frameWidth="454" frameHeight="525"/>
+	<SubTexture name="bruto right0002" x="1349" y="593" width="444" height="520" frameX="0" frameY="-5" frameWidth="454" frameHeight="525"/>
+	<SubTexture name="bruto up0000" x="1793" y="593" width="450" height="582" frameX="0" frameY="0" frameWidth="454" frameHeight="582"/>
+	<SubTexture name="bruto up0001" x="1793" y="593" width="450" height="582" frameX="0" frameY="0" frameWidth="454" frameHeight="582"/>
+	<SubTexture name="bruto up0002" x="2243" y="593" width="453" height="581" frameX="-1" frameY="0" frameWidth="454" frameHeight="582"/>
+</TextureAtlas>

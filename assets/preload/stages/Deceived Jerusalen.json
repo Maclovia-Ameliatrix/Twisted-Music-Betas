@@ -1,0 +1,22 @@
+{
+	"directory": "minor mods/Mandela",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+
+	"boyfriend": [900, 300],
+	"girlfriend": [600, 300],
+	"opponent": [-200, 300],
+	"secondopp": [100, 100],
+	"secondPlayer": [500, 500],
+	"thirdOpponent": [100, 100],
+	"thirdPlayer": [100, 100],
+	"hide_mom": true,
+	"hide_girlfriend": true,
+	"hide_monster": true,
+	"hide_senpai": true,
+
+	"camera_boyfriend": [0, 0],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

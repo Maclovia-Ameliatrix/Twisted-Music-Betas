@@ -1,0 +1,18 @@
+
+function onCreate()
+	makeLuaSprite('bg','Indie/Sans/hall',-650,-450)
+	scaleObject('bg', 2, 2)
+	addLuaSprite('bg')
+	makeLuaSprite('waterfall','Indie/Sans/Waterfall',-650,-450)
+	scaleObject('waterfall', 1.5, 1.5)
+	setProperty('waterfall.visible', false)	
+	addLuaSprite('waterfall')
+	makeLuaSprite('darbg','Indie/Sans/halldark',-650,-450)
+	scaleObject('darbg', 2, 2)
+	setProperty('darbg.visible', false)	
+	addLuaSprite('darbg')
+	makeLuaSprite('utbattle','Indie/Sans/battle',-365,-560)
+	scaleObject('utbattle', 0.75, 0.75)
+	setProperty('utbattle.visible', false)	
+	addLuaSprite('utbattle')
+end

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFTubbySand.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFTubby_idle0000" x="0" y="0" width="260" height="552" frameX="0" frameY="-7" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0001" x="0" y="0" width="260" height="552" frameX="0" frameY="-7" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0002" x="0" y="0" width="260" height="552" frameX="0" frameY="-7" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0003" x="260" y="0" width="260" height="554" frameX="0" frameY="-5" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0004" x="260" y="0" width="260" height="554" frameX="0" frameY="-5" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0005" x="520" y="0" width="260" height="555" frameX="0" frameY="-4" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0006" x="520" y="0" width="260" height="555" frameX="0" frameY="-4" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0007" x="780" y="0" width="260" height="558" frameX="0" frameY="-1" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0008" x="780" y="0" width="260" height="558" frameX="0" frameY="-1" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0009" x="1040" y="0" width="260" height="559" frameX="0" frameY="0" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0010" x="1040" y="0" width="260" height="559" frameX="0" frameY="0" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0011" x="1040" y="0" width="260" height="559" frameX="0" frameY="0" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0012" x="1300" y="0" width="260" height="557" frameX="0" frameY="-2" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0013" x="1560" y="0" width="260" height="557" frameX="0" frameY="-3" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0014" x="1560" y="0" width="260" height="557" frameX="0" frameY="-3" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0015" x="0" y="559" width="260" height="548" frameX="0" frameY="-11" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0016" x="0" y="559" width="260" height="548" frameX="0" frameY="-11" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0017" x="0" y="559" width="260" height="548" frameX="0" frameY="-11" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0018" x="260" y="559" width="260" height="550" frameX="0" frameY="-9" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0019" x="260" y="559" width="260" height="550" frameX="0" frameY="-9" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0020" x="520" y="559" width="260" height="552" frameX="0" frameY="-7" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0021" x="520" y="559" width="260" height="552" frameX="0" frameY="-7" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0022" x="780" y="559" width="260" height="555" frameX="0" frameY="-4" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0023" x="780" y="559" width="260" height="555" frameX="0" frameY="-4" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0024" x="1040" y="559" width="260" height="556" frameX="0" frameY="-3" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0025" x="1040" y="559" width="260" height="556" frameX="0" frameY="-3" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0026" x="1040" y="559" width="260" height="556" frameX="0" frameY="-3" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0027" x="1300" y="559" width="260" height="557" frameX="0" frameY="-2" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0028" x="1560" y="559" width="260" height="557" frameX="0" frameY="-2" frameWidth="260" frameHeight="560"/>
+	<SubTexture name="GFTubby_idle0029" x="1560" y="559" width="260" height="557" frameX="0" frameY="-2" frameWidth="260" frameHeight="560"/>
+</TextureAtlas>

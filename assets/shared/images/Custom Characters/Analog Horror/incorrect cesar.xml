@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cesar_assets.png">
+<SubTexture name="Cesar IDLE0000" x="0" y="0" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar IDLE0001" x="338" y="0" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar IDLE0002" x="676" y="0" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar IDLE0003" x="0" y="378" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar IDLE0004" x="338" y="378" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar IDLE0005" x="676" y="378" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar IDLE0006" x="1014" y="0" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar IDLE0007" x="1014" y="378" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar RIGHT0000" x="0" y="756" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar RIGHT0001" x="338" y="756" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar RIGHT0002" x="676" y="756" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar RIGHT0003" x="1014" y="756" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar RIGHT0004" x="1352" y="0" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar RIGHT0005" x="1352" y="378" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar LEFT0000" x="1352" y="756" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar LEFT0001" x="0" y="1134" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar LEFT0002" x="338" y="1134" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar LEFT0003" x="676" y="1134" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar LEFT0004" x="1014" y="1134" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar LEFT0005" x="1352" y="1134" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar UP0000" x="1690" y="0" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar UP0001" x="1690" y="378" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar UP0002" x="1690" y="756" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar UP0003" x="1690" y="1134" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar UP0004" x="0" y="1512" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar UP0005" x="338" y="1512" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar DOWN0000" x="676" y="1512" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar DOWN0001" x="1014" y="1512" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar DOWN0002" x="1352" y="1512" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar DOWN0003" x="1690" y="1512" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar DOWN0004" x="2028" y="0" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar DOWN0005" x="2028" y="378" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS RIGHT0000" x="2028" y="756" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS RIGHT0001" x="2028" y="1134" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS RIGHT0002" x="2028" y="1512" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS RIGHT0003" x="0" y="1890" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS RIGHT0004" x="338" y="1890" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS LEFT0000" x="676" y="1890" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS LEFT0001" x="1014" y="1890" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS LEFT0002" x="1352" y="1890" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS LEFT0003" x="1690" y="1890" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS LEFT0004" x="2028" y="1890" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS UP0000" x="2366" y="0" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS UP0001" x="2366" y="378" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS UP0002" x="2366" y="756" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS UP0003" x="2366" y="1134" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS UP0004" x="2366" y="1512" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS DOWN0000" x="2366" y="1890" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS DOWN0001" x="0" y="2268" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS DOWN0002" x="338" y="2268" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS DOWN0003" x="676" y="2268" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+<SubTexture name="Cesar MISS DOWN0004" x="1014" y="2268" width="338" height="378" frameX="0" frameY="0" frameWidth="338" frameHeight="378" />
+</TextureAtlas>
