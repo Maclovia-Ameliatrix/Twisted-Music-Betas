@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				25
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-26
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				84
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pico Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				25
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-8
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "Pico Reload",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				125
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "Pico Shoot1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				193
+			],
+			"anim": "shoot-alt",
+			"fps": 24,
+			"name": "Pico Shoot2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Pico_Requital",
+	"position": [
+		150,
+		330
+	],
+	"healthicon": "Pico Hedgehog",
+	"flip_x": true,
+	"healthbar_colors": [
+		124,
+		202,
+		46
+	],
+	"camera_position": [
+		-340,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Lemon RIGHT"
+		},
+		{
+			"offsets": [
+				-31,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Lemon LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				88
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Lemon UP"
+		},
+		{
+			"offsets": [
+				180,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Lemon DOWN"
+		},
+		{
+			"offsets": [
+				113,
+				80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Lemon IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/Neo-lemon",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "Monster Neo",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

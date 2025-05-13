@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonic_Idle"
+		},
+		{
+			"offsets": [
+				155,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonic_left"
+		},
+		{
+			"offsets": [
+				-15,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic_up"
+		},
+		{
+			"offsets": [
+				95,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonic_down"
+		},
+		{
+			"offsets": [
+				-2,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonic_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Christmas Sonic",
+	"position": [
+		230,
+		240
+	],
+	"healthicon": "Sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		700,
+		-550
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

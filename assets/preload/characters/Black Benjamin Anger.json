@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				147,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				113
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				950,
+				-120
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "1-attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				440,
+				-144
+			],
+			"anim": "attack-alt",
+			"fps": 24,
+			"name": "2-attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/Benjamin-void",
+	"position": [
+		-210,
+		-170
+	],
+	"healthicon": "Black Benjamin",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		370,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

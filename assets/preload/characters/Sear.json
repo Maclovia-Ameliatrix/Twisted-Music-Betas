@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "SearIdle"
+		},
+		{
+			"offsets": [
+				141,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "SearLeft"
+		},
+		{
+			"offsets": [
+				19,
+				142
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "SearDown"
+		},
+		{
+			"offsets": [
+				104,
+				193
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "SearUp"
+		},
+		{
+			"offsets": [
+				-50,
+				127
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "SearRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/sear_assets",
+	"position": [
+		-190,
+		0
+	],
+	"healthicon": "Sear",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		110,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

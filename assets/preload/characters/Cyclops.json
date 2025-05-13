@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				296,
+				178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				9,
+				-169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				73,
+				286
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-219,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				55,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turn",
+			"indices": [],
+			"name": "Turn0"
+		},
+		{
+			"offsets": [
+				-72,
+				241
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "Turned"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/SPEED_FULL_ASS_SETS",
+	"position": [
+		20,
+		260
+	],
+	"healthicon": "Bonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		0,
+		255
+	],
+	"camera_position": [
+		-380,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

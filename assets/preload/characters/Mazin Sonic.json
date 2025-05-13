@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mazin idle"
+		},
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mazin left"
+		},
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mazin down"
+		},
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mazin up"
+		},
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mazin right"
+		},
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "mazin bitches?"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/mazin_mall_assets",
+	"position": [
+		-80,
+		-10
+	],
+	"healthicon": "Mazin",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		290,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

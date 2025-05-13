@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Rin WithBoobs"
+		},
+		{
+			"offsets": [
+				50,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Rin Down"
+		},
+		{
+			"offsets": [
+				-28,
+				52
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Rin Up"
+		},
+		{
+			"offsets": [
+				-91,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Rin Left"
+		},
+		{
+			"offsets": [
+				57,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Rin Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Sexy Rin",
+	"position": [
+		-120,
+		-40
+	],
+	"healthicon": "Rin Anime",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		207,
+		66
+	],
+	"camera_position": [
+		50,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Enter",
+			"fps": 24,
+			"name": "GFAnim1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "OhMyGosh",
+			"fps": 24,
+			"name": "GFShoked",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-27
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "GFMiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/Race_Mario_Girlfriend_Assets_v1",
+	"position": [
+		90,
+		210
+	],
+	"healthicon": "GF",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

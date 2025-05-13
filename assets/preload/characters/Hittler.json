@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "hitler idle"
+		},
+		{
+			"offsets": [
+				-14,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "hitler left0"
+		},
+		{
+			"offsets": [
+				-13,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "hitler left miss"
+		},
+		{
+			"offsets": [
+				-10,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "hitler down0"
+		},
+		{
+			"offsets": [
+				-10,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "hitler down miss"
+		},
+		{
+			"offsets": [
+				-15,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "hitler up0"
+		},
+		{
+			"offsets": [
+				-15,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "hitler up miss"
+		},
+		{
+			"offsets": [
+				-7,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "hitler right0"
+		},
+		{
+			"offsets": [
+				-7,
+				124
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "hitler right miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/hitler_assets",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "Nazi",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		80,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

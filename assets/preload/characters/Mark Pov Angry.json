@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MarkFront Idle"
+		},
+		{
+			"offsets": [
+				-4,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MarkFront Left"
+		},
+		{
+			"offsets": [
+				-7,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MarkFront Down"
+		},
+		{
+			"offsets": [
+				-16,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MarkFront Up"
+		},
+		{
+			"offsets": [
+				-19,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MarkFront Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/MarkFront",
+	"position": [
+		-270,
+		20
+	],
+	"healthicon": "Mark Angry",
+	"flip_x": true,
+	"healthbar_colors": [
+		222,
+		228,
+		229
+	],
+	"camera_position": [
+		-240,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

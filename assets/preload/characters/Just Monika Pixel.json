@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Monika_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Monika_singDOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				20
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Monika_singDOWNALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Monika_singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Monika_singLEFTALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Monika_singRIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Monika_singRIGHTALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Monika_singUP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				20
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Monika_singUPALT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Doki/Monika_Finale_New",
+	"position": [
+		160,
+		270
+	],
+	"healthicon": "Just Monika Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		126,
+		255
+	],
+	"camera_position": [
+		-640,
+		-440
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

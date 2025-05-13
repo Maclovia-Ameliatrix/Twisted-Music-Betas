@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "DanceLeft",
+			"fps": 24,
+			"name": "smaller boy left bop0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				32,
+				-1
+			],
+			"anim": "DanceRight",
+			"fps": 24,
+			"name": "smaller boy right bop0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				492,
+				32
+			],
+			"anim": "light",
+			"fps": 24,
+			"name": "smaller boy light switch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-24
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "smaller boy combo break",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-1
+			],
+			"anim": "DanceLeft-alt",
+			"fps": 24,
+			"name": "smaller boy left bop turn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-11
+			],
+			"anim": "DanceRight-alt",
+			"fps": 24,
+			"name": "smaller boy right bop turn",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/boyp_metronomo",
+	"position": [
+		220,
+		180
+	],
+	"healthicon": "Boy",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		100,
+		196
+	],
+	"camera_position": [
+		-160,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

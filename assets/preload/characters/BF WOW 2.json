@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				30,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bf left 2"
+		},
+		{
+			"offsets": [
+				28,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "bf left miss"
+		},
+		{
+			"offsets": [
+				10,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bf down 2"
+		},
+		{
+			"offsets": [
+				9,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "bf down miss"
+		},
+		{
+			"offsets": [
+				-14,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf up 2"
+		},
+		{
+			"offsets": [
+				-20,
+				21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "bf up miss"
+		},
+		{
+			"offsets": [
+				-20,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bf right 2"
+		},
+		{
+			"offsets": [
+				-31,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "bf right miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/the_other_other_one_in_sleeptalk",
+	"position": [
+		10,
+		350
+	],
+	"healthicon": "Boof",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		156,
+		229
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

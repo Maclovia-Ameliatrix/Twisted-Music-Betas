@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Angry Mark Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angry Mark Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Angry Mark Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angry Mark Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angry Mark Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/Exhausted Mark",
+	"position": [
+		-570,
+		-610
+	],
+	"healthicon": "Mark Angry",
+	"flip_x": true,
+	"healthbar_colors": [
+		222,
+		228,
+		229
+	],
+	"camera_position": [
+		-670,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

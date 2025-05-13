@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "swirl death confirm"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "swirl Dead Loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "swirl dies"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/swirl",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Swirl",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-50,
+		-380
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

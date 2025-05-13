@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "warchief Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "warchief Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "warchief Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "warchief Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "warchief Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/warchief",
+	"position": [
+		-320,
+		-410
+	],
+	"healthicon": "icon-warchief",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		48,
+		147
+	],
+	"camera_position": [
+		140,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

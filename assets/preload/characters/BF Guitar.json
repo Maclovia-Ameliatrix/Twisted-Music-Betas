@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				69
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				312,
+				267
+			],
+			"anim": "LetsStart",
+			"fps": 24,
+			"name": "AAA MI CABEZA PTM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				140
+			],
+			"anim": "LetsEnd",
+			"fps": 24,
+			"name": "anim bf break guitar",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/bf_guitar",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "BF",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		320,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

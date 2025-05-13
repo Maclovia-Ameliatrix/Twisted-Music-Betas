@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "G_idle"
+		},
+		{
+			"offsets": [
+				-26,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "G_Left"
+		},
+		{
+			"offsets": [
+				50,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "G_Down"
+		},
+		{
+			"offsets": [
+				43,
+				145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "G_Up"
+		},
+		{
+			"offsets": [
+				-70,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "G_RIght"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/gabriel",
+	"position": [
+		-160,
+		140
+	],
+	"healthicon": "Our Saviour",
+	"flip_x": false,
+	"healthbar_colors": [
+		76,
+		73,
+		89
+	],
+	"camera_position": [
+		-590,
+		-270
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "lord-x-new idle"
+		},
+		{
+			"offsets": [
+				-94,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "lord-x-new alt idle"
+		},
+		{
+			"offsets": [
+				-100,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lord-x-new down"
+		},
+		{
+			"offsets": [
+				-92,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lord-x-new up"
+		},
+		{
+			"offsets": [
+				-90,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lord-x-new left"
+		},
+		{
+			"offsets": [
+				-119,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lord-x-new right"
+		},
+		{
+			"offsets": [
+				-99,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "lord-x-new miss down"
+		},
+		{
+			"offsets": [
+				-91,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "lord-x-new miss up"
+		},
+		{
+			"offsets": [
+				-90,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "lord-x-new miss left"
+		},
+		{
+			"offsets": [
+				-118,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "lord-x-new miss right"
+		},
+		{
+			"offsets": [
+				-93,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "lord-x-new hey"
+		},
+		{
+			"offsets": [
+				-93,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "lord-x-new laugh"
+		},
+		{
+			"offsets": [
+				-87,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "lord-x-new hurt"
+		},
+		{
+			"offsets": [
+				-181,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "lord-x-new dodge"
+		},
+		{
+			"offsets": [
+				-93,
+				80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "lord-x-new scared"
+		},
+		{
+			"offsets": [
+				-92,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "lord-x-new attack"
+		},
+		{
+			"offsets": [
+				-92,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "lord-x-new pre-attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/lord-x-new",
+	"position": [
+		-680,
+		-160
+	],
+	"healthicon": "Lord X",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		220,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "power idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "sax idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-187,
+				-29
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "sax left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-24
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "sax down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				94
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				94
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "sax up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				-3
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "sax right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/powers",
+	"position": [
+		-100,
+		250
+	],
+	"healthicon": "Cyan Powers",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		215,
+		255
+	],
+	"camera_position": [
+		120,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

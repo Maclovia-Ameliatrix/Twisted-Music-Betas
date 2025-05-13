@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RON_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RON_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RON_UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1030,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RON_RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RON_IDLE"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "RON_LEFT"
+		},
+		{
+			"offsets": [
+				270,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "RON_DOWN"
+		},
+		{
+			"offsets": [
+				-10,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "RON_UP"
+		},
+		{
+			"offsets": [
+				1030,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RON_RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/stupid_dumb_ex",
+	"position": [
+		20,
+		130
+	],
+	"healthicon": "Ronsip XD",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-120,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

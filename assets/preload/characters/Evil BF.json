@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Soul BF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				120
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Soul BF Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				180
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Soul BF Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Soul BF Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Soul BF Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/BFSoul_Tormentor",
+	"position": [
+		110,
+		110
+	],
+	"healthicon": "Evil BF",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		20,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1.00000000000001
+}

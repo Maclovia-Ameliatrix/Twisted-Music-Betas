@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-145,
+				131
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idke",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				75
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-117,
+				-142
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-166,
+				135
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-158,
+				97
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/DaidemAssetsREwork",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Daidem Animated",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		110,
+		0
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

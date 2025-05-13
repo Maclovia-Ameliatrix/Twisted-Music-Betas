@@ -1,0 +1,376 @@
+{
+	"song": {
+		"events": [
+			[
+				22109.8265895954,
+				[
+					[
+						"HUD Fade",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				33294.7976878613,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Monotone Shapeshifter"
+					]
+				]
+			],
+			[
+				33294.7976878613,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Monotone"
+					]
+				]
+			],
+			[
+				44385.838150289,
+				[
+					[
+						"HUD Fade",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				44389.450867052,
+				[
+					[
+						"flash",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				49578.8743946258,
+				[
+					[
+						"Identity Crisis line",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54771.4419621934,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Red Robert"
+					]
+				]
+			],
+			[
+				54771.4419621934,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Red Impostor"
+					]
+				]
+			],
+			[
+				75528.1987189502,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Monotone Shapeshifter"
+					]
+				]
+			],
+			[
+				75528.1987189502,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Monotone"
+					]
+				]
+			],
+			[
+				98230.9014216528,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Green Mitori Parasite"
+					]
+				]
+			],
+			[
+				98230.9014216528,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Green Parasite"
+					]
+				]
+			],
+			[
+				110555.225745977,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.015",
+						""
+					]
+				]
+			],
+			[
+				110717.387908139,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.015",
+						""
+					]
+				]
+			],
+			[
+				110879.550070301,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.015",
+						""
+					]
+				]
+			],
+			[
+				111041.712232464,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.015",
+						""
+					]
+				]
+			],
+			[
+				111203.874394626,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.030",
+						""
+					]
+				]
+			],
+			[
+				140311.982502734,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Monotone Shapeshifter"
+					]
+				]
+			],
+			[
+				140311.982502734,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Monotone"
+					]
+				]
+			],
+			[
+				163257.92844868,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Black"
+					]
+				]
+			],
+			[
+				163257.92844868,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Black Benjamin Anger"
+					]
+				]
+			],
+			[
+				187014.685205437,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Monotone Shapeshifter"
+					]
+				]
+			],
+			[
+				187014.685205437,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Monotone"
+					]
+				]
+			],
+			[
+				231203.874394626,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Red Impostor"
+					]
+				]
+			],
+			[
+				231203.874394626,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Red Robert"
+					]
+				]
+			],
+			[
+				236230.901421654,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Green Mitori Parasite"
+					]
+				]
+			],
+			[
+				236230.901421654,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Green Parasite"
+					]
+				]
+			],
+			[
+				251960.631151383,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Black Benjamin Anger"
+					]
+				]
+			],
+			[
+				251960.631151383,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Black"
+					]
+				]
+			],
+			[
+				262176.8473676,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Red Impostor"
+					]
+				]
+			],
+			[
+				262176.8473676,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Red Robert"
+					]
+				]
+			],
+			[
+				268825.496016248,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Green Mitori Parasite"
+					]
+				]
+			],
+			[
+				268825.496016248,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Green Parasite"
+					]
+				]
+			],
+			[
+				270122.793313545,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Black"
+					]
+				]
+			],
+			[
+				270122.793313545,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Black Benjamin Anger"
+					]
+				]
+			],
+			[
+				272717.38790814,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Monotone Shapeshifter"
+					]
+				]
+			],
+			[
+				272717.38790814,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Monotone"
+					]
+				]
+			]
+		]
+	}
+}

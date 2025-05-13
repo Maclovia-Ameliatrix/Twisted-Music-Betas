@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bendy Idle instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "B-Right instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				201
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bendydown instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				473,
+				25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				2
+			],
+			"anim": "Scream",
+			"fps": 24,
+			"name": "Scream instance ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Bendy_remastered",
+	"position": [
+		150,
+		-60
+	],
+	"healthicon": "Ink Bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-350,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

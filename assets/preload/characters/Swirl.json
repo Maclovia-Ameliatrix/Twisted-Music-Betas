@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				366
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "swirl up0"
+		},
+		{
+			"offsets": [
+				-57,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "swirl down MISS"
+		},
+		{
+			"offsets": [
+				-40,
+				366
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "swirl up MISS"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-65,
+				332
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "swirl idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-64,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "swirl down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				320
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "swirl right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				330
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "swirl left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				320
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "swirl right MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-33,
+				330
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "swirl left MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/swirl",
+	"position": [
+		-40,
+		360
+	],
+	"healthicon": "Swirl",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		116,
+		245
+	],
+	"camera_position": [
+		-10,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

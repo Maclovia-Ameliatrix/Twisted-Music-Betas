@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Limulady idle dance"
+		},
+		{
+			"offsets": [
+				-11,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Limulady note left"
+		},
+		{
+			"offsets": [
+				-1,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Limulady note down"
+		},
+		{
+			"offsets": [
+				-3,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Limulady note up"
+		},
+		{
+			"offsets": [
+				-6,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Limulady note right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Limulady1",
+	"position": [
+		-100,
+		-20
+	],
+	"healthicon": "Limu Lady",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		22,
+		47
+	],
+	"camera_position": [
+		20,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

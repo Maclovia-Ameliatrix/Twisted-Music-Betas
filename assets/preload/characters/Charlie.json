@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				142,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "charlie idle"
+		},
+		{
+			"offsets": [
+				229,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "charlie izquierda"
+		},
+		{
+			"offsets": [
+				109,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "charlie derehca"
+		},
+		{
+			"offsets": [
+				114,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "charlie abajo"
+		},
+		{
+			"offsets": [
+				133,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "charlie arriba"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Charlie",
+	"position": [
+		210,
+		40
+	],
+	"healthicon": "Charlie",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		167,
+		99
+	],
+	"camera_position": [
+		-40,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

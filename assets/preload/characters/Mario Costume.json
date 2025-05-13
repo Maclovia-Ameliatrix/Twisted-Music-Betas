@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				178,
+				-27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-296
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-173
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				128,
+				-335
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Slumped Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-328
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Slumped Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				-335
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Slumped Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-298
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Slumped Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				-313
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Slumped Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Costume_Mario_Assets",
+	"position": [
+		50,
+		-140
+	],
+	"healthicon": "Mario Costume",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		99,
+		99
+	],
+	"camera_position": [
+		60,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

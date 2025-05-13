@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans FNF instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance"
+		},
+		{
+			"offsets": [
+				-18,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance"
+		},
+		{
+			"offsets": [
+				-21,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-16
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down 02 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				28
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up 02 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				1
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left 02 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-1
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right 02 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				23
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "SansDodge instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-1
+			],
+			"anim": "switch",
+			"fps": 24,
+			"name": "Switch to UT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Sans",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "Sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		80,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

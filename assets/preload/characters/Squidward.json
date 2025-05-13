@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Squid Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Squid Sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-39
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Squid Sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Squid Sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Squid Sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Squid Sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-52
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Squid Sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Squid Sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Squid Sing left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Squidward",
+	"position": [
+		-70,
+		170
+	],
+	"healthicon": "Squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		240,
+		197
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

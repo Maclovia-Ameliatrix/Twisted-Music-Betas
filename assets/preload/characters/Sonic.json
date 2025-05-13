@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic Idle"
+		},
+		{
+			"offsets": [
+				265,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic Left"
+		},
+		{
+			"offsets": [
+				150,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic Down"
+		},
+		{
+			"offsets": [
+				24,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic Up"
+		},
+		{
+			"offsets": [
+				99,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic Alt Right"
+		},
+		{
+			"offsets": [
+				361,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Sonic Miss Left"
+		},
+		{
+			"offsets": [
+				213,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Sonic Miss Down"
+		},
+		{
+			"offsets": [
+				22,
+				231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Sonic Miss Up"
+		},
+		{
+			"offsets": [
+				110,
+				175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Sonic Miss Alt Right"
+		},
+		{
+			"offsets": [
+				42,
+				93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Sonic Hey"
+		},
+		{
+			"offsets": [
+				20,
+				-240
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "spin",
+			"indices": [],
+			"name": "Sonic Spin"
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "ball",
+			"indices": [],
+			"name": "Sonic Ball"
+		},
+		{
+			"offsets": [
+				20,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "jump",
+			"indices": [],
+			"name": "Sonic Jump"
+		},
+		{
+			"offsets": [
+				-10,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Sonic Waiting"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/SonicAssets",
+	"position": [
+		50,
+		210
+	],
+	"healthicon": "Sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		96,
+		255
+	],
+	"camera_position": [
+		180,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

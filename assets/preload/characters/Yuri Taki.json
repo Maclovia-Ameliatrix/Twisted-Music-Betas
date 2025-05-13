@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Yuri Crazy Idle"
+		},
+		{
+			"offsets": [
+				4,
+				-37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Yuri Crazy Down"
+		},
+		{
+			"offsets": [
+				4,
+				-37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Yuri Crazy Down"
+		},
+		{
+			"offsets": [
+				121,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Yuri Crazy Left"
+		},
+		{
+			"offsets": [
+				121,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Yuri Crazy Left"
+		},
+		{
+			"offsets": [
+				45,
+				79
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Yuri Crazy Up"
+		},
+		{
+			"offsets": [
+				45,
+				79
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Yuri Crazy Up"
+		},
+		{
+			"offsets": [
+				-35,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Yuri Crazy Right"
+		},
+		{
+			"offsets": [
+				-35,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Yuri Crazy Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Doki/Doki_Yuri_crazy_Taki_Assets",
+	"position": [
+		10,
+		60
+	],
+	"healthicon": "Yuri Crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		114,
+		210
+	],
+	"camera_position": [
+		50,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

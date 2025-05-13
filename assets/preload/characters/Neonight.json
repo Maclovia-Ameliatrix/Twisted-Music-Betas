@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "neo idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				82,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "neo left"
+		},
+		{
+			"offsets": [
+				25,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "neo right"
+		},
+		{
+			"offsets": [
+				20,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "neo down"
+		},
+		{
+			"offsets": [
+				14,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "neo up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/NeoNight",
+	"position": [
+		-120,
+		-50
+	],
+	"healthicon": "NeoNight",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		51,
+		153
+	],
+	"camera_position": [
+		140,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

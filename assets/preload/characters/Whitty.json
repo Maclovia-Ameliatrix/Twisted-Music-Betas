@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Whitty Idle"
+		},
+		{
+			"offsets": [
+				24,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "KadeDev for Coding"
+		},
+		{
+			"offsets": [
+				27,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Whitty Sing Left MISS"
+		},
+		{
+			"offsets": [
+				-20,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SockClip for Arts and Song"
+		},
+		{
+			"offsets": [
+				-9,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Whitty Sing Down MISS"
+		},
+		{
+			"offsets": [
+				-11,
+				53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Credit Goes to"
+		},
+		{
+			"offsets": [
+				-10,
+				53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Whitty Sing Up MISS"
+		},
+		{
+			"offsets": [
+				-16,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Nate Anim8 for Arts and Chart"
+		},
+		{
+			"offsets": [
+				-7,
+				43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Whitty Sing Right MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Whitmore",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "Whitty",
+	"flip_x": false,
+	"healthbar_colors": [
+		29,
+		30,
+		53
+	],
+	"camera_position": [
+		20,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

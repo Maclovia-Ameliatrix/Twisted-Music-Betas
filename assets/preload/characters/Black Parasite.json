@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "abomination black idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				365,
+				314
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				409
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "black down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				547
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BLACK UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-428,
+				133
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right ske",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/blackparasite",
+	"position": [
+		-270,
+		160
+	],
+	"healthicon": "Black Parasite",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		28,
+		79
+	],
+	"camera_position": [
+		260,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

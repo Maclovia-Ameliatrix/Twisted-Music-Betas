@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "devilHall",
+		"player1": "bfnightmareCup",
+		"player2": "cupheadNightmare",
+		"player3": null,
+		"events": [
+			[
+				4114.28571428571,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"cupheadNightmare"
+					]
+				]
+			],
+			[
+				17142.8571428571,
+				[
+					[
+						"Play Animation",
+						"Hadoken",
+						"cupheadNightmare"
+					]
+				]
+			],
+			[
+				19028.5714285714,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"cupheadNightmare"
+					]
+				]
+			],
+			[
+				38914.2857142857,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"cupheadNightmare"
+					]
+				]
+			],
+			[
+				69942.8571428571,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"cupheadNightmare"
+					]
+				]
+			],
+			[
+				106628.571428571,
+				[
+					[
+						"Play Animation",
+						"Shoot",
+						"cupheadNightmare"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": "cup/Cuphead_NOTE",
+		"needsVoices": true,
+		"song": "Devils-Gambit"
+	}
+}

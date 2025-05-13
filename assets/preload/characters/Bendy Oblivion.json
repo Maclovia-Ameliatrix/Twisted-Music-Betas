@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Oblivion Bendy"
+		},
+		{
+			"offsets": [
+				59,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Oblivion"
+		},
+		{
+			"offsets": [
+				-40,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Oblivion"
+		},
+		{
+			"offsets": [
+				-50,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Oblivion"
+		},
+		{
+			"offsets": [
+				-126,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Oblivion"
+		},
+		{
+			"offsets": [
+				-180,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ugh",
+			"loop": false,
+			"name": "ugh lowblow instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/BendyDAgames",
+	"position": [
+		40,
+		70
+	],
+	"healthicon": "Bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		90,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

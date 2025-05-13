@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				448,
+				595
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Transform",
+			"indices": [],
+			"name": "chaotix beast transformation"
+		},
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chaotix fake idle"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "chaotix fake left"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chaotix fake left"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "chaotix fake up"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chaotix fake up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chaotix fake right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "chaotix fake right"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chaotix fake down"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "chaotix fake down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/faker_chaotix",
+	"position": [
+		580,
+		710
+	],
+	"healthicon": "Chaotix Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		214,
+		25,
+		82
+	],
+	"camera_position": [
+		-1010,
+		-660
+	],
+	"sing_duration": 4,
+	"scale": 7
+}

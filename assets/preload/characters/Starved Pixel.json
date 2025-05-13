@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "starved idle"
+		},
+		{
+			"offsets": [
+				-102,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "starved left"
+		},
+		{
+			"offsets": [
+				-95,
+				87
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "starved down"
+		},
+		{
+			"offsets": [
+				-95,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "starved up"
+		},
+		{
+			"offsets": [
+				-88,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "starved right"
+		},
+		{
+			"offsets": [
+				-95,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "starved dialogue"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/starved_sheet",
+	"position": [
+		180,
+		270
+	],
+	"healthicon": "Starved Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		144,
+		0,
+		0
+	],
+	"camera_position": [
+		-90,
+		-320
+	],
+	"sing_duration": 6.1,
+	"scale": 6.99999999999999
+}

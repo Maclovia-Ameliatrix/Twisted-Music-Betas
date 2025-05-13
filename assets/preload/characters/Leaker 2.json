@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LEAKER 2 IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				302,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEAKER 2 LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				302,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LEAKER 2 LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "leaker 2 DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-4
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "leaker 2 DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				247
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LEAKER 2 UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				247
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "LEAKER 2 UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LEAKER 2 RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-41
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "LEAKER 2 RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				42
+			],
+			"anim": "kiss ass",
+			"fps": 24,
+			"name": "Leaker amante del poto",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				14
+			],
+			"anim": "floss",
+			"fps": 24,
+			"name": "floss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/leaker long",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "Leakers XD",
+	"flip_x": true,
+	"healthbar_colors": [
+		56,
+		59,
+		57
+	],
+	"camera_position": [
+		80,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

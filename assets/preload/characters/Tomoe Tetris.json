@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				380
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mami IDLE"
+		},
+		{
+			"offsets": [
+				10,
+				378
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mami LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				378
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Mami LEFT"
+		},
+		{
+			"offsets": [
+				17,
+				380
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mami UP"
+		},
+		{
+			"offsets": [
+				17,
+				380
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Mami UP"
+		},
+		{
+			"offsets": [
+				-30,
+				384
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mami RIGHT"
+		},
+		{
+			"offsets": [
+				-30,
+				384
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Mami RIGHT"
+		},
+		{
+			"offsets": [
+				12,
+				380
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mami DOWN"
+		},
+		{
+			"offsets": [
+				12,
+				380
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Mami DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Mami Tetris",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Tomoe Tetris",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		241,
+		150
+	],
+	"camera_position": [
+		0,
+		-380
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

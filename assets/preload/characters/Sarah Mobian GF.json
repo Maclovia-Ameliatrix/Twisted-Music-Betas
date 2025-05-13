@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Dancing Sarah",
+			"indices": [
+				24,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Dancing Sarah",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-5
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "Mad Sarah DX",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				3
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Sarah Taunt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Mobian-Sarah",
+	"position": [
+		-120,
+		-240
+	],
+	"healthicon": "Sarah",
+	"flip_x": false,
+	"healthbar_colors": [
+		101,
+		76,
+		151
+	],
+	"camera_position": [
+		210,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

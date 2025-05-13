@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cvale"
+		},
+		{
+			"offsets": [
+				83,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cval left"
+		},
+		{
+			"offsets": [
+				10,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cval down"
+		},
+		{
+			"offsets": [
+				-15,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cval up"
+		},
+		{
+			"offsets": [
+				-78,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cval right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				452,
+				234
+			],
+			"anim": "RozeGoAway",
+			"fps": 24,
+			"name": "cval rozebud",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/cvaltorture",
+	"position": [
+		-100,
+		-110
+	],
+	"healthicon": "Blue Cval",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		-740,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

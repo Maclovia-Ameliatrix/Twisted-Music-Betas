@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				82
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Xeno_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				61
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Xeno_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				103
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Xeno_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				199
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Xeno_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Xeno_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Xenophanes Front",
+	"position": [
+		-20,
+		180
+	],
+	"healthicon": "Sonic.EXE Super Mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		4,
+		74
+	],
+	"camera_position": [
+		-230,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MX 8High idle"
+		},
+		{
+			"offsets": [
+				261,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MX 8High left0"
+		},
+		{
+			"offsets": [
+				260,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MX 8High left miss"
+		},
+		{
+			"offsets": [
+				245,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MX 8High down0"
+		},
+		{
+			"offsets": [
+				245,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "MX 8High down miss"
+		},
+		{
+			"offsets": [
+				-19,
+				62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "MX 8High up0"
+		},
+		{
+			"offsets": [
+				-18,
+				64
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "MX 8High up miss"
+		},
+		{
+			"offsets": [
+				-13,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MX 8High right0"
+		},
+		{
+			"offsets": [
+				-2,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MX 8High right miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/MXHigh",
+	"position": [
+		0,
+		-120
+	],
+	"healthicon": "MX High",
+	"flip_x": true,
+	"healthbar_colors": [
+		249,
+		5,
+		2
+	],
+	"camera_position": [
+		390,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

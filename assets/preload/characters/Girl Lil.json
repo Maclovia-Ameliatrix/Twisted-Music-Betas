@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lil girl idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lil girl left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lil girl down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lil girl up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lil girl right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/goyle",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "Girl",
+	"flip_x": false,
+	"healthbar_colors": [
+		212,
+		0,
+		136
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

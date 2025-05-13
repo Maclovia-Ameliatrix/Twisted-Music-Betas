@@ -1,0 +1,7046 @@
+{
+	"song": {
+		"events": [
+			[
+				10357.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				10357.1428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				10642.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				10642.8571428571,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				10928.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				10928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				11214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						""
+					]
+				]
+			],
+			[
+				11214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				29714.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				30071.4285714283,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				30101.7857142863,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				30142.8571428573,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				30183.9285714283,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				30285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				30642.8571428573,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				30680.3571428573,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				30714.2857142863,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				30751.7857142863,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				30857.1428571428,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				31214.2857142854,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				31244.6428571434,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				31285.7142857144,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				31326.7857142854,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				31428.5714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				31785.7142857144,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				31823.2142857144,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				31857.1428571434,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				31894.6428571434,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				32357.1428571433,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				32392.8571428573,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				32428.5714285713,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				32464.2857142863,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				32571.4285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				32928.5714285713,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				32957.1428571433,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				33000.0000000003,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				33032.1428571433,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				33142.8571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				33500.0000000004,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				33535.7142857144,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				33571.4285714284,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				33607.1428571434,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				33714.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				34071.4285714284,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				34100.0000000004,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				34142.8571428574,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				34175.0000000004,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				34285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				34642.8571428569,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				34673.2142857149,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				34714.2857142859,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				34755.3571428569,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				34857.1428571428,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				35214.2857142859,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				35251.7857142859,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				35285.7142857149,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				35323.2142857149,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				35428.5714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				35785.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				35816.071428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				35857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				35898.214285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				36357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				36394.642857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				36428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				36466.071428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				36571.4285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				36928.5714285719,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				36964.2857142859,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				36999.9999999999,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				37035.7142857149,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				37142.8571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				37499.9999999999,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				37528.5714285719,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				37571.4285714289,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				37603.5714285719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				37714.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				38071.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				38107.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				38142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				38178.571428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				38285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				38642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				38671.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				38714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				38746.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				38857.1428571428,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				39214.2857142854,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				39244.6428571434,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				39285.7142857144,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				39326.7857142854,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				39428.5714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				39785.7142857144,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				39823.2142857144,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				39857.1428571434,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				39894.6428571434,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				40357.1428571426,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				40387.5000000006,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				40428.5714285716,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				40469.6428571426,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				40571.4285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				40928.5714285716,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				40966.0714285716,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				41000.0000000006,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				41037.5000000006,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				41142.8571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				41500.0000000004,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				41535.7142857144,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				41571.4285714284,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				41607.1428571434,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				41714.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				42071.4285714284,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				42100.0000000004,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				42142.8571428574,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				42175.0000000004,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				42285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				42642.8571428576,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				42678.5714285716,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				42714.2857142856,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				42750.0000000006,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				42857.1428571428,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				43214.2857142856,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				43242.8571428576,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				43285.7142857146,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				43317.8571428576,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				43428.5714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				43785.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				43816.071428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				43857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				43898.214285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				44000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				44357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				44394.642857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				44428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				44466.071428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				44571.4285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				44928.5714285711,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				44958.9285714291,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				45000.0000000001,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				45041.0714285711,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				45142.8571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				45500.0000000001,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				45537.5000000001,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				45571.4285714291,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				45608.9285714291,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				45714.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				46071.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				46107.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				46142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				46178.571428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				46285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				46642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				46671.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				46714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				46746.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				46928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				46928.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				46928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				46928.5714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66e8ff00",
+						""
+					]
+				]
+			],
+			[
+				47214.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				47214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				47214.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				47500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				47500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				47500,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631fd8c",
+						""
+					]
+				]
+			],
+			[
+				47785.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631fd8c",
+						""
+					]
+				]
+			],
+			[
+				47785.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631fd8c",
+						""
+					]
+				]
+			],
+			[
+				47785.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				47785.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Fancy Lights XD",
+						"end",
+						""
+					]
+				]
+			],
+			[
+				48928.5714285716,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				48966.0714285716,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				49000.0000000006,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				49037.5000000006,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				50071.4285714284,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				50100.0000000004,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				50142.8571428574,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				50175.0000000004,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				51214.2857142859,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				51251.7857142859,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				51285.7142857149,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				51323.2142857149,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				52357.1428571427,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				52385.7142857147,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				52428.5714285717,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				52460.7142857147,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				52571.4285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				53142.8571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				53500.0000000001,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				53537.5000000001,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				53571.4285714291,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				53608.9285714291,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				53714.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				54285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				54642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				54671.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				54714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				54746.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				54857.1428571428,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				55428.5714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				55785.7142857144,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				55823.2142857144,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				55857.1428571434,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				55894.6428571434,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				56071.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				56071.4285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				56357.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				56357.1428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				56571.4285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				56642.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				56642.8571428571,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				56928.5714285713,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				56928.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				56928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				56957.1428571433,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				57000.0000000003,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				57032.1428571433,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				57142.8571428572,
+				[
+					[
+						"Fancy Lights XD",
+						"end",
+						""
+					]
+				]
+			],
+			[
+				66285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				66857.1428571428,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				67214.2857142858,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				67242.8571428576,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				67285.7142857146,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				67317.8571428576,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				67428.5714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				68000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				68357.1428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				68394.642857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				68428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				68466.071428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				69142.8571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				69500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				69528.5714285719,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				69571.4285714289,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				69603.5714285719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				69714.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				70285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				70642.8571428572,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				70680.3571428573,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				70714.2857142863,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				70751.7857142863,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				70857.1428571428,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				71428.5714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				71785.7142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				71819.6428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				71857.1428571431,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				71889.2857142861,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				72571.4285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				72928.5714285716,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				72966.0714285716,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				73000.0000000006,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				73037.5000000006,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				73142.8571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				73714.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				74071.4285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				74100.0000000004,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				74142.8571428574,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				74175.0000000004,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				74285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				74857.1428571428,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				74892.8571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				74928.5714285715,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				74964.2857142858,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				75035.7142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				75071.4285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				75107.1428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				75142.8571428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				75178.5714285715,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				75214.2857142858,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				75251.7857142859,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				75285.7142857149,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				75323.2142857149,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				75428.5714285715,
+				[
+					[
+						"Fancy Lights XD",
+						"end",
+						""
+					]
+				]
+			],
+			[
+				84571.4285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				85142.8571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				85499.9999999999,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				85528.5714285719,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				85571.4285714289,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				85603.5714285719,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				85714.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				86285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				86642.8571428573,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				86680.3571428573,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				86714.2857142863,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				86751.7857142863,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				86857.1428571428,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				87428.5714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				88571.4285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				89142.8571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				89714.2857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				90285.7142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				90857.1428571428,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				91428.5714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				92000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				92642.8571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				92642.8571428571,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				92642.8571428572,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				92928.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				92928.5714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				92928.5714285715,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				93214.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				93214.2857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				93214.2857142858,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				93500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				93500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				93500.0000000001,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				93714.2857142858,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				94285.7142857144,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631fd8c",
+						""
+					]
+				]
+			],
+			[
+				94857.1428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f794f7",
+						""
+					]
+				]
+			],
+			[
+				95428.5714285715,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				96000.0000000001,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66fba633",
+						""
+					]
+				]
+			],
+			[
+				96571.4285714287,
+				[
+					[
+						"Fancy Lights XD",
+						"0x667a3dc5",
+						""
+					]
+				]
+			],
+			[
+				97142.8571428572,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6600ffea",
+						""
+					]
+				]
+			],
+			[
+				97714.2857142858,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66ff0077",
+						""
+					]
+				]
+			],
+			[
+				98285.7142857144,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				98857.1428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631fd8c",
+						""
+					]
+				]
+			],
+			[
+				99428.5714285715,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f794f7",
+						""
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				100571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66fba633",
+						""
+					]
+				]
+			],
+			[
+				101142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x667a3dc5",
+						""
+					]
+				]
+			],
+			[
+				101714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6600ffea",
+						""
+					]
+				]
+			],
+			[
+				102285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66ff0077",
+						""
+					]
+				]
+			],
+			[
+				102855.357142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Camera Follow Pos",
+						"1350",
+						"1000"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				103285.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				103428.571428572,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631fd8c",
+						""
+					]
+				]
+			],
+			[
+				103785.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				103998.214285714,
+				[
+					[
+						"Play Animation",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f794f7",
+						""
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				104357.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				104571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				104714.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				104928.571428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				105141.071428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				105142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66fba633",
+						""
+					]
+				]
+			],
+			[
+				105571.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				105714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x667a3dc5",
+						""
+					]
+				]
+			],
+			[
+				106071.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				106285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6600ffea",
+						""
+					]
+				]
+			],
+			[
+				106285.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				106642.857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				106857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66ff0077",
+						""
+					]
+				]
+			],
+			[
+				107000,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				107214.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				107428.571428572,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				107428.571428572,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				107428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				107857.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631fd8c",
+						""
+					]
+				]
+			],
+			[
+				108357.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				108571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f794f7",
+						""
+					]
+				]
+			],
+			[
+				108571.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				108928.571428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				109142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				109285.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66fba633",
+						""
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				110142.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				110285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x667a3dc5",
+						""
+					]
+				]
+			],
+			[
+				110642.857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				110857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6600ffea",
+						""
+					]
+				]
+			],
+			[
+				110857.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				110928.571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				111214.285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				111214.285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				111428.571428572,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66ff0077",
+						""
+					]
+				]
+			],
+			[
+				111500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				111571.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				111785.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				111785.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.75"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				112357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				112392.857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				112428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				112464.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				112571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				112928.571428572,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				112957.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				113000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				113032.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				113142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				113500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				113535.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				113571.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				113607.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				113714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				114071.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				114100,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				114142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				114175,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				114285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				114642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				114673.214285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				114714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				114755.357142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				114857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				115214.285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				115251.785714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				115285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				115323.214285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				115428.571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				115785.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				115816.071428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				115857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				115898.214285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				116000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				116357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				116394.642857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				116428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				116466.071428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				116571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				116928.571428572,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				116964.285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				117000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				117035.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				117142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				117500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				117528.571428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				117571.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				117603.571428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				117714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				118071.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				118107.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				118142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				118178.571428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				118285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				118642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				118671.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				118714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				118746.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				118857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				119214.285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				119244.642857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				119285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				119326.785714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				119428.571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				119785.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				119823.214285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				119857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				119894.642857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				120357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				120387.5,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				120428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				120469.642857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				120571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				120928.571428572,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				120966.071428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				121000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				121037.5,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				121142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				121500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				121535.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				121571.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				121607.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				121714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				122071.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				122100,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				122142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				122175,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				122285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				122642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				122678.571428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				122714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				122750,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				122857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				123214.285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				123242.857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				123285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				123317.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				123428.571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				123785.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				123816.071428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				123857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				123898.214285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				124000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				124357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				124394.642857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				124428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				124466.071428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				124571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				124928.571428572,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				124958.928571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				125000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				125041.071428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				125142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				125500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				125537.5,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				125571.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				125608.928571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				125714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				126071.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				126107.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				126142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				126178.571428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				126285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				126642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				126671.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				126714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				126746.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				126857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				127214.285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				127250,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				127285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				127321.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				127428.571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				127785.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				127814.285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				127857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				127889.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				128357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				128387.5,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				128428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				128469.642857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				128571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				128928.571428572,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				128966.071428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				129000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				129037.5,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				129142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"end",
+						""
+					]
+				]
+			],
+			[
+				129214.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				129285.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				129357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				129500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				129642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				130285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				130642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				130678.571428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				130714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				130750,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				130857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				131214.285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				131242.857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				131285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				131317.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				131428.571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				131785.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				131821.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				131857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				131892.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				132357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				132385.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				132428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				132460.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				132571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				132928.571428572,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				132958.928571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				133000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				133041.071428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				133142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				133500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				133537.5,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				133571.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				133608.928571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				133714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				134071.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				134101.785714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				134142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				134183.928571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				134285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				134642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				134680.357142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				134714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				134751.785714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				134857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				135214.285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				135250,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				135285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				135321.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				135428.571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				135785.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				135814.285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				135857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				135889.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				136000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				136357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				136392.857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				136428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				136464.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				136571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				136928.571428572,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				136957.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				137000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				137032.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				137142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				137500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				137530.357142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				137571.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				137612.5,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				137714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				138071.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				138108.928571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				138142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				138180.357142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				138285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				138642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				138673.214285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				138714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				138755.357142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				138857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				139214.285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				139251.785714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				139285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				139323.214285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				139428.571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				139785.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				139821.428571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				139857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				139892.857142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				140000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				140357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				140385.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				140428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				140460.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				140571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				140928.571428572,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				140964.285714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				141035.714285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				141142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				141500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				141528.571428572,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				141571.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				141603.571428572,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				141714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				142071.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				142101.785714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				142142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				142183.928571429,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				142285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				142642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				142680.357142857,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				142714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				142751.785714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				142857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				143214.285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				143244.642857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				143285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				143326.785714286,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				143428.571428571,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				143785.714285714,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				143823.214285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				143857.142857143,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				143894.642857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				144357.142857143,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				144392.857142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				144428.571428572,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				144464.285714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				144571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				144928.571428572,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				144957.142857143,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				145000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				145032.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				145142.857142857,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				145500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				145535.714285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				145571.428571429,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				145607.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				145714.285714286,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				146071.428571429,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				146100,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				146142.857142857,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				146175,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				146285.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				146642.857142857,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				146673.214285714,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				146714.285714286,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				146755.357142857,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				146857.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				147214.285714286,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"2"
+					]
+				]
+			],
+			[
+				147251.785714286,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				147285.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				147323.214285714,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				147500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				147500,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"2"
+					]
+				]
+			],
+			[
+				147500,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				147785.714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				147785.714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"2"
+					]
+				]
+			],
+			[
+				147785.714285714,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				148071.428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				148071.428571429,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				148071.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"0x6631a2fd",
+						""
+					]
+				]
+			],
+			[
+				148357.142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				148357.142857143,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"2"
+					]
+				]
+			],
+			[
+				148357.142857143,
+				[
+					[
+						"Fancy Lights XD",
+						"0x66f96d63",
+						""
+					]
+				]
+			],
+			[
+				148571.428571429,
+				[
+					[
+						"Fancy Lights XD",
+						"end",
+						""
+					]
+				]
+			]
+		]
+	}
+}

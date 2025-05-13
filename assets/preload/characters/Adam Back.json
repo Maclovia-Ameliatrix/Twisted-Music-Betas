@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle_Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				26
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right_Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				85
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up_Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left_Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				42
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-23
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				91
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				34
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/funkdela adam",
+	"position": [
+		200,
+		280
+	],
+	"healthicon": "Adam Murray Angry",
+	"flip_x": true,
+	"healthbar_colors": [
+		98,
+		113,
+		109
+	],
+	"camera_position": [
+		140,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

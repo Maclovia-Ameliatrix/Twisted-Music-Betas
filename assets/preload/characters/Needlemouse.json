@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Needlemouse_IDLE"
+		},
+		{
+			"offsets": [
+				111,
+				98
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Needlemouse_LEFT"
+		},
+		{
+			"offsets": [
+				-5,
+				118
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Needlemouse_DOWN"
+		},
+		{
+			"offsets": [
+				-91,
+				265
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Needlemouse_UP"
+		},
+		{
+			"offsets": [
+				-86,
+				109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Needlemouse_RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Needlemouse",
+	"position": [
+		110,
+		380
+	],
+	"healthicon": "Needlemouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		101,
+		76,
+		151
+	],
+	"camera_position": [
+		60,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

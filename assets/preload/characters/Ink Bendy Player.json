@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "B-Idle instance "
+		},
+		{
+			"offsets": [
+				101,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Convertible instance "
+		},
+		{
+			"offsets": [
+				231,
+				201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "B-Up instance "
+		},
+		{
+			"offsets": [
+				114,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "B-Down instance "
+		},
+		{
+			"offsets": [
+				473,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "YOOOUU instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/BendyPhase01",
+	"position": [
+		-200,
+		-310
+	],
+	"healthicon": "Ink Bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-200,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

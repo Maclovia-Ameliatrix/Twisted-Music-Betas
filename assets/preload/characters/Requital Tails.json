@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-46,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": " Idle"
+		},
+		{
+			"offsets": [
+				-44,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": " Left"
+		},
+		{
+			"offsets": [
+				38,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": " Down"
+		},
+		{
+			"offsets": [
+				-46,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": " Up"
+		},
+		{
+			"offsets": [
+				13,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": " Right"
+		},
+		{
+			"offsets": [
+				-90,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": " Dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Requital",
+	"position": [
+		100,
+		80
+	],
+	"healthicon": "Requital Tails",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		184,
+		27
+	],
+	"camera_position": [
+		-480,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

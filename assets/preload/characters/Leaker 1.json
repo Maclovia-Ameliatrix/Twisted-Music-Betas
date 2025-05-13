@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LEAKER IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEAKER LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				12
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LEAKER LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LEAKER DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-54
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "LEAKER DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				97
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LEAKER UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				97
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "LEAKER UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LEAKER RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-37
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "LEAKER RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				27
+			],
+			"anim": "dig in ass",
+			"fps": 24,
+			"name": "CELPHONE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				141
+			],
+			"anim": "bitch",
+			"fps": 24,
+			"name": "leaker angry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/leaker short",
+	"position": [
+		0,
+		380
+	],
+	"healthicon": "Leakers XD",
+	"flip_x": true,
+	"healthbar_colors": [
+		56,
+		59,
+		57
+	],
+	"camera_position": [
+		100,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

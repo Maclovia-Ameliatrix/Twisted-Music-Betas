@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-130
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Angry Senpai Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angry Senpai UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-83
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Angry Senpai UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angry Senpai LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-120
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Angry Senpai LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angry Senpai RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-110
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Angry Senpai RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Angry Senpai DOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-120
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Angry Senpai DOWN NOTE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Reskins/MonsterPixel",
+	"position": [
+		80,
+		170
+	],
+	"healthicon": "Monster Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"camera_position": [
+		350,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

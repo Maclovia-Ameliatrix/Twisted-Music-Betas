@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "robo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "robo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-74
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "robo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "robo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "robo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				2
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "robo hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Fever Characters/robo_fever_assets",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "Robo Fever",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		54,
+		180
+	],
+	"camera_position": [
+		120,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MarkFear Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MarkFear Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MarkFear Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MarkFear Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MarkFear Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/MarkFear",
+	"position": [
+		-230,
+		80
+	],
+	"healthicon": "Mark Scared",
+	"flip_x": true,
+	"healthbar_colors": [
+		222,
+		228,
+		229
+	],
+	"camera_position": [
+		160,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

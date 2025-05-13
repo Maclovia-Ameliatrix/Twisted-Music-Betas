@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Franshin Idle"
+		},
+		{
+			"offsets": [
+				35,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Franshin Left"
+		},
+		{
+			"offsets": [
+				-16,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Franshin Down"
+		},
+		{
+			"offsets": [
+				-2,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Franshin Up"
+		},
+		{
+			"offsets": [
+				-30,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Franshin Right"
+		},
+		{
+			"offsets": [
+				-3,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Franshin Miss Left"
+		},
+		{
+			"offsets": [
+				-2,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Franshin Miss Down"
+		},
+		{
+			"offsets": [
+				-2,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Franshin Miss Up"
+		},
+		{
+			"offsets": [
+				-19,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Franshin Miss Right"
+		},
+		{
+			"offsets": [
+				-3,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Franshin Miss Left"
+		},
+		{
+			"offsets": [
+				-2,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Franshin Miss Down"
+		},
+		{
+			"offsets": [
+				-2,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Franshin Miss Up"
+		},
+		{
+			"offsets": [
+				-20,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Franshin Miss Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/Franshin_Assets",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "Alternate Franshin",
+	"flip_x": true,
+	"healthbar_colors": [
+		83,
+		215,
+		202
+	],
+	"camera_position": [
+		150,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

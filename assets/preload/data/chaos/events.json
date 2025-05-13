@@ -1,0 +1,371 @@
+{
+	"song": {
+		"events": [
+			[
+				714.285714285714,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Dad"
+					]
+				]
+			],
+			[
+				1269.84126984127,
+				[
+					[
+						"Play Animation",
+						"Intro",
+						"Dad"
+					]
+				]
+			],
+			[
+				30317.4603174603,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				30327.3809523809,
+				[
+					[
+						"Play Animation",
+						"Step it up",
+						"Dad"
+					]
+				]
+			],
+			[
+				31666.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				40555.5555555556,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				40562.1693121693,
+				[
+					[
+						"Play Animation",
+						"lmao",
+						"Dad"
+					]
+				]
+			],
+			[
+				41904.7619047619,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				50714.2857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				50719.246031746,
+				[
+					[
+						"Play Animation",
+						"fatphobia",
+						"Dad"
+					]
+				]
+			],
+			[
+				52063.4920634921,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				61507.9365079365,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				61512.8968253969,
+				[
+					[
+						"Play Animation",
+						"Finished",
+						"Dad"
+					]
+				]
+			],
+			[
+				62222.2222222223,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				78730.1587301588,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Super Shadow"
+					],
+					[
+						"Screen Shake",
+						"0.5,0.035",
+						"0.5,0.035"
+					]
+				]
+			],
+			[
+				82142.8571428572,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				82149.470899471,
+				[
+					[
+						"Play Animation",
+						"WHAT",
+						"Dad"
+					]
+				]
+			],
+			[
+				82539.6825396826,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				91349.2063492064,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims3"
+					]
+				]
+			],
+			[
+				91354.1666666668,
+				[
+					[
+						"Play Animation",
+						"Grrr",
+						"Dad"
+					]
+				]
+			],
+			[
+				92698.4126984128,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				100004.96031746,
+				[
+					[
+						"Play Animation",
+						"Ill show you",
+						"Dad"
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				122539.682539683,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				122544.642857143,
+				[
+					[
+						"Play Animation",
+						"AAAA",
+						"Dad"
+					]
+				]
+			],
+			[
+				123174.603174603,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				132539.682539683,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				132544.642857143,
+				[
+					[
+						"Play Animation",
+						"Growl",
+						"Dad"
+					]
+				]
+			],
+			[
+				133333.333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				142142.857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				142147.817460318,
+				[
+					[
+						"Play Animation",
+						"Shut up",
+						"Dad"
+					]
+				]
+			],
+			[
+				143492.063492064,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			],
+			[
+				153571.428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway-anims2"
+					]
+				]
+			],
+			[
+				153664.682539683,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				154920.634920635,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fleetway"
+					]
+				]
+			]
+		]
+	}
+}

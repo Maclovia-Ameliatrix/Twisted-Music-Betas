@@ -1,0 +1,30 @@
+function onCreate()
+    if not hideHud then
+        setProperty('iconP2.y', getProperty('iconP2.y') + 35)
+        makeAnimatedLuaSprite('icon3', nil, getProperty('iconP2.x'), getProperty('iconP2.y'))
+        loadGraphic('icon3', 'icons/Spirit Real', 150)
+        addAnimation('icon3', 'icons/Spirit Real', {0, 1}, 0, true)
+        addLuaSprite('icon3', true)
+        setObjectOrder('icon3', getObjectOrder('iconP2') + 2)
+        setObjectCamera('icon3', 'hud')
+    end
+end
+
+function onUpdate()
+    setProperty("pico.alpha", 0)
+	if not hideHud then
+		setProperty('icon3.y', getProperty('iconP2.y') - 65)
+		setProperty('icon3.x', getProperty('iconP2.x') - 50)
+        setProperty('icon3.scale.x', getProperty('iconP2.scale.x') + 0.1)
+		setProperty('icon3.scale.y', getProperty('iconP2.scale.y') + 0.1)
+	end
+    if getProperty('health') > 1.6 then
+		setProperty('icon3.animation.curAnim.curFrame', '1')
+	else 
+		setProperty('icon3.animation.curAnim.curFrame', '0')	
+	end
+end
+
+function opponentNoteHit(id, direction, noteType, isSustainNote)  
+    cameraShake('game', 0.01, 0.1)
+end

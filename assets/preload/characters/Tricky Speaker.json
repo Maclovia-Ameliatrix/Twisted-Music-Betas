@@ -1,0 +1,163 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "trickyidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				44
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "trickyileft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				88
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "trickyup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "trickydwon",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-35
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "trickyright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Turn",
+			"indices": [],
+			"name": "trickyturning"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				378,
+				816
+			],
+			"anim": "Enter",
+			"fps": 24,
+			"name": "trickyentrance",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				375,
+				810
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38
+			],
+			"fps": 24,
+			"anim": "Scream",
+			"loop": false,
+			"name": "trickyentrance"
+		},
+		{
+			"offsets": [
+				-100,
+				250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Hurt",
+			"loop": true,
+			"name": "tikygetsshot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/TrickySpeakers",
+	"position": [
+		180,
+		0
+	],
+	"healthicon": "Tricky Mask",
+	"flip_x": false,
+	"healthbar_colors": [
+		24,
+		95,
+		64
+	],
+	"camera_position": [
+		-110,
+		-430
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

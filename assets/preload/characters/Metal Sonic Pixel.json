@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Metal_IDLE"
+		},
+		{
+			"offsets": [
+				-9,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Metal_LEFT"
+		},
+		{
+			"offsets": [
+				-9,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF LEFT MISS instance"
+		},
+		{
+			"offsets": [
+				-3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Metal_UP"
+		},
+		{
+			"offsets": [
+				-3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF UP MISS instance"
+		},
+		{
+			"offsets": [
+				51,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Metal_RIGHT"
+		},
+		{
+			"offsets": [
+				51,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF RIGHT MISS instance"
+		},
+		{
+			"offsets": [
+				11,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Metal_DOWN"
+		},
+		{
+			"offsets": [
+				11,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF DOWN MISS instance"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Pixel Metal",
+	"position": [
+		260,
+		620
+	],
+	"healthicon": "Metal Sonic Pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		88,
+		68,
+		216
+	],
+	"camera_position": [
+		160,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

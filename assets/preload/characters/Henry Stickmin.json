@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Henry Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				176,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Henry Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "henry shock omg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Henry Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "henry shock omg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Henry Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "henry shock omg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-74
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Henry Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "henry shock omg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-70
+			],
+			"anim": "Intro",
+			"fps": 24,
+			"name": "Henry Greatest Plan intro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				20
+			],
+			"anim": "final",
+			"fps": 24,
+			"name": "Henry React Arm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/HENRY_ASSS",
+	"position": [
+		110,
+		40
+	],
+	"healthicon": "Henry Stickmin",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		215,
+		216
+	],
+	"camera_position": [
+		-60,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-25,
+				-68
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "t idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				-116
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "t left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-151
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "t down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "t up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-75
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "t right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-2
+			],
+			"anim": "Dead",
+			"fps": 24,
+			"name": "t kill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				95
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "t scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Enter",
+			"fps": 24,
+			"name": "t enter",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-24,
+				-69
+			],
+			"anim": "End",
+			"fps": 24,
+			"name": "ending",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/ExTricky 2024",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "ExTricky",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		188,
+		232
+	],
+	"camera_position": [
+		-120,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

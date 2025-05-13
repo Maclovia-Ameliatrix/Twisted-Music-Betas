@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "metal idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "metal right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "metal down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "metal up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "metal left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Neo Metal",
+	"position": [
+		-190,
+		-130
+	],
+	"healthicon": "Neo Metal Sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		33,
+		56,
+		106
+	],
+	"camera_position": [
+		40,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

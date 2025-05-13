@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fatal error idle"
+		},
+		{
+			"offsets": [
+				198,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RIGHT POSE"
+		},
+		{
+			"offsets": [
+				204,
+				-193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fatal down"
+		},
+		{
+			"offsets": [
+				-52,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP POSE"
+		},
+		{
+			"offsets": [
+				-32,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/fatal_error",
+	"position": [
+		100,
+		60
+	],
+	"healthicon": "Fatal Error",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		15,
+		0
+	],
+	"camera_position": [
+		240,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

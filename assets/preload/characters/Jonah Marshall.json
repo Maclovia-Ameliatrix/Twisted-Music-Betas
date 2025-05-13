@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jonah Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jonah Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jonah Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jonah Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jonah Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/Jonah",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "Jonah Marshall",
+	"flip_x": true,
+	"healthbar_colors": [
+		125,
+		70,
+		255
+	],
+	"camera_position": [
+		150,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tea bat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tea bat right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tea bat down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tea bat up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-99,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tea bat left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Fever Characters/tea_bat",
+	"position": [
+		-100,
+		-50
+	],
+	"healthicon": "Tea Bat",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		219,
+		246
+	],
+	"camera_position": [
+		50,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

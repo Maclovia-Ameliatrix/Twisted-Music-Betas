@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				142,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gogo_Idle"
+		},
+		{
+			"offsets": [
+				230,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gogo_Left"
+		},
+		{
+			"offsets": [
+				141,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gogo_Right"
+		},
+		{
+			"offsets": [
+				213,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gogo_Down"
+		},
+		{
+			"offsets": [
+				110,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gogo_Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Gogo_Sprites",
+	"position": [
+		90,
+		-270
+	],
+	"healthicon": "Gogo",
+	"flip_x": true,
+	"healthbar_colors": [
+		14,
+		9,
+		26
+	],
+	"camera_position": [
+		220,
+		330
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

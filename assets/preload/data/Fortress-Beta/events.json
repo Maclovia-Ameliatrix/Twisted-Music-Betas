@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "cursed-alley",
+		"player1": "bf",
+		"player2": "conners",
+		"player3": null,
+		"events": [
+			[
+				68400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				92400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				111600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				151854.545454545,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-3d"
+					]
+				]
+			],
+			[
+				151854.545454545,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				210654.545454545,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Fortress"
+	}
+}

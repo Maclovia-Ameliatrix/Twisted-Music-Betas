@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-225,
+				141
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Angry_Agoti_Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-39,
+				92
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angry_Agoti_Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-230,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Angry_Agoti_Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-162,
+				281
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angry_Agoti_Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-230,
+				146
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angry_Agoti_Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Angry AGOTI",
+	"position": [
+		-190,
+		240
+	],
+	"healthicon": "AGOTI Mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		340,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

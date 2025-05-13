@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Christmas Faker",
+	"position": [
+		20,
+		-330
+	],
+	"healthicon": "Faker Sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		36,
+		144
+	],
+	"camera_position": [
+		40,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

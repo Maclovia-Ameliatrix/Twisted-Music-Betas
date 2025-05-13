@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-225,
+				141
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				227,
+				355
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				110,
+				260
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-102,
+				470
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				32,
+				398
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/coconut",
+	"position": [
+		-260,
+		310
+	],
+	"healthicon": "Coconut Fred",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		56,
+		32
+	],
+	"camera_position": [
+		-20,
+		-320
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

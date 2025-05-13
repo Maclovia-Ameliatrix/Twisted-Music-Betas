@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Natsuki Idle"
+		},
+		{
+			"offsets": [
+				11,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Natsuki UP"
+		},
+		{
+			"offsets": [
+				48,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Natsuki LEFT"
+		},
+		{
+			"offsets": [
+				18,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Natsuki RIGHT"
+		},
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Natsuki DOWN"
+		},
+		{
+			"offsets": [
+				11,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Natsuki UP"
+		},
+		{
+			"offsets": [
+				48,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Natsuki LEFT"
+		},
+		{
+			"offsets": [
+				18,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Natsuki RIGHT"
+		},
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Natsuki DOWN"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Doki/natsuki-pixel",
+	"position": [
+		150,
+		310
+	],
+	"healthicon": "Natsuki Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		215,
+		200
+	],
+	"camera_position": [
+		-300,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

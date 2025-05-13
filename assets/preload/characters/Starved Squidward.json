@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-95,
+				101
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SS idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-99,
+				62
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "SQ idle alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				275,
+				277
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SS left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				82
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SQ left alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				101
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SS down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				62
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SQ down alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				352
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SS up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				307
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SQ up alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				180
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SS right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				75
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SQ right alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				100
+			],
+			"anim": "Incoming",
+			"fps": 24,
+			"name": "Clarinet is coming",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Starved_Squid",
+	"position": [
+		240,
+		120
+	],
+	"healthicon": "TheUthida",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		0,
+		255
+	],
+	"camera_position": [
+		-130,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

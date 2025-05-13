@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				84
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DEAD RED IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				79
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DEAD RED down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				87
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DEAD RED left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				131
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DEAD RED up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				84
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DEAD RED right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/mt_silver_red_dead",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "Red Dead",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		55,
+		55
+	],
+	"camera_position": [
+		-260,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

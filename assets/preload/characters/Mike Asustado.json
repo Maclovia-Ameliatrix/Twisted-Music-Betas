@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mike_Bed idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mike_Bed LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mike_Bed DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mike_Bed UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mike_Bed RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Mike_Bed MissLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				3
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Mike_Bed MissDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Mike_Bed MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Mike_Bed MissRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Mike_Bed",
+	"position": [
+		-290,
+		280
+	],
+	"healthicon": "Mike",
+	"flip_x": true,
+	"healthbar_colors": [
+		248,
+		143,
+		60
+	],
+	"camera_position": [
+		110,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

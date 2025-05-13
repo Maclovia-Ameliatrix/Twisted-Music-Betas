@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				380
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Amor idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				398
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Amor Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				460
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Amor Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				384
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Amor Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				354
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Amor Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				186,
+				515
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Amor drop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/amorex",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "AmorAltra",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		84,
+		240
+	],
+	"camera_position": [
+		90,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

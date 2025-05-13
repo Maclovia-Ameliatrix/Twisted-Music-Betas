@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				48000,
+				[
+					[
+						"Camera Flash",
+						"CamOther,WHITE",
+						"0.5"
+					]
+				]
+			],
+			[
+				49714.2857142857,
+				[
+					[
+						"Camera Flash",
+						"CamOther,WHITE",
+						"0.5"
+					]
+				]
+			],
+			[
+				51428.5714285715,
+				[
+					[
+						"Camera Flash",
+						"CamOther,WHITE",
+						"0.5"
+					]
+				]
+			],
+			[
+				52285.7142857143,
+				[
+					[
+						"Camera Flash",
+						"CamOther,WHITE",
+						"0.5"
+					]
+				]
+			],
+			[
+				53142.8571428572,
+				[
+					[
+						"Camera Flash",
+						"CamOther,WHITE",
+						"0.5"
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Camera Flash",
+						"CamOther,WHITE",
+						"0.5"
+					]
+				]
+			]
+		]
+	}
+}

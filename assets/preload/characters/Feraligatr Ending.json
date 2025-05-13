@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				858,
+				307
+			],
+			"anim": "Ending",
+			"fps": 24,
+			"name": "Feraligatr",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Feraligatr Ending Animation",
+	"position": [
+		270,
+		-150
+	],
+	"healthicon": "Feraligator",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		102,
+		118
+	],
+	"camera_position": [
+		-1070,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

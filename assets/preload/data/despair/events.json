@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "nm_factory",
+		"player1": "bf",
+		"player2": "nm-bendy",
+		"player3": null,
+		"events": [
+			[
+				4320,
+				[
+					[
+						"Play Animation",
+						"Intro",
+						"nm_bendy"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 187.5,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Despair"
+	}
+}

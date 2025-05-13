@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				37,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "oh no",
+			"indices": [],
+			"name": "uh"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Pixel Amy & Metal",
+	"position": [
+		310,
+		600
+	],
+	"healthicon": "Amy & Metal Pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		88,
+		68,
+		216
+	],
+	"camera_position": [
+		310,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

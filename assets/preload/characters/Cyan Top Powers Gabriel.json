@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				-161
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				137
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-208,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "l-idle"
+		},
+		{
+			"offsets": [
+				-120,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "r-idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/Top-powers",
+	"position": [
+		-60,
+		70
+	],
+	"healthicon": "Cyan Powers",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		215,
+		255
+	],
+	"camera_position": [
+		180,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

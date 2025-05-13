@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Fatal Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Fatal Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Fatal Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Fatal Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Fatal Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Fatal Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Fatal Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Fatal Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Fatal Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Fatal Error Player",
+	"position": [
+		100,
+		260
+	],
+	"healthicon": "Fatal Error Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-700,
+		-440
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

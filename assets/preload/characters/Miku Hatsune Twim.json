@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				21,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle_miku"
+		},
+		{
+			"offsets": [
+				108,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left_miku"
+		},
+		{
+			"offsets": [
+				-46,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down_miku"
+		},
+		{
+			"offsets": [
+				31,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up_miku"
+		},
+		{
+			"offsets": [
+				50,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right_miku"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/M1KU_TWIM",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "Miku Hatsune",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		247
+	],
+	"camera_position": [
+		-50,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

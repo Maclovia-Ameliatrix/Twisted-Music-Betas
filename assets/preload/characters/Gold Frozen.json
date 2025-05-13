@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Silver Idle"
+		},
+		{
+			"offsets": [
+				13,
+				-139
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BlakeDown"
+		},
+		{
+			"offsets": [
+				60,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BlakeUp"
+		},
+		{
+			"offsets": [
+				-136,
+				-47
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BlakeRight"
+		},
+		{
+			"offsets": [
+				200,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BlakeLeft"
+		},
+		{
+			"offsets": [
+				-6,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Enter",
+			"loop": false,
+			"name": "Silver Spawn FULL"
+		},
+		{
+			"offsets": [
+				60,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Bye",
+			"loop": false,
+			"name": "shadowrealm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Frozen Silver",
+	"position": [
+		80,
+		180
+	],
+	"healthicon": "Frozen Gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-100,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

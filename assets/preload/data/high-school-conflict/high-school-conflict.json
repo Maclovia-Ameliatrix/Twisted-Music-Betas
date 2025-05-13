@@ -1,0 +1,4183 @@
+{
+	"song": {
+		"player1": "Natsuki Pixel",
+		"player2": "Sayori Pixel",
+		"events": [],
+		"notes": [
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						6059.60264900662,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						6258.27814569536,
+						1,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						6456.95364238411,
+						2,
+						1092.71523178808,
+						"Pico Sing"
+					],
+					[
+						7649.00662251656,
+						0,
+						298.013245033113,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						8046.35761589404,
+						3,
+						1092.71523178808,
+						"Pico Sing"
+					],
+					[
+						9238.41059602649,
+						1,
+						298.013245033113,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						9635.76158940397,
+						0,
+						1092.71523178808,
+						"Pico Sing"
+					],
+					[
+						10827.8145695364,
+						2,
+						298.013245033113,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						11225.1655629139,
+						3,
+						1092.71523178808,
+						"Pico Sing"
+					],
+					[
+						12417.2185430464,
+						0,
+						298.013245033113,
+						"Pico Sing"
+					],
+					[
+						11423.8410596026,
+						4,
+						0,
+						"Mom Sing"
+					],
+					[
+						11523.178807947,
+						6,
+						0,
+						"Mom Sing"
+					],
+					[
+						11622.5165562914,
+						5,
+						0,
+						"Mom Sing"
+					],
+					[
+						11821.1920529801,
+						5,
+						0,
+						"Mom Sing"
+					],
+					[
+						11920.5298013245,
+						6,
+						0,
+						"Mom Sing"
+					],
+					[
+						12019.8675496689,
+						7,
+						0,
+						"Mom Sing"
+					],
+					[
+						12218.5430463576,
+						5,
+						0,
+						"Mom Sing"
+					],
+					[
+						12317.880794702,
+						4,
+						0,
+						"Mom Sing"
+					],
+					[
+						12417.2185430464,
+						7,
+						0,
+						"Mom Sing"
+					],
+					[
+						12615.8940397351,
+						6,
+						0,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						12814.5695364238,
+						5,
+						1092.71523178808,
+						"Pico Sing"
+					],
+					[
+						12814.5695364238,
+						2,
+						1092.71523178808,
+						"Mom Sing"
+					],
+					[
+						14006.6225165563,
+						0,
+						298.013245033113,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						14403.9735099338,
+						3,
+						1092.71523178808,
+						"Mom Sing"
+					],
+					[
+						15596.0264900662,
+						1,
+						298.013245033113,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						15993.3774834437,
+						0,
+						1092.71523178808,
+						"Mom Sing"
+					],
+					[
+						17185.4304635762,
+						2,
+						298.013245033113,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						17582.7814569536,
+						3,
+						695.364238410596,
+						"Mom Sing"
+					],
+					[
+						18377.4834437086,
+						0,
+						695.364238410596,
+						"Mom Sing"
+					],
+					[
+						17781.4569536424,
+						4,
+						0
+					],
+					[
+						17880.7947019868,
+						6,
+						0
+					],
+					[
+						17980.1324503311,
+						5,
+						0
+					],
+					[
+						18178.8079470199,
+						5,
+						0
+					],
+					[
+						18278.1456953642,
+						6,
+						0
+					],
+					[
+						18377.4834437086,
+						7,
+						0
+					],
+					[
+						18576.1589403974,
+						5,
+						0
+					],
+					[
+						18675.4966887417,
+						4,
+						0
+					],
+					[
+						18774.8344370861,
+						7,
+						0
+					],
+					[
+						18973.5099337748,
+						6,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						19172.1854304636,
+						1,
+						298.013245033113,
+						"Mom Sing"
+					],
+					[
+						19569.5364238411,
+						3,
+						0
+					],
+					[
+						19768.2119205298,
+						3,
+						0
+					],
+					[
+						19966.8874172185,
+						0,
+						198.675496688742
+					],
+					[
+						20264.9006622517,
+						1,
+						198.675496688742
+					],
+					[
+						20562.9139072848,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						20761.5894039735,
+						2,
+						0
+					],
+					[
+						20960.2649006622,
+						3,
+						0
+					],
+					[
+						21158.940397351,
+						2,
+						0
+					],
+					[
+						21357.6158940397,
+						0,
+						298.013245033113
+					],
+					[
+						21754.9668874172,
+						1,
+						0
+					],
+					[
+						21953.642384106,
+						2,
+						0
+					],
+					[
+						22152.3178807947,
+						0,
+						1192.05298013245
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						23543.0463576159,
+						5,
+						0
+					],
+					[
+						23741.7218543046,
+						6,
+						0
+					],
+					[
+						22549.6688741722,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						22649.0066225166,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						22748.3443708609,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						22947.0198675497,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						23046.357615894,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						23145.6953642384,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						23344.3708609271,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						23443.7086092715,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						23543.0463576159,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						23741.7218543046,
+						1,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						23841.059602649,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						23940.3973509934,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						24139.0728476821,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						24238.4105960265,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						24337.7483443709,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						24536.4238410596,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						24635.761589404,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						24735.0993377483,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						24933.7748344371,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						25033.1125827815,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						25132.4503311258,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						25331.1258278146,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						24139.0728476821,
+						5,
+						0
+					],
+					[
+						24536.4238410596,
+						7,
+						298.013245033113
+					],
+					[
+						24933.7748344371,
+						6,
+						0
+					],
+					[
+						25132.4503311258,
+						7,
+						0
+					],
+					[
+						25331.1258278146,
+						4,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						25529.8013245033,
+						5,
+						596.026490066225
+					],
+					[
+						25927.1523178808,
+						3,
+						0
+					],
+					[
+						26125.8278145695,
+						3,
+						0
+					],
+					[
+						26324.5033112583,
+						0,
+						198.675496688742
+					],
+					[
+						26622.5165562914,
+						1,
+						198.675496688742
+					],
+					[
+						26920.5298013245,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						27119.2052980132,
+						2,
+						0
+					],
+					[
+						27317.880794702,
+						3,
+						0
+					],
+					[
+						27516.5562913907,
+						2,
+						0
+					],
+					[
+						27715.2317880795,
+						0,
+						298.013245033113
+					],
+					[
+						28112.5827814569,
+						1,
+						0
+					],
+					[
+						28311.2582781457,
+						2,
+						0
+					],
+					[
+						28509.9337748344,
+						0,
+						1092.71523178808
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						29900.6622516556,
+						5,
+						0
+					],
+					[
+						30099.3377483444,
+						6,
+						0
+					],
+					[
+						28907.2847682119,
+						2,
+						0
+					],
+					[
+						29006.6225165563,
+						0,
+						0
+					],
+					[
+						29105.9602649007,
+						1,
+						0
+					],
+					[
+						29304.6357615894,
+						2,
+						0
+					],
+					[
+						29403.9735099338,
+						3,
+						0
+					],
+					[
+						29503.3112582781,
+						0,
+						0
+					],
+					[
+						29701.9867549669,
+						1,
+						0
+					],
+					[
+						29801.3245033112,
+						0,
+						0
+					],
+					[
+						29900.6622516556,
+						2,
+						0
+					],
+					[
+						30099.3377483444,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						30496.6887417218,
+						5,
+						0
+					],
+					[
+						30894.0397350993,
+						7,
+						298.013245033113
+					],
+					[
+						31291.3907284768,
+						6,
+						0
+					],
+					[
+						31490.0662251656,
+						7,
+						0
+					],
+					[
+						31688.7417218543,
+						4,
+						0
+					],
+					[
+						30198.6754966887,
+						3,
+						0
+					],
+					[
+						30298.0132450331,
+						2,
+						0
+					],
+					[
+						30496.6887417218,
+						0,
+						0
+					],
+					[
+						30596.0264900662,
+						1,
+						0
+					],
+					[
+						30695.3642384106,
+						3,
+						0
+					],
+					[
+						30894.0397350993,
+						1,
+						0
+					],
+					[
+						30993.3774834437,
+						2,
+						0
+					],
+					[
+						31092.7152317881,
+						0,
+						0
+					],
+					[
+						31291.3907284768,
+						1,
+						0
+					],
+					[
+						31390.7284768212,
+						2,
+						0
+					],
+					[
+						31490.0662251656,
+						3,
+						0
+					],
+					[
+						31688.7417218543,
+						0,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						31887.417218543,
+						5,
+						1092.71523178808
+					],
+					[
+						32086.0927152318,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						32185.4304635761,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						32284.7682119205,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						32483.4437086093,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						32880.7947019867,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						33278.1456953642,
+						0,
+						298.013245033113,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						33675.4966887417,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						33874.1721854304,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						34072.8476821192,
+						0,
+						298.013245033113,
+						"Mom Sing"
+					],
+					[
+						34470.1986754967,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						34668.8741721854,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						34867.5496688742,
+						0,
+						894.039735099338,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						36059.6026490066,
+						7,
+						0,
+						"Mom Sing"
+					],
+					[
+						36258.2781456954,
+						6,
+						0,
+						"Mom Sing"
+					],
+					[
+						36456.9536423841,
+						4,
+						0,
+						"Mom Sing"
+					],
+					[
+						35264.9006622516,
+						2,
+						0
+					],
+					[
+						35364.238410596,
+						3,
+						0
+					],
+					[
+						35463.5761589404,
+						1,
+						0
+					],
+					[
+						35662.2516556291,
+						1,
+						0
+					],
+					[
+						35761.5894039735,
+						0,
+						0
+					],
+					[
+						35860.9271523179,
+						2,
+						0
+					],
+					[
+						36059.6026490066,
+						1,
+						0
+					],
+					[
+						36158.940397351,
+						3,
+						0
+					],
+					[
+						36258.2781456954,
+						2,
+						0
+					],
+					[
+						36456.9536423841,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						36854.3046357616,
+						7,
+						0,
+						"Mom Sing"
+					],
+					[
+						37052.9801324503,
+						6,
+						0,
+						"Mom Sing"
+					],
+					[
+						37251.6556291391,
+						5,
+						0,
+						"Mom Sing"
+					],
+					[
+						37649.0066225166,
+						5,
+						496.688741721854,
+						"Mom Sing"
+					],
+					[
+						36556.2913907285,
+						0,
+						0
+					],
+					[
+						36655.6291390728,
+						3,
+						0
+					],
+					[
+						36854.3046357616,
+						2,
+						0
+					],
+					[
+						36953.642384106,
+						3,
+						0
+					],
+					[
+						37052.9801324503,
+						0,
+						0
+					],
+					[
+						37251.6556291391,
+						2,
+						0
+					],
+					[
+						37350.9933774834,
+						1,
+						0
+					],
+					[
+						37450.3311258278,
+						3,
+						0
+					],
+					[
+						37649.0066225166,
+						1,
+						0
+					],
+					[
+						37748.3443708609,
+						2,
+						0
+					],
+					[
+						37847.6821192053,
+						3,
+						0
+					],
+					[
+						38046.357615894,
+						0,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						38443.7086092715,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						38543.0463576159,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						38642.3841059603,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						38841.059602649,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						39238.4105960265,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						39635.761589404,
+						0,
+						298.013245033113,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						40033.1125827815,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						40231.7880794702,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						40430.4635761589,
+						0,
+						298.013245033113,
+						"Pico Sing"
+					],
+					[
+						40827.8145695364,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						41026.4900662252,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						41225.1655629139,
+						0,
+						894.039735099338,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						42417.2185430464,
+						7,
+						0,
+						"Pico Sing"
+					],
+					[
+						42615.8940397351,
+						6,
+						0,
+						"Pico Sing"
+					],
+					[
+						42814.5695364238,
+						4,
+						0,
+						"Pico Sing"
+					],
+					[
+						41622.5165562914,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						41721.8543046358,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						41821.1920529801,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						42019.8675496689,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						42119.2052980132,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						42218.5430463576,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						42417.2185430464,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						42516.5562913907,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						42615.8940397351,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						42814.5695364238,
+						1,
+						0,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						43211.9205298013,
+						7,
+						0,
+						"Pico Sing"
+					],
+					[
+						43410.5960264901,
+						6,
+						0,
+						"Pico Sing"
+					],
+					[
+						43609.2715231788,
+						5,
+						0,
+						"Pico Sing"
+					],
+					[
+						44006.6225165563,
+						5,
+						496.688741721854,
+						"Pico Sing"
+					],
+					[
+						42913.9072847682,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						43013.2450331126,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						43211.9205298013,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						43311.2582781457,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						43410.5960264901,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						43609.2715231788,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						43708.6092715232,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						43807.9470198675,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						44006.6225165563,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						44105.9602649007,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						44205.298013245,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						44403.9735099338,
+						0,
+						0,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						46390.7284768212,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						46490.0662251656,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						46589.4039735099,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						46788.0794701987,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						46887.4172185431,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						46986.7549668874,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						47185.4304635762,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						47284.7682119205,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						47384.1059602649,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						47582.7814569536,
+						2,
+						0,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						49569.5364238411,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						49668.8741721854,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						49768.2119205298,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						49966.8874172186,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						50066.2251655629,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						50165.5629139073,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						50364.238410596,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						50463.5761589404,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						50562.9139072848,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						50761.5894039735,
+						2,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						52748.3443708609,
+						3,
+						0
+					],
+					[
+						52847.6821192053,
+						1,
+						0
+					],
+					[
+						52947.0198675497,
+						2,
+						0
+					],
+					[
+						53145.6953642384,
+						0,
+						0
+					],
+					[
+						53245.0331125828,
+						1,
+						0
+					],
+					[
+						53344.3708609272,
+						3,
+						0
+					],
+					[
+						53543.0463576159,
+						1,
+						0
+					],
+					[
+						53642.3841059603,
+						0,
+						0
+					],
+					[
+						53741.7218543046,
+						2,
+						0
+					],
+					[
+						53940.3973509934,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						55927.1523178808,
+						3,
+						0
+					],
+					[
+						56026.4900662252,
+						1,
+						0
+					],
+					[
+						56125.8278145696,
+						2,
+						0
+					],
+					[
+						56324.5033112583,
+						0,
+						0
+					],
+					[
+						56423.8410596027,
+						1,
+						0
+					],
+					[
+						56523.178807947,
+						3,
+						0
+					],
+					[
+						56721.8543046358,
+						1,
+						0
+					],
+					[
+						56821.1920529802,
+						0,
+						0
+					],
+					[
+						56920.5298013245,
+						2,
+						0
+					],
+					[
+						57119.2052980133,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						57715.2317880795,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						57913.9072847682,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						58112.582781457,
+						0,
+						198.675496688742,
+						"Mom Sing"
+					],
+					[
+						58410.5960264901,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						58509.9337748345,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						58708.6092715232,
+						1,
+						0,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						58907.2847682119,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						59105.9602649007,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						59304.6357615894,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						59503.3112582782,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						59701.9867549669,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						59900.6622516557,
+						2,
+						198.675496688742,
+						"Mom Sing"
+					],
+					[
+						60298.0132450331,
+						0,
+						0,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						60397.3509933775,
+						6,
+						0,
+						"Mom Sing"
+					],
+					[
+						60496.6887417219,
+						7,
+						894.039735099338,
+						"Mom Sing"
+					],
+					[
+						60695.3642384106,
+						1,
+						0
+					],
+					[
+						60794.701986755,
+						0,
+						0
+					],
+					[
+						60894.0397350994,
+						2,
+						0
+					],
+					[
+						61092.7152317881,
+						1,
+						0
+					],
+					[
+						61192.0529801325,
+						0,
+						0
+					],
+					[
+						61291.3907284768,
+						3,
+						0
+					],
+					[
+						61490.0662251656,
+						2,
+						0
+					],
+					[
+						61589.40397351,
+						3,
+						0
+					],
+					[
+						61688.7417218543,
+						0,
+						0
+					],
+					[
+						61887.4172185431,
+						2,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						62086.0927152318,
+						4,
+						695.364238410596,
+						"Mom Sing"
+					],
+					[
+						62880.7947019868,
+						6,
+						695.364238410596,
+						"Mom Sing"
+					],
+					[
+						61986.7549668874,
+						3,
+						0
+					],
+					[
+						62086.0927152318,
+						1,
+						0
+					],
+					[
+						62284.7682119206,
+						2,
+						0
+					],
+					[
+						62384.1059602649,
+						0,
+						0
+					],
+					[
+						62483.4437086093,
+						1,
+						0
+					],
+					[
+						62682.119205298,
+						2,
+						0
+					],
+					[
+						62781.4569536424,
+						1,
+						0
+					],
+					[
+						62880.7947019868,
+						3,
+						0
+					],
+					[
+						63079.4701986755,
+						1,
+						0
+					],
+					[
+						63178.8079470199,
+						2,
+						0
+					],
+					[
+						63278.1456953643,
+						0,
+						0
+					],
+					[
+						63476.821192053,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						63675.4966887417,
+						5,
+						695.364238410596,
+						"Mom Sing"
+					],
+					[
+						64072.8476821192,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						64271.523178808,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						64470.1986754967,
+						0,
+						397.350993377483,
+						"Pico Sing"
+					],
+					[
+						65066.2251655629,
+						1,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						65165.5629139073,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						65264.9006622517,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						65463.5761589404,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						65662.2516556292,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						65860.9271523179,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						66059.6026490067,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						66258.2781456954,
+						2,
+						198.675496688742,
+						"Pico Sing"
+					],
+					[
+						66655.6291390729,
+						0,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						66754.9668874172,
+						6,
+						0,
+						"Pico Sing"
+					],
+					[
+						66854.3046357616,
+						7,
+						894.039735099338,
+						"Pico Sing"
+					],
+					[
+						67052.9801324504,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						67152.3178807947,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						67251.6556291391,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						67450.3311258278,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						67549.6688741722,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						67649.0066225166,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						67847.6821192053,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						67947.0198675497,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						68046.3576158941,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						68245.0331125828,
+						2,
+						0,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						68443.7086092716,
+						4,
+						695.364238410596,
+						"Pico Sing"
+					],
+					[
+						69238.4105960265,
+						6,
+						695.364238410596,
+						"Pico Sing"
+					],
+					[
+						68344.3708609272,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						68443.7086092716,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						68642.3841059603,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						68741.7218543047,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						68841.059602649,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						69039.7350993378,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						69139.0728476822,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						69238.4105960265,
+						3,
+						0,
+						"Mom Sing"
+					],
+					[
+						69437.0860927153,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						69536.4238410596,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						69635.761589404,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						69834.4370860927,
+						1,
+						0,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						70033.1125827815,
+						5,
+						695.364238410596,
+						"Pico Sing"
+					],
+					[
+						70231.7880794702,
+						1,
+						0
+					],
+					[
+						70331.1258278146,
+						0,
+						0
+					],
+					[
+						70430.463576159,
+						3,
+						0
+					],
+					[
+						70629.1390728477,
+						2,
+						0
+					],
+					[
+						71423.8410596027,
+						0,
+						298.013245033113
+					],
+					[
+						71026.4900662252,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						71821.1920529802,
+						1,
+						0
+					],
+					[
+						72019.8675496689,
+						2,
+						0
+					],
+					[
+						72218.5430463576,
+						0,
+						298.013245033113
+					],
+					[
+						72615.8940397351,
+						3,
+						0
+					],
+					[
+						72814.5695364239,
+						2,
+						0
+					],
+					[
+						73013.2450331126,
+						0,
+						894.039735099338
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						74205.2980132451,
+						7,
+						0
+					],
+					[
+						74403.9735099338,
+						6,
+						0
+					],
+					[
+						74602.6490066226,
+						4,
+						0
+					],
+					[
+						73410.5960264901,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						73509.9337748345,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						73609.2715231788,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						73807.9470198676,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						73907.284768212,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						74006.6225165563,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						74205.2980132451,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						74304.6357615894,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						74403.9735099338,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						74602.6490066226,
+						1,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						74701.9867549669,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						74801.3245033113,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						75000,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						75099.3377483444,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						75198.6754966888,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						75397.3509933775,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						75496.6887417219,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						75596.0264900663,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						75794.701986755,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						75894.0397350994,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						75993.3774834437,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						76192.0529801325,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						75000,
+						7,
+						0
+					],
+					[
+						75198.6754966888,
+						6,
+						0
+					],
+					[
+						75397.3509933775,
+						5,
+						0
+					],
+					[
+						75794.701986755,
+						5,
+						496.688741721854
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						76589.40397351,
+						1,
+						0
+					],
+					[
+						76688.7417218543,
+						0,
+						0
+					],
+					[
+						76788.0794701987,
+						3,
+						0
+					],
+					[
+						76986.7549668875,
+						2,
+						0
+					],
+					[
+						77384.1059602649,
+						3,
+						0
+					],
+					[
+						77781.4569536424,
+						0,
+						298.013245033113
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						78178.8079470199,
+						1,
+						0
+					],
+					[
+						78377.4834437087,
+						2,
+						0
+					],
+					[
+						78576.1589403974,
+						0,
+						298.013245033113
+					],
+					[
+						78973.5099337749,
+						3,
+						0
+					],
+					[
+						79172.1854304636,
+						2,
+						0
+					],
+					[
+						79370.8609271524,
+						0,
+						894.039735099338
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						80562.9139072848,
+						7,
+						0
+					],
+					[
+						80761.5894039736,
+						6,
+						0
+					],
+					[
+						80960.2649006623,
+						4,
+						0
+					],
+					[
+						79768.2119205299,
+						2,
+						0
+					],
+					[
+						79867.5496688742,
+						3,
+						0
+					],
+					[
+						79966.8874172186,
+						1,
+						0
+					],
+					[
+						80165.5629139073,
+						1,
+						0
+					],
+					[
+						80264.9006622517,
+						0,
+						0
+					],
+					[
+						80364.2384105961,
+						2,
+						0
+					],
+					[
+						80562.9139072848,
+						1,
+						0
+					],
+					[
+						80662.2516556292,
+						3,
+						0
+					],
+					[
+						80761.5894039736,
+						2,
+						0
+					],
+					[
+						80960.2649006623,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						81059.6026490067,
+						0,
+						0
+					],
+					[
+						81158.940397351,
+						3,
+						0
+					],
+					[
+						81357.6158940398,
+						2,
+						0
+					],
+					[
+						81456.9536423841,
+						3,
+						0
+					],
+					[
+						81556.2913907285,
+						0,
+						0
+					],
+					[
+						81754.9668874173,
+						2,
+						0
+					],
+					[
+						81357.6158940398,
+						7,
+						0
+					],
+					[
+						81556.2913907285,
+						6,
+						0
+					],
+					[
+						81754.9668874173,
+						5,
+						0
+					],
+					[
+						82152.3178807948,
+						6,
+						596.026490066225
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						83046.3576158941,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						82947.0198675497,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						83145.6953642385,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						83344.3708609272,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						83543.046357616,
+						3,
+						298.013245033113,
+						"Mom Sing"
+					],
+					[
+						83940.3973509934,
+						1,
+						0,
+						"Mom Sing"
+					],
+					[
+						84139.0728476822,
+						0,
+						298.013245033113,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						84536.4238410597,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						84933.7748344371,
+						0,
+						0,
+						"Mom Sing"
+					],
+					[
+						85033.1125827815,
+						1,
+						397.350993377483,
+						"Mom Sing"
+					],
+					[
+						85529.8013245034,
+						2,
+						0,
+						"Mom Sing"
+					],
+					[
+						85728.4768211921,
+						3,
+						0,
+						"Mom Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						85827.8145695365,
+						5,
+						0,
+						"Mom Sing"
+					],
+					[
+						85927.1523178809,
+						4,
+						1092.71523178808,
+						"Mom Sing"
+					],
+					[
+						87119.2052980133,
+						5,
+						0,
+						"Mom Sing"
+					],
+					[
+						87317.880794702,
+						4,
+						0,
+						"Mom Sing"
+					],
+					[
+						86225.165562914,
+						2,
+						0
+					],
+					[
+						86324.5033112583,
+						1,
+						0
+					],
+					[
+						86423.8410596027,
+						3,
+						0
+					],
+					[
+						86622.5165562914,
+						0,
+						496.688741721854
+					],
+					[
+						87218.5430463577,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						87516.5562913908,
+						7,
+						0,
+						"Mom Sing"
+					],
+					[
+						87715.2317880795,
+						6,
+						0,
+						"Mom Sing"
+					],
+					[
+						88112.582781457,
+						4,
+						0,
+						"Mom Sing"
+					],
+					[
+						88311.2582781458,
+						6,
+						0,
+						"Mom Sing"
+					],
+					[
+						88708.6092715232,
+						5,
+						0,
+						"Mom Sing"
+					],
+					[
+						88907.284768212,
+						7,
+						0,
+						"Mom Sing"
+					],
+					[
+						87715.2317880795,
+						3,
+						0
+					],
+					[
+						87814.5695364239,
+						2,
+						0
+					],
+					[
+						87913.9072847683,
+						0,
+						0
+					],
+					[
+						88112.582781457,
+						2,
+						496.688741721854
+					],
+					[
+						88708.6092715232,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						89304.6357615895,
+						2,
+						0
+					],
+					[
+						89006.6225165564,
+						6,
+						0,
+						"Mom Sing"
+					],
+					[
+						89105.9602649007,
+						4,
+						993.377483443709,
+						"Mom Sing"
+					],
+					[
+						90298.0132450332,
+						5,
+						298.013245033113,
+						"Mom Sing"
+					],
+					[
+						89403.9735099338,
+						2,
+						0
+					],
+					[
+						89503.3112582782,
+						0,
+						0
+					],
+					[
+						89701.9867549669,
+						1,
+						0
+					],
+					[
+						89900.6622516557,
+						3,
+						298.013245033113
+					],
+					[
+						90298.0132450332,
+						1,
+						0
+					],
+					[
+						90496.6887417219,
+						0,
+						298.013245033113
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						90695.3642384107,
+						7,
+						695.364238410596,
+						"Mom Sing"
+					],
+					[
+						91490.0662251656,
+						5,
+						695.364238410596,
+						"Mom Sing"
+					],
+					[
+						90894.0397350994,
+						1,
+						0
+					],
+					[
+						91291.3907284769,
+						2,
+						496.688741721854
+					],
+					[
+						91887.4172185431,
+						3,
+						0
+					],
+					[
+						92086.0927152318,
+						1,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						92284.7682119206,
+						2,
+						1092.71523178808,
+						"Mom Sing"
+					],
+					[
+						93476.821192053,
+						3,
+						298.013245033113,
+						"Mom Sing"
+					],
+					[
+						92185.4304635762,
+						4,
+						0
+					],
+					[
+						92284.7682119206,
+						7,
+						1092.71523178808
+					],
+					[
+						93476.821192053,
+						5,
+						0
+					],
+					[
+						93675.4966887418,
+						6,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						93874.1721854305,
+						0,
+						298.013245033113,
+						"Mom Sing"
+					],
+					[
+						94271.523178808,
+						1,
+						298.013245033113,
+						"Mom Sing"
+					],
+					[
+						94668.8741721855,
+						3,
+						298.013245033113,
+						"Mom Sing"
+					],
+					[
+						95066.225165563,
+						1,
+						298.013245033113,
+						"Mom Sing"
+					],
+					[
+						93874.1721854305,
+						7,
+						0
+					],
+					[
+						94072.8476821193,
+						5,
+						0
+					],
+					[
+						94470.1986754968,
+						4,
+						0
+					],
+					[
+						94668.8741721855,
+						7,
+						0
+					],
+					[
+						95066.225165563,
+						5,
+						0
+					],
+					[
+						95264.9006622517,
+						4,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						95364.2384105961,
+						6,
+						0
+					],
+					[
+						95860.9271523179,
+						2,
+						0
+					],
+					[
+						96059.6026490067,
+						3,
+						0
+					],
+					[
+						96258.2781456954,
+						0,
+						298.013245033113
+					],
+					[
+						96655.6291390729,
+						2,
+						0
+					],
+					[
+						96854.3046357617,
+						1,
+						298.013245033113
+					],
+					[
+						95662.2516556292,
+						5,
+						695.364238410596,
+						"Pico Sing"
+					],
+					[
+						95860.9271523179,
+						7,
+						496.688741721854,
+						"Pico Sing"
+					],
+					[
+						96456.9536423842,
+						6,
+						0,
+						"Pico Sing"
+					],
+					[
+						96655.6291390729,
+						7,
+						0,
+						"Pico Sing"
+					],
+					[
+						96854.3046357617,
+						4,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						97251.6556291391,
+						2,
+						0
+					],
+					[
+						97649.0066225166,
+						3,
+						0
+					],
+					[
+						98046.3576158941,
+						2,
+						0
+					],
+					[
+						97748.344370861,
+						1,
+						198.675496688742
+					],
+					[
+						98245.0331125829,
+						0,
+						0
+					],
+					[
+						98443.7086092716,
+						2,
+						0
+					],
+					[
+						97251.6556291391,
+						5,
+						695.364238410596,
+						"Pico Sing"
+					],
+					[
+						97450.3311258279,
+						7,
+						496.688741721854,
+						"Pico Sing"
+					],
+					[
+						98046.3576158941,
+						4,
+						0,
+						"Pico Sing"
+					],
+					[
+						98245.0331125829,
+						6,
+						0,
+						"Pico Sing"
+					],
+					[
+						98443.7086092716,
+						7,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						98543.046357616,
+						5,
+						0
+					],
+					[
+						98642.3841059603,
+						7,
+						1092.71523178808
+					],
+					[
+						99834.4370860928,
+						5,
+						0
+					],
+					[
+						100033.112582782,
+						4,
+						0
+					],
+					[
+						98642.3841059603,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						98841.0596026491,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						99238.4105960266,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						99437.0860927153,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						99834.4370860928,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						100033.112582782,
+						2,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						100231.78807947,
+						7,
+						0
+					],
+					[
+						100430.463576159,
+						6,
+						0
+					],
+					[
+						100827.814569536,
+						4,
+						0
+					],
+					[
+						101026.490066225,
+						6,
+						0
+					],
+					[
+						101423.841059603,
+						7,
+						0
+					],
+					[
+						101523.178807947,
+						6,
+						0
+					],
+					[
+						101622.516556291,
+						5,
+						0
+					],
+					[
+						100430.463576159,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						100629.139072848,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						100827.814569536,
+						2,
+						298.013245033113,
+						"Pico Sing"
+					],
+					[
+						101225.165562914,
+						3,
+						0,
+						"Pico Sing"
+					],
+					[
+						101423.841059603,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						101622.516556291,
+						1,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						101721.854304636,
+						6,
+						0
+					],
+					[
+						101821.19205298,
+						4,
+						496.688741721854
+					],
+					[
+						102417.218543046,
+						7,
+						0
+					],
+					[
+						102615.894039735,
+						5,
+						298.013245033113
+					],
+					[
+						103013.245033113,
+						4,
+						0
+					],
+					[
+						103211.920529801,
+						7,
+						298.013245033113
+					],
+					[
+						102218.543046358,
+						2,
+						496.688741721854,
+						"Pico Sing"
+					],
+					[
+						102814.569536424,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						103013.245033113,
+						2,
+						0,
+						"Pico Sing"
+					],
+					[
+						103211.920529801,
+						0,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103609.271523179,
+						6,
+						0
+					],
+					[
+						104006.622516556,
+						7,
+						496.688741721854
+					],
+					[
+						104602.649006623,
+						5,
+						0
+					],
+					[
+						104801.324503311,
+						6,
+						0
+					],
+					[
+						103609.271523179,
+						3,
+						695.364238410596,
+						"Pico Sing"
+					],
+					[
+						103807.947019868,
+						2,
+						496.688741721854,
+						"Pico Sing"
+					],
+					[
+						104403.973509934,
+						1,
+						0,
+						"Pico Sing"
+					],
+					[
+						104602.649006623,
+						0,
+						0,
+						"Pico Sing"
+					],
+					[
+						104801.324503311,
+						2,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						105000,
+						0,
+						1092.71523178808
+					],
+					[
+						106192.052980133,
+						2,
+						0
+					],
+					[
+						106390.728476821,
+						1,
+						0
+					],
+					[
+						105000,
+						5,
+						0,
+						"Pico Sing"
+					],
+					[
+						105198.675496689,
+						6,
+						0,
+						"Pico Sing"
+					],
+					[
+						105397.350993378,
+						7,
+						0,
+						"Pico Sing"
+					],
+					[
+						105596.026490066,
+						4,
+						0,
+						"Pico Sing"
+					],
+					[
+						105794.701986755,
+						6,
+						0,
+						"Pico Sing"
+					],
+					[
+						105993.377483444,
+						7,
+						0,
+						"Pico Sing"
+					],
+					[
+						106192.052980133,
+						5,
+						0,
+						"Pico Sing"
+					],
+					[
+						106390.728476821,
+						7,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						106589.40397351,
+						3,
+						0
+					],
+					[
+						106788.079470199,
+						2,
+						0
+					],
+					[
+						107185.430463576,
+						1,
+						0
+					],
+					[
+						107384.105960265,
+						2,
+						0
+					],
+					[
+						107781.456953642,
+						0,
+						0
+					],
+					[
+						107980.132450331,
+						2,
+						0
+					],
+					[
+						106788.079470199,
+						6,
+						0,
+						"Pico Sing"
+					],
+					[
+						106887.417218543,
+						7,
+						0,
+						"Pico Sing"
+					],
+					[
+						106986.754966887,
+						4,
+						496.688741721854,
+						"Pico Sing"
+					],
+					[
+						107582.781456954,
+						7,
+						0,
+						"Pico Sing"
+					],
+					[
+						107781.456953642,
+						5,
+						0,
+						"Pico Sing"
+					],
+					[
+						107980.132450331,
+						4,
+						0,
+						"Pico Sing"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						108178.80794702,
+						1,
+						1092.71523178808
+					],
+					[
+						108178.80794702,
+						5,
+						1092.71523178808
+					],
+					[
+						108178.80794702,
+						5,
+						1092.71523178808,
+						"Duo Note"
+					],
+					[
+						108178.80794702,
+						1,
+						1092.71523178808,
+						"Duo Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 151,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 151
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 151,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"gfVersion": "Senpai Speakers Pixel",
+		"player4": "Monika Pixel",
+		"player5": "Yuri Pixel",
+		"song": "High School Conflict",
+		"arrowSkin": "Custom Notes/DDLC",
+		"needsVoices": false,
+		"validScore": true,
+		"stage": "school",
+		"speed": 2.8,
+		"bpm": 151,
+		"gameHUDType": "Doki Doki"
+	}
+}

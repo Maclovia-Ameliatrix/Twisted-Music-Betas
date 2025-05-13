@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nbe id",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nbe left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-20
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "nb l m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nbe down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-38
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "nb d m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nbe up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				24
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "nb u m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nbe right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "nb r m",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				84
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "nb v",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "nb hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-8
+			],
+			"anim": "meh",
+			"fps": 24,
+			"name": "nb af",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				17
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "nb do",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				853,
+				128
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "nb att",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				-8
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "nb p att",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/NEo BF Old",
+	"position": [
+		30,
+		300
+	],
+	"healthicon": "BF Old Neo",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		255,
+		155
+	],
+	"camera_position": [
+		60,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

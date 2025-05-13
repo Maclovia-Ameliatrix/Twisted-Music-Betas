@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-120,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Npesta idle dance"
+		},
+		{
+			"offsets": [
+				-33,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Npesta Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-55,
+				-62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Npesta Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-50,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Npesta Sing Note UP"
+		},
+		{
+			"offsets": [
+				-94,
+				-26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Npesta Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/npesta",
+	"position": [
+		30,
+		60
+	],
+	"healthicon": "AmorAltra Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		118,
+		236
+	],
+	"camera_position": [
+		70,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

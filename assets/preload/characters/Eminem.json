@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mm idle"
+		},
+		{
+			"offsets": [
+				81,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mm left"
+		},
+		{
+			"offsets": [
+				190,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mm down"
+		},
+		{
+			"offsets": [
+				64,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mm up"
+		},
+		{
+			"offsets": [
+				0,
+				-83
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mm right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/eminem_assets",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "Eminem",
+	"flip_x": false,
+	"healthbar_colors": [
+		62,
+		62,
+		62
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

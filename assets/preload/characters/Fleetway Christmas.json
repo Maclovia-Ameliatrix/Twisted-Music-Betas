@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fleetwayidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fleetright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fleet up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fleetleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-91
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fleetdown",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-29,
+				-5
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "annoyed idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				-10
+			],
+			"anim": "idle-alt-2",
+			"fps": 24,
+			"name": "ugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Christmas Fleet",
+	"position": [
+		120,
+		-70
+	],
+	"healthicon": "Fleet Sunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		20,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

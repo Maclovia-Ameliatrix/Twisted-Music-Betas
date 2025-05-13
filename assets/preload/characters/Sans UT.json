@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EReree ee instanc",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftUT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownUT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpUT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightUT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				417,
+				107
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Sike instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Sans_but_Rip_colors",
+	"position": [
+		70,
+		230
+	],
+	"healthicon": "Sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		80,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

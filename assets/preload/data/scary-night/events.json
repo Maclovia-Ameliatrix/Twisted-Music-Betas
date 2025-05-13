@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				124800,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Intruder Dream"
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Intruder"
+					]
+				]
+			]
+		]
+	}
+}

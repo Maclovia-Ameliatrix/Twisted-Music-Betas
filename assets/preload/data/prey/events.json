@@ -1,0 +1,281 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematics (OverLap)",
+						"0.25",
+						"120"
+					]
+				]
+			],
+			[
+				11250,
+				[
+					[
+						"Lyrics",
+						"Jeez",
+						"0x6C6CD8"
+					]
+				]
+			],
+			[
+				11931.8181818182,
+				[
+					[
+						"Lyrics",
+						"Jeez, i  haven't seen any animals for miles...",
+						"0x6C6CD8"
+					]
+				]
+			],
+			[
+				14318.1818181818,
+				[
+					[
+						"Lyrics",
+						"Robuttnik must've been working overtime.",
+						"0x6C6CD8"
+					]
+				]
+			],
+			[
+				17301.1363636364,
+				[
+					[
+						"Lyrics",
+						"TARGET SPOTTED.",
+						"0x4E4E4E"
+					]
+				]
+			],
+			[
+				18920.4545454545,
+				[
+					[
+						"Lyrics",
+						"Huh?",
+						"0x6C6CD8"
+					]
+				]
+			],
+			[
+				19647.0170454545,
+				[
+					[
+						"Lyrics",
+						"Huh?, Do i smell...",
+						"0x6C6CD8"
+					]
+				]
+			],
+			[
+				21136.3636363636,
+				[
+					[
+						"Lyrics",
+						"Huh?, Do i smell... smoke?!",
+						"0x6C6CD8"
+					]
+				]
+			],
+			[
+				21818.1818181818,
+				[
+					[
+						"Lyrics",
+						"",
+						"0x6C6CD8"
+					],
+					[
+						"Cinematics (OverLap)",
+						"0.25",
+						"0"
+					]
+				]
+			],
+			[
+				131676.136363636,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Starved Pixel"
+					]
+				]
+			],
+			[
+				131761.363636364,
+				[
+					[
+						"Lyrics",
+						"Seems that bucket of bolts had to lay off the nitro this time around!",
+						"0x6C6CD8"
+					],
+					[
+						"Cinematics (OverLap)",
+						"0.25",
+						"120"
+					]
+				]
+			],
+			[
+				131846.590909091,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Dad"
+					]
+				]
+			],
+			[
+				131846.590909091,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"BF"
+					]
+				]
+			],
+			[
+				131846.590909091,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"GF"
+					]
+				]
+			],
+			[
+				135255.681818182,
+				[
+					[
+						"Lyrics",
+						"Hey Red Head!",
+						"0x6C6CD8"
+					]
+				]
+			],
+			[
+				136363.636363636,
+				[
+					[
+						"Lyrics",
+						"Might wanna repair your toys!",
+						"0x6C6CD8"
+					]
+				]
+			],
+			[
+				138494.318181818,
+				[
+					[
+						"Lyrics",
+						"You don't even know your fate, hedgehog...",
+						"0xBB0000"
+					]
+				]
+			],
+			[
+				143181.818181818,
+				[
+					[
+						"Lyrics",
+						"*Maniacal kackling*",
+						"0xBB0000"
+					]
+				]
+			],
+			[
+				152301.136363636,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Peelout Sonic Pixel"
+					]
+				]
+			],
+			[
+				152301.136363636,
+				[
+					[
+						"Change Character",
+						"GF",
+						"Peelout Tails Pixel"
+					]
+				]
+			],
+			[
+				152727.272727273,
+				[
+					[
+						"Lyrics",
+						"",
+						"0x6C6CD8"
+					],
+					[
+						"Cinematics (OverLap)",
+						"0.25",
+						"0"
+					]
+				]
+			],
+			[
+				284232.954545453,
+				[
+					[
+						"Lyrics",
+						"Man, you really like scrambling your own plans don't'cha",
+						"0x6C6CD8"
+					]
+				]
+			],
+			[
+				284232.954545453,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"BF"
+					]
+				]
+			],
+			[
+				284232.954545453,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"GF"
+					]
+				]
+			],
+			[
+				284232.954545453,
+				[
+					[
+						"Cinematics (OverLap)",
+						"0.2",
+						"90"
+					]
+				]
+			],
+			[
+				286960.227272726,
+				[
+					[
+						"Lyrics",
+						"",
+						"0xBB0000"
+					]
+				]
+			]
+		]
+	}
+}

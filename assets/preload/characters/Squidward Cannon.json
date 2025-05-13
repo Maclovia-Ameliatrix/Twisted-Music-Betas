@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				185
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				185
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				290
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				290
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				230
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				230
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				150
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/cannon squidward",
+	"position": [
+		-290,
+		0
+	],
+	"healthicon": "Squidward Cannon",
+	"flip_x": false,
+	"healthbar_colors": [
+		182,
+		203,
+		194
+	],
+	"camera_position": [
+		-80,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

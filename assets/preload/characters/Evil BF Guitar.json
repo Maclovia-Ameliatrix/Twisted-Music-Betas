@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim",
+			"indices": [],
+			"name": "Animation guitar"
+		},
+		{
+			"offsets": [
+				35,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Guitar down"
+		},
+		{
+			"offsets": [
+				12,
+				186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shred guitar"
+		},
+		{
+			"offsets": [
+				140,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "LetsEnd",
+			"indices": [],
+			"name": "THROW GUITAR"
+		},
+		{
+			"offsets": [
+				12,
+				186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GUITAR XD"
+		},
+		{
+			"offsets": [
+				11,
+				186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GUITAR XD"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				230
+			],
+			"anim": "up",
+			"fps": 24,
+			"name": "guitar xd",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/SBFGA",
+	"position": [
+		130,
+		160
+	],
+	"healthicon": "Evil BF",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		40,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.00000000000001
+}

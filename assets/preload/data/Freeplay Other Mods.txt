@@ -1,0 +1,182 @@
+Lo Fight:0:Whitty
+Overhead:0:Whitty
+Ballistic:0:Whitty Crazy
+Low Rise:0:Cooler
+Underground:0:Cooler
+Hungry:0:Cooler
+Faucet:0:4fuck
+Experimental Phase:1:Daidem Animated
+Perfection:1:Daidem Animated
+Screenplay:1:AGOTI
+Agoti:1:AGOTI Mad
+Shotgun Shell:1:Aldryx
+Parasite:1:AGOTI
+Godrays:1:Solazar
+Promenade:1:Nikusa
+My Battle:1:Tabi
+Last Chance:1:Tabi
+Genocide:1:Tabi Mad
+Ukiyo:1:Cassette Girl
+Earworm:1:Cassette Girl
+Machina:1:Cassette Girl
+Soda Groove:1:Cassette Girl
+City Funk:1:Cassette Girl
+Night Lights:1:Cassette Goon
+Cold Flow:1:Cassette Goon
+Ground Zero:1:Cassette Goon
+Dying Lights:1:Cassette Goon
+Ghost:1:Cassette Goon
+Streets:1:Cassette Girl
+Thoughts:1:Cassette Girl
+Night2Lights:1:Cassette Goon
+Chiller:1:Skid & Pump D Side
+Tormentor:1:Evil BF
+Neuroses:1:Evil BF
+Discharge:1:Evil BF
+Matricidal:1:Kaity Mom
+Milk:1:Kaity Mom
+Schizophrenzy:1:Kaity Mom
+Lament:1:Kaity Dad
+Dusk:1:Kaity Dad
+Deathmatch:1:Kaity Dad
+Dead Pixel:1:Monster Pixel
+Treacherous Thorns:1:Michael Jackson Pixel
+Roots:1:Just Monika Pixel
+Highrise:1:Neon Pixel
+Ordinance:1:Neon Pixel
+Transgression:1:Neon Maxed Pixel
+Demonila:1:Selever
+Casanova:1:Selever
+Attack:1:Selever Angry
+Crimsong:1:Selever Angry
+Trolling:1:TrollFace
+Mistaken:1:The Incident
+The Incident:1:Trollge
+Connect:1:Tomoe Mami
+Reminisce:1:Tomoe Mami
+Salvation:1:Tomoe Mami Holy
+Tetris:1:Tomoe Tetris
+Sleeptalk:1:Girl
+Roughhouse:1:Boy
+Power Hour:1:Boy & Girl
+Boogieman:1:Boogieman
+High School Conflict:1:Sayori Pixel
+Bara No Yume:1:Yuri Pixel
+Your Demise:1:Just Natsuki Pixel
+Dual Demise:1:Just Monika & Spirit Pixel
+Your Reality:1:Monika Pixel
+Poems N Thorns:1:Monika & Senpai Pixel
+Drinks On Me:1:Jill Pixel
+Crucify:1:Yuri
+Beathoven:1:Natsuki
+Its Complicated:1:Sayori
+Glitcher:1:Monika
+Titular:1:Protag MC
+Wilted:1:Senpai Real
+Epiphany:1:Just Monika
+IDK Love:1:Singe
+Heartburn:1:Singe
+Seared:1:Sear
+Molotov:1:Singe
+Jump In:1:Bob
+Swing:1:Bosip
+Split:1:AmorAltra
+Groovy Brass:1:Bluskys
+Conscience:1:Minishoey
+Yap Squad:1:Jghost
+Intertwined:1:Ash & Cerbera
+Copy Cat:1:DreamLol
+Jump Out:1:DreamEX
+Ronald McDonald Slide:1:Ronsip XD
+Oblique Fracture:1:Sans
+Gameover:1:Dead BF
+Overthrone:1:Our Saviour
+Origins:1:Our Saviour
+Peccatum:1:Our Saviour
+Grace:1:Our Saviour
+Think:1:Cesar Torres
+Distraught:1:Snatcher
+Scary night:1:Intruder
+Gift:1:Alternate
+Bythorne:1:Adam Murray
+Exhausted Patience:1:Cesar Torres
+Traumatized:1:Intruder
+Lured:1:Snatcher
+Pursued:1:True Alternate
+Thonk:1:Socker Tulles
+Meanie:1:Monkey HurtClick
+Krismile:1:Kris
+Nougat:1:Danke
+Serendi:1:Kris 2
+Heartbeat:1:Danke 2
+Snake Eyes:1:Cuphead
+Technicolor Tussle:1:Cuphead
+Knockout:1:Cuphead
+Whoopee:1:Sans
+Sansational:1:Sans
+Final Stretch:1:Sans
+Burning In Hell:1:Sans
+Imminent Demise:1:Bendy Cartoon
+Terrible Sin:1:Ink Bendy
+Last Reel:1:Ink Bendy
+Satanic Funkin:1:Devil
+Bad To The Bone:1:Papyrus
+Ritual:1:Sammy Lawrence
+Freaky Machine:1:Bendy Cartoon
+War Rap:1:Eminem
+Invincible:1:HX Girlfriend
+Future Sound:1:Miku Hatsune
+Fantasy Girl 01:1:Miku Hatsune
+Daydreaming:1:Ena
+Abstraction:1:Ena
+Simpbeat:1:SimpGirl
+Foolhardy:1:Zardy
+Bushwhack:1:Cablecrow
+Dandelion:1:Ski 64
+Dura:1:Momero C Dura Sinso
+Impure Love:1:peppa_secret2_icon
+Roasted:1:Huggy Wuggy
+Spectral Spat:1:Spirit & Garcello
+Accelerant:1:Hank J. Wimbleton
+Expurgation:1:ExTricky & Holy Mami
+Reactor:1:Green Mitori
+Ejected:1:Green Mitori Parasite
+Double Trouble:1:Red Robert Parasite
+Oversight:1:White Shiro
+Double Kill:1:Benjamin & Shiro
+Neurotic:1:Grey William GIF
+Pretender:1:William & Pinku
+Aka:1:Red Robert
+Assassin:1:Maroon Ash
+Boiling Point:1:Maroon Ash Parasite GIF
+O2:1:Blue Jorsawsee
+Voting Time:1:Purple Warchief
+Victory:1:White Jelqer
+Roomcode:1:Cyan Powers
+Greatest Plan:1:Charles Calvin
+Reinforcements:1:Ellie & Henry
+Armed:1:Right Hand Man
+Who:1:Who Human
+Defeat:1:Black Benjamin
+Identity Crisis:1:Monotone Shapeshifter
+Insane Streamer:1:Jerma Amogus
+Finale:1:Black Parasite
+Torture:1:Ziffy
+Broadcasting:1:Nikku
+Mirror Magic:1:Mia
+Fandomania:1:Masaya Oya
+Killer Queen:1:Mano Aloe
+HyperFunk:1:Skarlet
+SugarCrush:1:Rayna
+SmokeBomb:1:Ohagi
+Expurgated:1:Zipper
+Soda Disco Funk:1:Momo
+Error 404:1:Robo Fever
+Livinit Underline:1:Sans
+Ruine:1:Mekku
+Close Chuckle:1:Charlie
+Deep Poems:1:Monika & Yuri
+Fun Is Infinite:1:Mazin
+Nightland:1:Clips
+Uncanny Valley:1:Ena
+Astral Projection:1:Matzu

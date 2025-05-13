@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mario idle"
+		},
+		{
+			"offsets": [
+				120,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mario left"
+		},
+		{
+			"offsets": [
+				70,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mario down"
+		},
+		{
+			"offsets": [
+				44,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mario up"
+		},
+		{
+			"offsets": [
+				206,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mario right"
+		},
+		{
+			"offsets": [
+				45,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Fade",
+			"indices": [],
+			"name": "mario fade away"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Too_Late_Mario",
+	"position": [
+		-30,
+		0
+	],
+	"healthicon": "Too Late Mario",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		63,
+		38
+	],
+	"camera_position": [
+		130,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

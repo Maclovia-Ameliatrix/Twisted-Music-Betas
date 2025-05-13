@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BB!Left"
+		},
+		{
+			"offsets": [
+				12,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "alt Left"
+		},
+		{
+			"offsets": [
+				-25,
+				-59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BB!Down"
+		},
+		{
+			"offsets": [
+				-25,
+				-59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "alt Down"
+		},
+		{
+			"offsets": [
+				-36,
+				67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BB!Up"
+		},
+		{
+			"offsets": [
+				-36,
+				67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "alt Up"
+		},
+		{
+			"offsets": [
+				-7,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "alt Right"
+		},
+		{
+			"offsets": [
+				-7,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BB!Right"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "alt Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/bbsky",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "BBSky",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		188,
+		255
+	],
+	"camera_position": [
+		40,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

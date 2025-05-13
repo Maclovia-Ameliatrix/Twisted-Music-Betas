@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nikku-ex idle"
+		},
+		{
+			"offsets": [
+				-71,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nikku-ex right"
+		},
+		{
+			"offsets": [
+				100,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nikku-ex left"
+		},
+		{
+			"offsets": [
+				-43,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nikku-ex up"
+		},
+		{
+			"offsets": [
+				-90,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nikku-ex down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Nikku24-1",
+	"position": [
+		10,
+		-180
+	],
+	"healthicon": "Nikku",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		83
+	],
+	"camera_position": [
+		90,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

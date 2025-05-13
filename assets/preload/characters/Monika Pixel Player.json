@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mka Alt Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mka Alt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Mka Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mka Alt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				6
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Mka Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mka Alt Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Mka Miss Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mka Alt Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				6
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Mka Miss Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Doki/monikanew",
+	"position": [
+		180,
+		360
+	],
+	"healthicon": "Monika Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		184,
+		227
+	],
+	"camera_position": [
+		390,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

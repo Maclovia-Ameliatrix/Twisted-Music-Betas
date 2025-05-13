@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="light_03.png">
+	<!-- Created with Adobe Animate version 22.0.9.228 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tick_green0000" x="0" y="0" width="2500" height="1080"/>
+	<SubTexture name="tick_green0001" x="2504" y="0" width="2500" height="1080"/>
+	<SubTexture name="tick_green0002" x="0" y="0" width="2500" height="1080"/>
+	<SubTexture name="tick_green0003" x="2504" y="0" width="2500" height="1080"/>
+	<SubTexture name="tick_purple0000" x="5008" y="0" width="2500" height="1080"/>
+	<SubTexture name="tick_purple0001" x="0" y="1084" width="2500" height="1080"/>
+	<SubTexture name="tick_purple0002" x="5008" y="0" width="2500" height="1080"/>
+	<SubTexture name="tick_purple0003" x="0" y="1084" width="2500" height="1080"/>
+	<SubTexture name="tick_red0000" x="2504" y="1084" width="2500" height="1080"/>
+	<SubTexture name="tick_red0001" x="5008" y="1084" width="2500" height="1080"/>
+	<SubTexture name="tick_red0002" x="2504" y="1084" width="2500" height="1080"/>
+	<SubTexture name="tick_red0003" x="5008" y="1084" width="2500" height="1080"/>
+	<SubTexture name="tick_yellow0000" x="0" y="2168" width="2500" height="1080"/>
+	<SubTexture name="tick_yellow0001" x="2504" y="2168" width="2500" height="1080"/>
+	<SubTexture name="tick_yellow0002" x="0" y="2168" width="2500" height="1080"/>
+	<SubTexture name="tick_yellow0003" x="2504" y="2168" width="2500" height="1080"/>
+</TextureAtlas>

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left 4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down 4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-12
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right 4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-17,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf up 4"
+		},
+		{
+			"offsets": [
+				-22,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "bf up miss"
+		},
+		{
+			"offsets": [
+				-5,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "bf up alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/the_one_in_powerhour",
+	"position": [
+		10,
+		350
+	],
+	"healthicon": "Boof",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		156,
+		229
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tails_idle"
+		},
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tails_left"
+		},
+		{
+			"offsets": [
+				-107,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tails_down"
+		},
+		{
+			"offsets": [
+				-85,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tails_up"
+		},
+		{
+			"offsets": [
+				-89,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tails_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Christmas Tails Happy",
+	"position": [
+		130,
+		510
+	],
+	"healthicon": "GB Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-70,
+		-390
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

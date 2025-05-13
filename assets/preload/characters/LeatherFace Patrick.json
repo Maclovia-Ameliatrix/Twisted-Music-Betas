@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PatIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				439,
+				44
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PatLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-264
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PatDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				534,
+				395
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PatUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				252,
+				103
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PatRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/PatWad",
+	"position": [
+		-40,
+		-190
+	],
+	"healthicon": "Massacre Patrick",
+	"flip_x": false,
+	"healthbar_colors": [
+		208,
+		136,
+		152
+	],
+	"camera_position": [
+		20,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

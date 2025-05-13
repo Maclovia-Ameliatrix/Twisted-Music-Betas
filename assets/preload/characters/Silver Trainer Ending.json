@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				1
+			],
+			"anim": "Ending",
+			"fps": 24,
+			"name": "Silver instancia",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Silver Ending Animation",
+	"position": [
+		30,
+		150
+	],
+	"healthicon": "Silver Trainer",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		117,
+		138
+	],
+	"camera_position": [
+		-140,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

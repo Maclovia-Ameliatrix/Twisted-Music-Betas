@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF sing LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "GF sing LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF sing DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-17
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "GF sing DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF Sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				13
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "GF Sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF sing RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "GF sing RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				2
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey!",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Doki/playable_gf_casual",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "Lynn Murray",
+	"flip_x": true,
+	"healthbar_colors": [
+		193,
+		130,
+		181
+	],
+	"camera_position": [
+		80,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

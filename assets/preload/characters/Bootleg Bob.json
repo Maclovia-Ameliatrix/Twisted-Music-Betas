@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dumped_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dumped_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Dumped_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				112
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dumped_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				112
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Dumped_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dumped_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Dumped_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dumped_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Dumped_Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/BOOTLEG_ANNOYED_v2",
+	"position": [
+		-120,
+		80
+	],
+	"healthicon": "Bootleg",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		121,
+		20
+	],
+	"camera_position": [
+		-40,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

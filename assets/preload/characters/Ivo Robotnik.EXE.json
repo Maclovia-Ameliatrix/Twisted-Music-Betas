@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Eggman IDLE"
+		},
+		{
+			"offsets": [
+				229,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Eggman LEFT"
+		},
+		{
+			"offsets": [
+				-63,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Eggman DOWN"
+		},
+		{
+			"offsets": [
+				68,
+				494
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Eggman UP"
+		},
+		{
+			"offsets": [
+				-171,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Eggman RIGHT"
+		},
+		{
+			"offsets": [
+				-103,
+				346
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Eggman LAUGH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/eggman_soul",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "Ivo Robotnik Soul",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		102,
+		0
+	],
+	"camera_position": [
+		0,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

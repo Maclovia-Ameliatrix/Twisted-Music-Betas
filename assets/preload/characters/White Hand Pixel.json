@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "WH_Idle"
+		},
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Enter",
+			"indices": [],
+			"name": "WH_Intro"
+		},
+		{
+			"offsets": [
+				-95,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Transform",
+			"indices": [],
+			"name": "WH_ToGF"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/WA_assets",
+	"position": [
+		140,
+		390
+	],
+	"healthicon": "Buried Alive Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-310,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 5.99999999999999
+}

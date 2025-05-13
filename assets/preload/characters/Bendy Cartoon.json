@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle Normal instance"
+		},
+		{
+			"offsets": [
+				159,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance"
+		},
+		{
+			"offsets": [
+				60,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Normal"
+		},
+		{
+			"offsets": [
+				30,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Normal"
+		},
+		{
+			"offsets": [
+				64,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Normal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-2
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "You've got this",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transformation",
+			"indices": [],
+			"name": "Transformation instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/BendyDAgames",
+	"position": [
+		130,
+		350
+	],
+	"healthicon": "Bendy Cartoon",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		41,
+		47
+	],
+	"camera_position": [
+		-10,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

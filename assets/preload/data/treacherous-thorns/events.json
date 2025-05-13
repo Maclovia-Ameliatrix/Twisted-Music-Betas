@@ -1,0 +1,4709 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "schoolEvil",
+		"player1": "CompotaHyperPixel",
+		"player2": "Michael Jackson",
+		"player3": "Alice Pixel",
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						22026.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						22263.1578947368,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						22342.1052631579,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						22657.8947368421,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						22302.6315789474,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						22223.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						22144.7368421053,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						22065.7894736842,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						22105.2631578947,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						22184.2105263158,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						22026.3157894737,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						22302.6315789474,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						22105.2631578947,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						22184.2105263158,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						22263.1578947368,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						22342.1052631579,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						22223.6842105263,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						22144.7368421053,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						22065.7894736842,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						22657.8947368421,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						22026.3157894737,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						22105.2631578947,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						22184.2105263158,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						22263.1578947368,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						22342.1052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						22302.6315789474,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						22223.6842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						22144.7368421053,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						22065.7894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						22657.8947368421,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						24552.6315789474,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						24789.4736842105,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						24868.4210526316,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						25184.2105263158,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						24828.9473684211,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						24750,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						24671.0526315789,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						24592.1052631579,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						24631.5789473684,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						24710.5263157895,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						24552.6315789474,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						24828.9473684211,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						24631.5789473684,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						24710.5263157895,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						24789.4736842105,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						24868.4210526316,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						24750,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						24671.0526315789,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						24592.1052631579,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						25184.2105263158,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						24552.6315789474,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						24631.5789473684,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						24710.5263157895,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						24789.4736842105,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						24868.4210526316,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						24828.9473684211,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						24750,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						24671.0526315789,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						24592.1052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						25184.2105263158,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						27078.9473684211,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						27315.7894736842,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						27394.7368421053,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						27710.5263157895,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						27355.2631578947,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						27276.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						27197.3684210526,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						27118.4210526316,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						27157.8947368421,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						27236.8421052632,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						27078.9473684211,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						27355.2631578947,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						27157.8947368421,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						27236.8421052632,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						27315.7894736842,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						27394.7368421053,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						27276.3157894737,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						27197.3684210526,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						27118.4210526316,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						27710.5263157895,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						27078.9473684211,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						27157.8947368421,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						27236.8421052632,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						27315.7894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						27394.7368421053,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						27355.2631578947,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						27276.3157894737,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						27197.3684210526,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						27118.4210526316,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						27710.5263157895,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						29605.2631578948,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						29842.1052631579,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						29921.052631579,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						30236.8421052632,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						29881.5789473684,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						29802.6315789474,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						29723.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						29644.7368421053,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						29684.2105263158,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						29763.1578947368,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						29605.2631578948,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						29881.5789473684,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						29684.2105263158,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						29763.1578947368,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						29842.1052631579,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						29921.052631579,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						29802.6315789474,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						29723.6842105263,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						29644.7368421053,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						30236.8421052632,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						29605.2631578948,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						29684.2105263158,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						29763.1578947368,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						29842.1052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						29921.052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						29881.5789473684,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						29802.6315789474,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						29723.6842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						29644.7368421053,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						30236.8421052632,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						40500,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						40657.8947368421,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						40815.7894736842,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						41131.5789473684,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						40736.8421052632,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						40578.9473684211,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						40815.7894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						40657.8947368421,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						40500,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						40578.9473684211,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						40736.8421052632,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						41131.5789473684,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						40500,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						40657.8947368421,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						40815.7894736842,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						40578.9473684211,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						40736.8421052632,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						41131.5789473684,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						50605.2631578947,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						51078.947368421,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						51078.947368421,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						50605.2631578947,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						51078.947368421,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						50605.2631578947,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						53763.1578947368,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						53131.5789473684,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						53763.1578947368,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						53131.5789473684,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						53763.1578947368,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						53131.5789473684,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						55342.1052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						55026.3157894737,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						54710.5263157895,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						54394.7368421052,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						55421.0526315789,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						55105.2631578947,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						54789.4736842105,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						54473.6842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						55421.0526315789,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						55105.2631578947,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						54789.4736842105,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						54473.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						54394.7368421052,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						54710.5263157895,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						55026.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						55342.1052631579,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						54394.7368421052,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						54710.5263157895,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						55026.3157894737,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						55342.1052631579,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						55421.0526315789,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						55105.2631578947,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						54789.4736842105,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						54473.6842105263,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						55973.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						56526.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						55894.7368421052,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						56447.3684210526,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						55973.6842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						55894.7368421053,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						56447.3684210526,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						56526.3157894737,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						55894.7368421053,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						56447.3684210526,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						56526.3157894737,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						55973.6842105263,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						57157.8947368421,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						57710.5263157894,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						57236.8421052631,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						57789.4736842105,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						57236.8421052631,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						57157.8947368421,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						57710.5263157895,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						57789.4736842105,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						57157.8947368421,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						57710.5263157895,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						57789.4736842105,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						57236.8421052631,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						58500,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						59052.6315789473,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						58421.0526315789,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						58973.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						58500,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						58421.052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						58973.6842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						59052.6315789473,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						58421.052631579,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						58973.6842105263,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						59052.6315789473,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						58500,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						59763.1578947368,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						60315.7894736842,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						60236.8421052631,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						59684.2105263158,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						59763.1578947368,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						59684.2105263158,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						60236.8421052631,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						60315.7894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						59684.2105263158,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						60236.8421052631,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						60315.7894736842,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						59763.1578947368,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						61578.947368421,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						61578.947368421,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						61578.947368421,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						61973.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						61973.6842105262,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						61973.6842105262,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						64184.2105263158,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						63552.6315789473,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						64184.2105263157,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						63552.6315789473,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						64184.2105263157,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						63552.6315789473,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						64973.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						65447.3684210526,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						65447.3684210525,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						64973.6842105262,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						65447.3684210525,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						64973.6842105262,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						66631.5789473684,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						66631.5789473684,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						66631.5789473684,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						67026.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						67026.3157894736,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						67026.3157894736,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						69236.8421052632,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						68605.2631578947,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						69236.8421052631,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						68605.2631578947,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						69236.8421052631,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						68605.2631578947,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						70026.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						70500,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						70499.9999999999,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						70026.3157894736,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						70499.9999999999,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						70026.3157894736,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						70815.7894736842,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						70894.7368421052,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						70973.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						71052.6315789473,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						71131.5789473684,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						71210.5263157894,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						71605.2631578947,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						71684.2105263157,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						70855.2631578947,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						70934.2105263157,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						71013.1578947368,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						71092.1052631578,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						71171.0526315789,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						71447.3684210526,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						70855.2631578947,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						70815.7894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						70894.7368421052,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						70973.6842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						71052.6315789473,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						71131.5789473684,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						71210.5263157894,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						70934.2105263157,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						71013.1578947368,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						71092.1052631578,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						71171.0526315789,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						71447.3684210526,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						71684.2105263157,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						71605.2631578947,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						70815.7894736842,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						70894.7368421052,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						70973.6842105263,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						71052.6315789473,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						71131.5789473684,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						71210.5263157894,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						71605.2631578947,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						71684.2105263157,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						71447.3684210526,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						71171.0526315789,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						71092.1052631578,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						71013.1578947368,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						70934.2105263157,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						70855.2631578947,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						78078.947368421,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						78236.8421052631,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						78157.894736842,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						77999.9999999999,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						78078.947368421,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						77999.9999999999,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						78157.894736842,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						78236.8421052631,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						78078.947368421,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						77999.9999999999,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						78157.894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						78236.8421052631,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						82657.8947368421,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						82894.7368421052,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						82973.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						83289.4736842105,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						82934.2105263158,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						82855.2631578947,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						82776.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						82697.3684210526,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						82736.8421052632,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						82815.7894736842,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						82657.8947368421,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						82934.2105263158,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						82736.8421052632,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						82815.7894736842,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						82894.7368421053,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						82973.6842105263,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						82855.2631578947,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						82776.3157894737,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						82697.3684210526,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						83289.4736842105,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						82657.8947368421,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						82736.8421052632,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						82815.7894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						82894.7368421053,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						82973.6842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						82934.2105263158,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						82855.2631578947,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						82776.3157894737,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						82697.3684210526,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						83289.4736842105,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						85184.2105263158,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						85421.0526315789,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						85500,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						85815.7894736842,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						85460.5263157895,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						85381.5789473684,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						85302.6315789474,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						85223.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						85263.1578947368,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						85342.1052631579,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						85184.2105263158,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						85460.5263157895,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						85263.1578947368,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						85342.1052631579,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						85421.0526315789,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						85500,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						85381.5789473684,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						85302.6315789474,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						85223.6842105263,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						85815.7894736842,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						85184.2105263158,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						85263.1578947368,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						85342.1052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						85421.0526315789,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						85500,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						85460.5263157895,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						85381.5789473684,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						85302.6315789474,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						85223.6842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						85815.7894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						87710.5263157895,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						87947.3684210526,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						88026.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						88342.1052631579,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						87986.8421052632,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						87907.8947368421,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						87828.9473684211,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						87750,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						87789.4736842105,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						87868.4210526316,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						87710.5263157895,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						87986.8421052632,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						87789.4736842105,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						87868.4210526316,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						87947.3684210526,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						88026.3157894737,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						87907.8947368421,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						87828.9473684211,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						87750,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						88342.1052631579,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						87710.5263157895,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						87789.4736842105,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						87868.4210526316,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						87947.3684210526,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						88026.3157894737,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						87986.8421052632,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						87907.8947368421,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						87828.9473684211,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						87750,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						88342.1052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						90236.8421052632,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						90473.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						90552.6315789474,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						90868.4210526316,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						90513.1578947368,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						90434.2105263158,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						90355.2631578947,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						90276.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						90315.7894736842,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						90394.7368421053,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						90236.8421052632,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						90513.1578947368,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						90315.7894736842,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						90394.7368421053,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						90473.6842105263,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						90552.6315789474,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						90434.2105263158,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						90355.2631578947,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						90276.3157894737,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						90868.4210526316,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						90236.8421052632,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						90315.7894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						90394.7368421053,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						90473.6842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						90552.6315789474,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						90513.1578947368,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						90434.2105263158,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						90355.2631578947,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						90276.3157894737,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						90868.4210526316,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						91026.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						91499.9999999999,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						91500,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						91026.3157894737,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						91500,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						91026.3157894737,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						94184.2105263158,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						93552.6315789473,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						94184.2105263158,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						93552.6315789473,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						94184.2105263158,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						93552.6315789473,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						95763.1578947368,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						95447.3684210526,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						95131.5789473684,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						94815.7894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						95842.1052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						95526.3157894737,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						95210.5263157895,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						94894.7368421053,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						95842.1052631579,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						95526.3157894737,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						95210.5263157895,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						94894.7368421053,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						94815.7894736842,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						95131.5789473684,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						95447.3684210526,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						95763.1578947368,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						94815.7894736842,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						95131.5789473684,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						95447.3684210526,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						95763.1578947368,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						95842.1052631579,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						95526.3157894737,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						95210.5263157895,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						94894.7368421053,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						96394.7368421052,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						96947.3684210526,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						96868.4210526315,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						96315.7894736842,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						96394.7368421052,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						96315.7894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						96868.4210526316,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						96947.3684210526,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						96315.7894736842,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						96868.4210526316,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						96947.3684210526,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						96394.7368421052,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						97657.8947368421,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						98210.5263157895,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						98131.5789473684,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						97578.9473684211,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						97657.8947368421,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						97578.9473684211,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						98131.5789473684,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						98210.5263157895,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						97578.9473684211,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						98131.5789473684,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						98210.5263157895,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						97657.8947368421,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						98921.0526315789,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						99473.6842105263,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						99394.7368421052,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						98842.1052631579,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						98921.0526315789,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						98842.1052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						99394.7368421053,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						99473.6842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						98842.1052631579,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						99394.7368421053,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						99473.6842105263,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						98921.0526315789,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						100184.210526316,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						100736.842105263,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						100657.894736842,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						100105.263157895,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						100184.210526316,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						100105.263157895,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						100657.894736842,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						100736.842105263,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						100105.263157895,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						100657.894736842,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						100736.842105263,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						100184.210526316,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						101447.368421053,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						102000,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						101921.052631579,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						101368.421052632,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						101447.368421053,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						101368.421052632,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						101921.052631579,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						102000,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						101368.421052632,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						101921.052631579,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						102000,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						101447.368421053,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						102710.526315789,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						103263.157894737,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						103184.210526316,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						102631.578947368,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						102710.526315789,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						102631.578947368,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						103184.210526316,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						103263.157894737,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						102631.578947368,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						103184.210526316,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						103263.157894737,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						102710.526315789,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103973.684210526,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						104526.315789474,
+						-1,
+						"Change Character",
+						"1",
+						"Michael Jackson"
+					],
+					[
+						104447.368421053,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						103894.736842105,
+						-1,
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						103973.684210526,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						103894.736842105,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						104447.368421053,
+						-1,
+						"Change Character",
+						"2",
+						"Speakers Pixel"
+					],
+					[
+						104526.315789474,
+						-1,
+						"Change Character",
+						"2",
+						"Alice Pixel"
+					],
+					[
+						103894.736842105,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						104447.368421053,
+						-1,
+						"Change Character",
+						"0",
+						"Evil Bf Pixel"
+					],
+					[
+						104526.315789474,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					],
+					[
+						103973.684210526,
+						-1,
+						"Change Character",
+						"0",
+						"CompotaHyperPixel"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			}
+		],
+		"splashSkin": null,
+		"validScore": false,
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "treacherous thorns"
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "eeveefriend idle"
+		},
+		{
+			"offsets": [
+				7,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "eeveefriend one miss"
+		},
+		{
+			"offsets": [
+				7,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "eeveefriend two miss"
+		},
+		{
+			"offsets": [
+				7,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "eeveefriend three miss"
+		},
+		{
+			"offsets": [
+				7,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "eeveefriend four miss"
+		},
+		{
+			"offsets": [
+				7,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dead",
+			"indices": [],
+			"name": "eeveefriend die"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Reskins/eeveefriend",
+	"position": [
+		100,
+		630
+	],
+	"healthicon": "GF Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		260,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 8
+}

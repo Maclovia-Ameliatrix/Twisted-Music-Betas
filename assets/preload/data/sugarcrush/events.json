@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				105205.479452055,
+				[
+					[
+						"Camera Flash",
+						"camOther, BLACK",
+						"0.5"
+					]
+				]
+			],
+			[
+				111780.821917808,
+				[
+					[
+						"Camera Flash",
+						"camOther, BLACK",
+						"0.5"
+					]
+				]
+			],
+			[
+				157808.219178082,
+				[
+					[
+						"Camera Flash",
+						"CamOther, WHITE",
+						"0.5"
+					]
+				]
+			],
+			[
+				170958.904109589,
+				[
+					[
+						"Camera Flash",
+						"CamOther, WHITE",
+						"0.5"
+					]
+				]
+			]
+		]
+	}
+}

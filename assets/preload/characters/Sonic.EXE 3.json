@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "laugh"
+		},
+		{
+			"offsets": [
+				315,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Scream",
+			"indices": [],
+			"name": "scream"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				31
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mad_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mad_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mad_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				212
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mad_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mad_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-10
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "just_die",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/YCR_Mad",
+	"position": [
+		60,
+		100
+	],
+	"healthicon": "Sonic.EXE Super Mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		0,
+		135
+	],
+	"camera_position": [
+		-40,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

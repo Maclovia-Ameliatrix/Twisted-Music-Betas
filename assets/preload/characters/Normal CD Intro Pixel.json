@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				40
+			],
+			"anim": "open",
+			"fps": 24,
+			"name": "open",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				10
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "text1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				10
+			],
+			"anim": "intro2",
+			"fps": 24,
+			"name": "text2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Pixel Normal Intro",
+	"position": [
+		280,
+		590
+	],
+	"healthicon": "Normal CD Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		92,
+		112,
+		152
+	],
+	"camera_position": [
+		-180,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-320
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Dodgez instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-80,
+				-240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-42,
+				-302
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down  instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-29,
+				-304
+			],
+			"anim": "singDOWN-shoot",
+			"fps": 24,
+			"name": "ShootDown instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				74,
+				-322
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				31,
+				-338
+			],
+			"anim": "singLEFT-shoot",
+			"fps": 24,
+			"name": "ShootLeft instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-40,
+				-281
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-44,
+				-284
+			],
+			"anim": "singRIGHT-shoot",
+			"fps": 24,
+			"name": "ShootRight instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				24,
+				-160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				18,
+				-257
+			],
+			"anim": "singUP-shoot",
+			"fps": 24,
+			"name": "ShootUp instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-228
+			],
+			"anim": "SuperAttack",
+			"fps": 24,
+			"name": "Hadoken or Roundabout instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				-430
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Beamm instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Nightmare/Nightmare_Cuphead",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "Nightmare Cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		4,
+		90
+	],
+	"camera_position": [
+		50,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

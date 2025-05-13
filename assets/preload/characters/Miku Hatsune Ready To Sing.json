@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "miku_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "miku_left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miku_left_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "miku_down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				-42
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miku_down_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "miku_up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				34
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miku_up_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "miku_right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-13
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miku_right_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				120
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "death_miku",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				120
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "death_loop_miku",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				340
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "death_confirm_miku",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/M1KU_FS",
+	"position": [
+		-80,
+		60
+	],
+	"healthicon": "Miku Hatsune",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		247
+	],
+	"camera_position": [
+		-270,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

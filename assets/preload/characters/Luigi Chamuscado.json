@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				81
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LuigiIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				147
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LuigiLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-104
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LuigiDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				231
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LuigiUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				86
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LuigiRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				140,
+				210
+			],
+			"anim": "Ohno",
+			"fps": 24,
+			"name": "Luigi Falling",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-320
+			],
+			"anim": "dead",
+			"fps": 24,
+			"name": "Luigi Lava Hand",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				213
+			],
+			"anim": "lose",
+			"fps": 24,
+			"name": "Luigi Knees0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				213
+			],
+			"anim": "lose-loop",
+			"fps": 24,
+			"name": "Luigi Knees Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Luigi_IHY_Assets_New2",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "Luigi IHY",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		180,
+		0
+	],
+	"camera_position": [
+		80,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

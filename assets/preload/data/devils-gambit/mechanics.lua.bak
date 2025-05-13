@@ -1,0 +1,119 @@
+local healthDrop = 0;
+function onCreate()
+	makeAnimatedLuaSprite('card','cup/Cardcrap',1000,500)
+	addAnimationByPrefix('card','parry','PARRY Card Pop out',24,false)
+	setObjectCamera('card','hud')
+
+	makeAnimatedLuaSprite('card-used','cup/Cardcrap',1000,500)
+	addAnimationByPrefix('card-used','used','Card Used',24,false)
+	setObjectCamera('card-used','hud')
+
+	makeAnimatedLuaSprite('shoot','cup/bull/NMcupheadBull',1500,1400)
+	addAnimationByPrefix('shoot','bullet','Shot01',54,true)
+	
+	makeAnimatedLuaSprite('shoot2','cup/bull/NMcupheadBull',1500,1400)
+	addAnimationByPrefix('shoot2','bullet','Shot02',54,true)
+
+	makeAnimatedLuaSprite('shoot3','cup/bull/NMcupheadBull',1500,1400)
+	addAnimationByPrefix('shoot3','bullet','Shot03',54,true)
+
+	makeAnimatedLuaSprite('shoot4','cup/bull/NMcupheadBull',1500,1400)
+	addAnimationByPrefix('shoot4','bullet','Shot04',54,true)
+	
+	makeAnimatedLuaSprite('shoot5','cup/bull/NMcupheadBull',1500,1400)
+	addAnimationByPrefix('shoot5','bullet','Shot05',54,true)
+	
+	makeAnimatedLuaSprite('hadoken','cup/bull/NMcupheadAttacks',700,1400)
+	addAnimationByPrefix('hadoken','HADOKEN!!','DeathBlast',24,true)
+end
+
+function onUpdate()
+	health = getProperty('health')
+	setProperty('health', getProperty('health') - healthDrop);
+	if getProperty('dad.animation.curAnim.name') == 'Dodge' then
+			healthDrop = 0
+			removeLuaSprite('shoot',false)
+			removeLuaSprite('shoot2',false)
+			removeLuaSprite('shoot3',false)
+			removeLuaSprite('shoot4',false)
+			removeLuaSprite('shoot5',false)
+			cancelTimer('shoot')
+			cancelTimer('shoot2')
+			cancelTimer('shoot3')
+			cancelTimer('shoot4')
+	end
+	
+	if getProperty('dad.animation.curAnim.name') == 'Hadoken' then
+			addLuaSprite('hadoken',true)
+			doTweenX('hadok','hadoken',4000,2,'linear')
+			runTimer('goodbye',0.2)
+	end
+
+	if keyJustPressed('accept') then
+		healthDrop = 0
+		characterPlayAnim('boyfriend', 'Attack', true)
+		addLuaSprite('card-used',true)
+		objectPlayAnimation('card-used','used',false)
+		removeLuaSprite('card',false)
+		runTimer('h',0.3)
+	end
+	
+	if keyJustPressed('space') then
+		characterPlayAnim('boyfriend', 'Dodge', true)
+		playSound('cup/dodge',1)
+		cancelTimer('goodbye')
+		cancelTimer('goodbye2')
+		cancelTimer('goodbye3')
+	end
+end
+
+function onStepHit()
+	if getProperty('dad.animation.curAnim.name') == 'Shoot' then
+		addLuaSprite('shoot',true)
+		objectPlayAnimation('shoot','bullet',false)
+		runTimer('shoot',0.1)
+		playSound('cup/pea0',1)
+		healthDrop = healthDrop + 0.003
+	end
+end
+
+function onTimerCompleted(tag, loops, loopsLeft)
+	if tag == 'h' then
+		characterPlayAnim('dad', 'Dodge', true)
+	end
+	
+	if tag == 'shoot' then
+		addLuaSprite('shoot2',true)
+		objectPlayAnimation('shoot2','bullet',false)
+		runTimer('shoot2',0.1)
+	end
+	
+	if tag == 'shoot2' then
+		addLuaSprite('shoot3',true)
+		objectPlayAnimation('shoot3','bullet',false)
+		runTimer('shoot3',0.1)
+	end
+	
+	if tag == 'shoot3' then
+		addLuaSprite('shoot4',true)
+		objectPlayAnimation('shoot4','bullet',false)
+		runTimer('shoot4',0.1)
+	end
+	
+	if tag == 'shoot4' then
+		addLuaSprite('shoot5',true)
+		objectPlayAnimation('shoot5','bullet',false)
+	end
+	
+	if tag == 'goodbye' then
+		setProperty('health', health- 2.0);
+	end
+end
+
+function goodNoteHit(id, noteData, noteType, isSustainNote)
+	if noteType == 'Parry Note' then
+		removeLuaSprite('card-used',false)
+		objectPlayAnimation('card','parry',false)
+		addLuaSprite('card',true)
+	end
+end

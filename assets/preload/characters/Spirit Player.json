@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-218,
+				-280
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle spirit_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-230,
+				-280
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-260
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missleft_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spirit down_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-233,
+				-270
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missdown_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-280
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-270
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missright_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-240
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-220
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missup_",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Doki/player_spirit",
+	"position": [
+		-60,
+		40
+	],
+	"healthicon": "Spirit Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		110
+	],
+	"camera_position": [
+		240,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

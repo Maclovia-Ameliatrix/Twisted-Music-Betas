@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				107,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Gold Dies0"
+		},
+		{
+			"offsets": [
+				52,
+				-27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Gold Dies Loop"
+		},
+		{
+			"offsets": [
+				83,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Gold Confirms"
+		},
+		{
+			"offsets": [
+				-55,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "gold idle"
+		},
+		{
+			"offsets": [
+				-50,
+				93
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gold down0"
+		},
+		{
+			"offsets": [
+				-51,
+				86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "downmiss"
+		},
+		{
+			"offsets": [
+				-59,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gold left"
+		},
+		{
+			"offsets": [
+				-58,
+				96
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "leftmiss"
+		},
+		{
+			"offsets": [
+				-38,
+				91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gold right"
+		},
+		{
+			"offsets": [
+				-40,
+				91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "rightmiss"
+		},
+		{
+			"offsets": [
+				-55,
+				89
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "gold up"
+		},
+		{
+			"offsets": [
+				-56,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "upmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gold_assets",
+	"position": [
+		0,
+		390
+	],
+	"healthicon": "gold",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		215,
+		0
+	],
+	"camera_position": [
+		-410,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-95,
+				81
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Furnace idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-142,
+				68
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Furnace left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-145,
+				154
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Furnace down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-135,
+				88
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Furnace up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-128,
+				96
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Furnace right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Furnace_sheet",
+	"position": [
+		180,
+		400
+	],
+	"healthicon": "Furnace Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		78,
+		78
+	],
+	"camera_position": [
+		-260,
+		-320
+	],
+	"sing_duration": 6.1,
+	"scale": 6.99999999999999
+}

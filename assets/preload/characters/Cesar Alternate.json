@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Alternate Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Alternate Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Alternate Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Alternate Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-14
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Alternate Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				85
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Alternate Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				85
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Alternate Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Alternate Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Alternate Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Cesar Alternate",
+	"position": [
+		-50,
+		100
+	],
+	"healthicon": "Cesar Torres",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		22,
+		22
+	],
+	"camera_position": [
+		110,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

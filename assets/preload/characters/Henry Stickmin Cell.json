@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Henry Idle"
+		},
+		{
+			"offsets": [
+				175,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Henry Left"
+		},
+		{
+			"offsets": [
+				187,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Henry Miss Left"
+		},
+		{
+			"offsets": [
+				160,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Henry Down"
+		},
+		{
+			"offsets": [
+				146,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Henry Miss Down"
+		},
+		{
+			"offsets": [
+				45,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Henry Up"
+		},
+		{
+			"offsets": [
+				46,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Henry Miss Up"
+		},
+		{
+			"offsets": [
+				72,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Henry Right"
+		},
+		{
+			"offsets": [
+				61,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Henry Miss Right"
+		},
+		{
+			"offsets": [
+				-1,
+				219
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Intro",
+			"indices": [],
+			"name": "Henry Greatest Plan Intro"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/henry_i_phone",
+	"position": [
+		110,
+		40
+	],
+	"healthicon": "Henry Stickmin",
+	"flip_x": true,
+	"healthbar_colors": [
+		189,
+		215,
+		196
+	],
+	"camera_position": [
+		-260,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

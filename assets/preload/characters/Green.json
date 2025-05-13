@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "impostor dance left"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "impostor dance right"
+		},
+		{
+			"offsets": [
+				188,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "imposter left"
+		},
+		{
+			"offsets": [
+				69,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "impostor down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				115
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "impostor up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "impostor right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				289,
+				102
+			],
+			"anim": "look",
+			"fps": 24,
+			"name": "bwomp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/Green impostor",
+	"position": [
+		-70,
+		370
+	],
+	"healthicon": "Green",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		107,
+		63
+	],
+	"camera_position": [
+		-110,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

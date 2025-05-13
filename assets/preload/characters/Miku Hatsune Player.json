@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle_miku",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_miku",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				-85
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down_miku",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				76
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_miku",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right_miku",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				22
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				2
+			],
+			"anim": "cmon_bby",
+			"fps": 24,
+			"name": "come_on_baby_pose_miku",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/M1KU",
+	"position": [
+		70,
+		90
+	],
+	"healthicon": "Miku Hatsune",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		247
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

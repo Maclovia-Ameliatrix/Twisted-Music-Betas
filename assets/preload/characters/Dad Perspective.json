@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "dd idle"
+		},
+		{
+			"offsets": [
+				-1,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dd left"
+		},
+		{
+			"offsets": [
+				-2,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dd down"
+		},
+		{
+			"offsets": [
+				-2,
+				52
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dd up"
+		},
+		{
+			"offsets": [
+				0,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dd right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/Perspective Dad",
+	"position": [
+		-670,
+		-310
+	],
+	"healthicon": "Daddy Dearest",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-870,
+		210
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

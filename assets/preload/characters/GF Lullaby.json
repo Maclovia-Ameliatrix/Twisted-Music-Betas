@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gf_idle_not_hypno_2s"
+		},
+		{
+			"offsets": [
+				68,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gf_left_alt i"
+		},
+		{
+			"offsets": [
+				67,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "gf_left_alt_MISS"
+		},
+		{
+			"offsets": [
+				-18,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gf_down i"
+		},
+		{
+			"offsets": [
+				-17,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "gf_down_MISS"
+		},
+		{
+			"offsets": [
+				-23,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gf_up i"
+		},
+		{
+			"offsets": [
+				-38,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "gf_up_MISS"
+		},
+		{
+			"offsets": [
+				-8,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gf_right_better i"
+		},
+		{
+			"offsets": [
+				0,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "gf_right_better_miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/Hypno_Girlfriend",
+	"position": [
+		90,
+		260
+	],
+	"healthicon": "GF",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		120,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

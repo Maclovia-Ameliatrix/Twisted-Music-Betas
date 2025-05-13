@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleGenocide"
+		},
+		{
+			"offsets": [
+				-11,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownGenocide"
+		},
+		{
+			"offsets": [
+				124,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftGenocide"
+		},
+		{
+			"offsets": [
+				-12,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpGenocide"
+		},
+		{
+			"offsets": [
+				9,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightGenocide"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Genocide_Tabi",
+	"position": [
+		0,
+		-120
+	],
+	"healthicon": "Tabi Mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		106,
+		133
+	],
+	"camera_position": [
+		150,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

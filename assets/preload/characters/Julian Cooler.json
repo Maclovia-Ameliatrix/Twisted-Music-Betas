@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "whitty idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "whitty left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-161
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "whitty down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "whitty up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whitty right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/testis_3_ecstatic_jubilee",
+	"position": [
+		-100,
+		130
+	],
+	"healthicon": "Cooler",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		123,
+		0
+	],
+	"camera_position": [
+		130,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

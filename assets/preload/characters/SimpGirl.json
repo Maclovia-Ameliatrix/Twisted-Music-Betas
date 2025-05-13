@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SimpGirl Idle"
+		},
+		{
+			"offsets": [
+				35,
+				-185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SimpGirl Down"
+		},
+		{
+			"offsets": [
+				16,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SimpGirl Up"
+		},
+		{
+			"offsets": [
+				200,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SimpGirl Left"
+		},
+		{
+			"offsets": [
+				-6,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SimpGirl Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/SimpGirl",
+	"position": [
+		70,
+		30
+	],
+	"healthicon": "SimpGirl",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		115,
+		170
+	],
+	"camera_position": [
+		60,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

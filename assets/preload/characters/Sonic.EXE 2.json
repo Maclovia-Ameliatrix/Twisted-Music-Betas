@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "normal_idle"
+		},
+		{
+			"offsets": [
+				51,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "normal_left"
+		},
+		{
+			"offsets": [
+				-20,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "normal_down"
+		},
+		{
+			"offsets": [
+				-72,
+				112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "normal_up"
+		},
+		{
+			"offsets": [
+				-70,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "normal_right"
+		},
+		{
+			"offsets": [
+				-60,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "laugh"
+		},
+		{
+			"offsets": [
+				280,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Scream",
+			"indices": [],
+			"name": "scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/YCR",
+	"position": [
+		40,
+		100
+	],
+	"healthicon": "Sonic.EXE Mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		0,
+		115
+	],
+	"camera_position": [
+		140,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

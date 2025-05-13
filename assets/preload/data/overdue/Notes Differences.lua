@@ -1,0 +1,18 @@
+function onCreatePost()
+    
+    for strumLineNotes = 0,7 do
+        if strumLineNotes < 4 then
+            setPropertyFromGroup('strumLineNotes', strumLineNotes,'texture','Custom Notes/Luigi')
+        end
+    end
+end
+function onUpdate()
+    for notesLength = 0,getProperty('notes.length') do
+        if getPropertyFromGroup('notes', notesLength,'mustPress') == false and getPropertyFromGroup('notes', notesLength,'noteType') == '' or getPropertyFromGroup('notes', notesLength,'mustPress') == false and getPropertyFromGroup('notes', notesLength,'noteType') == 'Alt Animation' then
+            setPropertyFromGroup('notes',notesLength,'texture','Custom Notes/Luigi')
+        end
+        if getPropertyFromGroup('notes', notesLength,'mustPress') == false and getPropertyFromGroup('notes', notesLength,'noteType') == 'Second Opponet Sing'  then
+            setPropertyFromGroup('notes',notesLength,'texture','Custom Notes/Mario')
+        end
+    end
+end

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-39,
+				174
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Agoti_Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-180,
+				-44
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Agoti_Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-162,
+				221
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Agoti_Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-130,
+				96
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Agoti_Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-225,
+				141
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Agoti_Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/AGOTI",
+	"position": [
+		-180,
+		60
+	],
+	"healthicon": "AGOTI",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		400,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				-7
+			],
+			"anim": "idle",
+			"fps": 23,
+			"name": "dtbf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dtbf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dtbf down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dtbf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dtbf right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				120
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "dtbf miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				117
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "dtbf miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				116
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "dtbf miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				117
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "dtbf miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-4
+			],
+			"anim": "swap",
+			"fps": 24,
+			"name": "dtbf cover cover",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				-6
+			],
+			"anim": "idle-alt",
+			"fps": 23,
+			"name": "dtbf cover idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "dtbf cover left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-21
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "dtbf cover down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				28
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "dtbf cover up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-8
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "dtbf cover right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/BFDeath-toll",
+	"position": [
+		140,
+		510
+	],
+	"healthicon": "BF",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		230,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				126
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-68
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-113
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fzt",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				25,
+				-34
+			],
+			"anim": "idle-id",
+			"fps": 24,
+			"name": "Bruh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				-37
+			],
+			"anim": "idle-lt",
+			"fps": 24,
+			"name": "gzezy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				-5
+			],
+			"anim": "singDOWN-lt",
+			"fps": 24,
+			"name": "jghrue",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				9
+			],
+			"anim": "singRIGHT-lt",
+			"fps": 24,
+			"name": "upahgn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				88
+			],
+			"anim": "singUP-lt",
+			"fps": 24,
+			"name": "ISTG",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				-96
+			],
+			"anim": "singLEFT-lt",
+			"fps": 24,
+			"name": "SANS WAKE UP BITCH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				43
+			],
+			"anim": "Less go",
+			"fps": 24,
+			"name": "Sans lessgo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				79
+			],
+			"anim": "Oh sans",
+			"fps": 24,
+			"name": "Oh Sans you Mother fuc-",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Papyrus",
+	"position": [
+		90,
+		120
+	],
+	"healthicon": "Papyrus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		30,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

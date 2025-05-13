@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tails_Rush_Test_ Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tails_Rush_Test_ Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tails_Rush_Test_ Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tails_Rush_Test_ Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tails_Rush_Test_ Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Tails_Rush_Test",
+	"position": [
+		-70,
+		260
+	],
+	"healthicon": "Miles Prowler",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		126,
+		1
+	],
+	"camera_position": [
+		90,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

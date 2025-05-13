@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				68571.4285714286,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"senpai-angry"
+					]
+				]
+			],
+			[
+				87857.1428571429,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Monika Pixel"
+					]
+				]
+			],
+			[
+				87857.1428571429,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Senpai Real"
+					]
+				]
+			],
+			[
+				109017.857142857,
+				[
+					[
+						"Play Animation",
+						"Swap",
+						"Dad"
+					]
+				]
+			],
+			[
+				109285.714285714,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				124017.857142857,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						""
+					]
+				]
+			],
+			[
+				124285.714285714,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Monika"
+					]
+				]
+			],
+			[
+				124285.714285714,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"senpai-angry"
+					]
+				]
+			]
+		]
+	}
+}

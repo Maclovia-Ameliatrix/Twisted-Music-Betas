@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Natsuki_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Natsuki_singDOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				16
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Natsuki_singDOWNALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Natsuki_singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				8
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Natsuki_singLEFTALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Natsuki_singRIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				8
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Natsuki_singRIGHTALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Natsuki_singUP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				16
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Natsuki_singUPALT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Doki/Natsuki_Finale_New",
+	"position": [
+		160,
+		360
+	],
+	"healthicon": "Just Natsuki Pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		121,
+		126,
+		255
+	],
+	"camera_position": [
+		-530,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 7.99999999999999
+}

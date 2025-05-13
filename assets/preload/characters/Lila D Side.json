@@ -1,0 +1,76 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "LilaDanceBeat",
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "LilaDanceBeat",
+			"indices": [
+				29,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/DSideLila",
+	"position": [
+		0,
+		-160
+	],
+	"healthicon": "Lila",
+	"flip_x": false,
+	"healthbar_colors": [
+		114,
+		85,
+		133
+	],
+	"camera_position": [
+		70,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

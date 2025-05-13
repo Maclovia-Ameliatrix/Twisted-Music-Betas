@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Senpai Idle"
+		},
+		{
+			"offsets": [
+				115,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Senpai Left"
+		},
+		{
+			"offsets": [
+				90,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Senpai Down"
+		},
+		{
+			"offsets": [
+				74,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Senpai Up"
+		},
+		{
+			"offsets": [
+				102,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Senpai Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Doki/Drip Spirit",
+	"position": [
+		50,
+		20
+	],
+	"healthicon": "Spirit Real",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		110
+	],
+	"camera_position": [
+		-30,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

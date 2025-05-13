@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "stick idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-23
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "stick note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				55
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "note down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "stick note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				114
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "note up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "stick note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				88
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "note right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "stick note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				77
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "note left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				7
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "stick hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/stick-bf",
+	"position": [
+		70,
+		320
+	],
+	"healthicon": "BF Stick",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		40,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

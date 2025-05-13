@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				4
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "Intro",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Other Mods/Devil_Intro",
+	"position": [
+		-190,
+		-710
+	],
+	"healthicon": "Devil",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		50,
+		78
+	],
+	"camera_position": [
+		-220,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

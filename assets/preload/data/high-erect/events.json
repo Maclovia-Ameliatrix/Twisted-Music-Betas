@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				49920,
+				[
+					[
+						"Camera Flash",
+						"camGame,WHITE",
+						"1"
+					],
+					[
+						"Set Cam Zoom",
+						"0.65",
+						"1"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"2"
+					]
+				]
+			],
+			[
+				65280,
+				[
+					[
+						"Camera Flash",
+						"camGame,WHITE",
+						"1"
+					]
+				]
+			],
+			[
+				80640,
+				[
+					[
+						"Camera Flash",
+						"camGame,WHITE",
+						"1"
+					],
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				84480,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				88320,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Camera Flash",
+						"camGame,WHITE",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

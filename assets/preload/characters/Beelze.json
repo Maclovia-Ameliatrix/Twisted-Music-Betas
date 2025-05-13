@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "OldMan_Idle"
+		},
+		{
+			"offsets": [
+				-29,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "OldMan_Right"
+		},
+		{
+			"offsets": [
+				108,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "OldMan_Left"
+		},
+		{
+			"offsets": [
+				47,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "OldMan_Down"
+		},
+		{
+			"offsets": [
+				60,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "OldMan_Up"
+		},
+		{
+			"offsets": [
+				104,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Swap",
+			"indices": [],
+			"name": "OldMan_Walk"
+		},
+		{
+			"offsets": [
+				271,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Laugh",
+			"indices": [],
+			"name": "OldMan_Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/beelze_normal",
+	"position": [
+		160,
+		130
+	],
+	"healthicon": "Beelze",
+	"flip_x": false,
+	"healthbar_colors": [
+		126,
+		93,
+		145
+	],
+	"camera_position": [
+		-350,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

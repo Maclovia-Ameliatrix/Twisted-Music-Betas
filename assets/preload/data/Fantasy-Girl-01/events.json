@@ -1,0 +1,171 @@
+{
+	"song": {
+		"events": [
+			[
+				20550,
+				[
+					[
+						"Camera Flash",
+						"camHUD,WHITE",
+						"0.75"
+					]
+				]
+			],
+			[
+				73125,
+				[
+					[
+						"Play Animation",
+						"cmon_bby",
+						"Dad"
+					]
+				]
+			],
+			[
+				76725,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"Dad"
+					]
+				]
+			],
+			[
+				77968,
+				[
+					[
+						"TWIM-SCREAM",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78225,
+				[
+					[
+						"Camera Flash",
+						"camHUD,WHITE",
+						"0.75"
+					]
+				]
+			],
+			[
+				78300,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Miku Hatsune Twim"
+					]
+				]
+			],
+			[
+				107400,
+				[
+					[
+						"Camera Flash",
+						"camHUD,WHITE",
+						"0.75"
+					]
+				]
+			],
+			[
+				107475,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Miku Hatsune RG"
+					]
+				]
+			],
+			[
+				146025,
+				[
+					[
+						"Camera Flash",
+						"camHUD,WHITE",
+						"0.75"
+					]
+				]
+			],
+			[
+				146100,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Miku Hatsune"
+					]
+				]
+			],
+			[
+				154575,
+				[
+					[
+						"Fade",
+						"1.5",
+						"1.5"
+					]
+				]
+			],
+			[
+				155475,
+				[
+					[
+						"Camera Flash",
+						"camHUD,WHITE",
+						"0.75"
+					]
+				]
+			],
+			[
+				155550,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Miku Hatsune TB"
+					]
+				]
+			],
+			[
+				187200,
+				[
+					[
+						"Camera Flash",
+						"camHUD,WHITE",
+						"0.75"
+					]
+				]
+			],
+			[
+				187275,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Miku Hatsune"
+					],
+					[
+						"Change Character",
+						"BF",
+						"Tomoe Mami"
+					]
+				]
+			],
+			[
+				196725,
+				[
+					[
+						"Camera Flash",
+						"camHUD,WHITE",
+						"0.75"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "carol idle"
+		},
+		{
+			"offsets": [
+				131,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "carol left"
+		},
+		{
+			"offsets": [
+				100,
+				34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "carol down"
+		},
+		{
+			"offsets": [
+				89,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "carol up"
+		},
+		{
+			"offsets": [
+				100,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "carol right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Angel Carol",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Carol Angel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

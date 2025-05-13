@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sammy Idle instance "
+		},
+		{
+			"offsets": [
+				383,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance "
+		},
+		{
+			"offsets": [
+				112,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instance "
+		},
+		{
+			"offsets": [
+				106,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right instance "
+		},
+		{
+			"offsets": [
+				197,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance "
+		},
+		{
+			"offsets": [
+				653,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "Intro instance "
+		},
+		{
+			"offsets": [
+				87,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "End Part01 instance "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				53
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "End02 instance ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/SammyRemastered",
+	"position": [
+		290,
+		150
+	],
+	"healthicon": "Sammy Lawrence",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-740,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

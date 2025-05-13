@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nikku idle"
+		},
+		{
+			"offsets": [
+				85,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nikku left"
+		},
+		{
+			"offsets": [
+				-50,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nikku note down"
+		},
+		{
+			"offsets": [
+				-2,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nikku note up"
+		},
+		{
+			"offsets": [
+				-101,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nikku note right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				15
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "nikku noteleft miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-179
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "nikku notedown miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				107
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "nikku noteup miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "nikku noteright miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/NIKKU_MONSTAGE",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "Nikku",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		0,
+		83
+	],
+	"camera_position": [
+		-190,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

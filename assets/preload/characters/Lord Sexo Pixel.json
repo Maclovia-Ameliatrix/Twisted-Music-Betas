@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idleidle"
+		},
+		{
+			"offsets": [
+				-3,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "idleright"
+		},
+		{
+			"offsets": [
+				11,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "idleleft"
+		},
+		{
+			"offsets": [
+				4,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "idleup"
+		},
+		{
+			"offsets": [
+				-3,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "idledown"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-6
+			],
+			"anim": "run",
+			"fps": 24,
+			"name": "run",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-41
+			],
+			"anim": "ball",
+			"fps": 24,
+			"name": "roll",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-17,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "hurt"
+		},
+		{
+			"offsets": [
+				-3,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "slam",
+			"indices": [],
+			"name": "slamangry"
+		},
+		{
+			"offsets": [
+				-3,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fall",
+			"loop": true,
+			"name": "fall"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Pixel Lord X",
+	"position": [
+		220,
+		520
+	],
+	"healthicon": "Lord X Pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		31,
+		30,
+		49
+	],
+	"camera_position": [
+		-210,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 7
+}

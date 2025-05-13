@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-232,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				127,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-40,
+				215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				153,
+				215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/human maroonP",
+	"position": [
+		-320,
+		-140
+	],
+	"healthicon": "Maroon Ash Parasite GIF",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		49,
+		63
+	],
+	"camera_position": [
+		410,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

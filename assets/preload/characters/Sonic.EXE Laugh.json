@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-39,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/getCHA",
+	"position": [
+		-20,
+		180
+	],
+	"healthicon": "Sonic.EXE",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		-90,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

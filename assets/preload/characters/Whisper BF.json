@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-46,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Whisper_BF",
+	"position": [
+		30,
+		250
+	],
+	"healthicon": "BF Bunny",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		181,
+		199
+	],
+	"camera_position": [
+		-600,
+		30
+	],
+	"sing_duration": 6,
+	"scale": 0.7
+}

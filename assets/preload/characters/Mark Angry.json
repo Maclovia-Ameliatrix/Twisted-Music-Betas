@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MarkBack Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MarkBack Left"
+		},
+		{
+			"offsets": [
+				-31,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MarkBack Down"
+		},
+		{
+			"offsets": [
+				-3,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MarkBack Up"
+		},
+		{
+			"offsets": [
+				-49,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MarkBack Right"
+		},
+		{
+			"offsets": [
+				101,
+				102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "MarkBack Shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/MarkBack",
+	"position": [
+		-460,
+		-140
+	],
+	"healthicon": "Mark Angry",
+	"flip_x": true,
+	"healthbar_colors": [
+		222,
+		228,
+		229
+	],
+	"camera_position": [
+		-90,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

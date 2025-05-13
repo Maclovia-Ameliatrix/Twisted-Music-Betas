@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Shep Idle"
+		},
+		{
+			"offsets": [
+				15,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Shep Left"
+		},
+		{
+			"offsets": [
+				-16,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Miss Shep Left"
+		},
+		{
+			"offsets": [
+				-20,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Shep Down"
+		},
+		{
+			"offsets": [
+				-21,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Miss Shep Down"
+		},
+		{
+			"offsets": [
+				-38,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Shep Up"
+		},
+		{
+			"offsets": [
+				-35,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Miss Shep Up"
+		},
+		{
+			"offsets": [
+				-38,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Shep Right"
+		},
+		{
+			"offsets": [
+				-44,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Miss Shep Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/Shep_Assets",
+	"position": [
+		-150,
+		280
+	],
+	"healthicon": "Sheperd",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		75,
+		98
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

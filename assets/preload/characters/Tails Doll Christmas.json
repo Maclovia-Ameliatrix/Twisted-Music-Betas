@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-75,
+				-116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				41,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-90,
+				-264
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-59,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-130,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enter",
+			"indices": [],
+			"name": "jump"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/tails-doll-christmas",
+	"position": [
+		70,
+		-40
+	],
+	"healthicon": "Tails Doll Christmas",
+	"flip_x": false,
+	"healthbar_colors": [
+		229,
+		128,
+		50
+	],
+	"camera_position": [
+		90,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

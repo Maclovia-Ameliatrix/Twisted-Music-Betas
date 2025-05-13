@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "ras r"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "ras l"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Rasazy Speakers",
+	"position": [
+		-630,
+		-740
+	],
+	"healthicon": "Rasazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		153,
+		179
+	],
+	"camera_position": [
+		630,
+		720
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

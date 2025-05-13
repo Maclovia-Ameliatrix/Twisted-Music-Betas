@@ -1,0 +1,195 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "spooky dance idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "spooky dance idle"
+		},
+		{
+			"offsets": [
+				-48,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spooky skid right"
+		},
+		{
+			"offsets": [
+				-120,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "spooky pump right"
+		},
+		{
+			"offsets": [
+				-120,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "spooky right miss"
+		},
+		{
+			"offsets": [
+				34,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spooky skid left"
+		},
+		{
+			"offsets": [
+				-86,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "spooky pump left"
+		},
+		{
+			"offsets": [
+				104,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "spooky left miss"
+		},
+		{
+			"offsets": [
+				-38,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spooky skid down"
+		},
+		{
+			"offsets": [
+				-10,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "spooky pump down"
+		},
+		{
+			"offsets": [
+				-80,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "spooky down miss"
+		},
+		{
+			"offsets": [
+				-55,
+				243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky skid up"
+		},
+		{
+			"offsets": [
+				-60,
+				125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "spooky pump up"
+		},
+		{
+			"offsets": [
+				-78,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "spooky up miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/Spooky D Side",
+	"position": [
+		110,
+		270
+	],
+	"healthicon": "Skid & Pump D Side",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		220,
+		220
+	],
+	"camera_position": [
+		110,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sayo Idle nrw test",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sayo Sing Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sayo Sing Note Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				77
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sayo Sing Note Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sayo Sing Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				2
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Sayo Nara animated",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Doki/Doki_Sayo_Assets",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "Sayori",
+	"flip_x": false,
+	"healthbar_colors": [
+		149,
+		224,
+		250
+	],
+	"camera_position": [
+		90,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

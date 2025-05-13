@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				11
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Senpai Returns Angy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Senpai Returns0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				5
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Senpai Returns Right Angy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Senpai Returns Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				13
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Senpai Returns Left Angy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Senpai Returns Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-74
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Senpai Returns Down Angy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Senpai Returns Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				43
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Senpai Returns Up Angy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Senpai Returns Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				9
+			],
+			"anim": "Swap",
+			"fps": 24,
+			"name": "Senpai Swap",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Doki/SenpaiNonPixel_Assets",
+	"position": [
+		-10,
+		10
+	],
+	"healthicon": "Senpai Real",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		158,
+		97
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

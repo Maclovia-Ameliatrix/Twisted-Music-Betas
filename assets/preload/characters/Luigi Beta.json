@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LuigiIdle"
+		},
+		{
+			"offsets": [
+				-1,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LuigiLeft"
+		},
+		{
+			"offsets": [
+				-73,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LuigiDown"
+		},
+		{
+			"offsets": [
+				31,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LuigiUp"
+		},
+		{
+			"offsets": [
+				-136,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LuigiRight"
+		},
+		{
+			"offsets": [
+				-108,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "LuigiSitIdle"
+		},
+		{
+			"offsets": [
+				-73,
+				-66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "LuigiSitLeft"
+		},
+		{
+			"offsets": [
+				-71,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "LuigiSitDown"
+		},
+		{
+			"offsets": [
+				-74,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "LuigiSitUp"
+		},
+		{
+			"offsets": [
+				-107,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "LuigiSitRight"
+		},
+		{
+			"offsets": [
+				-106,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Sit Up",
+			"indices": [],
+			"name": "LuigiStandingUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Beta_Luigi_Assets",
+	"position": [
+		40,
+		240
+	],
+	"healthicon": "Beta Luigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		81,
+		74
+	],
+	"camera_position": [
+		140,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

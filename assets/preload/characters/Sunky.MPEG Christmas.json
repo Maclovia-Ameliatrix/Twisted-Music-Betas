@@ -1,0 +1,160 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-10
+			],
+			"anim": "idle-alt start",
+			"fps": 24,
+			"name": "cereal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-10
+			],
+			"anim": "no bone",
+			"fps": 24,
+			"name": "cereal",
+			"indices": [
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				24,
+				-89
+			],
+			"anim": "sleep-loop",
+			"fps": 24,
+			"name": "zzz",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				19
+			],
+			"anim": "wake up",
+			"fps": 24,
+			"name": "wakey wakey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sunky idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				30
+			],
+			"anim": "cronch",
+			"fps": 24,
+			"name": "nom",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sunky down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sunky up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sunky right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sunkyleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				308,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sleep",
+			"indices": [],
+			"name": "xx"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Christmas Sunky",
+	"position": [
+		90,
+		270
+	],
+	"healthicon": "Fleet Sunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		10,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

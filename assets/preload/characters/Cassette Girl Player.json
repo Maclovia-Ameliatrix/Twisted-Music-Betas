@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cassettegirl idle alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cassettegirl left alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cassettegirl down alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cassettegirl up alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cassettegirl right alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/cassettegirl-alt",
+	"position": [
+		-30,
+		40
+	],
+	"healthicon": "Cassette Girl",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		67,
+		175
+	],
+	"camera_position": [
+		110,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

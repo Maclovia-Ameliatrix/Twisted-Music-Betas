@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				81
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tails IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-29,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tails LEFT"
+		},
+		{
+			"offsets": [
+				-30,
+				90
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFTalt",
+			"indices": [],
+			"name": "Tails Spinleft"
+		},
+		{
+			"offsets": [
+				-75,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tails DOWN"
+		},
+		{
+			"offsets": [
+				-122,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tails UP"
+		},
+		{
+			"offsets": [
+				-158,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPalt",
+			"indices": [],
+			"name": "Tails Spinup"
+		},
+		{
+			"offsets": [
+				-134,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tails RIGHT"
+		},
+		{
+			"offsets": [
+				-249,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTalt",
+			"indices": [],
+			"name": "Tails Spinright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Tails",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Tails Soul",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		55,
+		55
+	],
+	"camera_position": [
+		200,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

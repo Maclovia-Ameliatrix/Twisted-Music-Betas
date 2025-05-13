@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idlefly"
+		},
+		{
+			"offsets": [
+				18,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "flyright"
+		},
+		{
+			"offsets": [
+				-31,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "flyleft"
+		},
+		{
+			"offsets": [
+				-3,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "flyup"
+		},
+		{
+			"offsets": [
+				-23,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "flydown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				62
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				55
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "knockedback",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "angryidle"
+		},
+		{
+			"offsets": [
+				18,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "angryright"
+		},
+		{
+			"offsets": [
+				-31,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "angryleft"
+		},
+		{
+			"offsets": [
+				-23,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "angrydown"
+		},
+		{
+			"offsets": [
+				-3,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "angryup"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Pixel Lord X",
+	"position": [
+		220,
+		490
+	],
+	"healthicon": "Lord X Pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		31,
+		30,
+		49
+	],
+	"camera_position": [
+		-180,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 7
+}

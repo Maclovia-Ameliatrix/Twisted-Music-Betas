@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				380
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				-4,
+				369
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "altIDLE"
+		},
+		{
+			"offsets": [
+				60,
+				378
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				60,
+				378
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				200,
+				392
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				200,
+				392
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-21,
+				391
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "altUP"
+		},
+		{
+			"offsets": [
+				90,
+				366
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				90,
+				366
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				82,
+				340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				82,
+				340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Holy Mami",
+	"position": [
+		-100,
+		230
+	],
+	"healthicon": "Tomoe Mami Holy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		241,
+		150
+	],
+	"camera_position": [
+		-30,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

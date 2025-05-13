@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mouse (smiling wider) idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				119,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mouse (smiling wider) Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				86,
+				14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mouse (smiling wider) Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				36,
+				150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mouse (smiling wider) Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-33,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mouse (smiling wider) Rigth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				58,
+				73
+			],
+			"anim": "Laugh",
+			"fps": 24,
+			"name": "Mouse (smiling wider) laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/mouse sad",
+	"position": [
+		-70,
+		-40
+	],
+	"healthicon": "Mickey Sad",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		103,
+		91
+	],
+	"camera_position": [
+		30,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

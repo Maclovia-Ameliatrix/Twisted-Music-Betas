@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				30,
+				160
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nightmare SANS Idle instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				111,
+				72
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Leftt instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-42,
+				213
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UPP instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				32,
+				143
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWNN instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				70,
+				67
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Rightt instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Nightmare/DeathSans002",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Nightmare Sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		255,
+		255
+	],
+	"camera_position": [
+		50,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

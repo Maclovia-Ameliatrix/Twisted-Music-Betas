@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "wheat idle"
+		},
+		{
+			"offsets": [
+				-7,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "wheat left"
+		},
+		{
+			"offsets": [
+				-11,
+				-28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "wheat down"
+		},
+		{
+			"offsets": [
+				-11,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "wheat up"
+		},
+		{
+			"offsets": [
+				-11,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "wheat right"
+		},
+		{
+			"offsets": [
+				-12,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sad",
+			"loop": true,
+			"name": "wheat sad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/the_burger",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "Cooler",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		123,
+		0
+	],
+	"camera_position": [
+		130,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

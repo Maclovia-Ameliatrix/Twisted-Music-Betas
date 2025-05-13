@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-40
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Dad Down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-11
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Dad Left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				44
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				41
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Dad Up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-24
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Dad Right miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Dos Puntos Uve/Weon_del_pokemon_fps_low2",
+	"position": [
+		-70,
+		330
+	],
+	"healthicon": "Gold",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		165,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

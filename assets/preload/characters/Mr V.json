@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "VIdle"
+		},
+		{
+			"offsets": [
+				-132,
+				-295
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "VAltIdle"
+		},
+		{
+			"offsets": [
+				338,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "VLeft"
+		},
+		{
+			"offsets": [
+				60,
+				-380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "VAltLeft"
+		},
+		{
+			"offsets": [
+				350,
+				-326
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "VDown"
+		},
+		{
+			"offsets": [
+				-81,
+				-499
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "VAltDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				767
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "VUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-160
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "VAltUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				-34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "VRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-186,
+				-410
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "VAltRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "Transform",
+			"fps": 24,
+			"name": "VTransformation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Mr_Virtual_V2_Assets",
+	"position": [
+		-120,
+		-230
+	],
+	"healthicon": "Mr V",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		320,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

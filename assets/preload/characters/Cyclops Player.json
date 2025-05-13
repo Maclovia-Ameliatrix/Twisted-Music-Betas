@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cyclops Idle"
+		},
+		{
+			"offsets": [
+				577,
+				214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cyclops Left"
+		},
+		{
+			"offsets": [
+				81,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cyclops Down"
+		},
+		{
+			"offsets": [
+				101,
+				394
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cyclops Up"
+		},
+		{
+			"offsets": [
+				-31,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cyclops Right"
+		},
+		{
+			"offsets": [
+				-218,
+				-154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Cyclops Turned"
+		},
+		{
+			"offsets": [
+				-218,
+				-154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Cyclops Turned"
+		},
+		{
+			"offsets": [
+				-218,
+				-154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Cyclops Turned"
+		},
+		{
+			"offsets": [
+				-218,
+				-154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Cyclops Turned"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-154
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Cyclops Turned",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/CYCLOPS",
+	"position": [
+		-190,
+		-140
+	],
+	"healthicon": "Cyclops Crazy",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		250,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

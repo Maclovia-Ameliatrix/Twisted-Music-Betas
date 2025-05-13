@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Idle Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-7
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "Sad",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				43,
+				-8
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Scared",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/Kaity_Relax",
+	"position": [
+		120,
+		190
+	],
+	"healthicon": "Kaity",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		180,
+		220
+	],
+	"camera_position": [
+		-20,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

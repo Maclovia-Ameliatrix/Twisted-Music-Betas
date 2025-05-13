@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mark idle"
+		},
+		{
+			"offsets": [
+				23,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mark left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mark down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mark up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mark right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/TIred Mark",
+	"position": [
+		-160,
+		0
+	],
+	"healthicon": "Mark Scared",
+	"flip_x": true,
+	"healthbar_colors": [
+		222,
+		228,
+		229
+	],
+	"camera_position": [
+		-420,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

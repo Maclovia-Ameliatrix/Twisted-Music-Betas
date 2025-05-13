@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-95,
+				101
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SP idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				104
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SP left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				101
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SP down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				145
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SP up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-88,
+				90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SP right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-64,
+				106
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Enter",
+			"loop": false,
+			"name": "SP pop up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/starved_plankton",
+	"position": [
+		370,
+		320
+	],
+	"healthicon": "TheUthidaALt",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		0,
+		255
+	],
+	"camera_position": [
+		-90,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

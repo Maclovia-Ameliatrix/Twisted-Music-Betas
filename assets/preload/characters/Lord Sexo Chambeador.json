@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Lord smokes idle"
+		},
+		{
+			"offsets": [
+				-54,
+				68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Lord smokes left"
+		},
+		{
+			"offsets": [
+				-131,
+				61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Lord smokes down"
+		},
+		{
+			"offsets": [
+				-83,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Lord smokes up"
+		},
+		{
+			"offsets": [
+				-159,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Lord smokes right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/SmokesX",
+	"position": [
+		-70,
+		100
+	],
+	"healthicon": "SmokeSX",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		38,
+		67
+	],
+	"camera_position": [
+		210,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

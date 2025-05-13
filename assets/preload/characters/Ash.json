@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "ASH idle dance"
+		},
+		{
+			"offsets": [
+				129,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ASH Sing Note UP"
+		},
+		{
+			"offsets": [
+				129,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "ASH Sing Note UP"
+		},
+		{
+			"offsets": [
+				37,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ASH Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				37,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "ASH Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-68,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ASH Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-68,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "ASH Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-23,
+				-57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ASH Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-23,
+				-57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "ASH Sing Note DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/ASHEX",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "Ash",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		155,
+		195
+	],
+	"camera_position": [
+		70,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

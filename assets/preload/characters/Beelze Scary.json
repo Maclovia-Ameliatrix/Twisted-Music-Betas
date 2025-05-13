@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "OldMan_Creepy_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "OldMan_Creepy_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "OldMan_Creepy_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "OldMan_Creepy_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "OldMan_Creepy_Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/beelze_ooscaryface",
+	"position": [
+		50,
+		110
+	],
+	"healthicon": "Beelze",
+	"flip_x": false,
+	"healthbar_colors": [
+		126,
+		93,
+		145
+	],
+	"camera_position": [
+		-350,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

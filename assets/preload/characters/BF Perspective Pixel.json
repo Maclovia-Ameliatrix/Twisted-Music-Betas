@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF_Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF_Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF_Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF_Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF_Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				48
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF_Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-66
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF_Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF_Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "iChooseYou",
+			"fps": 24,
+			"name": "BF_Ball_Throw",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				30
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF_AURGH",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Reskins/ba_BF_assets",
+	"position": [
+		80,
+		530
+	],
+	"healthicon": "BF Pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-150,
+		-390
+	],
+	"sing_duration": 5,
+	"scale": 6
+}

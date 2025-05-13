@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RHM Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RHM left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RHM down new",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				75
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RHM Up New",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RHM Right new",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				0
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "RHM intro new",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-530
+			],
+			"anim": "XD",
+			"fps": 24,
+			"name": "rhm animation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/rhm",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "Right Hand Man",
+	"flip_x": false,
+	"healthbar_colors": [
+		228,
+		72,
+		50
+	],
+	"camera_position": [
+		70,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

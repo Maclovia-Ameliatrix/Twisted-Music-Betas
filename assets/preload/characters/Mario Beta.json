@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				81
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MarioIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				95
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MarioLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				68
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MarioDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				107
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MarioUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				105
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MarioRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Alone_Mario_Assets",
+	"position": [
+		40,
+		240
+	],
+	"healthicon": "Beta Mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		52,
+		71
+	],
+	"camera_position": [
+		-40,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

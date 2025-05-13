@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				79
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Os_danceRight ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				127
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Os_Up ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				127
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Os_Up_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				44
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Os_Right ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				232,
+				44
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Os_Right_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Os_Down ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-139
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Os_Down_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				93
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Os_Left ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				91
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Os_Left_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				80
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Os_OldTimey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				224,
+				130
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Os_Lucky",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Oswald_Happy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Oswald",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

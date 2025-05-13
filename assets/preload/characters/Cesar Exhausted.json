@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": " idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": " up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": " right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": " evade",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/Exhausted Coco",
+	"position": [
+		-570,
+		-250
+	],
+	"healthicon": "Cesar Torres",
+	"flip_x": false,
+	"healthbar_colors": [
+		89,
+		83,
+		105
+	],
+	"camera_position": [
+		-210,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

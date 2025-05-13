@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "botan Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "botan NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "botan Up note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "botan Note Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "botan Down Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-15
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "botan NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "botan Down Note MISS"
+		},
+		{
+			"offsets": [
+				-20,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "botan Up note miss"
+		},
+		{
+			"offsets": [
+				-64,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "botan Note Right Miss"
+		},
+		{
+			"offsets": [
+				-9,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "botan PEACE!"
+		},
+		{
+			"offsets": [
+				-13,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "botan thunder"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/Button",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "Shishiro Botan",
+	"flip_x": true,
+	"healthbar_colors": [
+		193,
+		202,
+		230
+	],
+	"camera_position": [
+		200,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

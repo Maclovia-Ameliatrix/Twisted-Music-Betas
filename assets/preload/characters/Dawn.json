@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dawn idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dawn left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dawn down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dawn up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dawn right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				106,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "dawn left miss"
+		},
+		{
+			"offsets": [
+				115,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "dawn down miss"
+		},
+		{
+			"offsets": [
+				111,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "dawn up miss"
+		},
+		{
+			"offsets": [
+				-18,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "dawn right miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "swap",
+			"indices": [],
+			"name": "dawn cover coverup"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "dawn cover idle"
+		},
+		{
+			"offsets": [
+				-2,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "dawn cover left"
+		},
+		{
+			"offsets": [
+				4,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "dawn cover down"
+		},
+		{
+			"offsets": [
+				-15,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "dawn cover up"
+		},
+		{
+			"offsets": [
+				-14,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "dawn cover right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Dawn",
+	"position": [
+		80,
+		370
+	],
+	"healthicon": "Dawn",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		90,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pim idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pim izquierda instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				115
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "pim izquierda miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pim abajo instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				117
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "pim abajo miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pim arriba instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				101
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "pim arriba miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pim derecha instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				18
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "pim derecha miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Pim",
+	"position": [
+		-370,
+		230
+	],
+	"healthicon": "Pim",
+	"flip_x": true,
+	"healthbar_colors": [
+		182,
+		65,
+		211
+	],
+	"camera_position": [
+		360,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

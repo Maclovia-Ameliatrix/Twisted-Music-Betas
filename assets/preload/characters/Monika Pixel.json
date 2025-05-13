@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MkaIdle"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MkaLeft"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Mka Miss Left"
+		},
+		{
+			"offsets": [
+				-15,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MkaUp"
+		},
+		{
+			"offsets": [
+				-15,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Mka Miss Up"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MkaRight"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Mka Miss Right"
+		},
+		{
+			"offsets": [
+				-25,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MkaDown"
+		},
+		{
+			"offsets": [
+				-25,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Mka Miss Down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Doki/monikanew",
+	"position": [
+		240,
+		360
+	],
+	"healthicon": "Monika Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		184,
+		227
+	],
+	"camera_position": [
+		390,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

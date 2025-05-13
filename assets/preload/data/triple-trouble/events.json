@@ -1,0 +1,686 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				1643.83561643836,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Tails.EXE"
+					]
+				]
+			],
+			[
+				14794.5205479452,
+				[
+					[
+						"Screen Shake",
+						"",
+						"0.35,0.01"
+					]
+				]
+			],
+			[
+				41095.8904109589,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Tails.EXE Pixel"
+					]
+				]
+			],
+			[
+				41095.8904109589,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic Pixel"
+					]
+				]
+			],
+			[
+				41095.8904109589,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"300"
+					]
+				]
+			],
+			[
+				80547.9452054795,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic"
+					]
+				]
+			],
+			[
+				80547.9452054795,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Tails.EXE"
+					]
+				]
+			],
+			[
+				80547.9452054795,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105205.479452055,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes"
+					]
+				]
+			],
+			[
+				111780.821917808,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124931.506849315,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131506.849315069,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Knuckles.EXE"
+					]
+				]
+			],
+			[
+				146301.369863014,
+				[
+					[
+						"Screen Shake",
+						"",
+						"0.35,0.01"
+					]
+				]
+			],
+			[
+				172602.739726028,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic Pixel"
+					]
+				]
+			],
+			[
+				172602.739726028,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Knuckles.EXE Pixel"
+					]
+				]
+			],
+			[
+				172602.739726028,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"300"
+					]
+				]
+			],
+			[
+				212054.794520548,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic"
+					]
+				]
+			],
+			[
+				212054.794520548,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Knuckles.EXE"
+					]
+				]
+			],
+			[
+				212054.794520548,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				236712.328767124,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				238353.595890411,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"300"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic Pixel"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes Pixel"
+					]
+				]
+			],
+			[
+				289315.068493151,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Ivo Robotnik.EXE"
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic"
+					]
+				]
+			],
+			[
+				302525.16916983,
+				[
+					[
+						"Screen Shake",
+						"",
+						"0.35,0.01"
+					]
+				]
+			],
+			[
+				324211.916157782,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				325657.699290312,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Peelout Sonic Pixel"
+					]
+				]
+			],
+			[
+				325657.699290312,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Ivo Robotnik.EXE Pixel"
+					]
+				]
+			],
+			[
+				325657.699290312,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"300"
+					]
+				]
+			],
+			[
+				347344.446278264,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				395055.289651757,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				395055.289651757,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic"
+					]
+				]
+			],
+			[
+				395055.289651757,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Ivo Robotnik.EXE"
+					]
+				]
+			],
+			[
+				395055.289651757,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				405175.771579468,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes"
+					]
+				]
+			],
+			[
+				429754.08483248,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"300"
+					]
+				]
+			],
+			[
+				429754.08483248,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic Pixel"
+					]
+				]
+			],
+			[
+				429754.08483248,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes Pixel"
+					]
+				]
+			],
+			[
+				452886.614952962,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				452886.614952962,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes"
+					]
+				]
+			],
+			[
+				452886.614952962,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic"
+					]
+				]
+			],
+			[
+				455778.181218022,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic Pixel"
+					]
+				]
+			],
+			[
+				455778.181218022,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes Pixel"
+					]
+				]
+			],
+			[
+				455778.181218022,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"300"
+					]
+				]
+			],
+			[
+				458669.747483082,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes"
+					]
+				]
+			],
+			[
+				458669.747483082,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic"
+					]
+				]
+			],
+			[
+				458669.747483082,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				458669.747483082,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				476019.145073444,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"300"
+					]
+				]
+			],
+			[
+				476019.145073444,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic Pixel"
+					]
+				]
+			],
+			[
+				476019.145073444,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes Pixel"
+					]
+				]
+			],
+			[
+				478910.711338504,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				478910.711338504,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes"
+					]
+				]
+			],
+			[
+				478910.711338504,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic"
+					]
+				]
+			],
+			[
+				481802.277603564,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic Pixel"
+					]
+				]
+			],
+			[
+				481802.277603564,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes Pixel"
+					]
+				]
+			],
+			[
+				481802.277603564,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"300"
+					]
+				]
+			],
+			[
+				497705.892061395,
+				[
+					[
+						"trioStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				499151.675193925,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Xenophanes"
+					]
+				]
+			],
+			[
+				499151.675193925,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Sonic"
+					]
+				]
+			],
+			[
+				499151.675193926,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

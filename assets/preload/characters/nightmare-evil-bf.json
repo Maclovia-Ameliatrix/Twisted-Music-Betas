@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				73,
+				120
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Evil Boyfriend Idle"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SING DOWN Evil BoyFriend"
+		},
+		{
+			"offsets": [
+				30,
+				190
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SING LEFT Evil BoyFriend"
+		},
+		{
+			"offsets": [
+				10,
+				160
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SING RIGHT Evil Boyfriend"
+		},
+		{
+			"offsets": [
+				60,
+				220
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SING UP Evil BoyFriend"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Nightmare/NIGHTMARE SBF",
+	"position": [
+		80,
+		-40
+	],
+	"healthicon": "Nightmare BF Evil",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		20,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.00000000000001
+}

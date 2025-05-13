@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tsuraran Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Alt Tsuraran Idle"
+		},
+		{
+			"offsets": [
+				59,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tsuraran Left"
+		},
+		{
+			"offsets": [
+				58,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Alt Tsuraran Left"
+		},
+		{
+			"offsets": [
+				-56,
+				-77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tsuraran Down"
+		},
+		{
+			"offsets": [
+				-56,
+				-77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Alt Tsuraran Down"
+		},
+		{
+			"offsets": [
+				-13,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tsuraran Up"
+		},
+		{
+			"offsets": [
+				-13,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Alt Tsuraran Up"
+		},
+		{
+			"offsets": [
+				-68,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tsuraran Right"
+		},
+		{
+			"offsets": [
+				-68,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Alt Tsuraran Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/bombotsurasclat",
+	"position": [
+		100,
+		170
+	],
+	"healthicon": "Tsururan",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		204,
+		204
+	],
+	"camera_position": [
+		260,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

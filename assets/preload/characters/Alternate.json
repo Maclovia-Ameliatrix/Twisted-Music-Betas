@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Alternate Idle"
+		},
+		{
+			"offsets": [
+				-15,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Alternate Left"
+		},
+		{
+			"offsets": [
+				-15,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Alternate Down"
+		},
+		{
+			"offsets": [
+				-13,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Alternate Up"
+		},
+		{
+			"offsets": [
+				-10,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Alternate Right"
+		},
+		{
+			"offsets": [
+				-6,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Alternate Shot"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Analog Horror/Alternate",
+	"position": [
+		-210,
+		30
+	],
+	"healthicon": "Alternate",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		190,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

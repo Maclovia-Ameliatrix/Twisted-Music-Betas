@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "taki idle"
+		},
+		{
+			"offsets": [
+				-17,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "taki left"
+		},
+		{
+			"offsets": [
+				-17,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "taki left"
+		},
+		{
+			"offsets": [
+				-17,
+				-68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "taki down"
+		},
+		{
+			"offsets": [
+				-17,
+				-68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "taki down"
+		},
+		{
+			"offsets": [
+				51,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "taki up"
+		},
+		{
+			"offsets": [
+				51,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "taki up"
+		},
+		{
+			"offsets": [
+				59,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "taki right"
+		},
+		{
+			"offsets": [
+				59,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "taki right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/taki",
+	"position": [
+		-80,
+		-320
+	],
+	"healthicon": "Taki",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		68,
+		112
+	],
+	"camera_position": [
+		-60,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

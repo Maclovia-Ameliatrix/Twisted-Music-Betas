@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Yuri Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Yuri Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Yuri Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Yuri Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Yuri Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Doki/Yuri",
+	"position": [
+		220,
+		250
+	],
+	"healthicon": "Yuri",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		114,
+		210
+	],
+	"camera_position": [
+		-60,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

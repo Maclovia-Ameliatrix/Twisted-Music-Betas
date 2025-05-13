@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				53
+			],
+			"anim": "clap",
+			"fps": 24,
+			"name": "smaller girl clappy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "smaller girl combo break",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DanceLeft",
+			"fps": 24,
+			"name": "smaller girl left bop0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "DanceLeft-alt",
+			"fps": 24,
+			"name": "smaller girl left bop turn",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "DanceRight",
+			"fps": 24,
+			"name": "smaller girl right bop0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "DanceRight-alt",
+			"fps": 24,
+			"name": "smaller girl right bop turn",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/goyle_metronomo",
+	"position": [
+		280,
+		320
+	],
+	"healthicon": "Girl",
+	"flip_x": false,
+	"healthbar_colors": [
+		212,
+		0,
+		136
+	],
+	"camera_position": [
+		-130,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

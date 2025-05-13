@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-340
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cuphead_standing instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-350
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CupON THE GROUND NOW instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-350
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "CupON THE GROUND NOW instance 2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				-340
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Dodge instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-220
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Oich instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				83,
+				-342
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Cupshoot instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				69,
+				-324
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "CupyRight instance 2"
+		},
+		{
+			"offsets": [
+				90,
+				-343
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CupyRight instance 1"
+		},
+		{
+			"offsets": [
+				31,
+				-334
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Cupleft instance 2"
+		},
+		{
+			"offsets": [
+				31,
+				-334
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cupleft instance 1"
+		},
+		{
+			"offsets": [
+				67,
+				-305
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "CupUp instance 2"
+		},
+		{
+			"offsets": [
+				65,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CupUp instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Cuphead Sprites",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		140,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

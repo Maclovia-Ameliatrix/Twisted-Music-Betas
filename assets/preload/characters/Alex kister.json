@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle_Dance"
+		},
+		{
+			"offsets": [
+				9,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left_Dance"
+		},
+		{
+			"offsets": [
+				0,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down_Dance"
+		},
+		{
+			"offsets": [
+				-7,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up_Dance"
+		},
+		{
+			"offsets": [
+				-5,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right_Dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/MarkMean",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "Monkey HurtClick",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		120,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

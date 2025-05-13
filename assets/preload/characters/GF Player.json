@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "gfDanceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "gfDanceRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GFleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GFdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GFup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GFright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-20
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-17
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				58
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-36
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-27
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "gf hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				380,
+				-47
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "gf attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-42
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "gf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-20
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "gf dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Reskins/Ultimate GF",
+	"position": [
+		120,
+		270
+	],
+	"healthicon": "GF",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		100,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

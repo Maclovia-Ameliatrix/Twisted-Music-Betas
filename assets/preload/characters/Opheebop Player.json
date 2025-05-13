@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Ophee Idle"
+		},
+		{
+			"offsets": [
+				32,
+				-172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Ophee Right"
+		},
+		{
+			"offsets": [
+				32,
+				-172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Ophee Right"
+		},
+		{
+			"offsets": [
+				-30,
+				-174
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Ophee Left"
+		},
+		{
+			"offsets": [
+				-30,
+				-174
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Ophee Left"
+		},
+		{
+			"offsets": [
+				16,
+				-177
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Ophee Down"
+		},
+		{
+			"offsets": [
+				16,
+				-177
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Ophee Down"
+		},
+		{
+			"offsets": [
+				-14,
+				-151
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Ophee Up"
+		},
+		{
+			"offsets": [
+				-14,
+				-151
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Ophee Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Reskins/Ophee-CV",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Opheebop Peppered",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		200,
+		200
+	],
+	"camera_position": [
+		40,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

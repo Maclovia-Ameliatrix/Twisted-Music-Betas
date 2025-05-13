@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				77
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BAGF_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				59
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BAGF_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				89
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BAGF_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BAGF_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				59
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BAGF_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-194,
+				-31
+			],
+			"anim": "Enter",
+			"fps": 24,
+			"name": "the_lols",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/apparitiongf_assets",
+	"position": [
+		100,
+		330
+	],
+	"healthicon": "Buried Alive Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-430,
+		-280
+	],
+	"sing_duration": 6.1,
+	"scale": 5.99999999999999
+}

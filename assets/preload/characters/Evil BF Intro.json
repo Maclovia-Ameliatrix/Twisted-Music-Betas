@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				120
+			],
+			"anim": "down",
+			"fps": 24,
+			"name": "Soul BF GUITAR DOWN LOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				170
+			],
+			"anim": "left",
+			"fps": 24,
+			"name": "Soul BF GUITAR LEFT LOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				170
+			],
+			"anim": "right",
+			"fps": 24,
+			"name": "Soul BF GUITAR LEFT LOOP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				170
+			],
+			"anim": "up",
+			"fps": 24,
+			"name": "Soul BF GUITAR UP Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Soul BF GUITAR UP Black",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				260
+			],
+			"anim": "LetsStart",
+			"fps": 24,
+			"name": "Soul BF GUITAR THROW",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				170
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Soul BF GUITAR LEFT Black",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				170
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Soul BF GUITAR LEFT Black",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Soul BF GUITAR DOWN Black"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/bfs_guitarfirst",
+	"position": [
+		130,
+		140
+	],
+	"healthicon": "Evil BF",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		30,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1.00000000000001
+}

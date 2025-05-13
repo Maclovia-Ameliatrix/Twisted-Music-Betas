@@ -1,0 +1,266 @@
+{
+	"song": {
+		"events": [
+			[
+				69397.5903614458,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"Franshin"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				128855.421686747,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Mark Front"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				140240.963855422,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Cesar Front"
+					]
+				]
+			],
+			[
+				151897.590361446,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Mark Front"
+					]
+				]
+			],
+			[
+				153253.012048193,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Cesar Front"
+					]
+				]
+			],
+			[
+				154698.795180723,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Mark Front"
+					]
+				]
+			],
+			[
+				156144.578313253,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Cesar Front"
+					]
+				]
+			],
+			[
+				157680.722891566,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Mark Front"
+					]
+				]
+			],
+			[
+				160481.927710844,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Cesar Front"
+					]
+				]
+			],
+			[
+				166265.060240964,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Mark Front"
+					]
+				]
+			],
+			[
+				177831.325301205,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Cesar Front"
+					]
+				]
+			],
+			[
+				186867.469879518,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Aura Fearest"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				244337.349397591,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Aura Fearest"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				302168.674698795,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Lynn"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				348795.180722891,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Snatcher Stanley"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				406265.060240963,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dyu"
+					],
+					[
+						"Play Animation",
+						"dyu",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				407710.843373493,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.1",
+						"-0.1"
+					],
+					[
+						"Flashing Camera",
+						"flash",
+						""
+					]
+				]
+			],
+			[
+				413493.975903614,
+				[
+					[
+						"BlackScreen",
+						"add",
+						"game"
+					]
+				]
+			],
+			[
+				416385.542168674,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Jonah"
+					]
+				]
+			],
+			[
+				416566.26506024,
+				[
+					[
+						"Change Character",
+						"dad",
+						"N"
+					],
+					[
+						"BlackScreen",
+						"remove",
+						"game"
+					]
+				]
+			],
+			[
+				439518.072289156,
+				[
+					[
+						"BlackScreen",
+						"add",
+						"game"
+					]
+				]
+			]
+		]
+	}
+}

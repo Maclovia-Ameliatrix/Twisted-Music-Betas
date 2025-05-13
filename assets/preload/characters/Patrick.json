@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Patrick idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Patrick sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				11
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Patrick sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Patrick sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				21
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Patrick sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Patrick sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				14
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Patrick sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Patrick sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				9
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Patrick sing left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Patrick",
+	"position": [
+		-20,
+		200
+	],
+	"healthicon": "Patrick",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		126,
+		130
+	],
+	"camera_position": [
+		10,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

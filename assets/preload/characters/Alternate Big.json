@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				1
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "idle",
+			"loop": false,
+			"name": "AlternateBlueScreen Idle"
+		},
+		{
+			"offsets": [
+				170,
+				-113
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "AlternateBlueScreen Down"
+		},
+		{
+			"offsets": [
+				105,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "AlternateBlueScreen Left"
+		},
+		{
+			"offsets": [
+				58,
+				74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "AlternateBlueScreen Up"
+		},
+		{
+			"offsets": [
+				105,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "AlternateBlueScreen Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Analog Horror/AlternateBlueScreen",
+	"position": [
+		120,
+		-300
+	],
+	"healthicon": "Our Saviour",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		75,
+		98
+	],
+	"camera_position": [
+		-120,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

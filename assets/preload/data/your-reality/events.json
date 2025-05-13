@@ -1,0 +1,151 @@
+{
+	"song": {
+		"events": [
+			[
+				40000,
+				[
+					[
+						"Camera Follow Pos",
+						"780",
+						"550"
+					],
+					[
+						"Set CamZoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				41714.2857142857,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59428.5714285714,
+				[
+					[
+						"Set CamZoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				91428.5714285714,
+				[
+					[
+						"ChangeSingCharacter",
+						"Nats,Yuri,boyfriend",
+						"BF"
+					]
+				]
+			],
+			[
+				95857.1428571429,
+				[
+					[
+						"Set CamZoom",
+						"0.8",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"780",
+						"550"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Set CamZoom",
+						"1.1",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				137000,
+				[
+					[
+						"Set CamZoom",
+						"0.8",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"780",
+						"550"
+					]
+				]
+			],
+			[
+				146142.857142857,
+				[
+					[
+						"Set CamZoom",
+						"1.1",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				155285.714285714,
+				[
+					[
+						"Set CamZoom",
+						"0.8",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"780",
+						"550"
+					]
+				]
+			],
+			[
+				171428.571428572,
+				[
+					[
+						"Change Character",
+						"GF",
+						"Senpai Speakers Pixel"
+					],
+					[
+						"Flash",
+						"0xFFFFFF",
+						"0.75"
+					]
+				]
+			],
+			[
+				172714.285714286,
+				[
+					[
+						"black slow",
+						"si",
+						""
+					]
+				]
+			]
+		]
+	}
+}

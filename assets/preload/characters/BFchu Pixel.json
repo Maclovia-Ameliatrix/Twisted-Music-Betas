@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pikafriend idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pikafriend left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pikafriend up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pikafriend right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pikafriend down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Reskins/pikafriend",
+	"position": [
+		100,
+		670
+	],
+	"healthicon": "BF Pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		260,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 8
+}

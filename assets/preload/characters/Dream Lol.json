@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-295
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bobEX_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-296
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bobEX_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-295
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bobEX_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-295
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bobEX_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-295
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bobEX_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-295
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bobEX_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-296
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bobEX_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-295
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bobEX_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-295
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bobEX_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/dreamlol_derp",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "DreamLol",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

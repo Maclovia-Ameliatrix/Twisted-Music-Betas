@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "sonic left miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				13,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sonic left sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "sonic right miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sonic sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				6
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "sonic up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sonic sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				6
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "sonic down miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sonic sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				12
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "dialogue",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/running_sonic_sheet",
+	"position": [
+		280,
+		530
+	],
+	"healthicon": "Sonic Pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		108,
+		108,
+		216
+	],
+	"camera_position": [
+		50,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 6.00000000000001
+}

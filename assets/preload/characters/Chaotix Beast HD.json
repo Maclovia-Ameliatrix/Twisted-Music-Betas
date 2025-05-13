@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chaotix idle"
+		},
+		{
+			"offsets": [
+				400,
+				299
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Chaotix right"
+		},
+		{
+			"offsets": [
+				310,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Chaotix down"
+		},
+		{
+			"offsets": [
+				174,
+				262
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Chaotix up"
+		},
+		{
+			"offsets": [
+				66,
+				265
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Chaotix left"
+		},
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Transform",
+			"indices": [],
+			"name": "Chaotix trans"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Chaotix Beast HD",
+	"position": [
+		-340,
+		-400
+	],
+	"healthicon": "Chaotix Beast",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		183,
+		249
+	],
+	"camera_position": [
+		130,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

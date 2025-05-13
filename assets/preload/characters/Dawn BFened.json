@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dawn morph left"
+		},
+		{
+			"offsets": [
+				3,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dawn morph down"
+		},
+		{
+			"offsets": [
+				-12,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dawn morph up"
+		},
+		{
+			"offsets": [
+				-12,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dawn morph right"
+		},
+		{
+			"offsets": [
+				109,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "dawn left morph miss"
+		},
+		{
+			"offsets": [
+				106,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "dawn down morph miss"
+		},
+		{
+			"offsets": [
+				91,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "dawn up morph miss"
+		},
+		{
+			"offsets": [
+				96,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "dawn right morph miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "swap",
+			"indices": [],
+			"name": "dawn cover morph"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				-7
+			],
+			"anim": "idle",
+			"fps": 23,
+			"name": "dawn morph idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Dawn",
+	"position": [
+		80,
+		370
+	],
+	"healthicon": "Dawn",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		90,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

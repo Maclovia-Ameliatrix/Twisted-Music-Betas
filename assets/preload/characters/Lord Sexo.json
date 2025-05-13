@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				81
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cycles Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-139,
+				88
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cycles Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Cycles Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				247
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Cycles Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				146
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cycles Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				85
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Cycles Laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Cycles_LX",
+	"position": [
+		-20,
+		170
+	],
+	"healthicon": "Lord X",
+	"flip_x": true,
+	"healthbar_colors": [
+		120,
+		119,
+		176
+	],
+	"camera_position": [
+		200,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

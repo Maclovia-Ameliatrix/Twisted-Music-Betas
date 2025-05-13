@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				-407
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "huggydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "huggyleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				267,
+				-33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "huggyright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "huggyup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "huggyidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/huggy",
+	"position": [
+		0,
+		-140
+	],
+	"healthicon": "Huggy Wuggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		60,
+		155
+	],
+	"camera_position": [
+		280,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

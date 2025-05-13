@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				12,
+				-287
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FUCK YOU instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-570
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				242,
+				-326
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				41,
+				-103
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				1440
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "Intro instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				67,
+				-330
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DeathBendy instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				340,
+				-431
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Bye",
+			"loop": false,
+			"name": "bye bitch instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Nightmare/NMB",
+	"position": [
+		0,
+		-390
+	],
+	"healthicon": "Nightmare Bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		215,
+		0
+	],
+	"camera_position": [
+		-160,
+		240
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

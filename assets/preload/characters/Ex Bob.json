@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				155
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				224,
+				355
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-210,
+				160
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				301,
+				59
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				148,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/Bob_expurgation",
+	"position": [
+		-240,
+		0
+	],
+	"healthicon": "ExTrickBob",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		105,
+		105
+	],
+	"camera_position": [
+		60,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

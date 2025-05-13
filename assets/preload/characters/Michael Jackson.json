@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Angry Senpai Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				37
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Angry Senpai UP NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				4
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Angry Senpai LEFT NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Angry Senpai RIGHT NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				5
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Angry Senpai DOWN NOTE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/Doki/Michael Jackson",
+	"position": [
+		160,
+		300
+	],
+	"healthicon": "Michael Jackson Pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		192,
+		93,
+		104
+	],
+	"camera_position": [
+		-280,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

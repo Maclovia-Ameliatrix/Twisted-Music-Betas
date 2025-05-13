@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DarkIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				308,
+				43
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Darkleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-96
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DarkDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DarkUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-129,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DarkRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				340
+			],
+			"anim": "Wahoo",
+			"fps": 24,
+			"name": "DarkTransition",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Costume_Mario_Assets2",
+	"position": [
+		50,
+		50
+	],
+	"healthicon": "Mario Costume",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		99,
+		99
+	],
+	"camera_position": [
+		60,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

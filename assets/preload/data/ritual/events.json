@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Lyrics",
+						"it's time",
+						"0x643515"
+					],
+					[
+						"Play Animation",
+						"intro",
+						"Dad"
+					]
+				]
+			],
+			[
+				1500,
+				[
+					[
+						"Lyrics",
+						"we've all been waiting",
+						"0x643515"
+					]
+				]
+			],
+			[
+				3656.25,
+				[
+					[
+						"Lyrics",
+						"but now",
+						"0x643515"
+					]
+				]
+			],
+			[
+				4687.5,
+				[
+					[
+						"Lyrics",
+						"the wait is over",
+						"0x643515"
+					]
+				]
+			],
+			[
+				6468.75,
+				[
+					[
+						"Lyrics",
+						"",
+						"0x643515"
+					]
+				]
+			],
+			[
+				119250,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}

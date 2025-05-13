@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ShadowIdleDance"
+		},
+		{
+			"offsets": [
+				115,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ShadowRightPoses"
+		},
+		{
+			"offsets": [
+				80,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ShadowDownSing"
+		},
+		{
+			"offsets": [
+				24,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ShadowUpNote"
+		},
+		{
+			"offsets": [
+				135,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ShadowLeftSing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/EXE/Shadow_assets_FNF",
+	"position": [
+		0,
+		190
+	],
+	"healthicon": "Shadow",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		32,
+		0
+	],
+	"camera_position": [
+		120,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lemon idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lemon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lemon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lemon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lemon right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/Other Mods/leman",
+	"position": [
+		-340,
+		-450
+	],
+	"healthicon": "Boogieman",
+	"flip_x": false,
+	"healthbar_colors": [
+		172,
+		0,
+		0
+	],
+	"camera_position": [
+		300,
+		450
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

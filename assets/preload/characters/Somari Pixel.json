@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "somari idle"
+		},
+		{
+			"offsets": [
+				20,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "somari left0"
+		},
+		{
+			"offsets": [
+				20,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "somari left miss"
+		},
+		{
+			"offsets": [
+				-23,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "somari up0"
+		},
+		{
+			"offsets": [
+				-23,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "somari up miss"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "somari right0"
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "somari right miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "somari down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "somari down miss"
+		},
+		{
+			"offsets": [
+				-5,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "somari ouch"
+		},
+		{
+			"offsets": [
+				-20,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dead",
+			"indices": [],
+			"name": "somari getting shot"
+		},
+		{
+			"offsets": [
+				7,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "naked",
+			"indices": [],
+			"name": "somari OUGHHHHHHHH"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "Custom Characters/EXE/Somari",
+	"position": [
+		170,
+		610
+	],
+	"healthicon": "Somari",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		191
+	],
+	"camera_position": [
+		260,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 7.8
+}

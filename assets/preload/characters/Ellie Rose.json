@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ellie Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				206,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ellie Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ellie Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ellie Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				66
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ellie Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1064
+			],
+			"anim": "Intro",
+			"fps": 24,
+			"name": "Ellie Enter Animation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-1
+			],
+			"anim": "final",
+			"fps": 24,
+			"name": "Ellie React Arm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Custom Characters/SUS/Ellie_Assets",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "Ellie & Henry",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		215,
+		216
+	],
+	"camera_position": [
+		60,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
