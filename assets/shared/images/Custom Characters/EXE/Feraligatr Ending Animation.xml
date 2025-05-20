@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Feraligatr Ending Animation.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Feraligatr0000" x="2346" y="0" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0001" x="4692" y="0" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0002" x="0" y="1467" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0003" x="2346" y="1467" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0004" x="2346" y="1467" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0005" x="4692" y="1467" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0006" x="4692" y="1467" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0007" x="0" y="2934" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0008" x="0" y="2934" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0009" x="2346" y="2934" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0010" x="2346" y="2934" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0011" x="4692" y="2934" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0012" x="4692" y="2934" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0013" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0014" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0015" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0016" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0017" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0018" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0019" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0020" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0021" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0022" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0023" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0024" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0025" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0026" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0027" x="0" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0028" x="2346" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0029" x="4692" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0030" x="4692" y="4401" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0031" x="0" y="5868" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0032" x="0" y="5868" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0033" x="2346" y="5868" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0034" x="2346" y="5868" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0035" x="4692" y="5868" width="2346" height="1467"/>
+	<SubTexture name="Feraligatr0036" x="4692" y="5868" width="2346" height="1467"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chase_sponge_encore.png">
+<SubTexture name="down0000" x="0" y="0" width="549" height="395" frameX="-253" frameY="-336" frameWidth="1000" frameHeight="900" />
+<SubTexture name="down0001" x="549" y="0" width="549" height="389" frameX="-253" frameY="-324" frameWidth="1000" frameHeight="900" />
+<SubTexture name="down0002" x="1098" y="0" width="549" height="383" frameX="-253" frameY="-312" frameWidth="1000" frameHeight="900" />
+<SubTexture name="down0003" x="0" y="395" width="549" height="401" frameX="-253" frameY="-312" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0000" x="549" y="395" width="545" height="405" frameX="-258" frameY="-290" frameWidth="1000" frameHeight="900" />
+<SubTexture name="idle0001" x="1094" y="395" width="545" height="423" frameX="-258" frameY="-290" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0000" x="0" y="818" width="570" height="405" frameX="-207" frameY="-290" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0001" x="570" y="818" width="563" height="423" frameX="-219" frameY="-290" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0002" x="1133" y="818" width="551" height="405" frameX="-236" frameY="-290" frameWidth="1000" frameHeight="900" />
+<SubTexture name="left0003" x="0" y="1241" width="551" height="423" frameX="-236" frameY="-290" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0000" x="551" y="1241" width="566" height="405" frameX="-266" frameY="-290" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0001" x="1117" y="1241" width="554" height="423" frameX="-265" frameY="-290" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0002" x="0" y="1664" width="547" height="405" frameX="-264" frameY="-290" frameWidth="1000" frameHeight="900" />
+<SubTexture name="right0003" x="547" y="1664" width="547" height="423" frameX="-264" frameY="-290" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0000" x="1094" y="1664" width="545" height="447" frameX="-258" frameY="-248" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0001" x="0" y="2111" width="545" height="447" frameX="-258" frameY="-266" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0002" x="545" y="2111" width="545" height="419" frameX="-258" frameY="-276" frameWidth="1000" frameHeight="900" />
+<SubTexture name="up0003" x="1090" y="2111" width="545" height="437" frameX="-258" frameY="-276" frameWidth="1000" frameHeight="900" />
+</TextureAtlas>

@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PixelClops.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cyclops Death0000" x="1280" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0001" x="1280" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0002" x="1280" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0003" x="1600" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0004" x="1600" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0005" x="1600" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0006" x="0" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0007" x="0" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0008" x="0" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0009" x="320" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0010" x="320" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0011" x="320" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0012" x="640" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0013" x="640" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0014" x="640" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0015" x="960" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0016" x="960" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0017" x="960" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0018" x="1280" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0019" x="1280" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0020" x="1280" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0021" x="1600" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0022" x="1600" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0023" x="1600" y="180" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0024" x="0" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0025" x="0" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0026" x="0" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0027" x="320" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0028" x="320" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0029" x="320" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0030" x="640" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0031" x="640" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0032" x="640" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0033" x="960" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0034" x="960" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0035" x="960" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0036" x="1280" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0037" x="1280" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0038" x="1280" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0039" x="1600" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0040" x="1600" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0041" x="1600" y="360" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0042" x="0" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0043" x="0" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death0044" x="0" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0000" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0001" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0002" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0003" x="640" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0004" x="640" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0005" x="640" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0006" x="960" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0007" x="960" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0008" x="960" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0009" x="1280" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0010" x="1280" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0011" x="1280" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0012" x="1600" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0013" x="1600" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0014" x="1600" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0015" x="0" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0016" x="0" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0017" x="0" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0018" x="320" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0019" x="320" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0020" x="320" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0021" x="320" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0022" x="320" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0023" x="320" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0024" x="640" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0025" x="640" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0026" x="640" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0027" x="960" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0028" x="960" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0029" x="960" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0030" x="1280" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0031" x="1280" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0032" x="1280" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0033" x="1600" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0034" x="1600" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0035" x="1600" y="720" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0036" x="0" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0037" x="0" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0038" x="0" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0039" x="320" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0040" x="320" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0041" x="320" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0042" x="640" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0043" x="640" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death End0044" x="640" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0000" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0001" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0002" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0003" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0004" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0005" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0006" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0007" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0008" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0009" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0010" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0011" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0012" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0013" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0014" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0015" x="960" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0016" x="960" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0017" x="960" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0018" x="1280" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0019" x="1280" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0020" x="1280" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0021" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0022" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0023" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0024" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0025" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0026" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0027" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0028" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0029" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0030" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0031" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0032" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0033" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0034" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0035" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0036" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0037" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0038" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0039" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0040" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0041" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0042" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0043" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Death Loop0044" x="320" y="540" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0000" x="1600" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0001" x="1600" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0002" x="1600" y="900" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0003" x="0" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0004" x="0" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0005" x="0" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0006" x="320" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0007" x="320" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0008" x="320" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0009" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0010" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0011" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0012" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0013" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0014" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0015" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0016" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0017" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0018" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0019" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0020" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0021" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0022" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0023" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0024" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0025" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0026" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0027" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0028" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0029" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0030" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0031" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0032" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0033" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0034" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0035" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0036" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0037" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down0038" x="640" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0000" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0001" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0002" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0003" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0004" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0005" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0006" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0007" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0008" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0009" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0010" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0011" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0012" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0013" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0014" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0015" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0016" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0017" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0018" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0019" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0020" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0021" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0022" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0023" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0024" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0025" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0026" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0027" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0028" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0029" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0030" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0031" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0032" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0033" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0034" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0035" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0036" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0037" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0038" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0039" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0040" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Down Miss0041" x="0" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0000" x="960" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0001" x="960" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0002" x="960" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0003" x="1280" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0004" x="1280" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0005" x="1280" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0006" x="1600" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0007" x="1600" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0008" x="1600" y="1080" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0009" x="0" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0010" x="0" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0011" x="0" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0012" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0013" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0014" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0015" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0016" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0017" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0018" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0019" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0020" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0021" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0022" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0023" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0024" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0025" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0026" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0027" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0028" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0029" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0030" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0031" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0032" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0033" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0034" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0035" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0036" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0037" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0038" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0039" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0040" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Idle0041" x="320" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0000" x="640" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0001" x="640" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0002" x="640" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0003" x="960" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0004" x="960" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0005" x="960" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0006" x="1280" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0007" x="1280" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0008" x="1280" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0009" x="1600" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0010" x="1600" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0011" x="1600" y="1260" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0012" x="0" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0013" x="0" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0014" x="0" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0015" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0016" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0017" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0018" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0019" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0020" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0021" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0022" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0023" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0024" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0025" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0026" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0027" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0028" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0029" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0030" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0031" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0032" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0033" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0034" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0035" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0036" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0037" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0038" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0039" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0040" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left0041" x="320" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Left Miss0000" x="320" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0000" x="640" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0001" x="640" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0002" x="640" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0003" x="960" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0004" x="960" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0005" x="960" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0006" x="1280" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0007" x="1280" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0008" x="1280" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0009" x="1600" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0010" x="1600" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0011" x="1600" y="1440" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0012" x="0" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0013" x="0" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0014" x="0" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0015" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0016" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0017" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0018" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0019" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0020" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0021" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0022" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0023" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0024" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0025" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0026" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0027" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0028" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0029" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0030" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0031" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0032" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0033" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0034" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0035" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0036" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0037" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0038" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0039" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0040" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right0041" x="320" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0000" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0001" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0002" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0003" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0004" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0005" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0006" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0007" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0008" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0009" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0010" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0011" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0012" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0013" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0014" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0015" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0016" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0017" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0018" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0019" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0020" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0021" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0022" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0023" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0024" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0025" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0026" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0027" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0028" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0029" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0030" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0031" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0032" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0033" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0034" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0035" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0036" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0037" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0038" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0039" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0040" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Right  Miss0041" x="640" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0000" x="640" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0001" x="640" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0002" x="640" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0003" x="960" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0004" x="960" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0005" x="960" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0006" x="1280" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0007" x="1280" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0008" x="1280" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0009" x="1600" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0010" x="1600" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0011" x="1600" y="1620" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0012" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0013" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0014" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0015" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0016" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0017" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0018" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0019" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0020" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0021" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0022" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0023" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0024" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0025" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0026" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0027" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0028" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0029" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0030" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0031" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0032" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0033" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0034" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0035" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0036" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0037" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0038" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0039" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0040" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up0041" x="0" y="1800" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0000" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0001" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0002" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0003" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0004" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0005" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0006" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0007" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0008" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0009" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0010" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0011" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0012" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0013" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0014" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0015" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0016" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0017" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0018" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0019" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0020" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0021" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0022" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0023" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0024" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0025" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0026" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0027" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0028" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0029" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0030" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0031" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0032" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0033" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0034" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0035" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0036" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0037" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0038" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0039" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0040" x="960" y="0" width="320" height="180"/>
+	<SubTexture name="Cyclops Up Miss0041" x="960" y="0" width="320" height="180"/>
+</TextureAtlas>

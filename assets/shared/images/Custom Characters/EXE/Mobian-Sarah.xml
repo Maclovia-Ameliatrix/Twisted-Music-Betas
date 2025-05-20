@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mobian-Sarah Public.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dancing Sarah0000" x="0" y="0" width="866" height="1170" frameX="0" frameY="-9" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0001" x="866" y="0" width="835" height="1189" frameX="-20" frameY="0" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0002" x="866" y="0" width="835" height="1189" frameX="-20" frameY="0" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0003" x="1701" y="0" width="799" height="1160" frameX="-64" frameY="-4" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0004" x="1701" y="0" width="799" height="1160" frameX="-64" frameY="-4" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0005" x="2500" y="0" width="736" height="1143" frameX="-90" frameY="-9" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0006" x="2500" y="0" width="736" height="1143" frameX="-90" frameY="-9" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0007" x="3236" y="0" width="672" height="1140" frameX="-116" frameY="-12" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0008" x="3236" y="0" width="672" height="1140" frameX="-116" frameY="-12" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0009" x="3908" y="0" width="619" height="1143" frameX="-129" frameY="-9" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0010" x="3908" y="0" width="619" height="1143" frameX="-129" frameY="-9" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0011" x="3908" y="0" width="619" height="1143" frameX="-129" frameY="-9" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0012" x="0" y="1189" width="661" height="1134" frameX="-120" frameY="-19" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0013" x="661" y="1189" width="721" height="1126" frameX="-106" frameY="-23" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0014" x="1382" y="1189" width="719" height="1129" frameX="-104" frameY="-20" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0015" x="1382" y="1189" width="719" height="1129" frameX="-104" frameY="-20" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0016" x="2101" y="1189" width="735" height="1146" frameX="-85" frameY="-5" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0017" x="2101" y="1189" width="735" height="1146" frameX="-85" frameY="-5" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0018" x="2836" y="1189" width="693" height="1141" frameX="-104" frameY="-11" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0019" x="2836" y="1189" width="693" height="1141" frameX="-104" frameY="-11" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0020" x="3529" y="1189" width="649" height="1140" frameX="-124" frameY="-12" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0021" x="3529" y="1189" width="649" height="1140" frameX="-124" frameY="-12" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0022" x="3908" y="0" width="619" height="1143" frameX="-129" frameY="-9" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0023" x="3908" y="0" width="619" height="1143" frameX="-129" frameY="-9" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Dancing Sarah0024" x="3908" y="0" width="619" height="1143" frameX="-129" frameY="-9" frameWidth="866" frameHeight="1189"/>
+	<SubTexture name="Mad Sarah DX0000" x="0" y="2335" width="722" height="1162" frameX="0" frameY="-2" frameWidth="722" frameHeight="1164"/>
+	<SubTexture name="Mad Sarah DX0001" x="0" y="2335" width="722" height="1162" frameX="0" frameY="-2" frameWidth="722" frameHeight="1164"/>
+	<SubTexture name="Mad Sarah DX0002" x="722" y="2335" width="678" height="1143" frameX="-12" frameY="0" frameWidth="722" frameHeight="1164"/>
+	<SubTexture name="Mad Sarah DX0003" x="722" y="2335" width="678" height="1143" frameX="-12" frameY="0" frameWidth="722" frameHeight="1164"/>
+	<SubTexture name="Sarah Taunt0000" x="1400" y="2335" width="740" height="1161" frameX="0" frameY="0" frameWidth="740" frameHeight="1165"/>
+	<SubTexture name="Sarah Taunt0001" x="1400" y="2335" width="740" height="1161" frameX="0" frameY="0" frameWidth="740" frameHeight="1165"/>
+	<SubTexture name="Sarah Taunt0002" x="2140" y="2335" width="680" height="1156" frameX="-30" frameY="-9" frameWidth="740" frameHeight="1165"/>
+	<SubTexture name="Sarah Taunt0003" x="2140" y="2335" width="680" height="1156" frameX="-30" frameY="-9" frameWidth="740" frameHeight="1165"/>
+</TextureAtlas>

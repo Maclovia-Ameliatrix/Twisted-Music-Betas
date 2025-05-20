@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="2d_tailsdoll.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tailsdollidle0000" x="0" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0001" x="0" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0002" x="641" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0003" x="641" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0004" x="1282" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0005" x="1282" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0006" x="1923" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0007" x="1923" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0008" x="1923" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0009" x="1923" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0010" x="1923" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollidle0011" x="1923" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollsingdown0000" x="2564" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollsingdown0001" x="2564" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollsingdown0002" x="3205" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollsingdown0003" x="3205" y="0" width="641" height="617"/>
+	<SubTexture name="tailsdollsingdown0004" x="0" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingdown0005" x="0" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingdown0006" x="0" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingdown0007" x="0" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingdown0008" x="0" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingdown0009" x="0" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingleft0000" x="641" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingleft0001" x="641" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingleft0002" x="1282" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingleft0003" x="1282" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingleft0004" x="1923" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingleft0005" x="1923" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingleft0006" x="1923" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingleft0007" x="1923" y="617" width="641" height="617"/>
+	<SubTexture name="tailsdollsingright0000" x="2564" y="617" width="641" height="616"/>
+	<SubTexture name="tailsdollsingright0001" x="2564" y="617" width="641" height="616"/>
+	<SubTexture name="tailsdollsingright0002" x="3205" y="617" width="641" height="616"/>
+	<SubTexture name="tailsdollsingright0003" x="3205" y="617" width="641" height="616"/>
+	<SubTexture name="tailsdollsingright0004" x="0" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingright0005" x="0" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingright0006" x="0" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingright0007" x="0" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingright0008" x="0" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingright0009" x="0" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingup0000" x="641" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingup0001" x="641" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingup0002" x="1282" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingup0003" x="1282" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingup0004" x="1923" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingup0005" x="1923" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingup0006" x="1923" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingup0007" x="1923" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingup0008" x="1923" y="1234" width="641" height="616"/>
+	<SubTexture name="tailsdollsingup0009" x="1923" y="1234" width="641" height="616"/>
+</TextureAtlas>

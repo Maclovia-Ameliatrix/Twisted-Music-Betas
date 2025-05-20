@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IsotopeGameover.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gameover0000" x="0" y="0" width="1395" height="1442"/>
+	<SubTexture name="Gameover0001" x="1395" y="0" width="1395" height="1442"/>
+	<SubTexture name="Gameover0002" x="2790" y="0" width="1395" height="1442"/>
+	<SubTexture name="Gameover0003" x="4185" y="0" width="1395" height="1442"/>
+	<SubTexture name="Gameover0004" x="5580" y="0" width="1395" height="1442"/>
+	<SubTexture name="Gameover0005" x="0" y="1442" width="1395" height="1442"/>
+	<SubTexture name="Gameover0006" x="1395" y="1442" width="1395" height="1442"/>
+	<SubTexture name="Gameover0007" x="2790" y="1442" width="1395" height="1442"/>
+	<SubTexture name="Gameover0008" x="4185" y="1442" width="1395" height="1442"/>
+	<SubTexture name="Gameover0009" x="5580" y="1442" width="1395" height="1442"/>
+	<SubTexture name="Gameover0010" x="0" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0011" x="0" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0012" x="0" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0013" x="0" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0014" x="0" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0015" x="0" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0016" x="0" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0017" x="0" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0018" x="0" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0019" x="1395" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0020" x="2790" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0021" x="4185" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0022" x="5580" y="2884" width="1395" height="1442"/>
+	<SubTexture name="Gameover0023" x="0" y="4326" width="1395" height="1442"/>
+	<SubTexture name="Gameover0024" x="1395" y="4326" width="1395" height="1442"/>
+	<SubTexture name="Gameover0025" x="2790" y="4326" width="1395" height="1442"/>
+	<SubTexture name="Gameover0026" x="4185" y="4326" width="1395" height="1442"/>
+	<SubTexture name="Gameover0027" x="5580" y="4326" width="1395" height="1442"/>
+</TextureAtlas>

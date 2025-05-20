@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Feels.png">
+  <!-- Created with Adobe Animate version 20.0.0.17400 -->
+  <!-- http://www.adobe.com/products/animate.html -->
+<SubTexture name="Feels Idle_Dance 0000" x="0" y="0" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Idle_Dance 0001" x="50" y="0" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Idle_Dance 0002" x="100" y="0" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Idle_Dance 0003" x="0" y="55" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Idle_Dance 0004" x="50" y="55" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Left_Pose 0000" x="100" y="55" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Left_Pose 0001" x="0" y="110" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Down_Pose 0000" x="50" y="110" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Down_Pose 0001" x="100" y="110" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Up_Pose 0000" x="0" y="165" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Up_Pose 0001" x="50" y="165" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Right_Pose 0000" x="100" y="165" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+<SubTexture name="Feels Right_Pose 0001" x="0" y="220" width="50" height="55" frameX="0" frameY="0" frameWidth="50" frameHeight="55" />
+</TextureAtlas>

@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonicexe.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONIClaugh0000" x="0" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0001" x="0" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0002" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0003" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0004" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0005" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0006" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0007" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0008" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0009" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0010" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0011" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0012" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONIClaugh0013" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0000" x="120" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0001" x="120" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0002" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0003" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0004" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0005" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0006" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0007" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0008" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0009" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0010" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0011" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0012" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveDOWN0013" x="180" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0000" x="240" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0001" x="240" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0002" x="240" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0003" x="300" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0004" x="300" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0005" x="300" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0006" x="360" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0007" x="360" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0008" x="360" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0009" x="240" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0010" x="240" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0011" x="240" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0012" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0013" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0014" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0015" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0016" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0017" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0018" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0019" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="SONICmoveIDLE0020" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0000" x="420" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0001" x="420" y="0" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0002" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0003" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0004" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0005" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0006" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0007" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0008" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0009" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0010" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0011" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0012" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveLEFT0013" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0000" x="60" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0001" x="60" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0002" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0003" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0004" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0005" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0006" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0007" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0008" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0009" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0010" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0011" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0012" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveRIGHT0013" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0000" x="180" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0001" x="180" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0002" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0003" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0004" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0005" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0006" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0007" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0008" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0009" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0010" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0011" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0012" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="SONICmoveUP0013" x="240" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0000" x="300" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0001" x="300" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0002" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0003" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0004" x="420" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0005" x="420" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0006" x="0" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0007" x="0" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0008" x="0" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0009" x="60" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0010" x="60" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0011" x="120" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0012" x="120" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0013" x="120" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0014" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0015" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0016" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0017" x="240" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0018" x="240" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0019" x="240" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0020" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0021" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0022" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0023" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0024" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0025" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0026" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0027" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0028" x="300" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0029" x="300" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0030" x="300" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0031" x="360" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0032" x="360" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0033" x="360" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0034" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0035" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0036" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0037" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0038" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0039" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0040" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0041" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0042" x="360" y="60" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0043" x="420" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0044" x="420" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0045" x="420" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0046" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0047" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0048" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0049" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0050" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0051" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0052" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0053" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0054" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0055" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0056" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0057" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0058" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0059" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0060" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0061" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0062" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0063" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0064" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0065" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0066" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0067" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0068" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0069" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0070" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0071" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0072" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0073" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0074" x="60" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0075" x="60" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0076" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0077" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0078" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0079" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0080" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0081" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0082" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0083" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0084" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0085" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0086" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0087" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0088" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0089" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0090" x="180" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0091" x="180" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0092" x="180" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0093" x="240" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0094" x="240" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0095" x="240" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0096" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0097" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0098" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0099" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0100" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0101" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0102" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0103" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0104" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0105" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0106" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0107" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0108" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0109" x="300" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0110" x="360" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0111" x="360" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0112" x="420" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0113" x="420" y="180" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0114" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0115" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0116" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0117" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0118" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0119" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0120" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0121" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0122" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0123" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0124" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0125" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0126" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0127" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0128" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0129" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0130" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0131" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0132" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0133" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0134" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0135" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0136" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0137" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0138" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0139" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0140" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0141" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0142" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0143" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0144" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0145" x="120" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0146" x="120" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0147" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0148" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0149" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0150" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0151" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0152" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0153" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0154" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0155" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0156" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0157" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0158" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0159" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0160" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0161" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0162" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0163" x="180" y="120" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0164" x="180" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0165" x="180" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0166" x="180" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0167" x="240" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0168" x="300" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0169" x="300" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0170" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0171" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0172" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0173" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0174" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0175" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0176" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0177" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0178" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0179" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0180" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0181" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0182" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0183" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0184" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0185" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0186" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0187" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0188" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0189" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0190" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0191" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0192" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0193" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0194" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0195" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0196" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0197" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0198" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0199" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0200" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0201" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0202" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0203" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0204" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0205" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0206" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0207" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0208" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0209" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0210" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0211" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0212" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0213" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0214" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0215" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0216" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0217" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0218" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0219" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0220" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0221" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0222" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0223" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0224" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0225" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0226" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0227" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0228" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0229" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0230" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0231" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0232" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0233" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0234" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0235" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0236" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0237" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0238" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0239" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0240" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0241" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0242" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0243" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0244" x="360" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0245" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0246" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0247" x="420" y="240" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0248" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0249" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0250" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0251" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0252" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0253" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0254" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0255" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0256" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0257" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0258" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0259" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0260" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0261" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0262" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0263" x="0" y="300" width="60" height="60"/>
+	<SubTexture name="gonna getcha BUDDY0264" x="0" y="300" width="60" height="60"/>
+</TextureAtlas>

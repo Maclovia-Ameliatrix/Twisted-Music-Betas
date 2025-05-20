@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lord-x-new.png">
+<SubTexture name="lord-x-new idle0000" x="1662" y="5851" width="751" height="844" frameX="-614" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new idle0001" x="7593" y="6559" width="729" height="794" frameX="-669" frameY="-286" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new idle0002" x="7593" y="3309" width="736" height="823" frameX="-660" frameY="-257" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new idle0003" x="5926" y="4257" width="758" height="845" frameX="-627" frameY="-235" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new idle0004" x="6696" y="3402" width="753" height="847" frameX="-622" frameY="-233" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new idle0005" x="6080" y="5851" width="754" height="843" frameX="-617" frameY="-237" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new idle0006" x="2413" y="5851" width="753" height="844" frameX="-613" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new idle0007" x="3166" y="5851" width="751" height="844" frameX="-614" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new idle0008" x="1662" y="5851" width="751" height="844" frameX="-614" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new idle0009" x="1662" y="5851" width="751" height="844" frameX="-614" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new alt idle0000" x="0" y="0" width="1306" height="1055" frameX="-614" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new alt idle0001" x="2595" y="1055" width="1298" height="1052" frameX="-622" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new alt idle0002" x="0" y="2110" width="1436" height="1052" frameX="-484" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new alt idle0003" x="1436" y="2110" width="1571" height="1051" frameX="-349" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new alt idle0004" x="1306" y="0" width="1289" height="1055" frameX="-631" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new alt idle0005" x="0" y="1055" width="1302" height="1055" frameX="-618" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new alt idle0006" x="2595" y="0" width="1306" height="1055" frameX="-614" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new alt idle0007" x="0" y="0" width="1306" height="1055" frameX="-614" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new left0000" x="6696" y="852" width="739" height="851" frameX="-534" frameY="-229" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new left0001" x="5926" y="0" width="770" height="853" frameX="-545" frameY="-227" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new left0002" x="5926" y="853" width="765" height="853" frameX="-559" frameY="-227" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new left0003" x="5926" y="1706" width="763" height="852" frameX="-567" frameY="-228" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new down0000" x="7593" y="5763" width="706" height="796" frameX="-614" frameY="-284" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new down0001" x="7593" y="4950" width="707" height="813" frameX="-619" frameY="-264" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new down0002" x="7593" y="4132" width="690" height="818" frameX="-629" frameY="-260" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new down0003" x="7593" y="828" width="680" height="827" frameX="-638" frameY="-253" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new up0000" x="1302" y="1055" width="690" height="1047" frameX="-657" frameY="-31" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new up0001" x="3901" y="0" width="720" height="970" frameX="-656" frameY="-106" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new up0002" x="804" y="3162" width="756" height="932" frameX="-661" frameY="-148" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new up0003" x="1560" y="3162" width="760" height="919" frameX="-662" frameY="-156" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new right0000" x="4621" y="2682" width="572" height="876" frameX="-855" frameY="-202" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new right0001" x="1992" y="1055" width="580" height="870" frameX="-827" frameY="-208" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new right0002" x="4435" y="4098" width="585" height="864" frameX="-820" frameY="-214" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new right0003" x="1379" y="4989" width="600" height="856" frameX="-806" frameY="-222" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new miss left0000" x="3798" y="6697" width="774" height="839" frameX="-520" frameY="-241" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new miss left0001" x="5926" y="2558" width="763" height="852" frameX="-567" frameY="-228" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new miss down0000" x="6696" y="5096" width="776" height="745" frameX="-590" frameY="-333" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new miss down0001" x="7593" y="1655" width="680" height="827" frameX="-638" frameY="-253" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new miss up0000" x="3007" y="2110" width="742" height="1016" frameX="-647" frameY="-59" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new miss up0001" x="0" y="3162" width="804" height="936" frameX="-618" frameY="-139" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new miss right0000" x="5339" y="0" width="587" height="862" frameX="-845" frameY="-216" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new miss right0001" x="1979" y="4989" width="600" height="856" frameX="-806" frameY="-222" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hey0000" x="2579" y="4989" width="779" height="856" frameX="-600" frameY="-224" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hey0001" x="6696" y="4249" width="762" height="847" frameX="-611" frameY="-233" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hey0002" x="907" y="5851" width="755" height="845" frameX="-612" frameY="-235" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hey0003" x="3917" y="5851" width="752" height="844" frameX="-614" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hey0004" x="4669" y="5851" width="751" height="844" frameX="-614" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new laugh0000" x="3901" y="970" width="714" height="910" frameX="-639" frameY="-170" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new laugh0001" x="757" y="4098" width="727" height="890" frameX="-646" frameY="-190" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new laugh0002" x="1484" y="4098" width="725" height="879" frameX="-647" frameY="-201" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new laugh0003" x="2209" y="4098" width="720" height="874" frameX="-645" frameY="-206" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new laugh0004" x="2929" y="4098" width="720" height="874" frameX="-645" frameY="-206" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new laugh0005" x="2209" y="4098" width="720" height="874" frameX="-645" frameY="-206" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new laugh0006" x="2929" y="4098" width="720" height="874" frameX="-645" frameY="-206" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new laugh0007" x="4621" y="0" width="718" height="896" frameX="-639" frameY="-184" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new scared0000" x="3358" y="4989" width="706" height="856" frameX="-659" frameY="-224" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new scared0001" x="4748" y="4989" width="727" height="854" frameX="-635" frameY="-226" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new scared0002" x="3358" y="4989" width="706" height="856" frameX="-659" frameY="-224" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new scared0003" x="6696" y="2553" width="682" height="849" frameX="-678" frameY="-231" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new scared0004" x="3358" y="4989" width="706" height="856" frameX="-659" frameY="-224" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0000" x="668" y="4989" width="711" height="861" frameX="-637" frameY="-214" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0001" x="4064" y="4989" width="684" height="855" frameX="-660" frameY="-220" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0002" x="5926" y="3410" width="671" height="847" frameX="-667" frameY="-228" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0003" x="5420" y="5851" width="660" height="844" frameX="-675" frameY="-231" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0004" x="3649" y="4098" width="786" height="865" frameX="-549" frameY="-210" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0005" x="0" y="4098" width="757" height="891" frameX="-522" frameY="-189" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0006" x="3901" y="1880" width="704" height="903" frameX="-576" frameY="-177" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0007" x="2320" y="3162" width="705" height="902" frameX="-576" frameY="-178" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0008" x="4621" y="896" width="697" height="896" frameX="-586" frameY="-184" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0009" x="4621" y="1792" width="700" height="890" frameX="-588" frameY="-190" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0010" x="3858" y="3162" width="701" height="897" frameX="-588" frameY="-183" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0011" x="3858" y="3162" width="701" height="897" frameX="-588" frameY="-183" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0012" x="4621" y="1792" width="700" height="890" frameX="-588" frameY="-190" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0013" x="3858" y="3162" width="701" height="897" frameX="-588" frameY="-183" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0014" x="4621" y="1792" width="700" height="890" frameX="-588" frameY="-190" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0015" x="3858" y="3162" width="701" height="897" frameX="-588" frameY="-183" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0016" x="4621" y="1792" width="700" height="890" frameX="-588" frameY="-190" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new hurt0017" x="3858" y="3162" width="701" height="897" frameX="-588" frameY="-183" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new dodge0000" x="6696" y="1703" width="807" height="850" frameX="-666" frameY="-228" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new dodge0001" x="6156" y="6697" width="896" height="829" frameX="-590" frameY="-249" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new dodge0002" x="5247" y="6697" width="909" height="831" frameX="-559" frameY="-247" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new dodge0003" x="7593" y="0" width="895" height="828" frameX="-553" frameY="-250" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new dodge0004" x="7593" y="2482" width="889" height="827" frameX="-551" frameY="-251" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new pre-attack0000" x="4572" y="6697" width="675" height="838" frameX="-596" frameY="-242" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new pre-attack0001" x="6834" y="5851" width="688" height="842" frameX="-605" frameY="-238" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new pre-attack0002" x="0" y="6697" width="683" height="842" frameX="-613" frameY="-238" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new pre-attack0003" x="683" y="6697" width="680" height="842" frameX="-621" frameY="-238" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0000" x="0" y="4989" width="668" height="862" frameX="-874" frameY="-216" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0001" x="3025" y="3162" width="833" height="900" frameX="-851" frameY="-178" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0002" x="6696" y="0" width="897" height="852" frameX="-811" frameY="-226" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0003" x="0" y="5851" width="907" height="846" frameX="-775" frameY="-232" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0004" x="1363" y="6697" width="889" height="842" frameX="-757" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0005" x="2252" y="6697" width="841" height="842" frameX="-757" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0006" x="3093" y="6697" width="705" height="842" frameX="-757" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0007" x="4572" y="6697" width="675" height="838" frameX="-596" frameY="-242" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0008" x="6834" y="5851" width="688" height="842" frameX="-605" frameY="-238" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0009" x="0" y="6697" width="683" height="842" frameX="-613" frameY="-238" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="lord-x-new attack0010" x="683" y="6697" width="680" height="842" frameX="-621" frameY="-238" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

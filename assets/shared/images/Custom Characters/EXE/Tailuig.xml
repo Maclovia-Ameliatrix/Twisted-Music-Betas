@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tailuig.png">
+	<SubTexture name="Tailuig idle0000" x="0" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig idle0001" x="37" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig idle0002" x="74" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig idle0003" x="111" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig idle0004" x="111" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig idle0005" x="111" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig down0000" x="148" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig down0001" x="185" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig down0002" x="185" y="0" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+
+<SubTexture name="Tailuig left0000" x="0" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig left0001" x="37" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig left0002" x="37" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+
+<SubTexture name="Tailuig up0000" x="74" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig up0001" x="111" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig up0002" x="148" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig up0002" x="148" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+
+<SubTexture name="Tailuig right0000" x="185" y="39" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig right0001" x="0" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig right0002" x="0" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+
+
+
+<SubTexture name="Tailuig miss down 0000" x="37" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig miss down 0001" x="74" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig miss left 0000" x="111" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig miss left 0001" x="148" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+
+<SubTexture name="Tailuig miss up 0000" x="185" y="78" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig miss up 0001" x="0" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+
+<SubTexture name="Tailuig miss right 0001" x="37" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig miss right 0002" x="74" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+
+
+<SubTexture name="Tailuig ouch0000" x="111" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig getting shot0000" x="148" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig getting shot0001" x="185" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+<SubTexture name="Tailuig OUGHHHHHHHH0000" x="148" y="117" width="37" height="39" frameX="0" frameY="0" frameWidth="37" frameHeight="39" />
+</TextureAtlas>

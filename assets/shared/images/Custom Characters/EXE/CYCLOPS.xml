@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="manipulation_2.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cyclops Down0000" x="0" y="0" width="961" height="878" frameX="-45" frameY="-13" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0001" x="961" y="0" width="961" height="878" frameX="-45" frameY="-13" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0002" x="1922" y="0" width="981" height="891" frameX="-6" frameY="0" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0003" x="2903" y="0" width="981" height="891" frameX="-6" frameY="0" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0004" x="3884" y="0" width="975" height="872" frameX="0" frameY="-19" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0005" x="4859" y="0" width="975" height="872" frameX="0" frameY="-19" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0006" x="5834" y="0" width="961" height="868" frameX="-12" frameY="-23" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0007" x="6795" y="0" width="961" height="868" frameX="-12" frameY="-23" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0008" x="0" y="891" width="961" height="868" frameX="-12" frameY="-23" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0009" x="6795" y="0" width="961" height="868" frameX="-12" frameY="-23" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0010" x="0" y="891" width="961" height="868" frameX="-12" frameY="-23" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0011" x="6795" y="0" width="961" height="868" frameX="-12" frameY="-23" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0012" x="0" y="891" width="961" height="868" frameX="-12" frameY="-23" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Down0013" x="6795" y="0" width="961" height="868" frameX="-12" frameY="-23" frameWidth="1006" frameHeight="891"/>
+	<SubTexture name="Cyclops Idle0000" x="961" y="891" width="705" height="932" frameX="0" frameY="-22" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0001" x="1666" y="891" width="699" height="942" frameX="-4" frameY="-12" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0002" x="2365" y="891" width="680" height="947" frameX="-22" frameY="-7" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0003" x="3045" y="891" width="655" height="949" frameX="-47" frameY="-6" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0004" x="3700" y="891" width="632" height="948" frameX="-70" frameY="-7" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0005" x="4332" y="891" width="614" height="951" frameX="-87" frameY="-4" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0006" x="4946" y="891" width="612" height="953" frameX="-89" frameY="-2" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0007" x="5558" y="891" width="602" height="954" frameX="-99" frameY="0" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0008" x="6160" y="891" width="610" height="953" frameX="-92" frameY="-1" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0009" x="6770" y="891" width="628" height="942" frameX="-74" frameY="-12" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0010" x="7398" y="891" width="672" height="937" frameX="-32" frameY="-17" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0011" x="0" y="1845" width="685" height="932" frameX="-20" frameY="-22" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0012" x="685" y="1845" width="693" height="931" frameX="-12" frameY="-23" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Idle0013" x="1378" y="1845" width="691" height="931" frameX="-14" frameY="-23" frameWidth="705" frameHeight="955"/>
+	<SubTexture name="Cyclops Left0000" x="2069" y="1845" width="1364" height="1188" frameX="-6" frameY="0" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0001" x="2069" y="1845" width="1364" height="1188" frameX="-6" frameY="0" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0002" x="3433" y="1845" width="1370" height="1084" frameX="0" frameY="-104" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0003" x="3433" y="1845" width="1370" height="1084" frameX="0" frameY="-104" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0004" x="4803" y="1845" width="1237" height="1039" frameX="-138" frameY="-149" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0005" x="4803" y="1845" width="1237" height="1039" frameX="-138" frameY="-149" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0006" x="6040" y="1845" width="1250" height="1074" frameX="-125" frameY="-114" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0007" x="6040" y="1845" width="1250" height="1074" frameX="-125" frameY="-114" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0008" x="6040" y="1845" width="1250" height="1074" frameX="-125" frameY="-114" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0009" x="6040" y="1845" width="1250" height="1074" frameX="-125" frameY="-114" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0010" x="6040" y="1845" width="1250" height="1074" frameX="-125" frameY="-114" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0011" x="6040" y="1845" width="1250" height="1074" frameX="-125" frameY="-114" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0012" x="6040" y="1845" width="1250" height="1074" frameX="-125" frameY="-114" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Left0013" x="6040" y="1845" width="1250" height="1074" frameX="-125" frameY="-114" frameWidth="1375" frameHeight="1188"/>
+	<SubTexture name="Cyclops Right0000" x="7290" y="1845" width="805" height="1019" frameX="-161" frameY="-24" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0001" x="0" y="3033" width="802" height="1019" frameX="-161" frameY="-24" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0002" x="802" y="3033" width="795" height="1043" frameX="-65" frameY="0" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0003" x="802" y="3033" width="795" height="1043" frameX="-65" frameY="0" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0004" x="1597" y="3033" width="812" height="1032" frameX="0" frameY="-11" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0005" x="1597" y="3033" width="812" height="1032" frameX="0" frameY="-11" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0006" x="2409" y="3033" width="805" height="1038" frameX="-29" frameY="-5" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0007" x="3214" y="3033" width="804" height="1039" frameX="-32" frameY="-4" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0008" x="3214" y="3033" width="804" height="1039" frameX="-32" frameY="-4" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0009" x="3214" y="3033" width="804" height="1039" frameX="-32" frameY="-4" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0010" x="3214" y="3033" width="804" height="1039" frameX="-32" frameY="-4" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0011" x="3214" y="3033" width="804" height="1039" frameX="-32" frameY="-4" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0012" x="3214" y="3033" width="804" height="1039" frameX="-32" frameY="-4" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Right0013" x="3214" y="3033" width="804" height="1039" frameX="-32" frameY="-4" frameWidth="966" frameHeight="1043"/>
+	<SubTexture name="Cyclops Turned0000" x="4018" y="3033" width="476" height="782" frameX="0" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0001" x="4018" y="3033" width="476" height="782" frameX="0" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0002" x="4494" y="3033" width="476" height="784" frameX="-1" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0003" x="4494" y="3033" width="476" height="784" frameX="-1" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0004" x="4970" y="3033" width="476" height="784" frameX="-1" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0005" x="4970" y="3033" width="476" height="784" frameX="-1" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0006" x="5446" y="3033" width="476" height="784" frameX="-2" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0007" x="5446" y="3033" width="476" height="784" frameX="-2" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0008" x="5922" y="3033" width="476" height="784" frameX="-2" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0009" x="5922" y="3033" width="476" height="784" frameX="-2" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0010" x="6398" y="3033" width="477" height="785" frameX="-2" frameY="0" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0011" x="6398" y="3033" width="477" height="785" frameX="-2" frameY="0" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0012" x="6875" y="3033" width="477" height="785" frameX="-2" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0013" x="6875" y="3033" width="477" height="785" frameX="-2" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0014" x="7352" y="3033" width="475" height="784" frameX="-2" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0015" x="7352" y="3033" width="475" height="784" frameX="-2" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0016" x="0" y="4076" width="476" height="785" frameX="-1" frameY="-1" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0017" x="0" y="4076" width="476" height="785" frameX="-1" frameY="-1" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0018" x="476" y="4076" width="474" height="782" frameX="-1" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0019" x="476" y="4076" width="474" height="782" frameX="-1" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0020" x="950" y="4076" width="474" height="783" frameX="0" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0021" x="1424" y="4076" width="473" height="783" frameX="0" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0022" x="1897" y="4076" width="473" height="784" frameX="0" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0023" x="1897" y="4076" width="473" height="784" frameX="0" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0024" x="2370" y="4076" width="474" height="784" frameX="0" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Turned0025" x="2370" y="4076" width="474" height="784" frameX="0" frameY="-3" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="Cyclops Up0000" x="2844" y="4076" width="712" height="1391" frameX="-186" frameY="0" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0001" x="3556" y="4076" width="666" height="1341" frameX="-232" frameY="-50" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0002" x="4222" y="4076" width="684" height="1317" frameX="-216" frameY="-74" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0003" x="4906" y="4076" width="900" height="1125" frameX="0" frameY="-266" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0004" x="5806" y="4076" width="670" height="1334" frameX="-228" frameY="-57" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0005" x="6476" y="4076" width="668" height="1275" frameX="-230" frameY="-116" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0006" x="7144" y="4076" width="668" height="1267" frameX="-230" frameY="-124" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0007" x="7144" y="4076" width="668" height="1267" frameX="-230" frameY="-124" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0008" x="7144" y="4076" width="668" height="1267" frameX="-230" frameY="-124" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0009" x="7144" y="4076" width="668" height="1267" frameX="-230" frameY="-124" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0010" x="7144" y="4076" width="668" height="1267" frameX="-230" frameY="-124" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0011" x="7144" y="4076" width="668" height="1267" frameX="-230" frameY="-124" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0012" x="7144" y="4076" width="668" height="1267" frameX="-230" frameY="-124" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="Cyclops Up0013" x="7144" y="4076" width="668" height="1267" frameX="-230" frameY="-124" frameWidth="900" frameHeight="1391"/>
+	<SubTexture name="turned0000" x="4018" y="3033" width="476" height="782" frameX="0" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0001" x="4018" y="3033" width="476" height="782" frameX="0" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0002" x="4494" y="3033" width="476" height="784" frameX="0" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0003" x="4494" y="3033" width="476" height="784" frameX="0" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0004" x="4970" y="3033" width="476" height="784" frameX="-1" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0005" x="4970" y="3033" width="476" height="784" frameX="-1" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0006" x="5446" y="3033" width="476" height="784" frameX="-2" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0007" x="5446" y="3033" width="476" height="784" frameX="-2" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0008" x="5922" y="3033" width="476" height="784" frameX="-1" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0009" x="5922" y="3033" width="476" height="784" frameX="-1" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0010" x="6398" y="3033" width="477" height="785" frameX="-2" frameY="0" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0011" x="6398" y="3033" width="477" height="785" frameX="-2" frameY="0" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0012" x="6875" y="3033" width="477" height="785" frameX="-2" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0013" x="6875" y="3033" width="477" height="785" frameX="-2" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0014" x="7352" y="3033" width="475" height="784" frameX="-2" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0015" x="7352" y="3033" width="475" height="784" frameX="-2" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0016" x="0" y="4076" width="476" height="785" frameX="-1" frameY="0" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0017" x="0" y="4076" width="476" height="785" frameX="-1" frameY="0" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0018" x="476" y="4076" width="474" height="782" frameX="-1" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0019" x="476" y="4076" width="474" height="782" frameX="-1" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0020" x="950" y="4076" width="474" height="783" frameX="0" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0021" x="1424" y="4076" width="473" height="783" frameX="0" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0022" x="1897" y="4076" width="473" height="784" frameX="0" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0023" x="1897" y="4076" width="473" height="784" frameX="0" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0024" x="2370" y="4076" width="474" height="784" frameX="0" frameY="-2" frameWidth="479" frameHeight="787"/>
+	<SubTexture name="turned0025" x="2370" y="4076" width="474" height="784" frameX="0" frameY="-2" frameWidth="479" frameHeight="787"/>
+</TextureAtlas>

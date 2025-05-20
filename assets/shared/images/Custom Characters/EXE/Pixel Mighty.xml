@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mighty.png">
+  <!-- Created with Adobe Animate version 20.0.0.17400 -->
+  <!-- http://www.adobe.com/products/animate.html -->
+<SubTexture name="Mighty Mania Idle_Dance 0000" x="0" y="0" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Idle_Dance 0001" x="49" y="0" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Idle_Dance 0002" x="98" y="0" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Idle_Dance 0003" x="0" y="40" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Idle_Dance 0004" x="49" y="40" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Left_Pose 0000" x="98" y="40" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Left_Pose 0001" x="0" y="80" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Down_Pose 0000" x="49" y="80" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Down_Pose 0001" x="98" y="80" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Up_Pose 0000" x="0" y="120" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Up_Pose 0001" x="49" y="120" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Right_Pose 0000" x="98" y="120" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+<SubTexture name="Mighty Mania Right_Pose 0001" x="0" y="160" width="49" height="40" frameX="0" frameY="0" frameWidth="49" frameHeight="40" />
+</TextureAtlas>

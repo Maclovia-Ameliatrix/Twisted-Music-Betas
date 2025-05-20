@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Cycles_LX.png">
+<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+<!-- http://www.adobe.com/products/flash.html -->
+<SubTexture name="Cycles Down0000" x="0" y="0" width="571" height="589" frameX="0" frameY="-8" frameWidth="577" frameHeight="598"/>
+<SubTexture name="Cycles Down0001" x="0" y="0" width="571" height="589" frameX="0" frameY="-8" frameWidth="577" frameHeight="598"/>
+<SubTexture name="Cycles Down0002" x="571" y="0" width="568" height="597" frameX="-4" frameY="0" frameWidth="577" frameHeight="598"/>
+<SubTexture name="Cycles Down0003" x="571" y="0" width="568" height="597" frameX="-4" frameY="0" frameWidth="577" frameHeight="598"/>
+<SubTexture name="Cycles Down0004" x="1139" y="0" width="569" height="598" frameX="-8" frameY="0" frameWidth="577" frameHeight="598"/>
+<SubTexture name="Cycles Down0005" x="1139" y="0" width="569" height="598" frameX="-8" frameY="0" frameWidth="577" frameHeight="598"/>
+<SubTexture name="Cycles Down0006" x="1139" y="0" width="569" height="598" frameX="-8" frameY="0" frameWidth="577" frameHeight="598"/>
+<SubTexture name="Cycles Down0007" x="1708" y="0" width="565" height="598" frameX="-10" frameY="0" frameWidth="577" frameHeight="598"/>
+<SubTexture name="Cycles Idle0000" x="2273" y="0" width="582" height="599" frameX="0" frameY="-15" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0001" x="2273" y="0" width="582" height="599" frameX="0" frameY="-15" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0002" x="2855" y="0" width="579" height="610" frameX="-4" frameY="-4" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0003" x="2855" y="0" width="579" height="610" frameX="-4" frameY="-4" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0004" x="2855" y="0" width="579" height="610" frameX="-4" frameY="-4" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0005" x="0" y="610" width="580" height="614" frameX="-7" frameY="0" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0006" x="0" y="610" width="580" height="614" frameX="-7" frameY="0" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0007" x="580" y="610" width="582" height="614" frameX="-9" frameY="0" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0008" x="580" y="610" width="582" height="614" frameX="-9" frameY="0" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0009" x="1162" y="610" width="582" height="613" frameX="-11" frameY="-1" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0010" x="1162" y="610" width="582" height="613" frameX="-11" frameY="-1" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0011" x="1162" y="610" width="582" height="613" frameX="-11" frameY="-1" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Idle0012" x="1744" y="610" width="583" height="612" frameX="-11" frameY="-2" frameWidth="594" frameHeight="614"/>
+<SubTexture name="Cycles Laugh0000" x="2327" y="610" width="621" height="612" frameX="0" frameY="-14" frameWidth="621" frameHeight="626"/>
+<SubTexture name="Cycles Laugh0001" x="2948" y="610" width="618" height="615" frameX="-2" frameY="-11" frameWidth="621" frameHeight="626"/>
+<SubTexture name="Cycles Laugh0002" x="2948" y="610" width="618" height="615" frameX="-2" frameY="-11" frameWidth="621" frameHeight="626"/>
+<SubTexture name="Cycles Laugh0003" x="0" y="1225" width="617" height="623" frameX="-1" frameY="-3" frameWidth="621" frameHeight="626"/>
+<SubTexture name="Cycles Laugh0004" x="0" y="1225" width="617" height="623" frameX="-1" frameY="-3" frameWidth="621" frameHeight="626"/>
+<SubTexture name="Cycles Laugh0005" x="0" y="1225" width="617" height="623" frameX="-1" frameY="-3" frameWidth="621" frameHeight="626"/>
+<SubTexture name="Cycles Laugh0006" x="617" y="1225" width="615" height="626" frameX="-2" frameY="0" frameWidth="621" frameHeight="626"/>
+<SubTexture name="Cycles Left0000" x="1232" y="1225" width="523" height="637" frameX="0" frameY="0" frameWidth="580" frameHeight="637"/>
+<SubTexture name="Cycles Left0001" x="1232" y="1225" width="523" height="637" frameX="0" frameY="0" frameWidth="580" frameHeight="637"/>
+<SubTexture name="Cycles Left0002" x="1755" y="1225" width="536" height="637" frameX="-4" frameY="0" frameWidth="580" frameHeight="637"/>
+<SubTexture name="Cycles Left0003" x="1755" y="1225" width="536" height="637" frameX="-4" frameY="0" frameWidth="580" frameHeight="637"/>
+<SubTexture name="Cycles Left0004" x="2291" y="1225" width="561" height="634" frameX="-13" frameY="-3" frameWidth="580" frameHeight="637"/>
+<SubTexture name="Cycles Left0005" x="2291" y="1225" width="561" height="634" frameX="-13" frameY="-3" frameWidth="580" frameHeight="637"/>
+<SubTexture name="Cycles Left0006" x="2291" y="1225" width="561" height="634" frameX="-13" frameY="-3" frameWidth="580" frameHeight="637"/>
+<SubTexture name="Cycles Left0007" x="2852" y="1225" width="565" height="633" frameX="-15" frameY="-4" frameWidth="580" frameHeight="637"/>
+<SubTexture name="Cycles Right0000" x="0" y="1862" width="742" height="690" frameX="-5" frameY="0" frameWidth="747" frameHeight="690"/>
+<SubTexture name="Cycles Right0001" x="0" y="1862" width="742" height="690" frameX="-5" frameY="0" frameWidth="747" frameHeight="690"/>
+<SubTexture name="Cycles Right0002" x="742" y="1862" width="732" height="685" frameX="-3" frameY="-5" frameWidth="747" frameHeight="690"/>
+<SubTexture name="Cycles Right0003" x="742" y="1862" width="732" height="685" frameX="-3" frameY="-5" frameWidth="747" frameHeight="690"/>
+<SubTexture name="Cycles Right0004" x="1474" y="1862" width="711" height="677" frameX="0" frameY="-13" frameWidth="747" frameHeight="690"/>
+<SubTexture name="Cycles Right0005" x="1474" y="1862" width="711" height="677" frameX="0" frameY="-13" frameWidth="747" frameHeight="690"/>
+<SubTexture name="Cycles Right0006" x="1474" y="1862" width="711" height="677" frameX="0" frameY="-13" frameWidth="747" frameHeight="690"/>
+<SubTexture name="Cycles Right0007" x="2185" y="1862" width="708" height="676" frameX="0" frameY="-14" frameWidth="747" frameHeight="690"/>
+<SubTexture name="Cycles Up0000" x="2893" y="1862" width="690" height="766" frameX="-20" frameY="0" frameWidth="712" frameHeight="766"/>
+<SubTexture name="Cycles Up0001" x="2893" y="1862" width="690" height="766" frameX="-20" frameY="0" frameWidth="712" frameHeight="766"/>
+<SubTexture name="Cycles Up0002" x="0" y="2628" width="700" height="759" frameX="-12" frameY="-7" frameWidth="712" frameHeight="766"/>
+<SubTexture name="Cycles Up0003" x="0" y="2628" width="700" height="759" frameX="-12" frameY="-7" frameWidth="712" frameHeight="766"/>
+<SubTexture name="Cycles Up0004" x="700" y="2628" width="702" height="721" frameX="-2" frameY="-45" frameWidth="712" frameHeight="766"/>
+<SubTexture name="Cycles Up0005" x="700" y="2628" width="702" height="721" frameX="-2" frameY="-45" frameWidth="712" frameHeight="766"/>
+<SubTexture name="Cycles Up0006" x="700" y="2628" width="702" height="721" frameX="-2" frameY="-45" frameWidth="712" frameHeight="766"/>
+<SubTexture name="Cycles Up0007" x="1402" y="2628" width="701" height="718" frameX="0" frameY="-48" frameWidth="712" frameHeight="766"/>
+<SubTexture name="Cycles Up0008" x="1402" y="2628" width="701" height="718" frameX="0" frameY="-48" frameWidth="712" frameHeight="766"/>
+<SubTexture name="Cycles Up0009" x="2103" y="2628" width="700" height="717" frameX="-1" frameY="-49" frameWidth="712" frameHeight="766"/>
+</TextureAtlas>
