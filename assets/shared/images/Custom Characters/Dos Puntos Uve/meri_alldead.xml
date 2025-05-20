@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="meri_owowowo.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Meri_Dead0000" x="0" y="0" width="979" height="1600" frameX="-15" frameY="0" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0001" x="979" y="0" width="979" height="1600" frameX="-15" frameY="0" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0002" x="1958" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0003" x="2966" y="0" width="1043" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0004" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0005" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0006" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0007" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0008" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0009" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0010" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0011" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0012" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0013" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0014" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0015" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0016" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0017" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0018" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0019" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0020" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0021" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0022" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0023" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0024" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0025" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0026" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0027" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0028" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0029" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0030" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0031" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0032" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0033" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0034" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0035" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0036" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0037" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0038" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0039" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0040" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0041" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0042" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0043" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0044" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0045" x="4009" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0046" x="5017" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0047" x="5017" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0048" x="5017" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0049" x="6025" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0050" x="6025" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0051" x="6025" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0052" x="7033" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0053" x="7033" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0054" x="7033" y="0" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0055" x="0" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0056" x="0" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0057" x="0" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0058" x="1008" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0059" x="1008" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0060" x="1008" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0061" x="2016" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0062" x="2016" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0063" x="3024" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0064" x="3024" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0065" x="3024" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0066" x="3024" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0067" x="3024" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0068" x="3024" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0069" x="3024" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0070" x="3024" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0071" x="3024" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Dead0072" x="3024" y="1600" width="1008" height="1582" frameX="0" frameY="-18" frameWidth="1043" frameHeight="1600"/>
+	<SubTexture name="Meri_Loop0000" x="4032" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0001" x="4032" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0002" x="5040" y="1600" width="1008" height="1582" frameX="-1" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0003" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0004" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0005" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0006" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0007" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0008" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0009" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0010" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0011" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0012" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0013" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0014" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0015" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0016" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0017" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0018" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0019" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0020" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0021" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0022" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0023" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0024" x="4032" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0025" x="4032" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0026" x="5040" y="1600" width="1008" height="1582" frameX="-1" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0027" x="5040" y="1600" width="1008" height="1582" frameX="-1" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0028" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0029" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0030" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0031" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0032" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0033" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0034" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0035" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0036" x="4032" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0037" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0038" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0039" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0040" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0041" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0042" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0043" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0044" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0045" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0046" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0047" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_Loop0048" x="6048" y="1600" width="1008" height="1582" frameX="0" frameY="0" frameWidth="1009" frameHeight="1582"/>
+	<SubTexture name="Meri_reset0000" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0001" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0002" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0003" x="0" y="3182" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0004" x="1008" y="3182" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0005" x="2016" y="3182" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0006" x="3024" y="3182" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0007" x="4032" y="3182" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0008" x="5040" y="3182" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0009" x="6048" y="3182" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0010" x="7056" y="3182" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0011" x="0" y="4764" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0012" x="1008" y="4764" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0013" x="2016" y="4764" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0014" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0015" x="4032" y="3182" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0016" x="3024" y="4764" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0017" x="4032" y="4764" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0018" x="0" y="4764" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0019" x="5040" y="4764" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0020" x="6048" y="3182" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0021" x="6048" y="4764" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0022" x="6048" y="4764" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0023" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0024" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0025" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0026" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0027" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0028" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0029" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0030" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0031" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0032" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0033" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0034" x="7056" y="1600" width="1008" height="1582"/>
+	<SubTexture name="Meri_reset0035" x="7056" y="1600" width="1008" height="1582"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="negron.png">
+<SubTexture name="negron rigth0000" x="50" y="62" width="53" height="57" frameX="-66" frameY="-59" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron rigth0001" x="96" y="0" width="54" height="58" frameX="-61" frameY="-58" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron down0000" x="200" y="107" width="51" height="50" frameX="-58" frameY="-66" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron down0001" x="200" y="55" width="51" height="52" frameX="-57" frameY="-64" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron left0000" x="114" y="120" width="64" height="55" frameX="-45" frameY="-61" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron left0001" x="0" y="120" width="63" height="56" frameX="-45" frameY="-60" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron up0000" x="0" y="0" width="48" height="62" frameX="-59" frameY="-54" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron up0001" x="48" y="0" width="48" height="60" frameX="-58" frameY="-56" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron idle0000" x="200" y="0" width="51" height="55" frameX="-58" frameY="-61" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron idle0001" x="63" y="120" width="51" height="56" frameX="-57" frameY="-60" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron idle0002" x="150" y="0" width="50" height="57" frameX="-57" frameY="-59" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron idle0003" x="0" y="62" width="50" height="58" frameX="-57" frameY="-58" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron idle0004" x="0" y="62" width="50" height="58" frameX="-57" frameY="-58" frameWidth="125" frameHeight="125" />
+<SubTexture name="negron idle0005" x="0" y="62" width="50" height="58" frameX="-57" frameY="-58" frameWidth="125" frameHeight="125" />
+</TextureAtlas>

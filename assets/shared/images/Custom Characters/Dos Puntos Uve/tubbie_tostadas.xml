@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tubbie tostadas.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tubbie tostada0000" x="236" y="133" width="98" height="86"/>
+	<SubTexture name="tubbie tostada0001" x="236" y="133" width="98" height="86"/>
+	<SubTexture name="tubbie tostada0002" x="334" y="133" width="98" height="86"/>
+	<SubTexture name="tubbie tostada0003" x="334" y="133" width="98" height="86"/>
+	<SubTexture name="tubbie tostada estirada lol0000" x="0" y="0" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0001" x="118" y="0" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0002" x="236" y="0" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0003" x="236" y="0" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0004" x="354" y="0" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0005" x="354" y="0" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0006" x="0" y="133" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0007" x="0" y="133" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0008" x="118" y="133" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0009" x="118" y="133" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0010" x="0" y="133" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0011" x="0" y="133" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0012" x="118" y="133" width="118" height="133"/>
+	<SubTexture name="tubbie tostada estirada lol0013" x="118" y="133" width="118" height="133"/>
+</TextureAtlas>

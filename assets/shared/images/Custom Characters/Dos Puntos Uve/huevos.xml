@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="huevos.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eggs real0000" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0001" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0002" x="540" y="0" width="540" height="225" frameX="0" frameY="-16" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0003" x="540" y="0" width="540" height="225" frameX="0" frameY="-16" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0004" x="1080" y="0" width="540" height="233" frameX="0" frameY="-8" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0005" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0006" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0007" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0008" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0009" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0010" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0011" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0012" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0013" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0014" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0015" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0016" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0017" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0018" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0019" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0020" x="0" y="240" width="540" height="225" frameX="0" frameY="-16" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0021" x="0" y="240" width="540" height="225" frameX="0" frameY="-16" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0022" x="540" y="240" width="540" height="233" frameX="0" frameY="-8" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0023" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0024" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0025" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0026" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0027" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0028" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+	<SubTexture name="eggs real0029" x="0" y="0" width="540" height="240" frameX="0" frameY="0" frameWidth="540" frameHeight="241"/>
+</TextureAtlas>

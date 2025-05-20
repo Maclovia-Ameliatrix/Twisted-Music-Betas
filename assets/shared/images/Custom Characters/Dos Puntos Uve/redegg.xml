@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redegg.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downred0000" x="0" y="0" width="271" height="171" frameX="0" frameY="-20" frameWidth="271" frameHeight="191"/>
+	<SubTexture name="downred0001" x="0" y="0" width="271" height="171" frameX="0" frameY="-20" frameWidth="271" frameHeight="191"/>
+	<SubTexture name="downred0002" x="271" y="0" width="271" height="177" frameX="0" frameY="-13" frameWidth="271" frameHeight="191"/>
+	<SubTexture name="downred0003" x="271" y="0" width="271" height="177" frameX="0" frameY="-13" frameWidth="271" frameHeight="191"/>
+	<SubTexture name="downred0004" x="542" y="0" width="271" height="185" frameX="0" frameY="-5" frameWidth="271" frameHeight="191"/>
+	<SubTexture name="downred0005" x="0" y="185" width="271" height="191"/>
+	<SubTexture name="downred0006" x="0" y="185" width="271" height="191"/>
+	<SubTexture name="downred0007" x="0" y="185" width="271" height="191"/>
+	<SubTexture name="downred0008" x="0" y="185" width="271" height="191"/>
+	<SubTexture name="downred0009" x="0" y="185" width="271" height="191"/>
+	<SubTexture name="idlered0000" x="271" y="185" width="217" height="191" frameX="0" frameY="-16" frameWidth="217" frameHeight="207"/>
+	<SubTexture name="idlered0001" x="271" y="185" width="217" height="191" frameX="0" frameY="-16" frameWidth="217" frameHeight="207"/>
+	<SubTexture name="idlered0002" x="488" y="185" width="211" height="196" frameX="0" frameY="-11" frameWidth="217" frameHeight="207"/>
+	<SubTexture name="idlered0003" x="488" y="185" width="211" height="196" frameX="0" frameY="-11" frameWidth="217" frameHeight="207"/>
+	<SubTexture name="idlered0004" x="699" y="185" width="205" height="200" frameX="0" frameY="-7" frameWidth="217" frameHeight="207"/>
+	<SubTexture name="idlered0005" x="0" y="385" width="191" height="207" frameX="0" frameY="0" frameWidth="217" frameHeight="207"/>
+	<SubTexture name="idlered0006" x="0" y="385" width="191" height="207" frameX="0" frameY="0" frameWidth="217" frameHeight="207"/>
+	<SubTexture name="idlered0007" x="0" y="385" width="191" height="207" frameX="0" frameY="0" frameWidth="217" frameHeight="207"/>
+	<SubTexture name="idlered0008" x="0" y="385" width="191" height="207" frameX="0" frameY="0" frameWidth="217" frameHeight="207"/>
+	<SubTexture name="idlered0009" x="0" y="385" width="191" height="207" frameX="0" frameY="0" frameWidth="217" frameHeight="207"/>
+	<SubTexture name="leftred0000" x="191" y="385" width="176" height="144" frameX="0" frameY="-17" frameWidth="176" frameHeight="161"/>
+	<SubTexture name="leftred0001" x="191" y="385" width="176" height="144" frameX="0" frameY="-17" frameWidth="176" frameHeight="161"/>
+	<SubTexture name="leftred0002" x="367" y="385" width="166" height="150" frameX="-10" frameY="-11" frameWidth="176" frameHeight="161"/>
+	<SubTexture name="leftred0003" x="367" y="385" width="166" height="150" frameX="-10" frameY="-11" frameWidth="176" frameHeight="161"/>
+	<SubTexture name="leftred0004" x="533" y="385" width="162" height="154" frameX="-14" frameY="-7" frameWidth="176" frameHeight="161"/>
+	<SubTexture name="leftred0005" x="695" y="385" width="161" height="161" frameX="-15" frameY="0" frameWidth="176" frameHeight="161"/>
+	<SubTexture name="leftred0006" x="695" y="385" width="161" height="161" frameX="-15" frameY="0" frameWidth="176" frameHeight="161"/>
+	<SubTexture name="leftred0007" x="695" y="385" width="161" height="161" frameX="-15" frameY="0" frameWidth="176" frameHeight="161"/>
+	<SubTexture name="leftred0008" x="695" y="385" width="161" height="161" frameX="-15" frameY="0" frameWidth="176" frameHeight="161"/>
+	<SubTexture name="leftred0009" x="695" y="385" width="161" height="161" frameX="-15" frameY="0" frameWidth="176" frameHeight="161"/>
+	<SubTexture name="rightred0000" x="0" y="592" width="169" height="150"/>
+	<SubTexture name="rightred0001" x="0" y="592" width="169" height="150"/>
+	<SubTexture name="rightred0002" x="169" y="592" width="163" height="144" frameX="0" frameY="-6" frameWidth="169" frameHeight="150"/>
+	<SubTexture name="rightred0003" x="169" y="592" width="163" height="144" frameX="0" frameY="-6" frameWidth="169" frameHeight="150"/>
+	<SubTexture name="rightred0004" x="332" y="592" width="156" height="139" frameX="0" frameY="-11" frameWidth="169" frameHeight="150"/>
+	<SubTexture name="rightred0005" x="488" y="592" width="145" height="139" frameX="0" frameY="-11" frameWidth="169" frameHeight="150"/>
+	<SubTexture name="rightred0006" x="488" y="592" width="145" height="139" frameX="0" frameY="-11" frameWidth="169" frameHeight="150"/>
+	<SubTexture name="rightred0007" x="488" y="592" width="145" height="139" frameX="0" frameY="-11" frameWidth="169" frameHeight="150"/>
+	<SubTexture name="rightred0008" x="488" y="592" width="145" height="139" frameX="0" frameY="-11" frameWidth="169" frameHeight="150"/>
+	<SubTexture name="rightred0009" x="488" y="592" width="145" height="139" frameX="0" frameY="-11" frameWidth="169" frameHeight="150"/>
+	<SubTexture name="upred0000" x="633" y="592" width="203" height="214" frameX="0" frameY="0" frameWidth="203" frameHeight="232"/>
+	<SubTexture name="upred0001" x="633" y="592" width="203" height="214" frameX="0" frameY="0" frameWidth="203" frameHeight="232"/>
+	<SubTexture name="upred0002" x="0" y="806" width="203" height="206" frameX="0" frameY="-16" frameWidth="203" frameHeight="232"/>
+	<SubTexture name="upred0003" x="0" y="806" width="203" height="206" frameX="0" frameY="-16" frameWidth="203" frameHeight="232"/>
+	<SubTexture name="upred0004" x="203" y="806" width="203" height="191" frameX="0" frameY="-34" frameWidth="203" frameHeight="232"/>
+	<SubTexture name="upred0005" x="406" y="806" width="203" height="181" frameX="0" frameY="-51" frameWidth="203" frameHeight="232"/>
+	<SubTexture name="upred0006" x="406" y="806" width="203" height="181" frameX="0" frameY="-51" frameWidth="203" frameHeight="232"/>
+	<SubTexture name="upred0007" x="406" y="806" width="203" height="181" frameX="0" frameY="-51" frameWidth="203" frameHeight="232"/>
+	<SubTexture name="upred0008" x="406" y="806" width="203" height="181" frameX="0" frameY="-51" frameWidth="203" frameHeight="232"/>
+	<SubTexture name="upred0009" x="406" y="806" width="203" height="181" frameX="0" frameY="-51" frameWidth="203" frameHeight="232"/>
+</TextureAtlas>

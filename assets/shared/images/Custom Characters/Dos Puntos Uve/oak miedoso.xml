@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oak miedoso.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="oak down0000" x="10" y="10" width="312" height="615" frameX="0" frameY="-12" frameWidth="312" frameHeight="627"/>
+	<SubTexture name="oak down0001" x="10" y="10" width="312" height="615" frameX="0" frameY="-12" frameWidth="312" frameHeight="627"/>
+	<SubTexture name="oak down0002" x="332" y="10" width="312" height="616" frameX="0" frameY="-11" frameWidth="312" frameHeight="627"/>
+	<SubTexture name="oak down0003" x="332" y="10" width="312" height="616" frameX="0" frameY="-11" frameWidth="312" frameHeight="627"/>
+	<SubTexture name="oak down0004" x="654" y="10" width="308" height="627" frameX="-2" frameY="0" frameWidth="312" frameHeight="627"/>
+	<SubTexture name="oak down0005" x="654" y="10" width="308" height="627" frameX="-2" frameY="0" frameWidth="312" frameHeight="627"/>
+	<SubTexture name="oak fake down0000" x="972" y="10" width="312" height="614" frameX="0" frameY="-13" frameWidth="312" frameHeight="627"/>
+	<SubTexture name="oak fake down0001" x="972" y="10" width="312" height="614" frameX="0" frameY="-13" frameWidth="312" frameHeight="627"/>
+	<SubTexture name="oak fake down0002" x="1294" y="10" width="312" height="618" frameX="0" frameY="-9" frameWidth="312" frameHeight="627"/>
+	<SubTexture name="oak fake down0003" x="1294" y="10" width="312" height="618" frameX="0" frameY="-9" frameWidth="312" frameHeight="627"/>
+	<SubTexture name="oak fake down0004" x="1616" y="10" width="312" height="627"/>
+	<SubTexture name="oak fake down0005" x="1616" y="10" width="312" height="627"/>
+	<SubTexture name="oak fake idle0000" x="10" y="647" width="316" height="630" frameX="0" frameY="-14" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0001" x="10" y="647" width="316" height="630" frameX="0" frameY="-14" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0002" x="336" y="647" width="316" height="630" frameX="0" frameY="-14" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0003" x="662" y="647" width="313" height="638" frameX="-2" frameY="-6" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0004" x="662" y="647" width="313" height="638" frameX="-2" frameY="-6" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0005" x="985" y="647" width="310" height="642" frameX="-3" frameY="-2" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0006" x="985" y="647" width="310" height="642" frameX="-3" frameY="-2" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0007" x="1305" y="647" width="310" height="642" frameX="-3" frameY="-2" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0008" x="1305" y="647" width="310" height="642" frameX="-3" frameY="-2" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0009" x="1625" y="647" width="308" height="642" frameX="-4" frameY="-2" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0010" x="1625" y="647" width="308" height="642" frameX="-4" frameY="-2" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0011" x="1625" y="647" width="308" height="642" frameX="-4" frameY="-1" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0012" x="1625" y="647" width="308" height="642" frameX="-4" frameY="-1" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0013" x="10" y="1299" width="308" height="644" frameX="-4" frameY="0" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0014" x="10" y="1299" width="308" height="644" frameX="-4" frameY="0" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0015" x="10" y="1299" width="308" height="644" frameX="-4" frameY="0" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0016" x="10" y="1299" width="308" height="644" frameX="-4" frameY="0" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake idle0017" x="10" y="1299" width="308" height="644" frameX="-4" frameY="0" frameWidth="316" frameHeight="644"/>
+	<SubTexture name="oak fake left0000" x="328" y="1299" width="380" height="641" frameX="0" frameY="-3" frameWidth="408" frameHeight="644"/>
+	<SubTexture name="oak fake left0001" x="328" y="1299" width="380" height="641" frameX="0" frameY="-3" frameWidth="408" frameHeight="644"/>
+	<SubTexture name="oak fake left0002" x="718" y="1299" width="387" height="642" frameX="-6" frameY="-2" frameWidth="408" frameHeight="644"/>
+	<SubTexture name="oak fake left0003" x="718" y="1299" width="387" height="642" frameX="-6" frameY="-2" frameWidth="408" frameHeight="644"/>
+	<SubTexture name="oak fake left0004" x="1115" y="1299" width="401" height="644" frameX="-7" frameY="0" frameWidth="408" frameHeight="644"/>
+	<SubTexture name="oak fake left0005" x="1115" y="1299" width="401" height="644" frameX="-7" frameY="0" frameWidth="408" frameHeight="644"/>
+	<SubTexture name="oak fake right0000" x="1526" y="1299" width="400" height="648" frameX="-1" frameY="0" frameWidth="401" frameHeight="648"/>
+	<SubTexture name="oak fake right0001" x="1526" y="1299" width="400" height="648" frameX="-1" frameY="0" frameWidth="401" frameHeight="648"/>
+	<SubTexture name="oak fake right0002" x="10" y="1957" width="390" height="645" frameX="-1" frameY="-3" frameWidth="401" frameHeight="648"/>
+	<SubTexture name="oak fake right0003" x="10" y="1957" width="390" height="645" frameX="-1" frameY="-3" frameWidth="401" frameHeight="648"/>
+	<SubTexture name="oak fake right0004" x="410" y="1957" width="380" height="644" frameX="0" frameY="-4" frameWidth="401" frameHeight="648"/>
+	<SubTexture name="oak fake right0005" x="410" y="1957" width="380" height="644" frameX="0" frameY="-4" frameWidth="401" frameHeight="648"/>
+	<SubTexture name="oak fake up0000" x="800" y="1957" width="396" height="675"/>
+	<SubTexture name="oak fake up0001" x="800" y="1957" width="396" height="675"/>
+	<SubTexture name="oak fake up0002" x="1206" y="1957" width="395" height="668" frameX="0" frameY="-7" frameWidth="396" frameHeight="675"/>
+	<SubTexture name="oak fake up0003" x="1206" y="1957" width="395" height="668" frameX="0" frameY="-7" frameWidth="396" frameHeight="675"/>
+	<SubTexture name="oak fake up0004" x="1611" y="1957" width="394" height="661" frameX="0" frameY="-14" frameWidth="396" frameHeight="675"/>
+	<SubTexture name="oak fake up0005" x="1611" y="1957" width="394" height="661" frameX="0" frameY="-14" frameWidth="396" frameHeight="675"/>
+	<SubTexture name="oak idle0000" x="10" y="2642" width="308" height="646"/>
+	<SubTexture name="oak idle0001" x="10" y="2642" width="308" height="646"/>
+	<SubTexture name="oak idle0002" x="328" y="2642" width="308" height="646"/>
+	<SubTexture name="oak idle0003" x="646" y="2642" width="308" height="646"/>
+	<SubTexture name="oak left0000" x="964" y="2642" width="316" height="645" frameX="0" frameY="-1" frameWidth="318" frameHeight="646"/>
+	<SubTexture name="oak left0001" x="964" y="2642" width="316" height="645" frameX="0" frameY="-1" frameWidth="318" frameHeight="646"/>
+	<SubTexture name="oak left0002" x="1290" y="2642" width="308" height="646" frameX="-9" frameY="0" frameWidth="318" frameHeight="646"/>
+	<SubTexture name="oak left0003" x="1290" y="2642" width="308" height="646" frameX="-9" frameY="0" frameWidth="318" frameHeight="646"/>
+	<SubTexture name="oak left0004" x="1608" y="2642" width="308" height="646" frameX="-10" frameY="0" frameWidth="318" frameHeight="646"/>
+	<SubTexture name="oak left0005" x="1608" y="2642" width="308" height="646" frameX="-10" frameY="0" frameWidth="318" frameHeight="646"/>
+	<SubTexture name="oak right0000" x="10" y="3298" width="319" height="647" frameX="-3" frameY="0" frameWidth="322" frameHeight="647"/>
+	<SubTexture name="oak right0001" x="10" y="3298" width="319" height="647" frameX="-3" frameY="0" frameWidth="322" frameHeight="647"/>
+	<SubTexture name="oak right0002" x="339" y="3298" width="313" height="647" frameX="-2" frameY="0" frameWidth="322" frameHeight="647"/>
+	<SubTexture name="oak right0003" x="339" y="3298" width="313" height="647" frameX="-2" frameY="0" frameWidth="322" frameHeight="647"/>
+	<SubTexture name="oak right0004" x="662" y="3298" width="309" height="646" frameX="0" frameY="-1" frameWidth="322" frameHeight="647"/>
+	<SubTexture name="oak right0005" x="662" y="3298" width="309" height="646" frameX="0" frameY="-1" frameWidth="322" frameHeight="647"/>
+	<SubTexture name="oak up0000" x="981" y="3298" width="298" height="673" frameX="-4" frameY="0" frameWidth="308" frameHeight="678"/>
+	<SubTexture name="oak up0001" x="981" y="3298" width="298" height="673" frameX="-4" frameY="0" frameWidth="308" frameHeight="678"/>
+	<SubTexture name="oak up0002" x="1289" y="3298" width="298" height="664" frameX="-4" frameY="-12" frameWidth="308" frameHeight="678"/>
+	<SubTexture name="oak up0003" x="1289" y="3298" width="298" height="664" frameX="-4" frameY="-12" frameWidth="308" frameHeight="678"/>
+	<SubTexture name="oak up0004" x="1597" y="3298" width="308" height="642" frameX="0" frameY="-36" frameWidth="308" frameHeight="678"/>
+	<SubTexture name="oak up0005" x="1597" y="3298" width="308" height="642" frameX="0" frameY="-36" frameWidth="308" frameHeight="678"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mistybf.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down miss0000" x="0" y="0" width="1416" height="2203"/>
+	<SubTexture name="left miss0000" x="1416" y="0" width="1643" height="2277"/>
+	<SubTexture name="misty bf0000" x="3059" y="0" width="1243" height="2227" frameX="0" frameY="-63" frameWidth="1247" frameHeight="2290"/>
+	<SubTexture name="misty bf0001" x="3059" y="0" width="1243" height="2227" frameX="0" frameY="-63" frameWidth="1247" frameHeight="2290"/>
+	<SubTexture name="misty bf0002" x="4302" y="0" width="1243" height="2235" frameX="-4" frameY="-55" frameWidth="1247" frameHeight="2290"/>
+	<SubTexture name="misty bf0003" x="4302" y="0" width="1243" height="2235" frameX="-4" frameY="-55" frameWidth="1247" frameHeight="2290"/>
+	<SubTexture name="misty bf0004" x="5545" y="0" width="1216" height="2274" frameX="-24" frameY="-16" frameWidth="1247" frameHeight="2290"/>
+	<SubTexture name="misty bf0005" x="5545" y="0" width="1216" height="2274" frameX="-24" frameY="-16" frameWidth="1247" frameHeight="2290"/>
+	<SubTexture name="misty bf0006" x="6761" y="0" width="1199" height="2290" frameX="-32" frameY="0" frameWidth="1247" frameHeight="2290"/>
+	<SubTexture name="misty bf0007" x="6761" y="0" width="1199" height="2290" frameX="-32" frameY="0" frameWidth="1247" frameHeight="2290"/>
+	<SubTexture name="misty bf0008" x="0" y="2290" width="1197" height="2289" frameX="-32" frameY="-1" frameWidth="1247" frameHeight="2290"/>
+	<SubTexture name="misty down0000" x="1197" y="2290" width="1228" height="2225" frameX="0" frameY="-65" frameWidth="1228" frameHeight="2292"/>
+	<SubTexture name="misty down0001" x="1197" y="2290" width="1228" height="2225" frameX="0" frameY="-65" frameWidth="1228" frameHeight="2292"/>
+	<SubTexture name="misty down0002" x="2425" y="2290" width="1180" height="2292" frameX="-41" frameY="0" frameWidth="1228" frameHeight="2292"/>
+	<SubTexture name="misty left0000" x="3605" y="2290" width="1638" height="2250" frameX="0" frameY="-56" frameWidth="1638" frameHeight="2306"/>
+	<SubTexture name="misty left0001" x="3605" y="2290" width="1638" height="2250" frameX="0" frameY="-56" frameWidth="1638" frameHeight="2306"/>
+	<SubTexture name="misty left0002" x="5243" y="2290" width="1612" height="2306" frameX="-25" frameY="0" frameWidth="1638" frameHeight="2306"/>
+	<SubTexture name="misty right0000" x="0" y="4596" width="1488" height="2370" frameX="0" frameY="-13" frameWidth="1488" frameHeight="2383"/>
+	<SubTexture name="misty right0001" x="0" y="4596" width="1488" height="2370" frameX="0" frameY="-13" frameWidth="1488" frameHeight="2383"/>
+	<SubTexture name="misty right0002" x="1488" y="4596" width="1443" height="2383" frameX="0" frameY="0" frameWidth="1488" frameHeight="2383"/>
+	<SubTexture name="misty up0000" x="2931" y="4596" width="1182" height="2464" frameX="-10" frameY="0" frameWidth="1192" frameHeight="2464"/>
+	<SubTexture name="misty up0001" x="2931" y="4596" width="1182" height="2464" frameX="-10" frameY="0" frameWidth="1192" frameHeight="2464"/>
+	<SubTexture name="misty up0002" x="4113" y="4596" width="1109" height="2395" frameX="0" frameY="-68" frameWidth="1192" frameHeight="2464"/>
+	<SubTexture name="right miss0000" x="5222" y="4596" width="1297" height="2232"/>
+	<SubTexture name="up miss0000" x="6519" y="4596" width="1132" height="2462"/>
+</TextureAtlas>

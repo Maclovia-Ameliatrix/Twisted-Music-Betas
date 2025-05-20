@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="morality_bf.png">
+<SubTexture name="morality_bf_idle0000" x="0" y="0" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_idle0001" x="125" y="0" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_idle0002" x="0" y="90" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_idle0003" x="250" y="90" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_idle0004" x="125" y="90" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_idle0005" x="250" y="0" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_left0000" x="125" y="270" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_left0001" x="250" y="270" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_miss_left0000" x="375" y="0" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_miss_left0001" x="375" y="90" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_right0000" x="375" y="180" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_right0001" x="375" y="270" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_miss_right0000" x="0" y="360" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_miss_right0001" x="125" y="360" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_down0000" x="250" y="360" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_down0001" x="375" y="360" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_miss_down0000" x="500" y="0" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_miss_down0001" x="500" y="90" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_up0000" x="0" y="180" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_up0001" x="125" y="180" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_miss_up0000" x="250" y="180" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+<SubTexture name="morality_bf_miss_up0001" x="0" y="270" width="125" height="90" frameX="0" frameY="0" frameWidth="125" frameHeight="90" />
+</TextureAtlas>

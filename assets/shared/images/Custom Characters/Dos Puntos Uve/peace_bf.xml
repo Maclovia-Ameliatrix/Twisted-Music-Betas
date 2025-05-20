@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peace_bf.png">
+<SubTexture name="peace_bf idle0000" x="53" y="0" width="20" height="38" frameX="-12" frameY="-8" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf idle0001" x="53" y="0" width="20" height="38" frameX="-12" frameY="-8" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf idle0002" x="73" y="0" width="20" height="38" frameX="-12" frameY="-8" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf idle0003" x="73" y="0" width="20" height="38" frameX="-12" frameY="-8" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf left0000" x="22" y="40" width="26" height="37" frameX="-10" frameY="-9" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf left0001" x="22" y="40" width="26" height="37" frameX="-10" frameY="-9" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf left0002" x="0" y="40" width="22" height="38" frameX="-12" frameY="-8" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf left0003" x="0" y="40" width="22" height="38" frameX="-12" frameY="-8" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf up0000" x="0" y="0" width="28" height="40" frameX="-12" frameY="-6" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf up0001" x="0" y="0" width="28" height="40" frameX="-12" frameY="-6" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf up0002" x="28" y="0" width="25" height="39" frameX="-14" frameY="-7" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf up0003" x="28" y="0" width="25" height="39" frameX="-14" frameY="-7" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf right0000" x="69" y="40" width="22" height="34" frameX="-18" frameY="-12" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf right0001" x="69" y="40" width="22" height="34" frameX="-18" frameY="-12" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf right0002" x="93" y="0" width="21" height="34" frameX="-17" frameY="-12" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf right0003" x="93" y="0" width="21" height="34" frameX="-17" frameY="-12" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf down0000" x="0" y="78" width="25" height="33" frameX="-13" frameY="-14" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf down0001" x="0" y="78" width="25" height="33" frameX="-13" frameY="-14" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf down0002" x="48" y="40" width="21" height="36" frameX="-15" frameY="-11" frameWidth="45" frameHeight="48" />
+<SubTexture name="peace_bf down0003" x="48" y="40" width="21" height="36" frameX="-15" frameY="-11" frameWidth="45" frameHeight="48" />
+</TextureAtlas>

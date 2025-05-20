@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NenePixel.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nene IDLE0000" x="0" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0001" x="0" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0002" x="130" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0003" x="130" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0004" x="130" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0005" x="260" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0006" x="260" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0007" x="260" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0008" x="260" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0009" x="390" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0010" x="390" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0011" x="390" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0012" x="390" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0013" x="520" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0014" x="520" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0015" x="650" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0016" x="650" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0017" x="780" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0018" x="780" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0019" x="780" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0020" x="910" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0021" x="910" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0022" x="910" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0023" x="910" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0024" x="910" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0025" x="1040" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0026" x="1040" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0027" x="1040" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0028" x="1040" y="0" width="128" height="114"/>
+	<SubTexture name="Nene IDLE0029" x="1040" y="0" width="128" height="114"/>
+
+	<SubTexture name="Nene IDLERight0000" x="0" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0001" x="0" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0002" x="130" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0003" x="130" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0004" x="130" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0005" x="260" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0006" x="260" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0007" x="260" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0008" x="260" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0009" x="390" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0010" x="390" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0011" x="390" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0012" x="390" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0013" x="520" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0014" x="520" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0015" x="650" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0016" x="650" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0017" x="780" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0018" x="780" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0019" x="780" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0020" x="910" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0021" x="910" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0022" x="910" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0023" x="910" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0024" x="910" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0025" x="1040" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0026" x="1040" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0027" x="1040" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0028" x="1040" y="116" width="128" height="114"/>
+	<SubTexture name="Nene IDLERight0029" x="1040" y="116" width="128" height="114"/>
+
+</TextureAtlas>
+
+	<SubTexture name="Nene FEAR 0009" x="910" y="232" width="128" height="114"/>

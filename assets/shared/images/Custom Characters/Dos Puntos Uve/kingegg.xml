@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kingegg.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downpig0000" x="0" y="0" width="436" height="262" frameX="0" frameY="-36" frameWidth="436" frameHeight="298"/>
+	<SubTexture name="downpig0001" x="0" y="0" width="436" height="262" frameX="0" frameY="-36" frameWidth="436" frameHeight="298"/>
+	<SubTexture name="downpig0002" x="436" y="0" width="436" height="285" frameX="0" frameY="-13" frameWidth="436" frameHeight="298"/>
+	<SubTexture name="downpig0003" x="436" y="0" width="436" height="285" frameX="0" frameY="-13" frameWidth="436" frameHeight="298"/>
+	<SubTexture name="downpig0004" x="872" y="0" width="436" height="291" frameX="0" frameY="-7" frameWidth="436" frameHeight="298"/>
+	<SubTexture name="downpig0005" x="1308" y="0" width="436" height="298"/>
+	<SubTexture name="downpig0006" x="1308" y="0" width="436" height="298"/>
+	<SubTexture name="downpig0007" x="1308" y="0" width="436" height="298"/>
+	<SubTexture name="downpig0008" x="1308" y="0" width="436" height="298"/>
+	<SubTexture name="downpig0009" x="1308" y="0" width="436" height="298"/>
+	<SubTexture name="idlepig0000" x="0" y="298" width="313" height="309" frameX="0" frameY="-41" frameWidth="313" frameHeight="350"/>
+	<SubTexture name="idlepig0001" x="0" y="298" width="313" height="309" frameX="0" frameY="-41" frameWidth="313" frameHeight="350"/>
+	<SubTexture name="idlepig0002" x="313" y="298" width="303" height="329" frameX="-10" frameY="-21" frameWidth="313" frameHeight="350"/>
+	<SubTexture name="idlepig0003" x="313" y="298" width="303" height="329" frameX="-10" frameY="-21" frameWidth="313" frameHeight="350"/>
+	<SubTexture name="idlepig0004" x="616" y="298" width="283" height="344" frameX="-30" frameY="-5" frameWidth="313" frameHeight="350"/>
+	<SubTexture name="idlepig0005" x="899" y="298" width="281" height="349" frameX="-32" frameY="0" frameWidth="313" frameHeight="350"/>
+	<SubTexture name="idlepig0006" x="899" y="298" width="281" height="349" frameX="-32" frameY="0" frameWidth="313" frameHeight="350"/>
+	<SubTexture name="idlepig0007" x="899" y="298" width="281" height="349" frameX="-32" frameY="0" frameWidth="313" frameHeight="350"/>
+	<SubTexture name="idlepig0008" x="899" y="298" width="281" height="349" frameX="-32" frameY="0" frameWidth="313" frameHeight="350"/>
+	<SubTexture name="idlepig0009" x="899" y="298" width="281" height="349" frameX="-32" frameY="0" frameWidth="313" frameHeight="350"/>
+	<SubTexture name="laught0000" x="1180" y="298" width="255" height="279" frameX="-3" frameY="-8" frameWidth="261" frameHeight="295"/>
+	<SubTexture name="laught0001" x="1180" y="298" width="255" height="279" frameX="-3" frameY="-8" frameWidth="261" frameHeight="295"/>
+	<SubTexture name="laught0002" x="1180" y="298" width="255" height="279" frameX="-3" frameY="-8" frameWidth="261" frameHeight="295"/>
+	<SubTexture name="laught0003" x="1435" y="298" width="261" height="295"/>
+	<SubTexture name="laught0004" x="1435" y="298" width="261" height="295"/>
+	<SubTexture name="laught0005" x="1696" y="298" width="261" height="295"/>
+	<SubTexture name="laught0006" x="1696" y="298" width="261" height="295"/>
+	<SubTexture name="laught0007" x="1696" y="298" width="261" height="295"/>
+	<SubTexture name="laught0008" x="1435" y="298" width="261" height="295"/>
+	<SubTexture name="laught0009" x="1435" y="298" width="261" height="295"/>
+	<SubTexture name="laught0010" x="1180" y="298" width="255" height="279" frameX="-3" frameY="-8" frameWidth="261" frameHeight="295"/>
+	<SubTexture name="laught0011" x="1180" y="298" width="255" height="279" frameX="-3" frameY="-8" frameWidth="261" frameHeight="295"/>
+	<SubTexture name="laught0012" x="1180" y="298" width="255" height="279" frameX="-3" frameY="-8" frameWidth="261" frameHeight="295"/>
+	<SubTexture name="laught0013" x="1435" y="298" width="261" height="295"/>
+	<SubTexture name="laught0014" x="1435" y="298" width="261" height="295"/>
+	<SubTexture name="laught0015" x="1180" y="298" width="255" height="279" frameX="-3" frameY="-8" frameWidth="261" frameHeight="295"/>
+	<SubTexture name="laught0016" x="1180" y="298" width="255" height="279" frameX="-3" frameY="-8" frameWidth="261" frameHeight="295"/>
+	<SubTexture name="laught0017" x="1180" y="298" width="255" height="279" frameX="-3" frameY="-8" frameWidth="261" frameHeight="295"/>
+	<SubTexture name="laught0018" x="1180" y="298" width="255" height="279" frameX="-3" frameY="-8" frameWidth="261" frameHeight="295"/>
+	<SubTexture name="laught0019" x="1435" y="298" width="261" height="295"/>
+	<SubTexture name="laught0020" x="1435" y="298" width="261" height="295"/>
+	<SubTexture name="leftpig0000" x="0" y="647" width="308" height="296" frameX="0" frameY="-23" frameWidth="310" frameHeight="319"/>
+	<SubTexture name="leftpig0001" x="0" y="647" width="308" height="296" frameX="0" frameY="-23" frameWidth="310" frameHeight="319"/>
+	<SubTexture name="leftpig0002" x="308" y="647" width="283" height="294" frameX="-26" frameY="-25" frameWidth="310" frameHeight="319"/>
+	<SubTexture name="leftpig0003" x="308" y="647" width="283" height="294" frameX="-26" frameY="-25" frameWidth="310" frameHeight="319"/>
+	<SubTexture name="leftpig0004" x="591" y="647" width="275" height="304" frameX="-35" frameY="-14" frameWidth="310" frameHeight="319"/>
+	<SubTexture name="leftpig0005" x="866" y="647" width="263" height="319" frameX="-46" frameY="0" frameWidth="310" frameHeight="319"/>
+	<SubTexture name="leftpig0006" x="866" y="647" width="263" height="319" frameX="-46" frameY="0" frameWidth="310" frameHeight="319"/>
+	<SubTexture name="leftpig0007" x="866" y="647" width="263" height="319" frameX="-46" frameY="0" frameWidth="310" frameHeight="319"/>
+	<SubTexture name="leftpig0008" x="866" y="647" width="263" height="319" frameX="-46" frameY="0" frameWidth="310" frameHeight="319"/>
+	<SubTexture name="leftpig0009" x="866" y="647" width="263" height="319" frameX="-46" frameY="0" frameWidth="310" frameHeight="319"/>
+	<SubTexture name="rightpig0000" x="1129" y="647" width="542" height="465" frameX="-11" frameY="0" frameWidth="553" frameHeight="465"/>
+	<SubTexture name="rightpig0001" x="1129" y="647" width="542" height="465" frameX="-11" frameY="0" frameWidth="553" frameHeight="465"/>
+	<SubTexture name="rightpig0002" x="0" y="1112" width="535" height="459" frameX="-11" frameY="-6" frameWidth="553" frameHeight="465"/>
+	<SubTexture name="rightpig0003" x="0" y="1112" width="535" height="459" frameX="-11" frameY="-6" frameWidth="553" frameHeight="465"/>
+	<SubTexture name="rightpig0004" x="535" y="1112" width="523" height="444" frameX="-11" frameY="-21" frameWidth="553" frameHeight="465"/>
+	<SubTexture name="rightpig0005" x="1058" y="1112" width="531" height="442" frameX="0" frameY="-23" frameWidth="553" frameHeight="465"/>
+	<SubTexture name="rightpig0006" x="1058" y="1112" width="531" height="442" frameX="0" frameY="-23" frameWidth="553" frameHeight="465"/>
+	<SubTexture name="rightpig0007" x="1058" y="1112" width="531" height="442" frameX="0" frameY="-23" frameWidth="553" frameHeight="465"/>
+	<SubTexture name="rightpig0008" x="1058" y="1112" width="531" height="442" frameX="0" frameY="-23" frameWidth="553" frameHeight="465"/>
+	<SubTexture name="rightpig0009" x="1058" y="1112" width="531" height="442" frameX="0" frameY="-23" frameWidth="553" frameHeight="465"/>
+	<SubTexture name="uppig0000" x="1589" y="1112" width="402" height="447" frameX="0" frameY="0" frameWidth="402" frameHeight="482"/>
+	<SubTexture name="uppig0001" x="1589" y="1112" width="402" height="447" frameX="0" frameY="0" frameWidth="402" frameHeight="482"/>
+	<SubTexture name="uppig0002" x="0" y="1571" width="402" height="430" frameX="0" frameY="-30" frameWidth="402" frameHeight="482"/>
+	<SubTexture name="uppig0003" x="0" y="1571" width="402" height="430" frameX="0" frameY="-30" frameWidth="402" frameHeight="482"/>
+	<SubTexture name="uppig0004" x="402" y="1571" width="402" height="422" frameX="0" frameY="-60" frameWidth="402" frameHeight="482"/>
+	<SubTexture name="uppig0005" x="804" y="1571" width="402" height="402" frameX="0" frameY="-76" frameWidth="402" frameHeight="482"/>
+	<SubTexture name="uppig0006" x="804" y="1571" width="402" height="402" frameX="0" frameY="-76" frameWidth="402" frameHeight="482"/>
+	<SubTexture name="uppig0007" x="804" y="1571" width="402" height="402" frameX="0" frameY="-76" frameWidth="402" frameHeight="482"/>
+	<SubTexture name="uppig0008" x="804" y="1571" width="402" height="402" frameX="0" frameY="-76" frameWidth="402" frameHeight="482"/>
+	<SubTexture name="uppig0009" x="804" y="1571" width="402" height="402" frameX="0" frameY="-76" frameWidth="402" frameHeight="482"/>
+</TextureAtlas>

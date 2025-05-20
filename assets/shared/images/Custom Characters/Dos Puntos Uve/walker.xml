@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="walker.png">
+<SubTexture name="walker walker10000" x="27" y="0" width="22" height="58" frameX="-24" frameY="-15" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker10001" x="27" y="0" width="22" height="58" frameX="-24" frameY="-15" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker10002" x="0" y="0" width="27" height="60" frameX="-22" frameY="-13" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker10003" x="0" y="0" width="27" height="60" frameX="-22" frameY="-13" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker20000" x="35" y="60" width="34" height="22" frameX="-23" frameY="-51" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker20001" x="35" y="60" width="34" height="22" frameX="-23" frameY="-51" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker20002" x="69" y="60" width="36" height="21" frameX="-21" frameY="-52" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker20003" x="69" y="60" width="36" height="21" frameX="-21" frameY="-52" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker30000" x="88" y="0" width="31" height="41" frameX="-23" frameY="-32" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker30001" x="88" y="0" width="31" height="41" frameX="-23" frameY="-32" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker30002" x="0" y="60" width="35" height="39" frameX="-21" frameY="-34" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker30003" x="0" y="60" width="35" height="39" frameX="-21" frameY="-34" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker40000" x="49" y="0" width="22" height="46" frameX="-26" frameY="-27" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker40001" x="49" y="0" width="22" height="46" frameX="-26" frameY="-27" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker40002" x="71" y="0" width="17" height="44" frameX="-29" frameY="-29" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker40003" x="71" y="0" width="17" height="44" frameX="-29" frameY="-29" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker50000" x="96" y="41" width="9" height="16" frameX="-29" frameY="-57" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker50001" x="96" y="41" width="9" height="16" frameX="-29" frameY="-57" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker50002" x="88" y="41" width="8" height="17" frameX="-30" frameY="-56" frameWidth="71" frameHeight="78" />
+<SubTexture name="walker walker50003" x="88" y="41" width="8" height="17" frameX="-30" frameY="-56" frameWidth="71" frameHeight="78" />
+</TextureAtlas>
