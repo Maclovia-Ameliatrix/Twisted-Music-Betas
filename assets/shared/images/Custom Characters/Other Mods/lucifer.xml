@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lucifer.png"><SubTexture name="lucifer i0000" x="5559" y="0" width="1872" height="1812" frameX="-247" frameY="-184" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer i0001" x="2129" y="0" width="1915" height="1938" frameX="-302" frameY="-57" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer i0002" x="0" y="0" width="2129" height="1986" frameX="-150" frameY="-4" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer i0003" x="0" y="1986" width="1818" height="1868" frameX="-402" frameY="-117" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer i0004" x="1818" y="1986" width="1304" height="1819" frameX="-527" frameY="-163" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer i0005" x="4044" y="0" width="1515" height="1819" frameX="-368" frameY="-163" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer d0000" x="9323" y="1532" width="1193" height="1523" frameX="-688" frameY="-358" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer d0001" x="5954" y="3854" width="1171" height="1545" frameX="-700" frameY="-336" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer d0002" x="4044" y="1819" width="1243" height="1570" frameX="-680" frameY="-331" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer d0003" x="7431" y="4996" width="1339" height="1579" frameX="-623" frameY="-330" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer d0004" x="7431" y="3407" width="1429" height="1589" frameX="-560" frameY="-326" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer l0000" x="1916" y="7405" width="1895" height="1671" frameX="-365" frameY="-283" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer l0001" x="7431" y="1713" width="1890" height="1694" frameX="-370" frameY="-260" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer l0002" x="0" y="7405" width="1916" height="1701" frameX="-361" frameY="-258" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer l0003" x="7431" y="0" width="1892" height="1713" frameX="-284" frameY="-255" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer l0004" x="4345" y="5637" width="1913" height="1718" frameX="-203" frameY="-254" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer r0000" x="0" y="9106" width="2261" height="1509" frameX="-210" frameY="-305" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer r0001" x="9323" y="0" width="2014" height="1532" frameX="-303" frameY="-294" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer r0002" x="5569" y="7405" width="1796" height="1550" frameX="-416" frameY="-297" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer r0003" x="3811" y="7405" width="1758" height="1564" frameX="-412" frameY="-297" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer r0004" x="5559" y="1812" width="1631" height="1578" frameX="-484" frameY="-298" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer u0000" x="2149" y="5637" width="2196" height="1756" frameX="-39" frameY="-137" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer u0001" x="0" y="5637" width="2149" height="1768" frameX="-64" frameY="-147" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer u0002" x="0" y="3854" width="2059" height="1783" frameX="-112" frameY="-153" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer u0003" x="3961" y="3854" width="1993" height="1769" frameX="-144" frameY="-156" frameWidth="2500" frameHeight="2000" />
+<SubTexture name="lucifer u0004" x="2059" y="3854" width="1902" height="1778" frameX="-184" frameY="-154" frameWidth="2500" frameHeight="2000" />
+</TextureAtlas>

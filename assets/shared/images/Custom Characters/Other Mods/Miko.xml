@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Miko.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Miko down0000" x="0" y="0" width="325" height="642" frameX="0" frameY="-14" frameWidth="327" frameHeight="656"/>
+	<SubTexture name="Miko down0001" x="325" y="0" width="323" height="648" frameX="0" frameY="-8" frameWidth="327" frameHeight="656"/>
+	<SubTexture name="Miko down0002" x="648" y="0" width="326" height="656" frameX="-1" frameY="0" frameWidth="327" frameHeight="656"/>
+	<SubTexture name="Miko down0003" x="648" y="0" width="326" height="656" frameX="-1" frameY="0" frameWidth="327" frameHeight="656"/>
+	<SubTexture name="Miko down0004" x="648" y="0" width="326" height="656" frameX="-1" frameY="0" frameWidth="327" frameHeight="656"/>
+	<SubTexture name="Miko down0005" x="648" y="0" width="326" height="656" frameX="-1" frameY="0" frameWidth="327" frameHeight="656"/>
+	<SubTexture name="Miko down0006" x="648" y="0" width="326" height="656" frameX="-1" frameY="0" frameWidth="327" frameHeight="656"/>
+	<SubTexture name="Miko down0007" x="648" y="0" width="326" height="656" frameX="-1" frameY="0" frameWidth="327" frameHeight="656"/>
+	<SubTexture name="Miko down0008" x="648" y="0" width="326" height="656" frameX="-1" frameY="0" frameWidth="327" frameHeight="656"/>
+	<SubTexture name="Miko idle0000" x="974" y="0" width="328" height="661" frameX="-5" frameY="-4" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0001" x="1302" y="0" width="329" height="662" frameX="-4" frameY="-3" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0002" x="1631" y="0" width="331" height="662" frameX="-2" frameY="-3" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0003" x="1962" y="0" width="331" height="662" frameX="-2" frameY="-3" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0004" x="2293" y="0" width="333" height="664" frameX="-1" frameY="-1" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0005" x="2626" y="0" width="335" height="665" frameX="0" frameY="0" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0006" x="2961" y="0" width="336" height="664" frameX="-1" frameY="-1" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0007" x="3297" y="0" width="336" height="663" frameX="-2" frameY="-2" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0008" x="3633" y="0" width="337" height="662" frameX="-2" frameY="-3" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0009" x="3633" y="0" width="337" height="662" frameX="-2" frameY="-3" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0010" x="3633" y="0" width="337" height="662" frameX="-2" frameY="-3" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0011" x="3633" y="0" width="337" height="662" frameX="-2" frameY="-3" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0012" x="3633" y="0" width="337" height="662" frameX="-2" frameY="-3" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko idle0013" x="3633" y="0" width="337" height="662" frameX="-2" frameY="-3" frameWidth="339" frameHeight="665"/>
+	<SubTexture name="Miko left0000" x="0" y="665" width="490" height="663" frameX="0" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="Miko left0001" x="490" y="665" width="472" height="663" frameX="-24" frameY="0" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="Miko left0002" x="962" y="665" width="454" height="662" frameX="-48" frameY="-1" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="Miko left0003" x="962" y="665" width="454" height="662" frameX="-48" frameY="-1" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="Miko left0004" x="962" y="665" width="454" height="662" frameX="-48" frameY="-1" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="Miko left0005" x="962" y="665" width="454" height="662" frameX="-48" frameY="-1" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="Miko left0006" x="962" y="665" width="454" height="662" frameX="-48" frameY="-1" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="Miko left0007" x="962" y="665" width="454" height="662" frameX="-48" frameY="-1" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="Miko left0008" x="962" y="665" width="454" height="662" frameX="-48" frameY="-1" frameWidth="502" frameHeight="663"/>
+	<SubTexture name="Miko right0000" x="1416" y="665" width="333" height="660" frameX="-36" frameY="-2" frameWidth="369" frameHeight="662"/>
+	<SubTexture name="Miko right0001" x="1749" y="665" width="334" height="661" frameX="-17" frameY="-1" frameWidth="369" frameHeight="662"/>
+	<SubTexture name="Miko right0002" x="2083" y="665" width="334" height="662" frameX="0" frameY="0" frameWidth="369" frameHeight="662"/>
+	<SubTexture name="Miko right0003" x="2083" y="665" width="334" height="662" frameX="0" frameY="0" frameWidth="369" frameHeight="662"/>
+	<SubTexture name="Miko right0004" x="2083" y="665" width="334" height="662" frameX="0" frameY="0" frameWidth="369" frameHeight="662"/>
+	<SubTexture name="Miko right0005" x="2083" y="665" width="334" height="662" frameX="0" frameY="0" frameWidth="369" frameHeight="662"/>
+	<SubTexture name="Miko right0006" x="2083" y="665" width="334" height="662" frameX="0" frameY="0" frameWidth="369" frameHeight="662"/>
+	<SubTexture name="Miko right0007" x="2083" y="665" width="334" height="662" frameX="0" frameY="0" frameWidth="369" frameHeight="662"/>
+	<SubTexture name="Miko right0008" x="2083" y="665" width="334" height="662" frameX="0" frameY="0" frameWidth="369" frameHeight="662"/>
+	<SubTexture name="Miko up0000" x="2417" y="665" width="318" height="674" frameX="-9" frameY="0" frameWidth="327" frameHeight="674"/>
+	<SubTexture name="Miko up0001" x="2735" y="665" width="322" height="668" frameX="-4" frameY="-6" frameWidth="327" frameHeight="674"/>
+	<SubTexture name="Miko up0002" x="3057" y="665" width="326" height="662" frameX="0" frameY="-12" frameWidth="327" frameHeight="674"/>
+	<SubTexture name="Miko up0003" x="3057" y="665" width="326" height="662" frameX="0" frameY="-12" frameWidth="327" frameHeight="674"/>
+	<SubTexture name="Miko up0004" x="3057" y="665" width="326" height="662" frameX="0" frameY="-12" frameWidth="327" frameHeight="674"/>
+	<SubTexture name="Miko up0005" x="3057" y="665" width="326" height="662" frameX="0" frameY="-12" frameWidth="327" frameHeight="674"/>
+	<SubTexture name="Miko up0006" x="3057" y="665" width="326" height="662" frameX="0" frameY="-12" frameWidth="327" frameHeight="674"/>
+	<SubTexture name="Miko up0007" x="3057" y="665" width="326" height="662" frameX="0" frameY="-12" frameWidth="327" frameHeight="674"/>
+	<SubTexture name="Miko up0008" x="3057" y="665" width="326" height="662" frameX="0" frameY="-12" frameWidth="327" frameHeight="674"/>
+</TextureAtlas>

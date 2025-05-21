@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="feliciaDEAD.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Felicia Dead Confirm0000" x="10" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0001" x="455" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0002" x="455" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0003" x="900" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0004" x="1345" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0005" x="1345" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0006" x="1790" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0007" x="2235" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0008" x="2680" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0009" x="3125" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0010" x="3570" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0011" x="4015" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0012" x="4460" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0013" x="4905" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0014" x="5350" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0015" x="5795" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0016" x="6240" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0017" x="6685" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0018" x="7130" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0019" x="7575" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0020" x="7575" y="10" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0021" x="10" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0022" x="10" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0023" x="455" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0024" x="455" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0025" x="900" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0026" x="900" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0027" x="1345" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0028" x="1345" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0029" x="1345" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0030" x="1345" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0031" x="1790" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0032" x="1790" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Confirm0033" x="1790" y="722" width="435" height="702"/>
+	<SubTexture name="Felicia Dead Loop0000" x="2235" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0001" x="2680" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0002" x="2680" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0003" x="3125" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0004" x="3125" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0005" x="3570" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0006" x="3570" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0007" x="4015" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0008" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0009" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0010" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0011" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0012" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0013" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0014" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0015" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0016" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0017" x="2235" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0018" x="2680" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0019" x="2680" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0020" x="3125" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0021" x="3125" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0022" x="3570" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0023" x="3570" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0024" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0025" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0026" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0027" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0028" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0029" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0030" x="4015" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0031" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0032" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="Felicia Dead Loop0033" x="4460" y="722" width="435" height="690"/>
+	<SubTexture name="FeliciaDies0000" x="4905" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0001" x="5360" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0002" x="5815" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0003" x="6270" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0004" x="6725" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0005" x="7180" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0006" x="7635" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0007" x="7635" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0008" x="7635" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0009" x="7635" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0010" x="7635" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0011" x="7635" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0012" x="7635" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0013" x="7635" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0014" x="7635" y="722" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0015" x="10" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0016" x="10" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0017" x="10" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0018" x="465" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0019" x="465" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0020" x="920" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0021" x="920" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0022" x="1375" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0023" x="1375" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0024" x="1830" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0025" x="2285" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0026" x="2285" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0027" x="2740" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0028" x="2740" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0029" x="3195" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0030" x="3195" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0031" x="3650" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0032" x="3650" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0033" x="3650" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0034" x="4105" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0035" x="3195" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0036" x="3195" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0037" x="3195" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0038" x="3195" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0039" x="3195" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0040" x="4560" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0041" x="4560" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0042" x="4560" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0043" x="5015" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0044" x="5015" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0045" x="5470" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0046" x="5470" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0047" x="5470" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0048" x="5925" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0049" x="5925" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0050" x="5925" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0051" x="5925" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0052" x="6380" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0053" x="6380" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0054" x="6380" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0055" x="6380" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0056" x="6380" y="1434" width="445" height="700"/>
+	<SubTexture name="FeliciaDies0057" x="6380" y="1434" width="445" height="700"/>
+</TextureAtlas>

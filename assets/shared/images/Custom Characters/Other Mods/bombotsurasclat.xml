@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bombotsurasclat.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Alt Tsuraran Down0000" x="2362" y="1002" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0001" x="2683" y="1002" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0002" x="2683" y="1002" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0003" x="3004" y="1002" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0004" x="3004" y="1002" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0005" x="3325" y="1002" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0006" x="3325" y="1002" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0007" x="3646" y="1002" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0008" x="3646" y="1002" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0009" x="0" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0010" x="0" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0011" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0012" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0013" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0014" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0015" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0016" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0017" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0018" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0019" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0020" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0021" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0022" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0023" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0024" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0025" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0026" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0027" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0028" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Down0029" x="321" y="1514" width="321" height="447"/>
+	<SubTexture name="Alt Tsuraran Idle0000" x="642" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0001" x="642" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0002" x="923" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0003" x="923" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0004" x="1204" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0005" x="1204" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0006" x="1485" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0007" x="1485" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0008" x="1766" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0009" x="1766" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0010" x="2047" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0011" x="2047" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0012" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0013" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0014" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0015" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0016" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0017" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0018" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0019" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0020" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0021" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0022" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0023" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0024" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0025" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0026" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0027" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0028" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Idle0029" x="2328" y="1514" width="281" height="501"/>
+	<SubTexture name="Alt Tsuraran Left0000" x="2609" y="1514" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0001" x="2925" y="1514" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0002" x="2925" y="1514" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0003" x="3241" y="1514" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0004" x="3241" y="1514" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0005" x="3557" y="1514" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0006" x="3557" y="1514" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0007" x="0" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0008" x="0" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0009" x="316" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0010" x="316" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0011" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0012" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0013" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0014" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0015" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0016" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0017" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0018" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0019" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0020" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0021" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0022" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0023" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0024" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0025" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0026" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0027" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0028" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Left0029" x="632" y="2015" width="316" height="491"/>
+	<SubTexture name="Alt Tsuraran Right0000" x="948" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0001" x="1280" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0002" x="1280" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0003" x="1612" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0004" x="1612" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0005" x="1944" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0006" x="1944" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0007" x="2276" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0008" x="2276" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0009" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0010" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0011" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0012" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0013" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0014" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0015" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0016" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0017" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0018" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0019" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0020" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0021" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0022" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0023" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0024" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0025" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0026" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0027" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0028" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Right0029" x="2608" y="2015" width="332" height="479"/>
+	<SubTexture name="Alt Tsuraran Up0000" x="2940" y="2015" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0001" x="3223" y="2015" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0002" x="3223" y="2015" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0003" x="3506" y="2015" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0004" x="3506" y="2015" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0005" x="3789" y="2015" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0006" x="3789" y="2015" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0007" x="0" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0008" x="0" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0009" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0010" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0011" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0012" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0013" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0014" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0015" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0016" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0017" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0018" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0019" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0020" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0021" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0022" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0023" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0024" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0025" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0026" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0027" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0028" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Alt Tsuraran Up0029" x="283" y="2527" width="283" height="512"/>
+	<SubTexture name="Tsuraran Down0000" x="0" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0001" x="321" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0002" x="321" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0003" x="642" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0004" x="642" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0005" x="963" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0006" x="963" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0007" x="1284" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0008" x="1284" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0009" x="1605" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0010" x="1605" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0011" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0012" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0013" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0014" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0015" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0016" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0017" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0018" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0019" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0020" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0021" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0022" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0023" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0024" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0025" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0026" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0027" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0028" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Down0029" x="1926" y="0" width="321" height="447"/>
+	<SubTexture name="Tsuraran Idle0000" x="2247" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0001" x="2247" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0002" x="2528" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0003" x="2528" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0004" x="2809" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0005" x="2809" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0006" x="3090" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0007" x="3090" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0008" x="3371" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0009" x="3371" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0010" x="3652" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0011" x="3652" y="0" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0012" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0013" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0014" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0015" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0016" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0017" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0018" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0019" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0020" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0021" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0022" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0023" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0024" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0025" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0026" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0027" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0028" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Idle0029" x="0" y="501" width="281" height="501"/>
+	<SubTexture name="Tsuraran Left0000" x="281" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0001" x="597" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0002" x="597" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0003" x="913" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0004" x="913" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0005" x="1229" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0006" x="1229" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0007" x="1545" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0008" x="1545" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0009" x="1861" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0010" x="1861" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0011" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0012" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0013" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0014" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0015" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0016" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0017" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0018" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0019" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0020" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0021" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0022" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0023" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0024" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0025" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0026" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0027" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0028" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Left0029" x="2177" y="501" width="316" height="491"/>
+	<SubTexture name="Tsuraran Right0000" x="2493" y="501" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0001" x="2825" y="501" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0002" x="2825" y="501" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0003" x="3157" y="501" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0004" x="3157" y="501" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0005" x="3489" y="501" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0006" x="3489" y="501" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0007" x="0" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0008" x="0" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0009" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0010" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0011" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0012" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0013" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0014" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0015" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0016" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0017" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0018" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0019" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0020" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0021" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0022" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0023" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0024" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0025" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0026" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0027" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0028" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Right0029" x="332" y="1002" width="332" height="479"/>
+	<SubTexture name="Tsuraran Up0000" x="664" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0001" x="947" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0002" x="947" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0003" x="1230" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0004" x="1230" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0005" x="1513" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0006" x="1513" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0007" x="1796" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0008" x="1796" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0009" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0010" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0011" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0012" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0013" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0014" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0015" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0016" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0017" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0018" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0019" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0020" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0021" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0022" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0023" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0024" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0025" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0026" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0027" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0028" x="2079" y="1002" width="283" height="512"/>
+	<SubTexture name="Tsuraran Up0029" x="2079" y="1002" width="283" height="512"/>
+</TextureAtlas>

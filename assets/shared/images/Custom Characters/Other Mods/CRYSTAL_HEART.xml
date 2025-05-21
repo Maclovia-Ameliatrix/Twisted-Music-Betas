@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CRYSTAL HEART.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="breaking heart0000" x="5" y="5" width="255" height="258"/>
+	<SubTexture name="breaking heart0001" x="5" y="5" width="255" height="258"/>
+	<SubTexture name="breaking heart0002" x="265" y="5" width="255" height="258"/>
+	<SubTexture name="breaking heart0003" x="265" y="5" width="255" height="258"/>
+	<SubTexture name="breaking heart0004" x="525" y="5" width="255" height="258"/>
+	<SubTexture name="breaking heart0005" x="785" y="5" width="255" height="258"/>
+	<SubTexture name="breaking heart0006" x="1045" y="5" width="255" height="258"/>
+	<SubTexture name="breaking heart0007" x="1305" y="5" width="255" height="258"/>
+	<SubTexture name="breaking heart0008" x="1565" y="5" width="255" height="258"/>
+	<SubTexture name="breaking heart0009" x="1565" y="5" width="255" height="258"/>
+	<SubTexture name="breaking heart0010" x="5" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0011" x="5" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0012" x="265" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0013" x="265" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0014" x="525" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0015" x="525" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0016" x="785" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0017" x="785" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0018" x="1045" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0019" x="1045" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0020" x="1305" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart0021" x="1305" y="268" width="255" height="258"/>
+	<SubTexture name="breaking heart loop0000" x="1565" y="268" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0001" x="1565" y="268" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0002" x="5" y="544" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0003" x="5" y="544" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0004" x="279" y="544" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0005" x="279" y="544" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0006" x="553" y="544" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0007" x="553" y="544" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0008" x="827" y="544" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0009" x="827" y="544" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0010" x="279" y="544" width="269" height="271"/>
+	<SubTexture name="breaking heart loop0011" x="279" y="544" width="269" height="271"/>
+	<SubTexture name="crystal heart0000" x="1101" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0001" x="1101" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0002" x="1101" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0003" x="1101" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0004" x="1101" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0005" x="1101" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0006" x="1101" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0007" x="1101" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0008" x="1312" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0009" x="1312" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0010" x="1523" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0011" x="1523" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0012" x="1734" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0013" x="1734" y="544" width="206" height="189"/>
+	<SubTexture name="crystal heart0014" x="5" y="820" width="206" height="189"/>
+	<SubTexture name="crystal heart0015" x="5" y="820" width="206" height="189"/>
+	<SubTexture name="crystal heart0016" x="216" y="820" width="206" height="189"/>
+	<SubTexture name="crystal heart0017" x="216" y="820" width="206" height="189"/>
+	<SubTexture name="crystal heart0018" x="427" y="820" width="206" height="189"/>
+	<SubTexture name="crystal heart0019" x="427" y="820" width="206" height="189"/>
+</TextureAtlas>

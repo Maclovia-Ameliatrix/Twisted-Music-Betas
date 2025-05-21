@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="felicia.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FeliciaDown0000" x="10" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0001" x="10" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0002" x="424" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0003" x="424" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0004" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0005" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0006" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0007" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0008" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0009" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0010" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0011" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0012" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0013" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaDown0014" x="838" y="10" width="404" height="627"/>
+	<SubTexture name="FeliciaHey!0000" x="1252" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0001" x="1252" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0002" x="1610" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0003" x="1610" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0004" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0005" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0006" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0007" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0008" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0009" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0010" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0011" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0012" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0013" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0014" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0015" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0016" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0017" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0018" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0019" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0020" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0021" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0022" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0023" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0024" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaHey!0025" x="1968" y="10" width="348" height="678"/>
+	<SubTexture name="FeliciaIdle0000" x="2326" y="10" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0001" x="2326" y="10" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0002" x="2733" y="10" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0003" x="2733" y="10" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0004" x="3140" y="10" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0005" x="3140" y="10" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0006" x="3547" y="10" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0007" x="3547" y="10" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0008" x="10" y="698" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0009" x="10" y="698" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0010" x="10" y="698" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0011" x="10" y="698" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0012" x="10" y="698" width="397" height="677"/>
+	<SubTexture name="FeliciaIdle0013" x="10" y="698" width="397" height="677"/>
+	<SubTexture name="FeliciaLeft0000" x="417" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0001" x="417" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0002" x="809" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0003" x="809" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0004" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0005" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0006" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0007" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0008" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0009" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0010" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0011" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0012" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0013" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaLeft0014" x="1201" y="698" width="382" height="692"/>
+	<SubTexture name="FeliciaRight0000" x="1593" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0001" x="1593" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0002" x="1971" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0003" x="1971" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0004" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0005" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0006" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0007" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0008" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0009" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0010" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0011" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0012" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0013" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaRight0014" x="2349" y="698" width="368" height="672"/>
+	<SubTexture name="FeliciaUp0000" x="2727" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0001" x="2727" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0002" x="3087" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0003" x="3087" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0004" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0005" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0006" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0007" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0008" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0009" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0010" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0011" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0012" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0013" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="FeliciaUp0014" x="3447" y="698" width="350" height="725"/>
+	<SubTexture name="MISS FeliciaDown0000" x="10" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0001" x="432" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0002" x="432" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0003" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0004" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0005" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0006" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0007" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0008" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0009" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0010" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0011" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0012" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0013" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0014" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0015" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0016" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0017" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0018" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0019" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0020" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0021" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0022" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0023" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0024" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0025" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0026" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0027" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaDown0028" x="854" y="1433" width="412" height="631"/>
+	<SubTexture name="MISS FeliciaLeft0000" x="417" y="698" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0001" x="1276" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0002" x="1276" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0003" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0004" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0005" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0006" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0007" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0008" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0009" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0010" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0011" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0012" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0013" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0014" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0015" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0016" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0017" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0018" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0019" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0020" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0021" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0022" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0023" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0024" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0025" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0026" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0027" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0028" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0029" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0030" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0031" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0032" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaLeft0033" x="1668" y="1433" width="382" height="692"/>
+	<SubTexture name="MISS FeliciaRight0000" x="2060" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0001" x="2443" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0002" x="2443" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0003" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0004" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0005" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0006" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0007" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0008" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0009" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0010" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0011" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0012" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0013" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0014" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0015" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0016" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0017" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0018" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0019" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0020" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0021" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0022" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0023" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0024" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0025" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0026" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0027" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0028" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0029" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0030" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0031" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0032" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaRight0033" x="2826" y="1433" width="373" height="673"/>
+	<SubTexture name="MISS FeliciaUp0000" x="3209" y="1433" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0001" x="3580" y="1433" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0002" x="3580" y="1433" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0003" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0004" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0005" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0006" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0007" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0008" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0009" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0010" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0011" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0012" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0013" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0014" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0015" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0016" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0017" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0018" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0019" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0020" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0021" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0022" x="10" y="2168" width="361" height="725"/>
+	<SubTexture name="MISS FeliciaUp0023" x="10" y="2168" width="361" height="725"/>
+</TextureAtlas>

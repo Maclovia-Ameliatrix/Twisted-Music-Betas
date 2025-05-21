@@ -1,0 +1,699 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Soul_BoyFriend_Assets_Red.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Soul BF GUITAR DOWN Black0000" x="4" y="4" width="603" height="554" frameX="-2" frameY="0" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0001" x="4" y="4" width="603" height="554" frameX="-2" frameY="0" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0002" x="611" y="4" width="603" height="553" frameX="-2" frameY="-1" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0003" x="1218" y="4" width="609" height="538" frameX="0" frameY="-23" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0004" x="1218" y="4" width="609" height="538" frameX="0" frameY="-23" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0005" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0006" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0007" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0008" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0009" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0010" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0011" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0012" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0013" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0014" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0015" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0016" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0017" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0018" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0019" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0020" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0021" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0022" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0023" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0024" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0025" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0026" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0027" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0028" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0029" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0030" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0031" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0032" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0033" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0034" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0035" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0036" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0037" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0038" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0039" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0040" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0041" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0042" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0043" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0044" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0045" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0046" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0047" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0048" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0049" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0050" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0051" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0052" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0053" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0054" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0055" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0056" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0057" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0058" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0059" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0060" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0061" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0062" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0063" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0064" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0065" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0066" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0067" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0068" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0069" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0070" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0071" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0072" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0073" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0074" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0075" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0076" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0077" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0078" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0079" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0080" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0081" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0082" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0083" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0084" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0085" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0086" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0087" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0088" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0089" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0090" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0091" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0092" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0093" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0094" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0095" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0096" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0097" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0098" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0099" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0100" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0101" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0102" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0103" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0104" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0105" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0106" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0107" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0108" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0109" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0110" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0111" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0112" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0113" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0114" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0115" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0116" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0117" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0118" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0119" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0120" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0121" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0122" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0123" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0124" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0125" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0126" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0127" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0128" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0129" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0130" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0131" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0132" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0133" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0134" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0135" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0136" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0137" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0138" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0139" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0140" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0141" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0142" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0143" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0144" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0145" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0146" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0147" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0148" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0149" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0150" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0151" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0152" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0153" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0154" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0155" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0156" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0157" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0158" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0159" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0160" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0161" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0162" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0163" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0164" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0165" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0166" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0167" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0168" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0169" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0170" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0171" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0172" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0173" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0174" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0175" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0176" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0177" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0178" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0179" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0180" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0181" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0182" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0183" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0184" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0185" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0186" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0187" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0188" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0189" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0190" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0191" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0192" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0193" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0194" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0195" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0196" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0197" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0198" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0199" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0200" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0201" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0202" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0203" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0204" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0205" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0206" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0207" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0208" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0209" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0210" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0211" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0212" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0213" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0214" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0215" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0216" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0217" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0218" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0219" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0220" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0221" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0222" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0223" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0224" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0225" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0226" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0227" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0228" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0229" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0230" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0231" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0232" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0233" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0234" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0235" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0236" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0237" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN Black0238" x="1831" y="4" width="610" height="542" frameX="0" frameY="-30" frameWidth="610" frameHeight="572"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0000" x="2445" y="4" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0001" x="2445" y="4" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0002" x="3052" y="4" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0003" x="3052" y="4" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0004" x="2445" y="4" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0005" x="2445" y="4" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0006" x="3052" y="4" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0007" x="3052" y="4" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0008" x="4" y="562" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0009" x="4" y="562" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0010" x="611" y="562" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR DOWN LOOP0011" x="611" y="562" width="603" height="553"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0000" x="1218" y="562" width="480" height="595" frameX="-1" frameY="-16" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0001" x="1218" y="562" width="480" height="595" frameX="-1" frameY="-16" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0002" x="1702" y="562" width="480" height="607" frameX="-1" frameY="-4" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0003" x="2186" y="562" width="495" height="615" frameX="0" frameY="0" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0004" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0005" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0006" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0007" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0008" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0009" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0010" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0011" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0012" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0013" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0014" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0015" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0016" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0017" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0018" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0019" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0020" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0021" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0022" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0023" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0024" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0025" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0026" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0027" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0028" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0029" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0030" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0031" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0032" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0033" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0034" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0035" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0036" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0037" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0038" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0039" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0040" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0041" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0042" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0043" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0044" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0045" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0046" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0047" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0048" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0049" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0050" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0051" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0052" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0053" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0054" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0055" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0056" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0057" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0058" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0059" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0060" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0061" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0062" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0063" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0064" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0065" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0066" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0067" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0068" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0069" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0070" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0071" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0072" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0073" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0074" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0075" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0076" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0077" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0078" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0079" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0080" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0081" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0082" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0083" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0084" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0085" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0086" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0087" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0088" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0089" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0090" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0091" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0092" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0093" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0094" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0095" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0096" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0097" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0098" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0099" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0100" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0101" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0102" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0103" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0104" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0105" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0106" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0107" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0108" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0109" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0110" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0111" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0112" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0113" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT Black0114" x="2685" y="562" width="501" height="617" frameX="0" frameY="-1" frameWidth="501" frameHeight="618"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0000" x="3190" y="562" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0001" x="3190" y="562" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0002" x="4" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0003" x="4" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0004" x="3190" y="562" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0005" x="3190" y="562" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0006" x="4" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0007" x="4" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0008" x="491" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0009" x="491" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0010" x="978" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0011" x="1465" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0012" x="1952" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0013" x="1952" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0014" x="2439" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0015" x="2439" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0016" x="2926" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0017" x="2926" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0018" x="2439" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0019" x="2439" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0020" x="3413" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0021" x="3413" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0022" x="1465" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0023" x="1465" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0024" x="1952" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0025" x="1952" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0026" x="2439" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0027" x="2439" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0028" x="2926" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0029" x="2926" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0030" x="2439" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0031" x="2439" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0032" x="3413" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0033" x="3413" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0034" x="1465" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR LEFT LOOP0035" x="1465" y="1183" width="483" height="606"/>
+	<SubTexture name="Soul BF GUITAR THROW0000" x="4" y="1793" width="593" height="684" frameX="0" frameY="0" frameWidth="1246" frameHeight="691"/>
+	<SubTexture name="Soul BF GUITAR THROW0001" x="4" y="1793" width="593" height="684" frameX="0" frameY="0" frameWidth="1246" frameHeight="691"/>
+	<SubTexture name="Soul BF GUITAR THROW0002" x="601" y="1793" width="574" height="678" frameX="-22" frameY="-7" frameWidth="1246" frameHeight="691"/>
+	<SubTexture name="Soul BF GUITAR THROW0003" x="1179" y="1793" width="1031" height="559" frameX="-215" frameY="-132" frameWidth="1246" frameHeight="691"/>
+	<SubTexture name="Soul BF GUITAR THROW0004" x="2214" y="1793" width="571" height="558" frameX="-219" frameY="-127" frameWidth="1246" frameHeight="691"/>
+	<SubTexture name="Soul BF GUITAR THROW0005" x="2214" y="1793" width="571" height="558" frameX="-219" frameY="-127" frameWidth="1246" frameHeight="691"/>
+	<SubTexture name="Soul BF GUITAR THROW0006" x="2214" y="1793" width="571" height="558" frameX="-219" frameY="-127" frameWidth="1246" frameHeight="691"/>
+	<SubTexture name="Soul BF GUITAR UP Black0000" x="2789" y="1793" width="521" height="583" frameX="0" frameY="-6" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0001" x="2789" y="1793" width="521" height="583" frameX="0" frameY="-6" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0002" x="3314" y="1793" width="521" height="583" frameX="0" frameY="-6" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0003" x="4" y="2481" width="504" height="596" frameX="-6" frameY="0" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0004" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0005" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0006" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0007" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0008" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0009" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0010" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0011" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0012" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0013" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0014" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0015" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0016" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0017" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0018" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0019" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0020" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0021" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0022" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0023" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0024" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0025" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0026" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0027" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0028" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0029" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0030" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0031" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0032" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0033" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0034" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0035" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0036" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0037" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0038" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0039" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0040" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0041" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0042" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0043" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0044" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0045" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0046" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0047" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0048" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0049" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0050" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0051" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0052" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0053" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0054" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0055" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0056" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0057" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0058" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0059" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0060" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0061" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0062" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0063" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0064" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0065" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0066" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0067" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0068" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0069" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0070" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0071" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0072" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0073" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0074" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0075" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0076" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0077" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0078" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0079" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0080" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0081" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0082" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0083" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0084" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0085" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0086" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0087" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0088" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0089" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0090" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0091" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0092" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0093" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0094" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0095" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0096" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0097" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0098" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0099" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0100" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0101" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0102" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0103" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0104" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0105" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0106" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0107" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0108" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0109" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0110" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0111" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0112" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0113" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0114" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0115" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0116" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0117" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0118" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0119" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0120" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0121" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0122" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0123" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0124" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0125" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0126" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0127" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0128" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0129" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0130" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0131" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0132" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0133" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0134" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0135" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0136" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0137" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0138" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0139" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0140" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0141" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0142" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0143" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0144" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0145" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0146" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0147" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0148" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0149" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0150" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0151" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0152" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0153" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0154" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0155" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0156" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0157" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0158" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0159" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0160" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0161" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0162" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0163" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0164" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0165" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0166" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0167" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0168" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0169" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0170" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0171" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0172" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0173" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0174" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0175" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0176" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0177" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0178" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0179" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0180" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0181" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0182" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0183" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0184" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0185" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0186" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0187" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0188" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0189" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0190" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0191" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0192" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0193" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0194" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0195" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0196" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0197" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0198" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0199" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0200" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0201" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0202" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0203" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0204" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0205" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0206" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0207" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0208" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0209" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0210" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0211" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0212" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0213" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0214" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0215" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0216" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0217" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0218" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0219" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0220" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0221" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0222" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0223" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0224" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0225" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0226" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0227" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0228" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0229" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0230" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0231" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0232" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0233" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0234" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0235" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0236" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0237" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0238" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0239" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0240" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0241" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0242" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0243" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0244" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0245" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0246" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0247" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Black0248" x="512" y="2481" width="481" height="594" frameX="-12" frameY="-4" frameWidth="521" frameHeight="598"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20000" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20001" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20002" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20003" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20004" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20005" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20006" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20007" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20008" x="2013" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20009" x="2013" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20010" x="2521" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20011" x="2521" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20012" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20013" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20014" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20015" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20016" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20017" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20018" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20019" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20020" x="2013" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20021" x="2013" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20022" x="2521" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20023" x="2521" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20024" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20025" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20026" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20027" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20028" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20029" x="997" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20030" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20031" x="1505" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20032" x="2013" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20033" x="2013" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20034" x="2521" y="2481" width="504" height="596"/>
+	<SubTexture name="Soul BF GUITAR UP Loop20035" x="2521" y="2481" width="504" height="596"/>
+</TextureAtlas>

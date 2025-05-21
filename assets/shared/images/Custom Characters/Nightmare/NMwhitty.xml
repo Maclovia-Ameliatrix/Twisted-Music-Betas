@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NMwhitty.png"><SubTexture name="NMwhitty idle0000" x="7160" y="8100" width="597" height="987" frameX="-17" frameY="-56" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0001" x="9680" y="6734" width="596" height="928" frameX="-17" frameY="-115" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0002" x="9680" y="5789" width="597" height="945" frameX="-16" frameY="-98" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0003" x="8950" y="8100" width="597" height="975" frameX="-17" frameY="-68" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0004" x="5967" y="8100" width="596" height="992" frameX="-17" frameY="-51" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0005" x="2387" y="8100" width="597" height="1004" frameX="-16" frameY="-39" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0006" x="9680" y="4837" width="597" height="952" frameX="-17" frameY="-91" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0007" x="9680" y="2909" width="596" height="966" frameX="-17" frameY="-77" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0008" x="9680" y="0" width="597" height="971" frameX="-16" frameY="-72" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0009" x="7757" y="8100" width="597" height="986" frameX="-17" frameY="-57" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0010" x="5371" y="8100" width="596" height="996" frameX="-17" frameY="-47" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0011" x="4177" y="8100" width="597" height="999" frameX="-16" frameY="-44" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0012" x="7840" y="7050" width="597" height="1010" frameX="-17" frameY="-33" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0013" x="3581" y="8100" width="596" height="1000" frameX="-17" frameY="-43" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0014" x="0" y="8100" width="597" height="1010" frameX="-16" frameY="-33" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0015" x="8700" y="6184" width="597" height="1016" frameX="-17" frameY="-27" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0016" x="8700" y="2100" width="596" height="1024" frameX="-17" frameY="-19" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0017" x="4774" y="8100" width="597" height="999" frameX="-16" frameY="-44" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0018" x="1193" y="8100" width="597" height="1007" frameX="-17" frameY="-36" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0019" x="8700" y="3124" width="596" height="1021" frameX="-17" frameY="-22" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0020" x="8700" y="4145" width="597" height="1020" frameX="-16" frameY="-23" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0021" x="9680" y="3875" width="597" height="962" frameX="-17" frameY="-81" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0022" x="8354" y="8100" width="596" height="976" frameX="-17" frameY="-67" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0023" x="2984" y="8100" width="597" height="1001" frameX="-17" frameY="-42" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0024" x="8700" y="5165" width="596" height="1019" frameX="-17" frameY="-24" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0025" x="9680" y="971" width="597" height="970" frameX="-16" frameY="-73" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0026" x="6563" y="8100" width="597" height="991" frameX="-17" frameY="-52" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0027" x="597" y="8100" width="596" height="1009" frameX="-17" frameY="-34" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0028" x="1790" y="8100" width="597" height="1007" frameX="-16" frameY="-36" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty idle0029" x="9680" y="1941" width="597" height="968" frameX="-17" frameY="-75" frameWidth="639" frameHeight="1050" />
+<SubTexture name="NMwhitty sing DOWN0000" x="3116" y="9110" width="951" height="918" frameX="-25" frameY="-99" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0001" x="7182" y="9110" width="779" height="891" frameX="-110" frameY="-118" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0002" x="10277" y="0" width="779" height="870" frameX="-110" frameY="-136" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0003" x="8700" y="7200" width="778" height="899" frameX="-110" frameY="-107" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0004" x="4846" y="9110" width="779" height="915" frameX="-109" frameY="-91" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0005" x="779" y="9110" width="779" height="928" frameX="-110" frameY="-78" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0006" x="8740" y="9110" width="779" height="879" frameX="-110" frameY="-127" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0007" x="7961" y="9110" width="779" height="891" frameX="-109" frameY="-115" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0008" x="6403" y="9110" width="779" height="897" frameX="-110" frameY="-109" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0009" x="5625" y="9110" width="778" height="912" frameX="-110" frameY="-94" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0010" x="2337" y="9110" width="779" height="922" frameX="-109" frameY="-84" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0011" x="1558" y="9110" width="779" height="927" frameX="-110" frameY="-79" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0012" x="1558" y="9110" width="779" height="927" frameX="-110" frameY="-79" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0013" x="0" y="9110" width="779" height="935" frameX="-110" frameY="-71" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing DOWN0014" x="4067" y="9110" width="779" height="917" frameX="-109" frameY="-89" frameWidth="1009" frameHeight="1150" />
+<SubTexture name="NMwhitty sing RIGHT0000" x="4200" y="0" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0001" x="4200" y="1050" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0002" x="4200" y="2100" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0003" x="0" y="3900" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0004" x="1500" y="3900" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0005" x="3000" y="3900" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0006" x="5700" y="0" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0007" x="5700" y="1050" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0008" x="5700" y="2100" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0009" x="5700" y="3150" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0010" x="0" y="4950" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0011" x="1500" y="4950" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0012" x="3000" y="4950" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0013" x="4500" y="4950" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0014" x="0" y="6000" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0015" x="1500" y="6000" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0016" x="3000" y="6000" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0017" x="4500" y="6000" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0018" x="7200" y="0" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing RIGHT0019" x="7200" y="1050" width="1500" height="1050" frameX="0" frameY="0" frameWidth="1500" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0000" x="7200" y="2100" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0001" x="7200" y="3150" width="980" height="1050" frameX="-30" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0002" x="7200" y="4200" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0003" x="7200" y="5250" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0006" x="6000" y="4950" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0007" x="6000" y="6000" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0008" x="0" y="7050" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0009" x="980" y="7050" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0010" x="1960" y="7050" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0011" x="2940" y="7050" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0012" x="3920" y="7050" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0013" x="4900" y="7050" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0014" x="5880" y="7050" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0015" x="6860" y="7050" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0016" x="8700" y="0" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing LEFT0017" x="8700" y="1050" width="980" height="1050" frameX="0" frameY="0" frameWidth="980" frameHeight="1050" />
+<SubTexture name="NMwhitty sing UP0000" x="0" y="0" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0001" x="700" y="0" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0002" x="1400" y="0" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0003" x="2100" y="0" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0004" x="0" y="1300" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0005" x="700" y="1300" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0006" x="1400" y="1300" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0007" x="2100" y="1300" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0008" x="2800" y="0" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0009" x="2800" y="1300" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0010" x="3500" y="0" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0011" x="3500" y="1300" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0012" x="0" y="2600" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0013" x="700" y="2600" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0014" x="1400" y="2600" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+<SubTexture name="NMwhitty sing UP0015" x="2100" y="2600" width="700" height="1300" frameX="0" frameY="0" frameWidth="700" frameHeight="1300" />
+</TextureAtlas>

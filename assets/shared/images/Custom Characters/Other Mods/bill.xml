@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bill Sprite Sheet 1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bill Down0000" x="0" y="0" width="506" height="442" frameX="-2" frameY="-8" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0001" x="516" y="0" width="508" height="442" frameX="-1" frameY="-8" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0002" x="1034" y="0" width="494" height="446" frameX="-1" frameY="-4" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0003" x="1538" y="0" width="493" height="447" frameX="-1" frameY="-3" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0004" x="2041" y="0" width="494" height="447" frameX="0" frameY="-3" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0005" x="2545" y="0" width="491" height="449" frameX="0" frameY="-1" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0006" x="3046" y="0" width="490" height="449" frameX="0" frameY="-1" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0007" x="3546" y="0" width="490" height="450" frameX="0" frameY="0" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0008" x="4046" y="0" width="490" height="450" frameX="0" frameY="0" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0009" x="4046" y="0" width="490" height="450" frameX="0" frameY="0" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0010" x="4046" y="0" width="490" height="450" frameX="0" frameY="0" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Down0011" x="4046" y="0" width="490" height="450" frameX="0" frameY="0" frameWidth="509" frameHeight="450"/>
+	<SubTexture name="Bill Idle0000" x="4546" y="0" width="461" height="482" frameX="-2" frameY="0" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0001" x="5017" y="0" width="461" height="482" frameX="-2" frameY="0" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0002" x="5488" y="0" width="461" height="482" frameX="-2" frameY="-1" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0003" x="5959" y="0" width="462" height="480" frameX="-1" frameY="-3" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0004" x="6431" y="0" width="462" height="481" frameX="-1" frameY="-4" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0005" x="6903" y="0" width="462" height="481" frameX="-1" frameY="-5" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0006" x="7375" y="0" width="462" height="481" frameX="-1" frameY="-5" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0007" x="0" y="492" width="462" height="482" frameX="-1" frameY="-5" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0008" x="472" y="492" width="462" height="483" frameX="-1" frameY="-4" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0009" x="944" y="492" width="462" height="484" frameX="-1" frameY="-4" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0010" x="1416" y="492" width="463" height="482" frameX="0" frameY="-6" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0011" x="1889" y="492" width="463" height="482" frameX="0" frameY="-6" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0012" x="2362" y="492" width="463" height="483" frameX="0" frameY="-5" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0013" x="2835" y="492" width="461" height="482" frameX="-2" frameY="0" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0014" x="3306" y="492" width="461" height="482" frameX="-2" frameY="0" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0015" x="3777" y="492" width="461" height="482" frameX="-2" frameY="-1" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0016" x="4248" y="492" width="462" height="480" frameX="-1" frameY="-3" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0017" x="4720" y="492" width="462" height="481" frameX="-1" frameY="-4" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0018" x="5192" y="492" width="462" height="481" frameX="-1" frameY="-5" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0019" x="5664" y="492" width="462" height="481" frameX="-1" frameY="-5" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0020" x="6136" y="492" width="462" height="482" frameX="-1" frameY="-5" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0021" x="6608" y="492" width="462" height="483" frameX="-1" frameY="-4" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0022" x="7080" y="492" width="462" height="484" frameX="-1" frameY="-4" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0023" x="7552" y="492" width="463" height="482" frameX="0" frameY="-6" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0024" x="7552" y="492" width="463" height="482" frameX="0" frameY="-6" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Idle0025" x="0" y="986" width="463" height="483" frameX="0" frameY="-5" frameWidth="463" frameHeight="488"/>
+	<SubTexture name="Bill Left0000" x="473" y="986" width="551" height="433" frameX="0" frameY="-27" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0001" x="1034" y="986" width="553" height="435" frameX="-1" frameY="-25" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0002" x="1597" y="986" width="543" height="427" frameX="-8" frameY="-33" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0003" x="2150" y="986" width="534" height="436" frameX="-14" frameY="-24" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0004" x="2694" y="986" width="539" height="446" frameX="-10" frameY="-14" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0005" x="3243" y="986" width="530" height="450" frameX="-14" frameY="-10" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0006" x="3783" y="986" width="526" height="456" frameX="-17" frameY="-4" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0007" x="4319" y="986" width="526" height="456" frameX="-17" frameY="-4" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0008" x="4855" y="986" width="526" height="459" frameX="-16" frameY="-1" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0009" x="5391" y="986" width="526" height="459" frameX="-16" frameY="-1" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0010" x="5927" y="986" width="524" height="460" frameX="-18" frameY="0" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0011" x="5927" y="986" width="524" height="460" frameX="-18" frameY="0" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Left0012" x="5927" y="986" width="524" height="460" frameX="-18" frameY="0" frameWidth="554" frameHeight="460"/>
+	<SubTexture name="Bill Right0000" x="6461" y="986" width="497" height="472" frameX="-2" frameY="0" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0001" x="6968" y="986" width="507" height="468" frameX="-9" frameY="-1" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0002" x="7485" y="986" width="504" height="473" frameX="-1" frameY="-2" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0003" x="0" y="1479" width="494" height="477" frameX="-1" frameY="-2" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0004" x="504" y="1479" width="494" height="476" frameX="0" frameY="-3" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0005" x="1008" y="1479" width="494" height="477" frameX="0" frameY="-3" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0006" x="1512" y="1479" width="497" height="477" frameX="0" frameY="-3" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0007" x="2019" y="1479" width="497" height="477" frameX="0" frameY="-3" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0008" x="2526" y="1479" width="497" height="477" frameX="0" frameY="-3" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0009" x="3033" y="1479" width="497" height="477" frameX="0" frameY="-3" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0010" x="3033" y="1479" width="497" height="477" frameX="0" frameY="-3" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0011" x="3540" y="1479" width="497" height="477" frameX="0" frameY="-3" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Right0012" x="3540" y="1479" width="497" height="477" frameX="0" frameY="-3" frameWidth="516" frameHeight="480"/>
+	<SubTexture name="Bill Up0000" x="4047" y="1479" width="505" height="477" frameX="-7" frameY="-23" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0001" x="4562" y="1479" width="527" height="478" frameX="0" frameY="-23" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0002" x="5099" y="1479" width="491" height="502" frameX="-34" frameY="0" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0003" x="5600" y="1479" width="490" height="463" frameX="-28" frameY="-37" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0004" x="6100" y="1479" width="493" height="465" frameX="-24" frameY="-40" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0005" x="6603" y="1479" width="490" height="461" frameX="-23" frameY="-45" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0006" x="7103" y="1479" width="487" height="461" frameX="-24" frameY="-47" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0007" x="7600" y="1479" width="486" height="464" frameX="-25" frameY="-44" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0008" x="0" y="1991" width="486" height="464" frameX="-25" frameY="-44" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0009" x="496" y="1991" width="485" height="465" frameX="-26" frameY="-43" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0010" x="496" y="1991" width="485" height="465" frameX="-26" frameY="-43" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0011" x="496" y="1991" width="485" height="465" frameX="-26" frameY="-43" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Bill Up0012" x="496" y="1991" width="485" height="465" frameX="-26" frameY="-43" frameWidth="527" frameHeight="508"/>
+	<SubTexture name="Leanback0000" x="991" y="1991" width="462" height="480" frameX="-194" frameY="-242" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0001" x="991" y="1991" width="462" height="480" frameX="-194" frameY="-242" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0002" x="991" y="1991" width="462" height="480" frameX="-194" frameY="-242" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0003" x="1463" y="1991" width="462" height="479" frameX="-194" frameY="-243" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0004" x="1935" y="1991" width="462" height="478" frameX="-194" frameY="-244" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0005" x="2407" y="1991" width="462" height="476" frameX="-194" frameY="-246" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0006" x="2879" y="1991" width="462" height="475" frameX="-194" frameY="-245" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0007" x="3351" y="1991" width="461" height="467" frameX="-195" frameY="-248" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0008" x="3822" y="1991" width="512" height="450" frameX="-144" frameY="-256" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0009" x="4344" y="1991" width="515" height="450" frameX="-141" frameY="-256" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0010" x="4869" y="1991" width="531" height="445" frameX="-125" frameY="-261" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0011" x="5410" y="1991" width="539" height="444" frameX="-117" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0012" x="5959" y="1991" width="543" height="443" frameX="-113" frameY="-263" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0013" x="6512" y="1991" width="542" height="444" frameX="-114" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0014" x="6512" y="1991" width="542" height="444" frameX="-114" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0015" x="7064" y="1991" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0016" x="7614" y="1991" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0017" x="0" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0018" x="550" y="2481" width="541" height="444" frameX="-115" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0019" x="1101" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0020" x="1651" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0021" x="2201" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0022" x="2751" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0023" x="2751" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0024" x="2751" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0025" x="2751" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0026" x="2751" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0027" x="2751" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0028" x="2751" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="Leanback0029" x="2751" y="2481" width="540" height="444" frameX="-116" frameY="-262" frameWidth="656" frameHeight="722"/>
+	<SubTexture name="ShadowBill SPrite0000" x="3301" y="2481" width="408" height="640" frameX="-7" frameY="-9" frameWidth="427" frameHeight="655"/>
+	<SubTexture name="ShadowBill SPrite0001" x="3719" y="2481" width="427" height="655"/>
+	<SubTexture name="ShadowBill SPrite0002" x="4156" y="2481" width="361" height="587" frameX="-25" frameY="-27" frameWidth="427" frameHeight="655"/>
+	<SubTexture name="ShadowBill SPrite0003" x="4527" y="2481" width="361" height="586" frameX="-23" frameY="-23" frameWidth="427" frameHeight="655"/>
+	<SubTexture name="ShadowBill SPrite0004" x="4898" y="2481" width="361" height="585" frameX="-22" frameY="-21" frameWidth="427" frameHeight="655"/>
+	<SubTexture name="ShadowBill SPrite0005" x="5269" y="2481" width="361" height="584" frameX="-22" frameY="-21" frameWidth="427" frameHeight="655"/>
+	<SubTexture name="ShadowBill SPrite0006" x="5640" y="2481" width="360" height="582" frameX="-19" frameY="-19" frameWidth="427" frameHeight="655"/>
+	<SubTexture name="ShadowBill SPrite0007" x="6010" y="2481" width="360" height="582" frameX="-19" frameY="-19" frameWidth="427" frameHeight="655"/>
+	<SubTexture name="ShadowBill SPrite0008" x="6380" y="2481" width="361" height="583" frameX="-18" frameY="-18" frameWidth="427" frameHeight="655"/>
+	<SubTexture name="ShadowBill SPrite0009" x="6751" y="2481" width="361" height="584" frameX="-17" frameY="-16" frameWidth="427" frameHeight="655"/>
+	<SubTexture name="ShadowBill SPrite0010" x="7122" y="2481" width="0" height="0" frameX="336" frameY="-50" frameWidth="427" frameHeight="655"/>
+</TextureAtlas>

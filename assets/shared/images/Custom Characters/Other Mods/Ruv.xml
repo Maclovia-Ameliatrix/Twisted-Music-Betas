@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ruv.png"><SubTexture name="Ruv d0000" x="0" y="4999" width="995" height="1476" frameX="-433" frameY="-485" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv d0001" x="6032" y="1522" width="994" height="1506" frameX="-433" frameY="-455" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv d0002" x="6032" y="0" width="994" height="1522" frameX="-433" frameY="-439" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv d0003" x="4973" y="1635" width="994" height="1532" frameX="-433" frameY="-429" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv l0000" x="4437" y="3378" width="1129" height="1579" frameX="-452" frameY="-392" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv l0001" x="1060" y="3378" width="1127" height="1590" frameX="-456" frameY="-380" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv l0002" x="3313" y="3378" width="1124" height="1589" frameX="-459" frameY="-381" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv l0003" x="2187" y="3378" width="1126" height="1590" frameX="-457" frameY="-380" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv r0000" x="0" y="3378" width="1060" height="1621" frameX="-397" frameY="-358" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv r0001" x="3914" y="1636" width="1059" height="1635" frameX="-397" frameY="-344" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv r0002" x="3914" y="0" width="1059" height="1636" frameX="-397" frameY="-343" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv r0003" x="4973" y="0" width="1059" height="1635" frameX="-397" frameY="-344" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv u0000" x="0" y="0" width="797" height="1713" frameX="-542" frameY="-256" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv u0001" x="797" y="0" width="796" height="1706" frameX="-542" frameY="-263" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv u0002" x="1593" y="0" width="795" height="1704" frameX="-543" frameY="-265" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv u0003" x="2388" y="0" width="795" height="1702" frameX="-543" frameY="-267" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv i0000" x="2193" y="1713" width="732" height="1659" frameX="-595" frameY="-310" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv i0001" x="1462" y="1713" width="731" height="1660" frameX="-595" frameY="-309" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv i0002" x="3183" y="0" width="731" height="1667" frameX="-595" frameY="-302" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv i0003" x="0" y="1713" width="731" height="1665" frameX="-595" frameY="-304" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="Ruv i0004" x="731" y="1713" width="731" height="1665" frameX="-595" frameY="-304" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>

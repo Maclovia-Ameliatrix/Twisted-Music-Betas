@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bobmellia.png">
+<SubTexture name="bobmellia idle0000" x="2409" y="1335" width="803" height="657" frameX="-290" frameY="-426" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia idle0001" x="2409" y="1335" width="803" height="657" frameX="-290" frameY="-426" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia idle0002" x="1606" y="2065" width="803" height="651" frameX="-290" frameY="-432" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia idle0003" x="1606" y="2065" width="803" height="651" frameX="-290" frameY="-432" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia idle0004" x="2409" y="670" width="803" height="665" frameX="-290" frameY="-418" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia idle0005" x="2409" y="670" width="803" height="665" frameX="-290" frameY="-418" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia idle0006" x="803" y="0" width="803" height="681" frameX="-290" frameY="-402" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia idle0007" x="803" y="0" width="803" height="681" frameX="-290" frameY="-402" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia idle0008" x="0" y="711" width="803" height="681" frameX="-290" frameY="-402" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia idle0009" x="0" y="711" width="803" height="681" frameX="-290" frameY="-402" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia down0000" x="811" y="2721" width="805" height="570" frameX="-289" frameY="-513" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia down0001" x="811" y="2721" width="805" height="570" frameX="-289" frameY="-513" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia down0002" x="3212" y="1286" width="808" height="580" frameX="-285" frameY="-503" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia down0003" x="3212" y="1286" width="808" height="580" frameX="-285" frameY="-503" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia down0004" x="803" y="2065" width="803" height="654" frameX="-290" frameY="-429" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia down0005" x="803" y="2065" width="803" height="654" frameX="-290" frameY="-429" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia down0006" x="0" y="2065" width="803" height="656" frameX="-290" frameY="-427" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia down0007" x="0" y="2065" width="803" height="656" frameX="-290" frameY="-427" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia fuck you0000" x="803" y="711" width="803" height="673" frameX="-290" frameY="-410" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia left0000" x="1606" y="1392" width="803" height="670" frameX="-290" frameY="-413" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia left0001" x="1606" y="1392" width="803" height="670" frameX="-290" frameY="-413" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia left0002" x="2409" y="0" width="803" height="670" frameX="-290" frameY="-413" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia left0003" x="2409" y="0" width="803" height="670" frameX="-290" frameY="-413" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia left0004" x="1606" y="0" width="803" height="673" frameX="-290" frameY="-410" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia left0005" x="1606" y="0" width="803" height="673" frameX="-290" frameY="-410" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia left0006" x="1606" y="673" width="803" height="673" frameX="-290" frameY="-410" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia left0007" x="1606" y="673" width="803" height="673" frameX="-290" frameY="-410" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia right0000" x="3212" y="644" width="803" height="642" frameX="-290" frameY="-441" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia right0001" x="3212" y="644" width="803" height="642" frameX="-290" frameY="-441" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia right0002" x="3212" y="0" width="808" height="644" frameX="-290" frameY="-439" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia right0003" x="3212" y="0" width="808" height="644" frameX="-290" frameY="-439" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia right0004" x="0" y="1392" width="803" height="673" frameX="-290" frameY="-410" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia right0005" x="0" y="1392" width="803" height="673" frameX="-290" frameY="-410" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia right0006" x="803" y="1392" width="803" height="672" frameX="-290" frameY="-411" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia right0007" x="803" y="1392" width="803" height="672" frameX="-290" frameY="-411" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia up0000" x="2420" y="2721" width="816" height="438" frameX="-281" frameY="-645" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia up0001" x="2420" y="2721" width="816" height="438" frameX="-281" frameY="-645" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia up0002" x="0" y="3302" width="813" height="436" frameX="-283" frameY="-647" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia up0003" x="0" y="3302" width="813" height="436" frameX="-283" frameY="-647" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia up0004" x="1616" y="2721" width="804" height="565" frameX="-289" frameY="-518" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia up0005" x="1616" y="2721" width="804" height="565" frameX="-289" frameY="-518" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia up0006" x="3212" y="1866" width="804" height="574" frameX="-289" frameY="-509" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia up0007" x="3212" y="1866" width="804" height="574" frameX="-289" frameY="-509" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia up0008" x="0" y="2721" width="811" height="581" frameX="-288" frameY="-502" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia up0009" x="0" y="2721" width="811" height="581" frameX="-288" frameY="-502" frameWidth="1500" frameHeight="1500" />
+<SubTexture name="bobmellia hehe0000" x="0" y="0" width="803" height="711" frameX="-289" frameY="-372" frameWidth="1500" frameHeight="1500" />
+</TextureAtlas>

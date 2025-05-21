@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="natto.png">
+<SubTexture name="natto idle0000" x="1741" y="1598" width="572" height="768" frameX="-7" frameY="-28" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0001" x="1741" y="1598" width="572" height="768" frameX="-7" frameY="-28" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0002" x="1175" y="1598" width="566" height="771" frameX="-10" frameY="-25" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0003" x="1175" y="1598" width="566" height="771" frameX="-10" frameY="-25" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0004" x="608" y="1598" width="567" height="774" frameX="-11" frameY="-22" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0005" x="608" y="1598" width="567" height="774" frameX="-11" frameY="-22" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0006" x="0" y="816" width="569" height="782" frameX="-14" frameY="-14" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0007" x="0" y="816" width="569" height="782" frameX="-14" frameY="-14" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0008" x="569" y="816" width="566" height="781" frameX="-15" frameY="-15" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0009" x="569" y="816" width="566" height="781" frameX="-15" frameY="-15" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0010" x="1135" y="816" width="566" height="781" frameX="-15" frameY="-15" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto idle0011" x="1135" y="816" width="566" height="781" frameX="-15" frameY="-15" frameWidth="595" frameHeight="800" />
+<SubTexture name="natto sing left0000" x="0" y="1598" width="608" height="775" frameX="-107" frameY="-42" frameWidth="939" frameHeight="900" />
+<SubTexture name="natto sing left0001" x="1747" y="0" width="629" height="779" frameX="-106" frameY="-38" frameWidth="939" frameHeight="900" />
+<SubTexture name="natto sing down0000" x="2376" y="733" width="567" height="731" frameX="-127" frameY="-91" frameWidth="939" frameHeight="900" />
+<SubTexture name="natto sing down0001" x="2376" y="0" width="582" height="733" frameX="-121" frameY="-90" frameWidth="939" frameHeight="900" />
+<SubTexture name="natto sing up0000" x="0" y="0" width="592" height="816" frameX="-114" frameY="-5" frameWidth="939" frameHeight="900" />
+<SubTexture name="natto sing up0001" x="592" y="0" width="590" height="793" frameX="-118" frameY="-28" frameWidth="939" frameHeight="900" />
+<SubTexture name="natto sing right0000" x="1182" y="0" width="565" height="786" frameX="-123" frameY="-31" frameWidth="939" frameHeight="900" />
+<SubTexture name="natto sing right0001" x="1747" y="779" width="536" height="778" frameX="-116" frameY="-39" frameWidth="939" frameHeight="900" />
+</TextureAtlas>

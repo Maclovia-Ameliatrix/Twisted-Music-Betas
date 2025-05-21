@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KRIS.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kris down fin0000" x="0" y="0" width="621" height="805" frameX="-1" frameY="-24" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0001" x="0" y="0" width="621" height="805" frameX="-1" frameY="-24" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0002" x="621" y="0" width="614" height="818" frameX="0" frameY="-11" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0003" x="621" y="0" width="614" height="818" frameX="0" frameY="-11" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0004" x="1235" y="0" width="606" height="826" frameX="-4" frameY="-3" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0005" x="1235" y="0" width="606" height="826" frameX="-4" frameY="-3" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0006" x="1841" y="0" width="602" height="829" frameX="-5" frameY="0" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0007" x="1841" y="0" width="602" height="829" frameX="-5" frameY="0" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0008" x="2443" y="0" width="602" height="828" frameX="-5" frameY="-1" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0009" x="2443" y="0" width="602" height="828" frameX="-5" frameY="-1" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0010" x="2443" y="0" width="602" height="828" frameX="-5" frameY="-1" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0011" x="2443" y="0" width="602" height="828" frameX="-5" frameY="-1" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0012" x="2443" y="0" width="602" height="828" frameX="-5" frameY="-1" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0013" x="2443" y="0" width="602" height="828" frameX="-5" frameY="-1" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0014" x="2443" y="0" width="602" height="828" frameX="-5" frameY="-1" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris down fin0015" x="2443" y="0" width="602" height="828" frameX="-5" frameY="-1" frameWidth="622" frameHeight="829"/>
+	<SubTexture name="kris idle0000" x="3045" y="0" width="484" height="1009" frameX="-23" frameY="-12" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0001" x="3045" y="0" width="484" height="1009" frameX="-23" frameY="-12" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0002" x="3529" y="0" width="489" height="1035" frameX="-20" frameY="0" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0003" x="3529" y="0" width="489" height="1035" frameX="-20" frameY="0" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0004" x="4018" y="0" width="501" height="1043" frameX="-14" frameY="-2" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0005" x="4018" y="0" width="501" height="1043" frameX="-14" frameY="-2" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0006" x="4519" y="0" width="517" height="1038" frameX="-6" frameY="-5" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0007" x="4519" y="0" width="517" height="1038" frameX="-6" frameY="-5" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0008" x="5036" y="0" width="524" height="1001" frameX="0" frameY="-6" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0009" x="5036" y="0" width="524" height="1001" frameX="0" frameY="-6" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0010" x="5560" y="0" width="489" height="1001" frameX="-36" frameY="-6" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0011" x="5560" y="0" width="489" height="1001" frameX="-36" frameY="-6" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0012" x="5560" y="0" width="489" height="1001" frameX="-36" frameY="-6" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0013" x="5560" y="0" width="489" height="1001" frameX="-36" frameY="-6" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0014" x="6049" y="0" width="489" height="1000" frameX="-37" frameY="-7" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0015" x="6538" y="0" width="491" height="999" frameX="-47" frameY="-22" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0016" x="6538" y="0" width="491" height="999" frameX="-47" frameY="-22" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0017" x="7029" y="0" width="501" height="1013" frameX="-37" frameY="-22" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0018" x="7029" y="0" width="501" height="1013" frameX="-37" frameY="-22" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0019" x="7530" y="0" width="516" height="1029" frameX="-14" frameY="-16" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0020" x="7530" y="0" width="516" height="1029" frameX="-14" frameY="-16" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0021" x="0" y="1043" width="518" height="1028" frameX="-6" frameY="-15" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0022" x="0" y="1043" width="518" height="1028" frameX="-6" frameY="-15" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0023" x="518" y="1043" width="521" height="993" frameX="0" frameY="-14" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0024" x="518" y="1043" width="521" height="993" frameX="0" frameY="-14" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0025" x="1039" y="1043" width="486" height="993" frameX="-33" frameY="-14" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0026" x="1039" y="1043" width="486" height="993" frameX="-33" frameY="-14" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0027" x="1039" y="1043" width="486" height="993" frameX="-33" frameY="-14" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0028" x="1039" y="1043" width="486" height="993" frameX="-33" frameY="-14" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris idle0029" x="1525" y="1043" width="485" height="994" frameX="-32" frameY="-13" frameWidth="538" frameHeight="1045"/>
+	<SubTexture name="kris left fin0000" x="2010" y="1043" width="709" height="992" frameX="-23" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0001" x="2010" y="1043" width="709" height="992" frameX="-23" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0002" x="2719" y="1043" width="702" height="992" frameX="-21" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0003" x="2719" y="1043" width="702" height="992" frameX="-21" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0004" x="3421" y="1043" width="698" height="992" frameX="-4" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0005" x="3421" y="1043" width="698" height="992" frameX="-4" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0006" x="4119" y="1043" width="698" height="992" frameX="-1" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0007" x="4119" y="1043" width="698" height="992" frameX="-1" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0008" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0009" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0010" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0011" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0012" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0013" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0014" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0015" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0016" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0017" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0018" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris left fin0019" x="4817" y="1043" width="697" height="992" frameX="0" frameY="0" frameWidth="732" frameHeight="992"/>
+	<SubTexture name="kris right fin0000" x="5514" y="1043" width="792" height="1029"/>
+	<SubTexture name="kris right fin0001" x="5514" y="1043" width="792" height="1029"/>
+	<SubTexture name="kris right fin0002" x="6306" y="1043" width="772" height="1023" frameX="-16" frameY="-6" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0003" x="6306" y="1043" width="772" height="1023" frameX="-16" frameY="-6" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0004" x="7078" y="1043" width="757" height="1025" frameX="-32" frameY="-4" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0005" x="7078" y="1043" width="757" height="1025" frameX="-32" frameY="-4" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0006" x="0" y="2072" width="754" height="1025" frameX="-36" frameY="-4" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0007" x="0" y="2072" width="754" height="1025" frameX="-36" frameY="-4" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0008" x="754" y="2072" width="754" height="1026" frameX="-36" frameY="-3" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0009" x="754" y="2072" width="754" height="1026" frameX="-36" frameY="-3" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0010" x="754" y="2072" width="754" height="1026" frameX="-36" frameY="-3" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0011" x="754" y="2072" width="754" height="1026" frameX="-36" frameY="-3" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0012" x="754" y="2072" width="754" height="1026" frameX="-36" frameY="-3" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0013" x="754" y="2072" width="754" height="1026" frameX="-36" frameY="-3" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0014" x="754" y="2072" width="754" height="1026" frameX="-36" frameY="-3" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris right fin0015" x="754" y="2072" width="754" height="1026" frameX="-36" frameY="-3" frameWidth="792" frameHeight="1029"/>
+	<SubTexture name="kris up0000" x="1508" y="2072" width="546" height="1022" frameX="-5" frameY="0" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0001" x="1508" y="2072" width="546" height="1022" frameX="-5" frameY="0" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0002" x="2054" y="2072" width="552" height="1013" frameX="0" frameY="-9" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0003" x="2054" y="2072" width="552" height="1013" frameX="0" frameY="-9" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0004" x="2606" y="2072" width="547" height="1010" frameX="0" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0005" x="2606" y="2072" width="547" height="1010" frameX="0" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0006" x="3153" y="2072" width="545" height="1010" frameX="-2" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0007" x="3153" y="2072" width="545" height="1010" frameX="-2" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0008" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0009" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0010" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0011" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0012" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0013" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0014" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0015" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0016" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0017" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0018" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+	<SubTexture name="kris up0019" x="3698" y="2072" width="543" height="1010" frameX="-3" frameY="-12" frameWidth="552" frameHeight="1022"/>
+</TextureAtlas>

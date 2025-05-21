@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PsykaP.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Psyka Down0000" x="0" y="0" width="324" height="586" frameX="0" frameY="-3" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0001" x="0" y="0" width="324" height="586" frameX="0" frameY="-3" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0002" x="324" y="0" width="322" height="587" frameX="0" frameY="-2" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0003" x="324" y="0" width="322" height="587" frameX="0" frameY="-2" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0004" x="646" y="0" width="318" height="590" frameX="-1" frameY="0" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0005" x="646" y="0" width="318" height="590" frameX="-1" frameY="0" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0006" x="646" y="0" width="318" height="590" frameX="-1" frameY="0" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0007" x="646" y="0" width="318" height="590" frameX="-1" frameY="0" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0008" x="646" y="0" width="318" height="590" frameX="-1" frameY="0" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0009" x="646" y="0" width="318" height="590" frameX="-1" frameY="0" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0010" x="646" y="0" width="318" height="590" frameX="-1" frameY="0" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0011" x="646" y="0" width="318" height="590" frameX="-1" frameY="0" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0012" x="646" y="0" width="318" height="590" frameX="-1" frameY="0" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Down0013" x="646" y="0" width="318" height="590" frameX="-1" frameY="0" frameWidth="324" frameHeight="590"/>
+	<SubTexture name="Psyka Idle0000" x="964" y="0" width="315" height="656" frameX="-7" frameY="-7" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0001" x="964" y="0" width="315" height="656" frameX="-7" frameY="-7" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0002" x="1279" y="0" width="315" height="659" frameX="-5" frameY="-4" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0003" x="1279" y="0" width="315" height="659" frameX="-5" frameY="-4" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0004" x="1594" y="0" width="317" height="662" frameX="-3" frameY="-1" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0005" x="1594" y="0" width="317" height="662" frameX="-3" frameY="-1" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0006" x="1911" y="0" width="320" height="663" frameX="0" frameY="0" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0007" x="1911" y="0" width="320" height="663" frameX="0" frameY="0" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0008" x="1911" y="0" width="320" height="663" frameX="0" frameY="0" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0009" x="1911" y="0" width="320" height="663" frameX="0" frameY="0" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0010" x="1911" y="0" width="320" height="663" frameX="0" frameY="0" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0011" x="1911" y="0" width="320" height="663" frameX="0" frameY="0" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0012" x="1911" y="0" width="320" height="663" frameX="0" frameY="0" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Idle0013" x="1911" y="0" width="320" height="663" frameX="0" frameY="0" frameWidth="322" frameHeight="663"/>
+	<SubTexture name="Psyka Left0000" x="2231" y="0" width="349" height="627" frameX="0" frameY="-7" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0001" x="2231" y="0" width="349" height="627" frameX="0" frameY="-7" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0002" x="2580" y="0" width="344" height="635" frameX="-2" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0003" x="2580" y="0" width="344" height="635" frameX="-2" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0004" x="2924" y="0" width="334" height="635" frameX="-7" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0005" x="2924" y="0" width="334" height="635" frameX="-7" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0006" x="2924" y="0" width="334" height="635" frameX="-7" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0007" x="2924" y="0" width="334" height="635" frameX="-7" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0008" x="2924" y="0" width="334" height="635" frameX="-7" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0009" x="2924" y="0" width="334" height="635" frameX="-7" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0010" x="2924" y="0" width="334" height="635" frameX="-7" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0011" x="2924" y="0" width="334" height="635" frameX="-7" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0012" x="2924" y="0" width="334" height="635" frameX="-7" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Left0013" x="2924" y="0" width="334" height="635" frameX="-7" frameY="0" frameWidth="349" frameHeight="635"/>
+	<SubTexture name="Psyka Right0000" x="3258" y="0" width="375" height="653" frameX="-1" frameY="-4" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0001" x="3258" y="0" width="375" height="653" frameX="-1" frameY="-4" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0002" x="3633" y="0" width="368" height="656" frameX="-1" frameY="-1" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0003" x="3633" y="0" width="368" height="656" frameX="-1" frameY="-1" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0004" x="0" y="663" width="360" height="657" frameX="0" frameY="0" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0005" x="0" y="663" width="360" height="657" frameX="0" frameY="0" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0006" x="0" y="663" width="360" height="657" frameX="0" frameY="0" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0007" x="0" y="663" width="360" height="657" frameX="0" frameY="0" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0008" x="0" y="663" width="360" height="657" frameX="0" frameY="0" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0009" x="0" y="663" width="360" height="657" frameX="0" frameY="0" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0010" x="0" y="663" width="360" height="657" frameX="0" frameY="0" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0011" x="0" y="663" width="360" height="657" frameX="0" frameY="0" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0012" x="0" y="663" width="360" height="657" frameX="0" frameY="0" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Right0013" x="0" y="663" width="360" height="657" frameX="0" frameY="0" frameWidth="376" frameHeight="657"/>
+	<SubTexture name="Psyka Up0000" x="360" y="663" width="395" height="679"/>
+	<SubTexture name="Psyka Up0001" x="755" y="663" width="395" height="679"/>
+	<SubTexture name="Psyka Up0002" x="1150" y="663" width="391" height="674" frameX="-3" frameY="-5" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0003" x="1150" y="663" width="391" height="674" frameX="-3" frameY="-5" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0004" x="1541" y="663" width="386" height="668" frameX="-7" frameY="-11" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0005" x="1541" y="663" width="386" height="668" frameX="-7" frameY="-11" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0006" x="1541" y="663" width="386" height="668" frameX="-7" frameY="-11" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0007" x="1541" y="663" width="386" height="668" frameX="-7" frameY="-11" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0008" x="1541" y="663" width="386" height="668" frameX="-7" frameY="-11" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0009" x="1541" y="663" width="386" height="668" frameX="-7" frameY="-11" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0010" x="1541" y="663" width="386" height="668" frameX="-7" frameY="-11" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0011" x="1541" y="663" width="386" height="668" frameX="-7" frameY="-11" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0012" x="1541" y="663" width="386" height="668" frameX="-7" frameY="-11" frameWidth="395" frameHeight="679"/>
+	<SubTexture name="Psyka Up0013" x="1541" y="663" width="386" height="668" frameX="-7" frameY="-11" frameWidth="395" frameHeight="679"/>
+</TextureAtlas>

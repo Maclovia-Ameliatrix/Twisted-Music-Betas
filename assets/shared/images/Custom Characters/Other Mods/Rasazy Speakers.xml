@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ras.png"><SubTexture name="ras l0000" x="0" y="3612" width="1853" height="1789" frameX="-88" frameY="-188" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ras l0001" x="1853" y="1808" width="1853" height="1803" frameX="-88" frameY="-174" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ras l0002" x="3706" y="0" width="1853" height="1803" frameX="-88" frameY="-174" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ras l0003" x="1853" y="0" width="1853" height="1806" frameX="-88" frameY="-171" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ras r0000" x="3706" y="1803" width="1853" height="1792" frameX="-88" frameY="-185" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ras r0001" x="0" y="1808" width="1853" height="1804" frameX="-88" frameY="-173" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ras r0002" x="0" y="0" width="1853" height="1808" frameX="-88" frameY="-169" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ras r0003" x="1853" y="0" width="1853" height="1806" frameX="-88" frameY="-171" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>

@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bill Assets2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bill Full left0000" x="0" y="0" width="628" height="466" frameX="0" frameY="0" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0001" x="638" y="0" width="563" height="437" frameX="-9" frameY="-13" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0002" x="1211" y="0" width="585" height="438" frameX="-9" frameY="-14" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0003" x="1806" y="0" width="580" height="446" frameX="-21" frameY="-13" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0004" x="2396" y="0" width="584" height="438" frameX="-33" frameY="-21" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0005" x="2990" y="0" width="585" height="428" frameX="-41" frameY="-25" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0006" x="3585" y="0" width="585" height="428" frameX="-46" frameY="-25" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0007" x="4180" y="0" width="585" height="430" frameX="-62" frameY="-19" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0008" x="4775" y="0" width="585" height="430" frameX="-66" frameY="-17" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0009" x="5370" y="0" width="585" height="430" frameX="-65" frameY="-17" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0010" x="5965" y="0" width="585" height="430" frameX="-67" frameY="-16" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0011" x="5965" y="0" width="585" height="430" frameX="-67" frameY="-16" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0012" x="6560" y="0" width="585" height="430" frameX="-69" frameY="-15" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0013" x="6560" y="0" width="585" height="430" frameX="-69" frameY="-15" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0014" x="6560" y="0" width="585" height="430" frameX="-69" frameY="-15" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Full left0015" x="6560" y="0" width="585" height="430" frameX="-69" frameY="-15" frameWidth="654" frameHeight="466"/>
+	<SubTexture name="Bill Up Full0000" x="7155" y="0" width="416" height="398" frameX="-7" frameY="-17" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0001" x="7581" y="0" width="437" height="372" frameX="0" frameY="-23" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0002" x="0" y="476" width="408" height="415" frameX="-15" frameY="-13" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0003" x="418" y="476" width="409" height="432" frameX="-15" frameY="0" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0004" x="837" y="476" width="404" height="440" frameX="-20" frameY="-5" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0005" x="1251" y="476" width="401" height="438" frameX="-23" frameY="-20" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0006" x="1662" y="476" width="397" height="447" frameX="-27" frameY="-23" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0007" x="2069" y="476" width="396" height="446" frameX="-28" frameY="-27" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0008" x="2475" y="476" width="396" height="450" frameX="-28" frameY="-27" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0009" x="2881" y="476" width="396" height="449" frameX="-28" frameY="-31" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0010" x="3287" y="476" width="396" height="449" frameX="-28" frameY="-31" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0011" x="3693" y="476" width="394" height="447" frameX="-30" frameY="-33" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0012" x="4097" y="476" width="394" height="447" frameX="-30" frameY="-32" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0013" x="4097" y="476" width="394" height="447" frameX="-30" frameY="-32" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0014" x="4097" y="476" width="394" height="447" frameX="-30" frameY="-32" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Bill Up Full0015" x="4097" y="476" width="394" height="447" frameX="-30" frameY="-32" frameWidth="437" frameHeight="480"/>
+	<SubTexture name="Full Bill Down0000" x="4501" y="476" width="510" height="440" frameX="0" frameY="-5" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0001" x="5021" y="476" width="491" height="405" frameX="-23" frameY="-44" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0002" x="5522" y="476" width="484" height="413" frameX="-27" frameY="-34" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0003" x="6016" y="476" width="467" height="416" frameX="-33" frameY="-30" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0004" x="6493" y="476" width="458" height="418" frameX="-34" frameY="-22" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0005" x="6961" y="476" width="449" height="426" frameX="-32" frameY="-15" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0006" x="7420" y="476" width="450" height="426" frameX="-29" frameY="-9" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0007" x="0" y="936" width="454" height="426" frameX="-22" frameY="-3" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0008" x="464" y="936" width="455" height="424" frameX="-20" frameY="-2" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0009" x="929" y="936" width="455" height="425" frameX="-20" frameY="-1" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0010" x="1394" y="936" width="456" height="425" frameX="-19" frameY="0" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0011" x="1394" y="936" width="456" height="425" frameX="-19" frameY="0" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0012" x="1394" y="936" width="456" height="425" frameX="-19" frameY="0" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0013" x="1394" y="936" width="456" height="425" frameX="-19" frameY="0" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0014" x="1394" y="936" width="456" height="425" frameX="-19" frameY="0" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Down0015" x="1394" y="936" width="456" height="425" frameX="-19" frameY="0" frameWidth="514" frameHeight="449"/>
+	<SubTexture name="Full Bill Phase 2 Idle0000" x="1860" y="936" width="437" height="425" frameX="-9" frameY="-10" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0001" x="2307" y="936" width="440" height="424" frameX="-11" frameY="-13" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0002" x="2757" y="936" width="451" height="424" frameX="-11" frameY="-13" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0003" x="3218" y="936" width="452" height="423" frameX="-9" frameY="-12" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0004" x="3680" y="936" width="439" height="424" frameX="-4" frameY="-9" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0005" x="4129" y="936" width="439" height="425" frameX="-2" frameY="-7" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0006" x="4578" y="936" width="434" height="428" frameX="-1" frameY="-4" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0007" x="5022" y="936" width="418" height="428" frameX="-1" frameY="-3" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0008" x="5450" y="936" width="417" height="428" frameX="0" frameY="-1" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0009" x="5877" y="936" width="411" height="428" frameX="0" frameY="0" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0010" x="6298" y="936" width="412" height="428" frameX="0" frameY="0" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0011" x="6720" y="936" width="416" height="428" frameX="0" frameY="0" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Phase 2 Idle0012" x="7146" y="936" width="414" height="426" frameX="-4" frameY="-7" frameWidth="462" frameHeight="437"/>
+	<SubTexture name="Full Bill Right0000" x="7570" y="936" width="546" height="408" frameX="-2" frameY="-18" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0001" x="0" y="1374" width="523" height="406" frameX="-9" frameY="-15" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0002" x="533" y="1374" width="517" height="424" frameX="-10" frameY="-6" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0003" x="1060" y="1374" width="517" height="424" frameX="-12" frameY="-6" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0004" x="1587" y="1374" width="508" height="429" frameX="-25" frameY="-3" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0005" x="2105" y="1374" width="495" height="436" frameX="-28" frameY="0" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0006" x="2610" y="1374" width="480" height="441" frameX="-30" frameY="-1" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0007" x="3100" y="1374" width="499" height="436" frameX="-11" frameY="-8" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0008" x="3609" y="1374" width="506" height="431" frameX="-3" frameY="-6" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0009" x="4125" y="1374" width="506" height="431" frameX="-2" frameY="-4" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0010" x="4641" y="1374" width="506" height="431" frameX="-2" frameY="-4" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0011" x="5157" y="1374" width="507" height="432" frameX="0" frameY="-2" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0012" x="5157" y="1374" width="507" height="432" frameX="0" frameY="-2" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0013" x="5157" y="1374" width="507" height="432" frameX="0" frameY="-2" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0014" x="5157" y="1374" width="507" height="432" frameX="0" frameY="-2" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Full Bill Right0015" x="5157" y="1374" width="507" height="432" frameX="0" frameY="-2" frameWidth="548" frameHeight="444"/>
+	<SubTexture name="Pull +0000" x="5674" y="1374" width="332" height="386" frameX="-3" frameY="-47" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0001" x="6016" y="1374" width="337" height="379" frameX="0" frameY="-51" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0002" x="6363" y="1374" width="337" height="379" frameX="0" frameY="-51" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0003" x="6710" y="1374" width="303" height="441" frameX="-18" frameY="0" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0004" x="7023" y="1374" width="319" height="428" frameX="-12" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0005" x="7352" y="1374" width="324" height="423" frameX="-2" frameY="-15" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0006" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0007" x="0" y="1825" width="330" height="428" frameX="-1" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0008" x="340" y="1825" width="330" height="428" frameX="-1" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0009" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0010" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0011" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0012" x="1021" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0013" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0014" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0015" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0016" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0017" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0018" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0019" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0020" x="1021" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0021" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0022" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0023" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0024" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0025" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0026" x="1362" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0027" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0028" x="1021" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0029" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0030" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0031" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0032" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0033" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0034" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0035" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0036" x="1703" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0037" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0038" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0039" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0040" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0041" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0042" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0043" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0044" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0045" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0046" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0047" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0048" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0049" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0050" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0051" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0052" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0053" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0054" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0055" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0056" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull +0057" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0000" x="2044" y="1825" width="332" height="386" frameX="-3" frameY="-47" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0001" x="2386" y="1825" width="337" height="379" frameX="0" frameY="-51" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0002" x="2733" y="1825" width="337" height="379" frameX="0" frameY="-51" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0003" x="3080" y="1825" width="303" height="441" frameX="-18" frameY="0" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0004" x="3393" y="1825" width="319" height="428" frameX="-12" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0005" x="3722" y="1825" width="324" height="423" frameX="-2" frameY="-15" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0006" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0007" x="0" y="1825" width="330" height="428" frameX="-1" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0008" x="340" y="1825" width="330" height="428" frameX="-1" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0009" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0010" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0011" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0012" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0013" x="1021" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0014" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0015" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0016" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0017" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0018" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0019" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0020" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0021" x="1021" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0022" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0023" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0024" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0025" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0026" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0027" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0028" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0029" x="1021" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0030" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0031" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0032" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0033" x="680" y="1825" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0034" x="7686" y="1374" width="331" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0035" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0036" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0037" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0038" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0039" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0040" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0041" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0042" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0043" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0044" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0045" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0046" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0047" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0048" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0049" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0050" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0051" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0052" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0053" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0054" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0055" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0056" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="Pull X0057" x="0" y="1825" width="330" height="428" frameX="0" frameY="-12" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0000" x="4056" y="1825" width="57" height="58" frameX="-196" frameY="-356" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0001" x="4123" y="1825" width="85" height="81" frameX="-188" frameY="-342" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0002" x="4218" y="1825" width="464" height="563" frameX="-4" frameY="-3" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0003" x="4692" y="1825" width="472" height="567"/>
+	<SubTexture name="SpawnPull +0004" x="5174" y="1825" width="417" height="426" frameX="-17" frameY="-122" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0005" x="5601" y="1825" width="435" height="340" frameX="-8" frameY="-179" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0006" x="6046" y="1825" width="359" height="428" frameX="-46" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0007" x="6415" y="1825" width="338" height="429" frameX="-66" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0008" x="6763" y="1825" width="338" height="429" frameX="-66" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0009" x="7111" y="1825" width="330" height="428" frameX="-70" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0010" x="7451" y="1825" width="330" height="428" frameX="-70" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0011" x="7791" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0012" x="0" y="2402" width="331" height="428" frameX="-69" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull +0013" x="1021" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0014" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0015" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0016" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0017" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0018" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0019" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0020" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0021" x="1021" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0022" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0023" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0024" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0025" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0026" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0027" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0028" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0029" x="1021" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0030" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0031" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0032" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0033" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0034" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0035" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0036" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0037" x="1021" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0038" x="1703" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0039" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0040" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0041" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0042" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0043" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0044" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0045" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0046" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0047" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0048" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0049" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0050" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0051" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0052" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0053" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0054" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0055" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0056" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0057" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0058" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull +0059" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0000" x="4056" y="1825" width="57" height="58" frameX="-196" frameY="-356" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0001" x="4123" y="1825" width="85" height="81" frameX="-188" frameY="-342" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0002" x="4218" y="1825" width="464" height="563" frameX="-4" frameY="-3" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0003" x="4692" y="1825" width="472" height="567"/>
+	<SubTexture name="SpawnPull X0004" x="5174" y="1825" width="417" height="426" frameX="-17" frameY="-122" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0005" x="5601" y="1825" width="435" height="340" frameX="-8" frameY="-179" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0006" x="6046" y="1825" width="359" height="428" frameX="-46" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0007" x="6415" y="1825" width="338" height="429" frameX="-66" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0008" x="341" y="2402" width="338" height="429" frameX="-66" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0009" x="689" y="2402" width="330" height="428" frameX="-70" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0010" x="1029" y="2402" width="330" height="428" frameX="-70" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0011" x="7791" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0012" x="1369" y="2402" width="331" height="428" frameX="-69" frameY="-121" frameWidth="472" frameHeight="567"/>
+	<SubTexture name="SpawnPull X0013" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0014" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0015" x="1021" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0016" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0017" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0018" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0019" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0020" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0021" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0022" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0023" x="1021" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0024" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0025" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0026" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0027" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0028" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0029" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0030" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0031" x="1021" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0032" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0033" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0034" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0035" x="680" y="1825" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0036" x="7686" y="1374" width="331" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0037" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0038" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0039" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0040" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0041" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0042" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0043" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0044" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0045" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0046" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0047" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0048" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0049" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0050" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0051" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0052" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0053" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0054" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0055" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0056" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0057" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0058" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+	<SubTexture name="SpawnPull X0059" x="0" y="1825" width="330" height="428" frameX="-69" frameY="-121" frameWidth="337" frameHeight="441"/>
+</TextureAtlas>

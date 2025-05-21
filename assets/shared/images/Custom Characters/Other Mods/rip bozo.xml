@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rip bozo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="among0000" x="0" y="0" width="1993" height="1009"/>
+	<SubTexture name="among0001" x="1993" y="0" width="1993" height="1009"/>
+	<SubTexture name="among0002" x="0" y="1009" width="1993" height="1009"/>
+	<SubTexture name="among0003" x="1993" y="1009" width="1924" height="1009" frameX="-69" frameY="0" frameWidth="1993" frameHeight="1009"/>
+	<SubTexture name="among0004" x="0" y="2018" width="1924" height="1009" frameX="-69" frameY="0" frameWidth="1993" frameHeight="1009"/>
+	<SubTexture name="among0005" x="1924" y="2018" width="1924" height="1009" frameX="-69" frameY="0" frameWidth="1993" frameHeight="1009"/>
+	<SubTexture name="among0006" x="0" y="3027" width="1924" height="1009" frameX="-69" frameY="0" frameWidth="1993" frameHeight="1009"/>
+</TextureAtlas>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ssarv.png"><SubTexture name="ssarv i0000" x="0" y="3217" width="773" height="1569" frameX="-480" frameY="-398" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv i0001" x="0" y="1635" width="757" height="1582" frameX="-496" frameY="-385" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv i0002" x="3427" y="0" width="747" height="1579" frameX="-515" frameY="-388" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv i0003" x="4174" y="0" width="741" height="1571" frameX="-533" frameY="-396" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv i0004" x="3427" y="1579" width="735" height="1574" frameX="-543" frameY="-393" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv d0000" x="1844" y="4786" width="923" height="1354" frameX="-432" frameY="-627" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv d0001" x="0" y="4786" width="920" height="1375" frameX="-435" frameY="-606" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv d0002" x="920" y="4786" width="924" height="1375" frameX="-431" frameY="-606" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv d0003" x="5899" y="2867" width="914" height="1367" frameX="-441" frameY="-614" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv d0004" x="5899" y="1495" width="910" height="1372" frameX="-445" frameY="-609" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv h0000" x="757" y="1635" width="708" height="1581" frameX="-542" frameY="-393" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv h0001" x="1465" y="1635" width="707" height="1581" frameX="-543" frameY="-393" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv h0002" x="2172" y="1635" width="709" height="1581" frameX="-543" frameY="-393" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv l0000" x="4915" y="0" width="984" height="1508" frameX="-313" frameY="-467" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv l0001" x="4915" y="1508" width="963" height="1505" frameX="-324" frameY="-470" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv l0002" x="5899" y="0" width="914" height="1495" frameX="-333" frameY="-480" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv l0003" x="4915" y="3013" width="911" height="1501" frameX="-336" frameY="-474" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv r0000" x="1591" y="3217" width="835" height="1556" frameX="-519" frameY="-422" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv r0001" x="773" y="3217" width="818" height="1560" frameX="-538" frameY="-418" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv r0002" x="2426" y="3217" width="801" height="1555" frameX="-560" frameY="-423" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv r0003" x="3227" y="3217" width="791" height="1552" frameX="-577" frameY="-426" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv u0000" x="0" y="0" width="878" height="1635" frameX="-447" frameY="-342" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv u0001" x="878" y="0" width="854" height="1623" frameX="-471" frameY="-354" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv u0002" x="2577" y="0" width="850" height="1606" frameX="-475" frameY="-371" frameWidth="2000" frameHeight="2000" />
+<SubTexture name="ssarv u0003" x="1732" y="0" width="845" height="1611" frameX="-480" frameY="-366" frameWidth="2000" frameHeight="2000" />
+</TextureAtlas>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ChocloAssets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ChocloDown0000" x="0" y="0" width="624" height="786" pivotX="0" pivotY="0" frameX="-22" frameY="-22" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0001" x="0" y="0" width="624" height="786" frameX="-22" frameY="-22" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0002" x="624" y="0" width="623" height="794" frameX="-20" frameY="-14" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0003" x="624" y="0" width="623" height="794" frameX="-20" frameY="-14" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0004" x="1247" y="0" width="645" height="794" frameX="-5" frameY="-15" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0005" x="1247" y="0" width="645" height="794" frameX="-5" frameY="-15" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0006" x="1892" y="0" width="652" height="798" frameX="0" frameY="-11" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0007" x="1892" y="0" width="652" height="798" frameX="0" frameY="-11" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0008" x="2544" y="0" width="639" height="804" frameX="-10" frameY="-4" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0009" x="2544" y="0" width="639" height="804" frameX="-10" frameY="-4" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0010" x="3183" y="0" width="630" height="807" frameX="-16" frameY="-1" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0011" x="3183" y="0" width="630" height="807" frameX="-16" frameY="-1" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0012" x="3813" y="0" width="628" height="808" frameX="-18" frameY="0" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloDown0013" x="3813" y="0" width="628" height="808" frameX="-18" frameY="0" frameWidth="652" frameHeight="809"/>
+	<SubTexture name="ChocloIdle0000" x="4441" y="0" width="586" height="857" pivotX="0" pivotY="0" frameX="-5" frameY="-10" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0001" x="4441" y="0" width="586" height="857" frameX="-5" frameY="-10" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0002" x="5027" y="0" width="588" height="866" frameX="-4" frameY="-1" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0003" x="5027" y="0" width="588" height="866" frameX="-4" frameY="-1" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0004" x="5615" y="0" width="598" height="867" frameX="-1" frameY="0" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0005" x="5615" y="0" width="598" height="867" frameX="-1" frameY="0" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0006" x="6213" y="0" width="602" height="867"/>
+	<SubTexture name="ChocloIdle0007" x="6213" y="0" width="602" height="867"/>
+	<SubTexture name="ChocloIdle0008" x="6815" y="0" width="597" height="867" frameX="-1" frameY="0" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0009" x="6815" y="0" width="597" height="867" frameX="-1" frameY="0" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0010" x="7412" y="0" width="593" height="865" frameX="-2" frameY="-2" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0011" x="7412" y="0" width="593" height="865" frameX="-2" frameY="-2" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0012" x="0" y="867" width="585" height="858" frameX="-6" frameY="-9" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloIdle0013" x="0" y="867" width="585" height="858" frameX="-6" frameY="-9" frameWidth="602" frameHeight="867"/>
+	<SubTexture name="ChocloLeft0000" x="585" y="867" width="641" height="865" pivotX="59.3" pivotY="1.6" frameX="-15" frameY="-3" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0001" x="585" y="867" width="641" height="865" frameX="-15" frameY="-3" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0002" x="1226" y="867" width="652" height="868" frameX="-4" frameY="0" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0003" x="1226" y="867" width="652" height="868" frameX="-4" frameY="0" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0004" x="1878" y="867" width="673" height="861" frameX="0" frameY="-7" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0005" x="1878" y="867" width="673" height="861" frameX="0" frameY="-7" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0006" x="2551" y="867" width="660" height="854" frameX="-16" frameY="-14" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0007" x="2551" y="867" width="660" height="854" frameX="-16" frameY="-14" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0008" x="3211" y="867" width="650" height="854" frameX="-25" frameY="-14" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0009" x="3211" y="867" width="650" height="854" frameX="-25" frameY="-14" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0010" x="3861" y="867" width="643" height="858" frameX="-30" frameY="-10" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0011" x="3861" y="867" width="643" height="858" frameX="-30" frameY="-10" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0012" x="4504" y="867" width="640" height="859" frameX="-32" frameY="-9" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloLeft0013" x="4504" y="867" width="640" height="859" frameX="-32" frameY="-9" frameWidth="676" frameHeight="868"/>
+	<SubTexture name="ChocloRight0000" x="5144" y="867" width="653" height="837" pivotX="0" pivotY="0" frameX="-10" frameY="-43" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0001" x="5144" y="867" width="653" height="837" frameX="-10" frameY="-43" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0002" x="5797" y="867" width="654" height="844" frameX="-11" frameY="-36" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0003" x="5797" y="867" width="654" height="844" frameX="-11" frameY="-36" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0004" x="6451" y="867" width="661" height="854" frameX="-1" frameY="-26" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0005" x="6451" y="867" width="661" height="854" frameX="-1" frameY="-26" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0006" x="7112" y="867" width="657" height="866" frameX="0" frameY="-14" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0007" x="7112" y="867" width="657" height="866" frameX="0" frameY="-14" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0008" x="0" y="1735" width="649" height="874" frameX="-4" frameY="-6" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0009" x="0" y="1735" width="649" height="874" frameX="-4" frameY="-6" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0010" x="649" y="1735" width="642" height="878" frameX="-9" frameY="-2" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0011" x="649" y="1735" width="642" height="878" frameX="-9" frameY="-2" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0012" x="1291" y="1735" width="639" height="880" frameX="-11" frameY="0" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloRight0013" x="1291" y="1735" width="639" height="880" frameX="-11" frameY="0" frameWidth="665" frameHeight="880"/>
+	<SubTexture name="ChocloUp0000" x="1930" y="1735" width="643" height="889" pivotX="0" pivotY="0" frameX="-26" frameY="0" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0001" x="1930" y="1735" width="643" height="889" frameX="-26" frameY="0" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0002" x="2573" y="1735" width="654" height="888" frameX="-16" frameY="-1" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0003" x="2573" y="1735" width="654" height="888" frameX="-16" frameY="-1" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0004" x="3227" y="1735" width="667" height="872" frameX="-4" frameY="-17" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0005" x="3227" y="1735" width="667" height="872" frameX="-4" frameY="-17" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0006" x="3894" y="1735" width="669" height="865" frameX="0" frameY="-24" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0007" x="3894" y="1735" width="669" height="865" frameX="0" frameY="-24" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0008" x="4563" y="1735" width="653" height="861" frameX="-13" frameY="-28" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0009" x="4563" y="1735" width="653" height="861" frameX="-13" frameY="-28" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0010" x="5216" y="1735" width="653" height="860" frameX="-19" frameY="-29" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0011" x="5216" y="1735" width="653" height="860" frameX="-19" frameY="-29" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0012" x="5869" y="1735" width="654" height="859" frameX="-21" frameY="-30" frameWidth="675" frameHeight="889"/>
+	<SubTexture name="ChocloUp0013" x="5869" y="1735" width="654" height="859" frameX="-21" frameY="-30" frameWidth="675" frameHeight="889"/>
+</TextureAtlas>
